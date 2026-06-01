@@ -1,0 +1,10 @@
+{
+  "id": "lihua-cat-coder",
+  "displayName": "\u72f8\u82b1\u732b Coder",
+  "description": "A soft tabby cat coding companion.",
+  "spritesheetPath": "spritesheet.png",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "columns": 8,
+  "rows": 9
+}

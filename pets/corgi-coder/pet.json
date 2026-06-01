@@ -1,0 +1,10 @@
+{
+  "id": "corgi-coder",
+  "displayName": "Corgi Coder",
+  "description": "A cheerful cat-style corgi coding companion with big ears and tiny paws.",
+  "spritesheetPath": "spritesheet.png",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "columns": 8,
+  "rows": 9
+}

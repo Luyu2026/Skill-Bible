@@ -1,0 +1,8 @@
+interface:
+  display_name: "Codex Pet Maker"
+  short_description: "Create and repair Codex desktop pets"
+  default_prompt: "Use $codex-pet-maker to create a Codex custom pet from my reference image."
+  brand_color: "#F97316"
+
+policy:
+  allow_implicit_invocation: true

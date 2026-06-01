@@ -1,0 +1,10 @@
+{
+  "id": "\u9646\u7fbd-coder",
+  "displayName": "\u9646\u7fbd Coder",
+  "description": "A calm black-shirted coding companion.",
+  "spritesheetPath": "spritesheet.png",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "columns": 8,
+  "rows": 9
+}

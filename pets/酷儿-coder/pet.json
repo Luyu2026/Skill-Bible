@@ -1,0 +1,10 @@
+{
+  "id": "\u9177\u513f-coder",
+  "displayName": "\u9177\u513f",
+  "description": "A cheerful blue cartoon mascot coding companion.",
+  "spritesheetPath": "spritesheet.png",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "columns": 8,
+  "rows": 9
+}

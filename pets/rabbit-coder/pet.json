@@ -1,0 +1,10 @@
+{
+  "id": "rabbit-coder",
+  "displayName": "Rabbit Coder",
+  "description": "A fluffy white rabbit coding companion.",
+  "spritesheetPath": "spritesheet.png",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "columns": 8,
+  "rows": 9
+}
