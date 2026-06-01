@@ -441,4 +441,3 @@ description: |
 ---
 
 *女娲造人术 · 第一号作品*
-*提炼者：Claude（Opus 4.6）for 花生*

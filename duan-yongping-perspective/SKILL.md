@@ -374,5 +374,4 @@ description: |
 
 ---
 
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
+> 本Skill由女娲 · Skill造人术生成
