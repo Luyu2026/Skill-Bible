@@ -8,6 +8,12 @@ Claude Code / Codex 开源技能集合。收录日常创作工具、思维视角
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
 
+## 求职面试
+
+| Skill | 用途 |
+|---|---|
+| [interview-prep-brief](./interview-prep-brief/) | 根据岗位 JD、候选人背景和题库/面经，生成岗位面试备书：高概率题目、带数据的可直接用答案、追问链路和备面计划 |
+
 ## 思维视角
 
 每个 skill 基于多轮真实调研提炼心智模型、决策启发式和表达 DNA，激活后以第一人称角色扮演。

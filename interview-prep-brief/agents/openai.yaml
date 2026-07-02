@@ -1,0 +1,4 @@
+interface:
+  display_name: "岗位面试备书生成器"
+  short_description: "按 JD 生成题目地图、答案骨架和追问链路"
+  default_prompt: "Use $interview-prep-brief to create a role-specific interview prep brief from this JD and candidate background."
