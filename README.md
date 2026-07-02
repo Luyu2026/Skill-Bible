@@ -12,7 +12,7 @@ Claude Code / Codex 开源技能集合。收录日常创作工具、思维视角
 
 | Skill | 用途 |
 |---|---|
-| [interview-prep-brief](./interview-prep-brief/) | 根据岗位 JD、候选人背景和题库/面经，生成岗位面试备书：高概率题目、带数据的可直接用答案、追问链路和备面计划；支持飞书文档，也可无飞书生成本地 Markdown |
+| [interview-prep-brief](./interview-prep-brief/) | 根据岗位 JD、候选人背景和题库/面经，生成岗位面试备书：高概率题目、带数据的可直接用答案、追问链路和备面计划；本地材料不足时可参考外部项目机制优化拆解，支持飞书文档或本地 Markdown |
 
 ## 思维视角
 
