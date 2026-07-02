@@ -12,7 +12,7 @@ Claude Code / Codex 开源技能集合。收录日常创作工具、思维视角
 
 | Skill | 用途 |
 |---|---|
-| [interview-prep-brief](./interview-prep-brief/) | 根据岗位 JD、候选人背景和题库/面经，生成岗位面试备书：高概率题目、带数据的可直接用答案、追问链路和备面计划 |
+| [interview-prep-brief](./interview-prep-brief/) | 根据岗位 JD、候选人背景和题库/面经，生成岗位面试备书：高概率题目、带数据的可直接用答案、追问链路和备面计划；支持飞书文档，也可无飞书生成本地 Markdown |
 
 ## 思维视角
 
@@ -42,3 +42,5 @@ Claude Code / Codex 开源技能集合。收录日常创作工具、思维视角
 # 克隆所有 skill 到本地
 git clone https://github.com/Luyu2026/Skill-Bible.git
 ```
+
+如果你没有配置飞书 CLI，也可以正常使用需要文档输出的 skill；对应 skill 会优先生成本地 Markdown，不会因为飞书权限卡住。
