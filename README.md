@@ -1,6 +1,6 @@
 # Skill Bible
 
-Claude Code / Codex 开源技能集合。收录日常创作工具、思维视角角色、编程辅助等 skill。
+Claude Code / Codex / Workbuddy 开源技能集合。收录日常创作工具、思维视角角色、编程辅助等 skill。
 
 ## 内容创作
 
