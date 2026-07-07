@@ -13,6 +13,7 @@ Claude Code / Codex 开源技能集合。收录日常创作工具、思维视角
 | Skill | 用途 |
 |---|---|
 | [interview-prep-brief](./interview-prep-brief/) | 根据岗位 JD、候选人背景和题库/面经，生成岗位面试备书：高概率题目、带数据的可直接用答案、追问链路和备面计划；本地材料不足时可参考外部项目机制优化拆解，支持飞书文档或本地 Markdown |
+| [resume-jd-tailor](./resume-jd-tailor/) | 根据目标岗位 JD 和原始经历生成岗位定制简历改写：匹配度判断、JD 关键词覆盖、经历挖掘、可投递 bullet、数据缺口和面试追问提示；支持参考简历知识库，飞书不可用时输出本地 Markdown |
 
 ## 思维视角
 
