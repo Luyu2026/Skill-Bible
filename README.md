@@ -1,6 +1,7 @@
 # Skill Bible
 
-Claude Code / Codex / Workbuddy 等AI智能体开源技能集合。收录日常创作工具、思维视角角色、编程辅助等 skill。
+Claude Code / Codex / Workbuddy / OpenClaw / Hermes Agent / CodeBuddy / Workbuddy / Gemini CLI / OpenCode/
+等AI智能体开源技能集合。收录日常创作工具、思维视角角色、编程辅助等 skill。
 
 ## 内容创作
 
