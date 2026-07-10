@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试追问训练"
+  short_description: "围绕同一项目构建连续深挖题库并提供可直接开口的完整回答"
+  default_prompt: "Use $interview-followup-drill to turn my JD and project into a follow-up interview drill with direct-use answers."
