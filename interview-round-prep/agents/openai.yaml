@@ -1,0 +1,4 @@
+interface:
+  display_name: "多轮面试通关准备"
+  short_description: "按一面二面终面HR面生成题库与直接可用答案"
+  default_prompt: "Use $interview-round-prep to turn this JD and candidate background into a round-by-round interview prep pack."
