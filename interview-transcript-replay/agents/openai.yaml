@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试录音复盘"
+  short_description: "从面试录音转写提炼问题并生成下次可用答案"
+  default_prompt: "Use $interview-transcript-replay to extract interview questions from this transcript and create next-time-ready answers."
