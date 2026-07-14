@@ -1,7 +1,12 @@
-Claude Code / Codex / Workbuddy / OpenClaw / Hermes Agent / CodeBuddy / Workbuddy / Gemini CLI / OpenCode/ 等AI智能体开源技能集
-合。收录了日常创作工具、思维视角角、编程辅助等技能。
+# Skill Bible
 
-Skill使用分享视频可在 抖音/小红书/公众号 搜索 陆羽 即可看到。
+`agent-skills`
+
+Claude Code / Codex / Workbuddy / OpenClaw / Hermes Agent / CodeBuddy / Gemini CLI / OpenCode 等 AI 智能体开源技能集合。
+
+收录日常创作工具、求职面试工作流、思维视角角色、编程辅助等 Skill。
+
+Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆羽** 查看。
 
 ## 内容创作
 
