@@ -1,14 +1,20 @@
+<div align="center">
+
 # Skill Bible
 
-Claude Code / Codex / Workbuddy / OpenClaw / Hermes Agent / CodeBuddy / Workbuddy / Gemini CLI / OpenCode/
-等AI智能体开源技能集合。收录日常创作工具、思维视角角色、编程辅助等 skill。
+`agent-skills`
 
-## 关注更新
+「把可复用的工作流、判断框架和实战经验，沉淀成能被 Agent 调用的 Skill」
 
-我主要在小红书 / 抖音 / 公众号更新 Skill 使用案例、工作流拆解和新 Skill 发布说明。
+**Claude Code · Codex · Workbuddy · OpenClaw · Hermes Agent · CodeBuddy · Gemini CLI · OpenCode**
 
-- GitHub 仓库：<https://github.com/Luyu2026/Skill-Bible>
-- 社媒账号：陆羽
+我主要在 **小红书 / 抖音 / 公众号** 更新 Skill 使用案例、工作流拆解和新 Skill 发布说明。
+
+**社媒账号：陆羽**
+
+</div>
+
+Skill Bible 是一套 AI 智能体开源技能集合，收录日常创作工具、求职面试工作流、思维视角角色、编程辅助等 Skill。
 
 ## 内容创作
 
