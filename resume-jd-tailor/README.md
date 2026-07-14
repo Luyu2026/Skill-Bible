@@ -84,3 +84,8 @@ JD：
 ```text
 JD + 原始经历 -> resume-jd-tailor -> 定制简历 -> interview-prep-brief -> 面试备书
 ```
+
+---
+
+更多 Skill 使用案例和更新：小红书 / 抖音 / 公众号：陆羽  
+GitHub: https://github.com/Luyu2026/Skill-Bible

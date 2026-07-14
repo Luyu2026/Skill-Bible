@@ -110,3 +110,8 @@ JD：
 ## 适合谁
 
 - 校招/社招求职者：面对陌生岗位，快速形成备面材料。
+
+---
+
+更多 Skill 使用案例和更新：小红书 / 抖音 / 公众号：陆羽  
+GitHub: https://github.com/Luyu2026/Skill-Bible

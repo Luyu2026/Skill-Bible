@@ -3,6 +3,13 @@
 Claude Code / Codex / Workbuddy / OpenClaw / Hermes Agent / CodeBuddy / Workbuddy / Gemini CLI / OpenCode/
 等AI智能体开源技能集合。收录日常创作工具、思维视角角色、编程辅助等 skill。
 
+## 关注更新
+
+我主要在小红书 / 抖音 / 公众号更新 Skill 使用案例、工作流拆解和新 Skill 发布说明。
+
+- GitHub 仓库：<https://github.com/Luyu2026/Skill-Bible>
+- 社媒账号：陆羽
+
 ## 内容创作
 
 | Skill | 用途 |
