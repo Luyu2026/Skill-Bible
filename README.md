@@ -8,9 +8,7 @@
 
 **Claude Code · Codex · Workbuddy · OpenClaw · Hermes Agent · CodeBuddy · Gemini CLI · OpenCode**
 
-我主要在 **小红书 / 抖音 / 公众号** 更新 Skill 使用案例、工作流拆解和新 Skill 发布说明。
-
-**社媒账号：陆羽**
+**小红书 / 抖音 / 公众号** ：陆羽
 
 </div>
 
