@@ -2,8 +2,6 @@
 
 # Skill Bible
 
-`agent-skills`
-
 「把可复用的工作流、判断框架和实战经验，沉淀成能被 Agent 调用的 Skill」
 
 **Claude Code · Codex · Workbuddy · OpenClaw · Hermes Agent · CodeBuddy · Gemini CLI · OpenCode**
