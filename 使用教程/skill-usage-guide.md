@@ -1,10 +1,8 @@
 # Skill 使用教程
 
-本文为markdown格式的skill使用教程；如需查看演示视频与详细内容见：https://gte09oerz5.feishu.cn/docx/UlbidJbmVoGfI7xRgawcy1Mmnhb
+本文为 Markdown 版使用教程。想看飞书原版的完整流程图与演示，请查看：[从零开始使用 Skill（飞书版）](https://gte09oerz5.feishu.cn/docx/UlbidJbmVoGfI7xRgawcy1Mmnhb)。
 
 这是一份给第一次接触 Agent Skill 的用户的上手指南。你不需要先会写代码，也不需要先理解文件路径；先选一个你真实要解决的问题，把对应的 Skill 链接和材料交给 Agent 就够了。
-
-本文为 Markdown 版使用教程。想看飞书原版的完整流程图与演示，请查看：[从零开始使用 Skill（飞书版）](https://gte09oerz5.feishu.cn/docx/UlbidJbmVoGfI7xRgawcy1Mmnhb)。
 
 ## 1. Skill 到底是什么
 
