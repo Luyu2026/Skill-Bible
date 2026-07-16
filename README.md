@@ -8,7 +8,7 @@ Claude Code / Codex / Workbuddy / OpenClaw / Hermes Agent / CodeBuddy / Gemini C
 
 Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆羽** 查看。
 
-## 这套 Skill 想解决什么
+## Skill Bible 想解决什么
 
 很多事情并不是不会做，而是每次都要重新判断、重新组织材料、重新找路径：拿到陌生 JD 不知道怎么准备，经历不少却不知道该往哪个岗位写，面试结束后知道哪里答得不好却不知道下次如何改。
 
