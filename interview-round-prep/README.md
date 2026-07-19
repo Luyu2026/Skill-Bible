@@ -18,6 +18,14 @@
 
 它默认优先使用用户提供的 JD、简历、项目经历、题库/面经，以及 `interview-prep-brief` 已经生成的面试备书。
 
+同时，Skill 会优先参考《大厂面试真题解析》：
+
+https://gte09oerz5.feishu.cn/wiki/E5UxwObpMiwyfVk6j0BcsMS7nGc
+
+能访问时，它会按公司、岗位和岗位族检索相关章节，提取题型、答题思路、追问方式和岗位考察点，再重新编排到一面、二面、终面和 HR 面。它不会把题库里的题机械复制成整份答案，也不会把 JD 推演题包装成真题。
+
+没有权限或无法访问这份题库时，Skill 会自动使用 JD、简历、已有备书和同类岗位迁移继续生成；你也可以直接提供自己的面经、飞书文档、Notion、Markdown 或截图。
+
 如果材料不足以支撑高质量拆解，或者用户明确要求进一步调研，Skill 可以参考 GitHub 上的 mock interview / interview prep / question generator / interview coach 项目。但它参考的不是题目内容，而是产品机制，例如：
 
 - 如何按岗位和 JD 生成问题。
