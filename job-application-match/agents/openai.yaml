@@ -1,0 +1,4 @@
+interface:
+  display_name: "投递匹配"
+  short_description: "根据校招或社招岗位信息筛选机会，并直接生成岗位版简历经历"
+  default_prompt: "使用 $job-application-match，根据我的真实经历和岗位来源筛选值得投递的机会，并生成可直接复制的岗位版简历经历。"
