@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职全流程总控"
+  short_description: "按当前求职事件调度选岗、简历与面试能力"
+  default_prompt: "使用 $job-search-pilot 判断我此刻最需要解决的求职问题，并直接给我对应结果。"
