@@ -1,0 +1,4 @@
+interface:
+  display_name: "人生奥德赛计划"
+  short_description: "推演可信人生路径，并设计可逆的九十天实验"
+  default_prompt: "Use $life-odyssey-planner to map my current constraints, simulate three plausible life paths, and choose one reversible 90-day experiment."

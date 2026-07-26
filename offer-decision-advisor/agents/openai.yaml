@@ -1,0 +1,6 @@
+interface:
+  display_name: "Offer 选择顾问"
+  short_description: "把多份 Offer 比成可解释、可核实的真实选择。"
+  default_prompt: "Use $offer-decision-advisor to compare my offers and identify the facts that should decide my choice."
+policy:
+  allow_implicit_invocation: true
