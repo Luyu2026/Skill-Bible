@@ -1,0 +1,4 @@
+interface:
+  display_name: "1、2、5 年路径推演"
+  short_description: "基于可见会话与项目证据，更新长期路径和本周主押注"
+  default_prompt: "使用 $multi-year-path-planner 基于当前会话和你可访问的项目上下文，为我更新一份 1、2、5 年路径推演。先区分事实、推断与待验证假设，再给出唯一主押注。"

@@ -45,6 +45,7 @@ Skill Bible 从真实场景出发，把这些重复但费脑的环节做成可�
 | Skill | 用途 |
 |---|---|
 | [life-odyssey-planner](./life-odyssey-planner/) | 人生奥德赛计划：当你不知道该继续深耕、保留工作探索新方向还是重构路径时，基于真实约束推演三条可信路线，并落到一个可逆的 90 天实验 |
+| [multi-year-path-planner](./multi-year-path-planner/) | 1、2、5 年路径推演：基于 Agent 可见的历史会话和项目材料，区分事实、信号与假设，持续判断长期路径、本周主押注与停止条件 |
 
 ## 思维视角
 
