@@ -6,6 +6,10 @@ body:
     attributes:
       value: |
         感谢贡献。请先说明它解决的真实问题，而不是先介绍技术实现。
+
+        提交信息完整的项目会先成为“社区候选”，不等于已验证或推荐。完成可复现运行测试后才会标为“已验证”；真正解决明确问题、文档和边界清楚、值得优先尝试的项目才可能进入“编辑精选”。
+
+        外部项目默认只收录原始链接，不复制代码；来源、许可证或数据权限不清楚的项目不会进入“已验证”或“编辑精选”。
   - type: input
     id: name
     attributes:
@@ -17,7 +21,7 @@ body:
     id: scenario
     attributes:
       label: 它适合什么场景
-      description: 用户正在发生什么、为什么会卡住、它会推进什么结果？
+      description: 用日常语言写清用户正在发生什么、为什么会卡住、它会推进什么结果。不要先解释 Agent、Prompt 或技术架构。
       placeholder: 你正在……，但……。它会……
     validations:
       required: true
@@ -61,7 +65,7 @@ body:
     id: evidence
     attributes:
       label: 一个真实案例
-      description: 写清输入、Skill 做了什么、输出如何判断有效。
+      description: 写清输入、Skill 做了什么、输出如何判断有效。其他人应能按说明复现基本过程。
     validations:
       required: true
   - type: textarea
