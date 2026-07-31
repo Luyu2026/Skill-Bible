@@ -23,6 +23,8 @@ It is not a collection for one kind of task. Each Skill starts from a recurring 
 
 When a problem keeps returning and should not require fresh thinking every time, it is worth turning into a Skill. A Skill does not invent your experience or make the final decision for you. It preserves the judgment, workflow, and quality bar so an agent can run it reliably and you can reuse it.
 
+One immediate task can use one Skill. A longer process can let several Skills share the same material and take over in sequence. Job search, for example, can move from role decisions to resumes, interviews, and review.
+
 ---
 
 ## 🗂️ Directory
@@ -36,18 +38,6 @@ When a problem keeps returning and should not require fresh thinking every time,
 | 🧰 [**Development**](#-development) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
-
-## 🧩 One bigger task, several focused Skills
-
-Job search is never one task: decide whether a role is worth applying for, tailor the resume, prepare when an interview arrives, then turn what went wrong into answers you can use next time.
-
-Those steps connect, but they require different depth. One giant Skill usually does every step only well enough. Focus each Skill on one hard part first, then let a controller connect them, and the result becomes more reliable.
-
-The job-search workflow is:
-
-`Job Match → Resume Tailor → Interview Brief → Interview Round Prep → Interview Replay`
-
-You do not need to memorize the names. Tell Job Search Pilot what happened now; it identifies the next step and calls the focused Skill for it.
 
 ## 🤝 Community curation
 
