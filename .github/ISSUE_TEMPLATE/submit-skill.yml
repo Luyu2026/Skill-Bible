@@ -1,0 +1,73 @@
+name: 提交 Skill
+description: 提交原创 Skill 或推荐一个外部项目
+title: "[Skill] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢贡献。请先说明它解决的真实问题，而不是先介绍技术实现。
+  - type: input
+    id: name
+    attributes:
+      label: Skill 名称
+      placeholder: 例如：岗位面试备书
+    validations:
+      required: true
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 它适合什么场景
+      description: 用户正在发生什么、为什么会卡住、它会推进什么结果？
+      placeholder: 你正在……，但……。它会……
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 原始链接
+      placeholder: https://github.com/...
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: 作者或维护者
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: 开源许可证
+      description: 没有许可证请如实填写“未声明”
+    validations:
+      required: true
+  - type: checkboxes
+    id: provenance
+    attributes:
+      label: 来源确认
+      options:
+        - label: 这是我的原创项目，或我已经明确标注原项目与改动。
+          required: true
+        - label: 我确认没有在提交内容中放入私钥、隐私数据或未获授权的材料。
+          required: true
+  - type: textarea
+    id: compatibility
+    attributes:
+      label: 支持的 Agent、安装方式和依赖
+      placeholder: Codex / Claude Code；是否需要 MCP、API Key、特定系统等。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 一个真实案例
+      description: 写清输入、Skill 做了什么、输出如何判断有效。
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: 已知边界与数据权限
+      placeholder: 它不适合什么情况？会读取、上传或修改哪些数据？
+    validations:
+      required: true
