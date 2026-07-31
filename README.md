@@ -31,11 +31,11 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
-| ✍️ [**内容创作**](#-内容创作) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写 |
-| 💼 [**求职面试**](#-求职面试) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 7 个求职 Skill |
-| 🛤️ [**长期规划**](#-长期规划) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
-| 🧠 [**思维视角**](#-思维视角) | 用不同的人物框架补齐一个人看问题的盲区 | 7 位思维视角 |
-| 🧰 [**编程辅助**](#-编程辅助) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
+| ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写 |
+| 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 7 个求职 Skill |
+| 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
+| 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 7 位思维视角 |
+| 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
 
@@ -51,12 +51,14 @@ Skill-Bible 不追求把所有文件搬进来。我们更在意：这个 Skill �
 
 想提交原创 Skill、推荐外部项目或报名做测试，先看[提交入口](./SUBMIT_A_SKILL.md)。原作者保留署名和原始链接；未明确许可的外部项目只做索引，不镜像代码。
 
+<a id="content-creation"></a>
 ## ✍️ 内容创作
 
 | Skill | 用途 |
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
 
+<a id="job-search-and-interviews"></a>
 ## 💼 求职面试
 
 | Skill | 用途 |
@@ -69,12 +71,14 @@ Skill-Bible 不追求把所有文件搬进来。我们更在意：这个 Skill �
 | [resume-jd-tailor](./resume-jd-tailor/) | 根据目标岗位 JD 和原始经历，把“信息很少/写得很薄”的经历改成可直接复制进简历的岗位定制 bullet；输出可切入岗位对比、写法策略、无数据占位版与逻辑自洽示例数据版，支持飞书文档或本地 Markdown |
 | [offer-decision-advisor](./offer-decision-advisor/) | Offer 选择顾问：比较两份及以上 Offer，结合兴趣、行业、岗位、薪资、城市与个人底线，给出可解释的建议、反转条件和入职前核实话术 |
 
+<a id="long-term-planning"></a>
 ## 🛤️ 长期规划
 
 | Skill | 用途 |
 |---|---|
 | [multi-year-path-planner](./multi-year-path-planner/) | 1、2、5 年路径推演：基于 Agent 可见的历史会话和项目材料，区分事实、信号与假设，持续判断长期路径、本周主押注与停止条件 |
 
+<a id="perspectives"></a>
 ## 🧠 思维视角
 
 每个 skill 基于多轮真实调研提炼心智模型、决策启发式和表达 DNA，激活后以第一人称角色扮演。
@@ -89,6 +93,7 @@ Skill-Bible 不追求把所有文件搬进来。我们更在意：这个 Skill �
 | [feynman-perspective](./feynman-perspective/) | 理查德·费曼 | 如果你不能向大一新生解释清楚，说明你自己没真懂。 |
 | [taleb-perspective](./taleb-perspective/) | 纳西姆·塔勒布 | 不要当脆弱的傻瓜。反脆弱的事物从混乱中获益。 |
 
+<a id="development-tools"></a>
 ## 🧰 编程辅助
 
 | Skill | 用途 |

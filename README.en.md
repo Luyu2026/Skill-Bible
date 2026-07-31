@@ -31,11 +31,11 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 
 | Category | What it helps with | Included now |
 |---|---|---|
-| ✍️ [**Content creation**](#-content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion |
-| 💼 [**Job search and interviews**](#-job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 7 job-search Skills |
-| 🛤️ [**Long-term planning**](#-long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
-| 🧠 [**Perspectives**](#-perspectives) | Use distinct thinking frameworks to cover decision blind spots | 7 perspective Skills |
-| 🧰 [**Development**](#-development) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
+| ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion |
+| 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 7 job-search Skills |
+| 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
+| 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 7 perspective Skills |
+| 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
 
@@ -53,12 +53,14 @@ Want to submit an original Skill, recommend an external project, or volunteer as
 
 ## ✨ Skills
 
+<a id="content-creation"></a>
 ### ✍️ Content creation
 
 | Skill | What it helps with |
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | Turn a rough idea into a structured short-video script, edit version, quotes, and titles |
 
+<a id="job-search-and-interviews"></a>
 ### 💼 Job search and interviews
 
 | Skill | What it helps with |
@@ -71,16 +73,19 @@ Want to submit an original Skill, recommend an external project, or volunteer as
 | [resume-jd-tailor](./resume-jd-tailor/) | Turn existing experience into role-specific resume bullets without inventing facts |
 | [offer-decision-advisor](./offer-decision-advisor/) | Compare offers across role, industry, income, city, constraints, and non-negotiables |
 
+<a id="long-term-planning"></a>
 ### 🛤️ Long-term planning
 
 | Skill | What it helps with |
 |---|---|
 | [multi-year-path-planner](./multi-year-path-planner/) | Separate facts, signals, and assumptions to find the next weekly priority |
 
+<a id="perspectives"></a>
 ### 🧠 Perspectives
 
 The perspective Skills are research-based mental models for decisions, products, learning, and investing. They include Duan Yongping, Charlie Munger, Naval Ravikant, Steve Jobs, Elon Musk, Richard Feynman, and Nassim Taleb.
 
+<a id="development-tools"></a>
 ### 🧰 Development
 
 | Skill | What it helps with |
