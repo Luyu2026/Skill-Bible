@@ -1,18 +1,50 @@
-中文 · [English](./README.en.md)
+<div align="center">
 
-# Skill Bible
+**中文** · [English](./README.en.md)
 
-把真实卡住的场景，做成大家都能用的 Skill。
+# 🧠 Skill Bible
 
-Claude Code / Codex / Workbuddy / OpenClaw / Hermes Agent / CodeBuddy / Gemini CLI / OpenCode 等 AI 智能体开源技能集合；已收录日常创作工具、求职面试工作流、思维视角角色、编程辅助等 Skill。
+#### 把真实卡住的场景，做成大家都能用的 Skill
 
-每个 Skill 都试图把一个反复出现的现实问题，拆成 Agent 可以稳定执行、用户可以复用的工作流。
+[![Skills](https://img.shields.io/badge/Skills-18-2563EB?style=for-the-badge)](#-目录)
+![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
+![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
 
-Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆羽** 查看。
+![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-Skill-10B981?style=flat-square&logo=openai&logoColor=white)
+![Cross Agent](https://img.shields.io/badge/Cross--Agent-Ready-3B82F6?style=flat-square)
 
-新收录的 Skill README 统一以真实使用场景开头；具体写法见 [贡献规范](./CONTRIBUTING.md)。
+</div>
 
-## 先从这里开始
+这些 Skill 都从真实实践里长出来：投了很多岗位却不知道该先投哪个，面完知道没讲好却不知道怎么改，拿到两个 Offer 却越看越乱。
+
+它们不替你虚构经历，也不替你做最终决定。它们只做一件事：把一个反复卡住人的问题，拆成 Agent 能稳定执行、你下次还能复用的步骤。
+
+Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆羽** 查看。新收录的 README 统一从真实场景开始；具体规范见 [贡献规范](./CONTRIBUTING.md)。
+
+---
+
+## 🗂️ 目录
+
+| 名字 | 一句话 | 适合什么时候用 |
+|---|---|---|
+| 🧭 [**求职全流程**](./job-search-pilot/) | 找工作每天都在变，它先判断今天该推进哪一步 | 选岗、改简历、面试、复盘同时卡住 |
+| 🎯 [**岗位匹配**](./job-application-match/) | 从一堆岗位里找出真正值得投的那几个 | 投得多，却总没有回应 |
+| 📝 [**岗位简历定制**](./resume-jd-tailor/) | 把一段经历改成不同岗位都能投的简历表达 | 简历越改越像套话 |
+| 💬 [**面试准备**](./interview-prep-brief/) | 把 JD、经历和题库收成一套能直接练的面试备书 | 明天面试，不知道先练哪题 |
+| 🪜 [**多轮面试准备**](./interview-round-prep/) | 把同一个项目拆成不同轮次能讲的答案 | 一面、二面、终面不知道差在哪 |
+| 🔁 [**面试复盘**](./interview-transcript-replay/) | 一场面试复盘成 3 个下次能直接说的答案 | 知道没讲好，却不知道怎么改 |
+| ⚖️ [**Offer 选择**](./offer-decision-advisor/) | 把两份 Offer 按维度拆开，看清到底该去哪里 | 钱、城市、发展混在一起选不动 |
+| 🛤️ [**人生路径**](./life-odyssey-planner/) | 用 3 条可信路径，替代一次情绪化的大决定 | 想转方向或辞职，又不敢贸然动 |
+| 🕰️ [**1、2、5 年路径推演**](./multi-year-path-planner/) | 区分事实、信号和假设，找出这一周最该主押什么 | 长期方向越想越散 |
+| ✍️ [**想法扩写**](./daily-idea-expander/) | 把一个碎片想法展开成能拍、能剪、能发的口播稿 | 有想法，却写不成内容 |
+| 🧠 [**名人思维视角**](#-思维视角) | 用 7 种不同的思维框架补齐判断盲区 | 一个问题总觉得自己没想全 |
+| 🐣 [**Codex 宠物**](./codex-pet-maker/) | 给 Codex 桌面端做一个会动的编程伙伴 | 想给写代码的过程加点乐趣 |
+
+---
+
+## 🚀 先从这里开始
 
 不用先理解 Skill、MCP 或 Agent。先看你现在卡在哪：
 
@@ -27,7 +59,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 
 每个页面顶部都会先告诉你：它适合什么时刻、你只需要给什么、最后能推进什么结果。
 
-## Skill Bible 想解决什么
+## 💡 Skill Bible 想解决什么
 
 很多事情并不是不会做，而是每次都要重新判断、重新组织材料、重新找路径：拿到陌生 JD 不知道怎么准备，经历不少却不知道该往哪个岗位写，面试结束后知道哪里答得不好却不知道下次如何改。
 
@@ -41,7 +73,7 @@ Skill Bible 从真实场景出发，把这些重复但费脑的环节做成可�
 
 它们不替你虚构经历或替你做最终选择，但会把判断所需的材料、问题、动作和反馈闭环整理清楚。
 
-## Skill Bible 怎么收录社区 Skill
+## 🤝 Skill Bible 怎么收录社区 Skill
 
 Skill-Bible 不追求把所有文件搬进来。我们更在意：这个 Skill 是否真的解决问题、别人能不能跑通、它在哪些 Agent 上可用、作者是否愿意持续维护。
 
@@ -53,13 +85,13 @@ Skill-Bible 不追求把所有文件搬进来。我们更在意：这个 Skill �
 
 想提交原创 Skill、推荐外部项目或报名做测试，先看[提交入口](./SUBMIT_A_SKILL.md)。原作者保留署名和原始链接；未明确许可的外部项目只做索引，不镜像代码。
 
-## 内容创作
+## ✍️ 内容创作
 
 | Skill | 用途 |
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
 
-## 求职面试
+## 💼 求职面试
 
 | Skill | 用途 |
 |---|---|
@@ -71,14 +103,14 @@ Skill-Bible 不追求把所有文件搬进来。我们更在意：这个 Skill �
 | [resume-jd-tailor](./resume-jd-tailor/) | 根据目标岗位 JD 和原始经历，把“信息很少/写得很薄”的经历改成可直接复制进简历的岗位定制 bullet；输出可切入岗位对比、写法策略、无数据占位版与逻辑自洽示例数据版，支持飞书文档或本地 Markdown |
 | [offer-decision-advisor](./offer-decision-advisor/) | Offer 选择顾问：比较两份及以上 Offer，结合兴趣、行业、岗位、薪资、城市与个人底线，给出可解释的建议、反转条件和入职前核实话术 |
 
-## 人生选择
+## 🛤️ 人生选择
 
 | Skill | 用途 |
 |---|---|
 | [life-odyssey-planner](./life-odyssey-planner/) | 人生奥德赛计划：当你不知道该继续深耕、保留工作探索新方向还是重构路径时，基于真实约束推演三条可信路线，并落到一个可逆的 90 天实验 |
 | [multi-year-path-planner](./multi-year-path-planner/) | 1、2、5 年路径推演：基于 Agent 可见的历史会话和项目材料，区分事实、信号与假设，持续判断长期路径、本周主押注与停止条件 |
 
-## 思维视角
+## 🧠 思维视角
 
 每个 skill 基于多轮真实调研提炼心智模型、决策启发式和表达 DNA，激活后以第一人称角色扮演。
 
@@ -92,13 +124,13 @@ Skill-Bible 不追求把所有文件搬进来。我们更在意：这个 Skill �
 | [feynman-perspective](./feynman-perspective/) | 理查德·费曼 | 如果你不能向大一新生解释清楚，说明你自己没真懂。 |
 | [taleb-perspective](./taleb-perspective/) | 纳西姆·塔勒布 | 不要当脆弱的傻瓜。反脆弱的事物从混乱中获益。 |
 
-## 编程辅助
+## 🧰 编程辅助
 
 | Skill | 用途 |
 |---|---|
 | [codex-pet-maker](./codex-pet-maker/) | 创建/修复/安装 Codex 桌面编程宠物动画，内含 10 个成品 pet |
 
-## 使用方式
+## 📦 使用方式
 
 将 Skill 目录放入 `~/.claude/skills/`（Claude Code）或 `~/.codex/skills/`（Codex CLI），激活即可使用。Workbuddy、OpenClaw 等其他 Agent，请按各自的 Skill 目录规则放置。
 
@@ -129,7 +161,7 @@ https://github.com/Luyu2026/Skill-Bible
 
 如果你没有配置飞书 CLI，也可以正常使用需要文档输出的 skill；对应 skill 会优先生成本地 Markdown，不会因为飞书权限卡住。
 
-## 一起把它做得更好
+## 🌱 一起把它做得更好
 
 你可以提交一个原创 Skill，也可以只提交一个值得收录的外部链接。先不要在群里丢压缩包，统一通过[提交入口](./SUBMIT_A_SKILL.md)留下来源、使用场景和真实案例。
 

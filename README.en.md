@@ -1,14 +1,29 @@
-[中文](./README.md) · English
+<div align="center">
 
-# Skill Bible
+[中文](./README.md) · **English**
 
-Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
+# 🧠 Skill Bible
+
+#### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
+
+[![Skills](https://img.shields.io/badge/Skills-18-2563EB?style=for-the-badge)](#-skills)
+![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
+![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-Skill-10B981?style=flat-square&logo=openai&logoColor=white)
+![Cross Agent](https://img.shields.io/badge/Cross--Agent-Ready-3B82F6?style=flat-square)
+
+</div>
 
 Skill Bible is an open collection of agent Skills for Claude Code, Codex, Workbuddy, OpenClaw, Hermes Agent, CodeBuddy, Gemini CLI, OpenCode, and other compatible agents.
 
 Each Skill starts with a concrete situation: a job application with no reply, a resume that cannot explain the right capability, an interview answer that falls apart under follow-up questions, or a decision that feels too important to make from emotion alone.
 
-## Start with the problem you have now
+---
+
+## 🗂️ Start with the problem you have now
 
 You do not need to understand Skills, MCP, or agents first. Start with the situation you are in.
 
@@ -23,7 +38,7 @@ You do not need to understand Skills, MCP, or agents first. Start with the situa
 
 Every Skill page starts with the same three answers: when to use it, what to provide, and what result it can move forward.
 
-## What Skill Bible is building
+## 💡 What Skill Bible is building
 
 Many difficult tasks are not difficult because people cannot do them. They are difficult because each time they require fresh judgment, scattered materials, and a new plan.
 
@@ -35,7 +50,7 @@ The job-search workflow is the first complete example:
 
 Skills do not invent your experience or make your final decision. They organize the evidence, questions, actions, and feedback needed to make a better one.
 
-## Community curation
+## 🤝 Community curation
 
 Skill Bible is not trying to mirror every Skill file on the internet. We care whether a Skill solves a real problem, can be reproduced by someone else, works on the agents it claims to support, and is maintained responsibly.
 
@@ -47,15 +62,15 @@ Skill Bible is not trying to mirror every Skill file on the internet. We care wh
 
 Want to submit an original Skill, recommend an external project, or volunteer as a tester? Read [Submit a Skill](./SUBMIT_A_SKILL.md). External projects remain credited to their authors and linked to their original source. Projects without clear permission are indexed, not mirrored.
 
-## Skills
+## ✨ Skills
 
-### Content creation
+### ✍️ Content creation
 
 | Skill | What it helps with |
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | Turn a rough idea into a structured short-video script, edit version, quotes, and titles |
 
-### Job search and interviews
+### 💼 Job search and interviews
 
 | Skill | What it helps with |
 |---|---|
@@ -67,24 +82,24 @@ Want to submit an original Skill, recommend an external project, or volunteer as
 | [resume-jd-tailor](./resume-jd-tailor/) | Turn existing experience into role-specific resume bullets without inventing facts |
 | [offer-decision-advisor](./offer-decision-advisor/) | Compare offers across role, industry, income, city, constraints, and non-negotiables |
 
-### Life and long-term decisions
+### 🛤️ Life and long-term decisions
 
 | Skill | What it helps with |
 |---|---|
 | [life-odyssey-planner](./life-odyssey-planner/) | Map three credible paths and one reversible 90-day experiment |
 | [multi-year-path-planner](./multi-year-path-planner/) | Separate facts, signals, and assumptions to find the next weekly priority |
 
-### Perspectives
+### 🧠 Perspectives
 
 The perspective Skills are research-based mental models for decisions, products, learning, and investing. They include Duan Yongping, Charlie Munger, Naval Ravikant, Steve Jobs, Elon Musk, Richard Feynman, and Nassim Taleb.
 
-### Development
+### 🧰 Development
 
 | Skill | What it helps with |
 |---|---|
 | [codex-pet-maker](./codex-pet-maker/) | Create, repair, package, and install animated Codex desktop pets |
 
-## Install one Skill
+## 📦 Install one Skill
 
 Open the page of the Skill you want, copy its URL, and send this to your agent:
 
@@ -105,7 +120,7 @@ https://github.com/Luyu2026/Skill-Bible
 
 If you do not have Feishu CLI configured, document-producing Skills can still write local Markdown rather than stopping on permissions.
 
-## Contribute
+## 🌱 Contribute
 
 You can submit an original Skill or simply recommend an external one. Use [Submit a Skill](./SUBMIT_A_SKILL.md) to include its source, real-world scenario, and example run.
 
