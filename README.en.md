@@ -19,7 +19,9 @@
 
 Skill Bible is an open collection of agent Skills for Claude Code, Codex, Workbuddy, OpenClaw, Hermes Agent, CodeBuddy, Gemini CLI, OpenCode, and other compatible agents.
 
-Each Skill starts with a concrete situation: a job application with no reply, a resume that cannot explain the right capability, an interview answer that falls apart under follow-up questions, or a decision that feels too important to make from emotion alone.
+It is not a collection for one kind of task. Each Skill starts from a recurring real-world blocker: deciding where to apply, turning an idea into a publishable draft, sorting noisy research into a judgment, or removing the same friction from a coding workflow again and again.
+
+When a problem keeps returning and should not require fresh thinking every time, it is worth turning into a Skill. A Skill does not invent your experience or make the final decision for you. It preserves the judgment, workflow, and quality bar so an agent can run it reliably and you can reuse it.
 
 ---
 
