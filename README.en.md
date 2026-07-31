@@ -25,6 +25,18 @@ When a problem keeps returning and should not require fresh thinking every time,
 
 ---
 
+## 🗂️ Directory
+
+| Category | What it helps with | Included now |
+|---|---|---|
+| ✍️ [**Content creation**](#-content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion |
+| 💼 [**Job search and interviews**](#-job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 7 job-search Skills |
+| 🛤️ [**Life and long-term decisions**](#-life-and-long-term-decisions) | Make clearer decisions about work, direction, and longer paths | 2 path Skills |
+| 🧠 [**Perspectives**](#-perspectives) | Use distinct thinking frameworks to cover decision blind spots | 7 perspective Skills |
+| 🧰 [**Development**](#-development) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
+
+---
+
 ## 🔗 One Skill can become a workflow
 
 Start with the one situation blocking you now. Every page makes three things clear first: when to use it, what to provide, and what result it can move forward.
