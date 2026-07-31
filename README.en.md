@@ -39,18 +39,6 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 
 ---
 
-## 🤝 Community curation
-
-Skill Bible is not trying to mirror every Skill file on the internet. We care whether a Skill solves a real problem, can be reproduced by someone else, works on the agents it claims to support, and is maintained responsibly.
-
-| Status | Meaning | How to read it |
-|---|---|---|
-| Community Candidate | Source, author, and license are complete; it has not been verified yet | Discoverable, not a recommendation |
-| Verified | At least one reproducible basic run is complete | Safe to try from the instructions |
-| Editor's Pick | Clear real-world value, documented boundaries, and maintainable quality | Worth prioritizing |
-
-Want to submit an original Skill, recommend an external project, or volunteer as a tester? Read [Submit a Skill](./SUBMIT_A_SKILL.md). External projects remain credited to their authors and linked to their original source. Projects without clear permission are indexed, not mirrored.
-
 ## ✨ Skills
 
 <a id="content-creation"></a>
@@ -116,5 +104,13 @@ If you do not have Feishu CLI configured, document-producing Skills can still wr
 ## 🌱 Contribute
 
 You can submit an original Skill or simply recommend an external one. Use [Submit a Skill](./SUBMIT_A_SKILL.md) to include its source, real-world scenario, and example run.
+
+Skill Bible is not trying to mirror every Skill file on the internet. We care whether a Skill solves a real problem, can be reproduced by someone else, works on the agents it claims to support, and is maintained responsibly.
+
+| Status | Meaning | How to read it |
+|---|---|---|
+| Community Candidate | Source, author, and license are complete; it has not been verified yet | Discoverable, not a recommendation |
+| Verified | At least one reproducible basic run is complete | Safe to try from the instructions |
+| Editor's Pick | Clear real-world value, documented boundaries, and maintainable quality | Worth prioritizing |
 
 Skill Bible keeps the final right to include, grade, and recommend a Skill. The goal is not a pile of files. The goal is to help Chinese-speaking users find Skills that actually work.
