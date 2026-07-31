@@ -37,15 +37,17 @@ When a problem keeps returning and should not require fresh thinking every time,
 
 ---
 
-## 🔗 One Skill can become a workflow
+## 🧩 One bigger task, several focused Skills
 
-Start with the one situation blocking you now. Every page makes three things clear first: when to use it, what to provide, and what result it can move forward.
+Job search is never one task: decide whether a role is worth applying for, tailor the resume, prepare when an interview arrives, then turn what went wrong into answers you can use next time.
 
-When the problem is a longer process, connect Skills as the work moves forward. Job search is the first complete workflow:
+Those steps connect, but they require different depth. One giant Skill usually does every step only well enough. Focus each Skill on one hard part first, then let a controller connect them, and the result becomes more reliable.
+
+The job-search workflow is:
 
 `Job Match → Resume Tailor → Interview Brief → Interview Round Prep → Interview Replay`
 
-Solve the immediate problem with one Skill first; when the situation changes, let the next Skill take over. Content, research, decisions, and development will gradually get their own workflows too.
+You do not need to memorize the names. Tell Job Search Pilot what happened now; it identifies the next step and calls the focused Skill for it.
 
 ## 🤝 Community curation
 
