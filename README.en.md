@@ -31,7 +31,7 @@ When a problem keeps returning and should not require fresh thinking every time,
 |---|---|---|
 | ✍️ [**Content creation**](#-content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion |
 | 💼 [**Job search and interviews**](#-job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 7 job-search Skills |
-| 🛤️ [**Life and long-term decisions**](#-life-and-long-term-decisions) | Make clearer decisions about work, direction, and longer paths | 2 path Skills |
+| 🛤️ [**Long-term planning**](#-long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#-perspectives) | Use distinct thinking frameworks to cover decision blind spots | 7 perspective Skills |
 | 🧰 [**Development**](#-development) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
@@ -81,11 +81,10 @@ Want to submit an original Skill, recommend an external project, or volunteer as
 | [resume-jd-tailor](./resume-jd-tailor/) | Turn existing experience into role-specific resume bullets without inventing facts |
 | [offer-decision-advisor](./offer-decision-advisor/) | Compare offers across role, industry, income, city, constraints, and non-negotiables |
 
-### 🛤️ Life and long-term decisions
+### 🛤️ Long-term planning
 
 | Skill | What it helps with |
 |---|---|
-| [life-odyssey-planner](./life-odyssey-planner/) | Map three credible paths and one reversible 90-day experiment |
 | [multi-year-path-planner](./multi-year-path-planner/) | Separate facts, signals, and assumptions to find the next weekly priority |
 
 ### 🧠 Perspectives
