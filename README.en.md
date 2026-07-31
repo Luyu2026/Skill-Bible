@@ -103,7 +103,7 @@ If you do not have Feishu CLI configured, document-producing Skills can still wr
 
 ## 🌱 Contribute
 
-You can submit an original Skill or simply recommend an external one. Use [Submit a Skill](./SUBMIT_A_SKILL.md) to include its source, real-world scenario, and example run.
+You can submit an original Skill or simply recommend an external one. Use [Submit / recommend a Skill](https://github.com/Luyu2026/Skill-Bible/issues/new?template=submit-skill.yml) and complete the form with its source, real-world scenario, and example run.
 
 Skill Bible is not trying to mirror every Skill file on the internet. We care whether a Skill solves a real problem, can be reproduced by someone else, works on the agents it claims to support, and is maintained responsibly.
 
