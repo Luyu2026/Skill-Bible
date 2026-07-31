@@ -25,32 +25,15 @@ When a problem keeps returning and should not require fresh thinking every time,
 
 ---
 
-## 🗂️ Start with the problem you have now
+## 🔗 One Skill can become a workflow
 
-You do not need to understand Skills, MCP, or agents first. Start with the situation you are in.
+Start with the one situation blocking you now. Every page makes three things clear first: when to use it, what to provide, and what result it can move forward.
 
-| What is happening now? | Try this first | What you get first |
-|---|---|---|
-| You applied to many jobs and do not know which ones deserve real effort | [Job Application Match](./job-application-match/) | A practical application order |
-| One experience needs to work for different roles, but every resume version sounds generic | [Resume JD Tailor](./resume-jd-tailor/) | Role-specific resume language |
-| You have an interview tomorrow and do not know which questions to practice first | [Interview Prep Brief](./interview-prep-brief/) | Likely questions, project stories, and follow-up paths |
-| You just finished an interview and know it went wrong, but not what to fix next time | [Interview Transcript Replay](./interview-transcript-replay/) | Three answers you can practice for the next round |
-| Your job search changes every day and you cannot tell what matters today | [Job Search Pilot](./job-search-pilot/) | The next action for the current event |
-| You want to change direction without making an emotional, irreversible decision | [Life Odyssey Planner](./life-odyssey-planner/) | Three viable paths and one reversible experiment |
-
-Every Skill page starts with the same three answers: when to use it, what to provide, and what result it can move forward.
-
-## 💡 What Skill Bible is building
-
-Many difficult tasks are not difficult because people cannot do them. They are difficult because each time they require fresh judgment, scattered materials, and a new plan.
-
-Skill Bible turns the repeated, judgment-heavy part of those tasks into reusable agent workflows. You can run one Skill on its own or connect several into a longer workflow.
-
-The job-search workflow is the first complete example:
+When the problem is a longer process, connect Skills as the work moves forward. Job search is the first complete workflow:
 
 `Job Match → Resume Tailor → Interview Brief → Interview Round Prep → Interview Replay`
 
-Skills do not invent your experience or make your final decision. They organize the evidence, questions, actions, and feedback needed to make a better one.
+Solve the immediate problem with one Skill first; when the situation changes, let the next Skill take over. Content, research, decisions, and development will gradually get their own workflows too.
 
 ## 🤝 Community curation
 
