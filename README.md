@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-20-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-21-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -33,6 +33,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 |---|---|---|
 | ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写 |
 | 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 7 个求职 Skill |
+| 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 9 位思维视角 |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
@@ -58,6 +59,13 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [interview-transcript-replay](./interview-transcript-replay/) | 根据面试录音转写、PDF、飞书文档或纯文本记录，提炼真实面试问题，诊断原回答失分点，并生成核心问题复盘、其他问题复盘、可直接开口答案和下次练习计划 |
 | [resume-jd-tailor](./resume-jd-tailor/) | 根据目标岗位 JD 和原始经历，把“信息很少/写得很薄”的经历改成可直接复制进简历的岗位定制 bullet；输出可切入岗位对比、写法策略、无数据占位版与逻辑自洽示例数据版，支持飞书文档或本地 Markdown |
 | [offer-decision-advisor](./offer-decision-advisor/) | Offer 选择顾问：比较两份及以上 Offer，结合兴趣、行业、岗位、薪资、城市与个人底线，给出可解释的建议、反转条件和入职前核实话术 |
+
+<a id="investment-research"></a>
+## 📈 投资研究
+
+| Skill | 用途 |
+|---|---|
+| [chanlun-framework](./chanlun-framework/) | 缠论框架：将行情拆成走势类型、中枢、背驰与买卖点，以大级别定方向、小级别找位置；用于研究、复盘和风险检查，不提供确定的买卖结论 |
 
 <a id="long-term-planning"></a>
 ## 🛤️ 长期规划
