@@ -133,7 +133,7 @@ description: "把简历、项目材料或已授权的个人经历库拆成可核
 
 #### 回答表达参考
 
-生成可直接开口答案时，可以参考已授权的 [《大厂面试真题解析》](https://gte09oerz5.feishu.cn/wiki/E5UxwObpMiwyfVk6j0BcsMS7nGc) 的表达结构：先在第一句给出回答结论或项目主线，再以“背景 → 任务 → 问题 → 关键动作 → 量化结果”展开；复杂问题用 2-3 个有先后关系的动作讲清，而不是罗列概念。
+生成可直接开口答案时，先读取 `references/interview-answer-bank.md`。这份已授权的《大厂面试真题解析》收录了真实岗位题型、连续追问和答案写法。可参考它的表达结构：先在第一句给出回答结论或项目主线，再以“背景 → 任务 → 问题 → 关键动作 → 量化结果”展开；复杂问题用 2-3 个有先后关系的动作讲清，而不是罗列概念。
 
 这份资料只作为**表达结构与题型覆盖参考**：
 
@@ -220,4 +220,4 @@ description: "把简历、项目材料或已授权的个人经历库拆成可核
 - 原始参考：[`alvinxx1123/sspOffer-interview-assistant`](https://github.com/alvinxx1123/sspOffer-interview-assistant) 的 `resume-grounding-skill`，MIT License，查询于 2026-08-02，84 Stars。保留“题目和追问必须锚定真实简历信号”的原则。
 - 本 Skill 的改良：增加中文职场项目的“证据卡 → 横向问题树 → 纵向追问链 → 90 秒回答 → 间隔练习”闭环；支持已授权个人经历库；明确事实、待确认与推断边界。
 - 训练机制参考：[`DeepInterview`](https://github.com/ngoanpv/DeepInterview) 的文档锚定练习与间隔复习思路，以及已有 `interview-prep-brief` 的学习卡规范。
-- 回答表达参考：已授权的 [《大厂面试真题解析》](https://gte09oerz5.feishu.cn/wiki/E5UxwObpMiwyfVk6j0BcsMS7nGc)，仅参考答案结构与题型覆盖，不复用其中案例事实、数据或联系方式。
+- 回答表达参考：`references/interview-answer-bank.md`，来源为已授权的《大厂面试真题解析》；仅参考答案结构与题型覆盖，不复用其中案例事实、数据或联系方式。
