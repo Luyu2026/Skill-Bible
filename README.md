@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-21-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-22-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -32,7 +32,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
 | ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写 |
-| 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 7 个求职 Skill |
+| 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 8 个求职 Skill |
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 9 位思维视角 |
@@ -55,6 +55,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [job-search-pilot](./job-search-pilot/) | 求职全流程总控：适合求职中不断遇到不同事件的人。无论是判断岗位、改简历、准备面试、面后复盘还是投递无回复，只需描述此刻发生的事，即可得到当前最需要的直接答案 |
 | [job-application-match](./job-application-match/) | 校招/社招先分清“值得冲的好岗位”和“按当前经历适合投的岗位”，再按岗位直接给出简历改写、示例数据版和具体投递行动清单；校招可读取公开岗位池，社招使用用户提供的 JD、链接或截图 |
 | [interview-prep-brief](./interview-prep-brief/) | 根据岗位 JD、候选人背景和题库/面经，生成岗位面试备书：高概率题目、带数据的可直接用答案、追问链路和备面计划；本地材料不足时可参考外部项目机制优化拆解，支持飞书文档或本地 Markdown |
+| [interview-resume-deep-dive](./interview-resume-deep-dive/) | 把简历经历拆成“表层问题 + 追问问题”两层题库；每一题都给出基于真实材料的可直接开口答案、量化口径和下一层追问，提前练掉最容易被击穿的简历细节 |
 | [interview-round-prep](./interview-round-prep/) | 在面试备书基础上继续拆一面、二面、三面/终面、HR 面，按轮次生成高概率题、回答思路、可直接开口答案和追问预判；适合面试前按轮次集中练习，支持飞书文档或本地 Markdown |
 | [interview-transcript-replay](./interview-transcript-replay/) | 根据面试录音转写、PDF、飞书文档或纯文本记录，提炼真实面试问题，诊断原回答失分点，并生成核心问题复盘、其他问题复盘、可直接开口答案和下次练习计划 |
 | [resume-jd-tailor](./resume-jd-tailor/) | 根据目标岗位 JD 和原始经历，把“信息很少/写得很薄”的经历改成可直接复制进简历的岗位定制 bullet；输出可切入岗位对比、写法策略、无数据占位版与逻辑自洽示例数据版，支持飞书文档或本地 Markdown |

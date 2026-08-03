@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-18-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-22-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -32,7 +32,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | Category | What it helps with | Included now |
 |---|---|---|
 | ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion |
-| 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 7 job-search Skills |
+| 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 8 job-search Skills |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 7 perspective Skills |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
@@ -56,6 +56,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | [job-search-pilot](./job-search-pilot/) | A job-search controller for changing events: role decisions, resumes, interviews, follow-ups, and no-response situations |
 | [job-application-match](./job-application-match/) | Separate aspirational roles from roles your current evidence can support, then choose what to apply for and what to improve first |
 | [interview-prep-brief](./interview-prep-brief/) | Turn a JD, candidate background, and question bank into a focused interview brief |
+| [interview-resume-deep-dive](./interview-resume-deep-dive/) | Turn resume bullets into a two-layer interview bank of surface questions and follow-ups, each grounded in real evidence with a speakable answer and the next likely challenge |
 | [interview-round-prep](./interview-round-prep/) | Prepare the same project differently for each interview round |
 | [interview-transcript-replay](./interview-transcript-replay/) | Turn an interview transcript into the key misses, revised answers, and a practice plan |
 | [resume-jd-tailor](./resume-jd-tailor/) | Turn existing experience into role-specific resume bullets without inventing facts |
