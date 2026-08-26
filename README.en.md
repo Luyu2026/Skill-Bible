@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-22-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-24-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -33,8 +33,9 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 |---|---|---|
 | ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion |
 | 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 8 job-search Skills |
+| 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
-| 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 7 perspective Skills |
+| 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 11 perspective Skills |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
@@ -62,6 +63,13 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | [resume-jd-tailor](./resume-jd-tailor/) | Turn existing experience into role-specific resume bullets without inventing facts |
 | [offer-decision-advisor](./offer-decision-advisor/) | Compare offers across role, industry, income, city, constraints, and non-negotiables |
 
+<a id="investment-research"></a>
+### 📈 Investment research
+
+| Skill | What it helps with |
+|---|---|
+| [chanlun-framework](./chanlun-framework/) | Chan theory: decompose price action into trend types, central zones, divergences, and buy/sell points to locate positions at the right level; for research, review, and risk checks, not for buy/sell verdicts |
+
 <a id="long-term-planning"></a>
 ### 🛤️ Long-term planning
 
@@ -72,7 +80,21 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 <a id="perspectives"></a>
 ### 🧠 Perspectives
 
-The perspective Skills are research-based mental models for decisions, products, learning, and investing. They include Duan Yongping, Charlie Munger, Naval Ravikant, Steve Jobs, Elon Musk, Richard Feynman, and Nassim Taleb.
+The perspective Skills are research-based mental models for decisions, products, learning, and investing. Each is distilled from multi-round research into mental models, decision heuristics, and expression DNA, then activated as first-person role-play.
+
+| Skill | Person | One line |
+|---|---|---|
+| [duan-yongping-perspective](./duan-yongping-perspective/) | Duan Yongping | Do the right things, and do things right. Buying a stock is buying the company. |
+| [munger-perspective](./munger-perspective/) | Charlie Munger | Invert, always invert. Tell me where I'll die, so I never go there. |
+| [naval-perspective](./naval-perspective/) | Naval Ravikant | Wealth is what keeps working for you while you sleep. |
+| [steve-jobs-perspective](./steve-jobs-perspective/) | Steve Jobs | Focus is not saying yes to what you want; it is saying no to a hundred good ideas. |
+| [elon-musk-perspective](./elon-musk-perspective/) | Elon Musk | Physics is the only hard constraint; everything else is a suggestion. |
+| [feynman-perspective](./feynman-perspective/) | Richard Feynman | If you can't explain it to a freshman, you don't really understand it. |
+| [taleb-perspective](./taleb-perspective/) | Nassim Taleb | Don't be a fragile fool. Antifragile things gain from disorder. |
+| [livermore-perspective](./livermore-perspective/) | Jesse Livermore | Don't predict direction; wait for the line of least resistance to confirm. |
+| [graham-perspective](./graham-perspective/) | Benjamin Graham | Mr. Market quotes daily; your margin of safety decides whether to listen. |
+| [li-ka-shing-perspective](./li-ka-shing-perspective/) | Li Ka-shing | Think failure first, then success. Cash is king; fix the roof in sunshine. |
+| [inamori-perspective](./inamori-perspective/) | Kazuo Inamori | As a human being, what is right? Pure motive, no selfish intent. |
 
 <a id="development-tools"></a>
 ### 🧰 Development
