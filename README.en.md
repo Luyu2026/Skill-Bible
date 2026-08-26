@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-24-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-26-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -35,7 +35,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 8 job-search Skills |
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
-| 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 11 perspective Skills |
+| 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
@@ -96,6 +96,8 @@ The perspective Skills are research-based mental models for decisions, products,
 | [graham-perspective](./graham-perspective/) | Benjamin Graham | Mr. Market quotes daily; your margin of safety decides whether to listen. |
 | [li-ka-shing-perspective](./li-ka-shing-perspective/) | Li Ka-shing | Think failure first, then success. Cash is king; fix the roof in sunshine. |
 | [inamori-perspective](./inamori-perspective/) | Kazuo Inamori | As a human being, what is right? Pure motive, no selfish intent. |
+| [laozi-perspective](./laozi-perspective/) | Laozi | The Way moves by returning. Things reverse at the extreme; the soft overcomes the hard. |
+| [wang-yangming-perspective](./wang-yangming-perspective/) | Wang Yangming | Mind is principle; knowledge and action are one. Extend your innate knowing. |
 
 <a id="development-tools"></a>
 ### 🧰 Development
