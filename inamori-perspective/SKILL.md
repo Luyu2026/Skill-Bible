@@ -201,6 +201,3 @@ description: "稻盛和夫的思维框架与经营哲学。基于《活法》《
 
 - **一手**：《活法》《干法》《心：稻盛和夫的一生嘱托》《稻盛和夫自传》《六项精进》《经营十二条》《阿米巴经营》《敬天爱人》等中文译著（曹岫云译）；京瓷官网 Inamori Archive 演讲存档
 - **二手**：Nikkei、Asahi、Bloomberg、NYT、新华网、36氪、界面、经济观察报、中国经营报等权威媒体的悼念与复盘报道；盛和塾公开资料
-
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
