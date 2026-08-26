@@ -31,7 +31,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 
 | Category | What it helps with | Included now |
 |---|---|---|
-| ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion |
+| ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative |
 | 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 8 job-search Skills |
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
@@ -48,6 +48,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | Skill | What it helps with |
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | Turn a rough idea into a structured short-video script, edit version, quotes, and titles |
+| [wechat-visual-narrative](./wechat-visual-narrative/) | Read a finished WeChat article, identify its visual mode, and plan, generate, and place images that improve comprehension rather than decorate the page |
 
 <a id="job-search-and-interviews"></a>
 ### 💼 Job search and interviews

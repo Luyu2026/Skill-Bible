@@ -31,7 +31,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
-| ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写 |
+| ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
 | 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 8 个求职 Skill |
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
@@ -46,6 +46,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | Skill | 用途 |
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
+| [wechat-visual-narrative](./wechat-visual-narrative/) | 根据已定稿的飞书公众号文章，先识别流程型、命题论证型或案例复盘型，再规划、生成并按位置插入真正帮助理解的配图 |
 
 <a id="job-search-and-interviews"></a>
 ## 💼 求职面试
