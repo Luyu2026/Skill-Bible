@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试逐字稿去 AI 味"
+  short_description: "把面试稿改成能自然开口的回答"
+  default_prompt: "请使用面试逐字稿去 AI 味 Skill，基于我的真实材料把下面回答改成 60-90 秒可直接开口版本，并补充高概率追问。"
