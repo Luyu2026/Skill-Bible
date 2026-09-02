@@ -60,6 +60,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [interview-round-prep](./interview-round-prep/) | 在面试备书基础上继续拆一面、二面、三面/终面、HR 面，按轮次生成高概率题、回答思路、可直接开口答案和追问预判；适合面试前按轮次集中练习，支持飞书文档或本地 Markdown |
 | [interview-script-naturalizer](./interview-script-naturalizer/) | 面试逐字稿去 AI 味：把 AI 生成或过度书面化的项目回答，改成真实、自然、能直接开口且接得住追问的表达；保留本人事实，不虚构数据 |
 | [interview-transcript-replay](./interview-transcript-replay/) | 根据面试录音转写、PDF、飞书文档或纯文本记录，提炼真实面试问题，诊断原回答失分点，并生成核心问题复盘、其他问题复盘、可直接开口答案和下次练习计划 |
+| [resume-ai-naturalizer](./resume-ai-naturalizer/) | 把“赋能、闭环、从 0 到 1”式套话简历改成可投递、可追问的真实表达；输出 AI 腔反例、不同岗位侧重的经历版本、60 秒面试说法、追问和事实边界 |
 | [resume-jd-tailor](./resume-jd-tailor/) | 根据目标岗位 JD 和原始经历，把“信息很少/写得很薄”的经历改成可直接复制进简历的岗位定制 bullet；输出可切入岗位对比、写法策略、无数据占位版与逻辑自洽示例数据版，支持飞书文档或本地 Markdown |
 | [offer-decision-advisor](./offer-decision-advisor/) | Offer 选择顾问：比较两份及以上 Offer，结合兴趣、行业、岗位、薪资、城市与个人底线，给出可解释的建议、反转条件和入职前核实话术 |
 

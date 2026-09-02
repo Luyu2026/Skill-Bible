@@ -1,0 +1,4 @@
+interface:
+  display_name: "简历去 AI 味"
+  short_description: "把套话简历改成可投递、可追问的真实表达"
+  default_prompt: "请使用简历去 AI 味 Skill，基于我的真实材料诊断这段经历的 AI 腔，并输出可投递版本、60 秒面试说法、追问和事实边界。"
