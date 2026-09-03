@@ -16,7 +16,10 @@ The builder accepts UTF-8 JSON. All arrays may be empty; omit no facts only beca
           "role": "职位",
           "period": "2021年05月 - 至今",
           "intro": "一句职责概述，可为空",
-          "bullets": ["事实、动作与结果", "下一条"]
+          "bullets": [
+            {"text": "一级要点", "children": ["对应细项一", "对应细项二"]},
+            "普通单层要点"
+          ]
         }
       ]
     }
@@ -38,5 +41,5 @@ The builder accepts UTF-8 JSON. All arrays may be empty; omit no facts only beca
 - `summary` is displayed as short bullet points.
 - Each `sections` item is an experience group such as “工作经历” or “校园经历”.
 - `intro` is a one-sentence role summary. Do not turn it into a bullet unless the source itself is a bullet.
-- `bullets` should contain factual, complete sentences. Preserve metrics exactly.
+- `bullets` may contain factual strings or nested objects with `text` and `children`. Preserve the source hierarchy and metrics exactly.
 - `skills` renders as one compact line separated by Chinese commas.

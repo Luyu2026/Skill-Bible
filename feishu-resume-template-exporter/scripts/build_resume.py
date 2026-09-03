@@ -171,6 +171,18 @@ def add_bullet(doc, text, level=0):
     return p
 
 
+def add_bullets(doc, items, level=0):
+    """Render plain bullets or nested {text, children} bullet objects."""
+    for item in items:
+        if isinstance(item, str):
+            add_bullet(doc, item, level)
+            continue
+        if not isinstance(item, dict) or not item.get("text"):
+            raise ValueError("Each bullet must be text or an object with a text field")
+        add_bullet(doc, item["text"], level)
+        add_bullets(doc, item.get("children", []), level + 1)
+
+
 def add_entry(doc, entry):
     table = doc.add_table(rows=1, cols=2)
     table.autofit = False
@@ -197,8 +209,7 @@ def add_entry(doc, entry):
         p.paragraph_format.space_after = Pt(0.1)
         p.paragraph_format.keep_with_next = True
         add_text(p, entry["intro"], size=BODY_SIZE)
-    for item in entry.get("bullets", []):
-        add_bullet(doc, item)
+    add_bullets(doc, entry.get("bullets", []))
 
 
 def build(data, template, avatar, output):
@@ -208,8 +219,7 @@ def build(data, template, avatar, output):
     style_page(doc)
     add_header(doc, data, avatar)
     add_section_title(doc, "个人总结")
-    for item in data.get("summary", []):
-        add_bullet(doc, item)
+    add_bullets(doc, data.get("summary", []))
     for section in data.get("sections", []):
         if not section.get("entries"):
             continue
