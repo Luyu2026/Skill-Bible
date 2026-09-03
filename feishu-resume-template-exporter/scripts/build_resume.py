@@ -7,7 +7,7 @@ import shutil
 from pathlib import Path
 
 from docx import Document
-from docx.enum.table import WD_TABLE_ALIGNMENT
+from docx.enum.table import WD_CELL_VERTICAL_ALIGNMENT, WD_TABLE_ALIGNMENT
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
@@ -131,6 +131,10 @@ def add_header(doc, data, avatar):
     _, identity, photo = table.rows[0].cells
     set_cell_margins(identity, top=0, bottom=0)
     set_cell_margins(photo, top=0, bottom=0)
+    # Keep the portrait as an independent right rail, while centering the
+    # two-line identity block within the portrait's height.
+    identity.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.CENTER
+    photo.vertical_alignment = WD_CELL_VERTICAL_ALIGNMENT.TOP
     p = identity.paragraphs[0]
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p.paragraph_format.space_after = Pt(0.5)
