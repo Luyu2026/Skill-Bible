@@ -20,7 +20,7 @@ Use this skill only for resumes that follow the sample's structure. It does not 
 3. Map the document into the JSON schema. Preserve all facts, dates, and numbers exactly. Treat lines in the form `公司/项目｜角色　时间` as one experience header.
 4. If the user has not supplied a headshot, create or use an explicitly labeled generic simulated avatar for a demo only. Do not present it as the student's real photo.
 5. Run `scripts/build_resume.py` with the JSON, the bundled `assets/resume-template.docx`, and the avatar. The script emits a `.docx`.
-6. Convert the Word file to PDF with LibreOffice headless mode. Render the final DOCX and PDF and inspect page images before delivery.
+6. Render the PDF with `scripts/build_resume_pdf.py` from the same JSON and avatar. This is the default path: it avoids font substitution and table reflow that can occur when a DOCX is converted by a different office suite. If Microsoft Word is installed, native Word export is an acceptable alternative after visual verification. Do not use LibreOffice as the primary PDF path.
 7. Upload both final files to the requested Feishu folder or attach them to the source document when the user authorizes it.
 
 ## Invocation
@@ -33,10 +33,13 @@ python3 scripts/build_resume.py \
   --output /path/to/姓名-简历.docx
 ```
 
-Then convert with:
+Create the delivery PDF with:
 
 ```bash
-soffice --headless --convert-to pdf --outdir /path/to/output /path/to/姓名-简历.docx
+python3 scripts/build_resume_pdf.py \
+  --input /path/to/resume.json \
+  --avatar /path/to/avatar.png \
+  --output /path/to/姓名-简历.pdf
 ```
 
 ## Output Rules
@@ -45,6 +48,6 @@ soffice --headless --convert-to pdf --outdir /path/to/output /path/to/姓名-简
 - Keep the source template unchanged. Work from a copy or use it only as a style reference.
 - Keep all body copy factual and compact. If material runs long, preserve the facts and let the resume continue to page two; do not silently shrink type below readable size.
 - A simulated avatar must carry the label “模拟头像（示意）” in the Feishu source and must never replace a real supplied photo.
-- The final Word and PDF must contain the same content.
+- The final Word and PDF must contain the same content. PDF is the primary delivery artifact and must be visually inspected page by page before delivery.
 
 Read [input-schema.md](references/input-schema.md) before creating or modifying the content JSON.
