@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-26-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-29-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -32,7 +32,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
 | ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
-| 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 10 个求职 Skill |
+| 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 11 个求职 Skill |
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
