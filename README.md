@@ -62,6 +62,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [interview-transcript-replay](./interview-transcript-replay/) | 根据面试录音转写、PDF、飞书文档或纯文本记录，提炼真实面试问题，诊断原回答失分点，并生成核心问题复盘、其他问题复盘、可直接开口答案和下次练习计划 |
 | [resume-ai-naturalizer](./resume-ai-naturalizer/) | 把“赋能、闭环、从 0 到 1”式套话简历改成可投递、可追问的真实表达；输出 AI 腔反例、不同岗位侧重的经历版本、60 秒面试说法、追问和事实边界 |
 | [resume-jd-tailor](./resume-jd-tailor/) | 根据目标岗位 JD 和原始经历，把“信息很少/写得很薄”的经历改成可直接复制进简历的岗位定制 bullet；输出可切入岗位对比、写法策略、无数据占位版与逻辑自洽示例数据版，支持飞书文档或本地 Markdown |
+| [feishu-resume-template-exporter](./feishu-resume-template-exporter/) | 把结构化飞书简历按内置样稿重新排成可投递的 Word 和 PDF；保持头像、身份信息、分区标题、经历条目和日期的简历版式，而不是简单导出 |
 | [offer-decision-advisor](./offer-decision-advisor/) | Offer 选择顾问：比较两份及以上 Offer，结合兴趣、行业、岗位、薪资、城市与个人底线，给出可解释的建议、反转条件和入职前核实话术 |
 
 <a id="investment-research"></a>
