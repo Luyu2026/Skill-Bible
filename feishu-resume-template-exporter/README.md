@@ -7,7 +7,7 @@
 ## 你会拿到什么
 
 - 与样稿同一套版式的 `.docx`；
-- 与 Word 内容一致、字体嵌入且跨设备不易乱版的 PDF；
+- 检测到 Microsoft Word 时由 Word 自动导出的 PDF；未检测到时由 LibreOffice 生成的兼容 PDF；
 - 顶部姓名、联系方式和头像的协调布局；
 - 左侧公司/项目与角色、右侧日期的简历条目；
 - 一页放得下就保持单页，内容更多时自然延展，避免把文字压得不可读。
@@ -51,4 +51,4 @@ https://github.com/Luyu2026/Skill-Bible/tree/main/feishu-resume-template-exporte
 
 ## 这个 Skill 的边界
 
-它负责排版和导出，不负责替你补经历或虚构事实。PDF 默认由 Skill 直接生成，避免不同办公软件转换时出现中文字体、行距和表格错位。简历内容还没有写好时，建议先使用“JD 定制简历”或“简历去 AI 味”，再用这个 Skill 输出最终投递文件。
+它负责排版和导出，不负责替你补经历或虚构事实。导出时会先检查本机的软件：有 Microsoft Word 时直接自动调用 Word 导出 Word 与 PDF；没有 Word 时，Skill 会同时交付 Word 和 LibreOffice 生成的兼容 PDF。若你的电脑有 WPS，也可以用收到的 Word 文件在 WPS 中自行导出 PDF，以本机 WPS 的排版结果为准。飞书导出和重新绘制 PDF 都不会被当作 Word 保真的方案。简历内容还没有写好时，建议先使用“JD 定制简历”或“简历去 AI 味”，再用这个 Skill 输出最终投递文件。
