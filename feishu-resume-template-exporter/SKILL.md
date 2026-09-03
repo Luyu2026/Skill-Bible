@@ -69,6 +69,7 @@ python3 scripts/export_pdf_native.py \
 - A simulated avatar must carry the label “模拟头像（示意）” in the Feishu source and must never replace a real supplied photo.
 - The final Word and PDF must contain the same content and originate from the same DOCX.
 - Microsoft Word is the first-choice PDF engine and can be automated on macOS and Windows. When Word is unavailable, use LibreOffice and describe the output as a compatibility PDF, not as layout-identical to Word.
+- The bundled Source Han Serif font must remain with the Skill. The LibreOffice exporter enables it automatically so Chinese text does not degrade into missing-glyph boxes in a headless environment.
 - In the delivery note, tell students with WPS that they can open the delivered DOCX in WPS and use its own export-to-PDF function when they prefer WPS's local rendering. Do not claim that WPS export was performed unless it actually was.
 
 Read [input-schema.md](references/input-schema.md) before creating or modifying the content JSON.

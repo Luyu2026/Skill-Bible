@@ -3,10 +3,12 @@
 
 import argparse
 import json
+import os
 import platform
 import shutil
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 
@@ -76,10 +78,32 @@ def export_with_libreoffice(source, output):
     if not soffice:
         raise RuntimeError("LibreOffice is not installed")
     output.parent.mkdir(parents=True, exist_ok=True)
-    subprocess.run([
+    command = [
         soffice, "--headless", "--convert-to", "pdf",
         "--outdir", str(output.parent), str(source),
-    ], check=True)
+    ]
+    font_dir = Path(__file__).resolve().parent.parent / "assets" / "fonts"
+    source_han = font_dir / "SourceHanSerifCN-Medium.ttf"
+
+    if source_han.exists():
+        # LibreOffice may otherwise substitute a non-CJK font in headless mode.
+        with tempfile.TemporaryDirectory(prefix="resume-fontconfig-") as temp_dir:
+            config = Path(temp_dir) / "fonts.conf"
+            config.write_text(
+                "<?xml version=\"1.0\"?>\n"
+                "<!DOCTYPE fontconfig SYSTEM \"fonts.dtd\">\n"
+                "<fontconfig>\n"
+                f"  <dir>{font_dir}</dir>\n"
+                f"  <cachedir>{Path(temp_dir) / 'cache'}</cachedir>\n"
+                "</fontconfig>\n",
+                encoding="utf-8",
+            )
+            environment = os.environ.copy()
+            environment["FONTCONFIG_FILE"] = str(config)
+            environment["FONTCONFIG_PATH"] = temp_dir
+            subprocess.run(command, check=True, env=environment)
+    else:
+        subprocess.run(command, check=True)
     generated = output.parent / f"{source.stem}.pdf"
     if generated != output:
         generated.replace(output)

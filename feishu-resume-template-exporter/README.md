@@ -51,4 +51,4 @@ https://github.com/Luyu2026/Skill-Bible/tree/main/feishu-resume-template-exporte
 
 ## 这个 Skill 的边界
 
-它负责排版和导出，不负责替你补经历或虚构事实。导出时会先检查本机的软件：有 Microsoft Word 时直接自动调用 Word 导出 Word 与 PDF；没有 Word 时，Skill 会同时交付 Word 和 LibreOffice 生成的兼容 PDF。若你的电脑有 WPS，也可以用收到的 Word 文件在 WPS 中自行导出 PDF，以本机 WPS 的排版结果为准。飞书导出和重新绘制 PDF 都不会被当作 Word 保真的方案。简历内容还没有写好时，建议先使用“JD 定制简历”或“简历去 AI 味”，再用这个 Skill 输出最终投递文件。
+它负责排版和导出，不负责替你补经历或虚构事实。导出时会先检查本机的软件：有 Microsoft Word 时直接自动调用 Word 导出 Word 与 PDF；没有 Word 时，Skill 会同时交付 Word 和 LibreOffice 生成的兼容 PDF。Skill 已自带中文字体，避免兼容导出时出现文字方框。若你的电脑有 WPS，也可以用收到的 Word 文件在 WPS 中自行导出 PDF，以本机 WPS 的排版结果为准。飞书导出和重新绘制 PDF 都不会被当作 Word 保真的方案。简历内容还没有写好时，建议先使用“JD 定制简历”或“简历去 AI 味”，再用这个 Skill 输出最终投递文件。
