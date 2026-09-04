@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-29-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-30-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -32,7 +32,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
 | ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
-| 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 11 个求职 Skill |
+| 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 12 个求职 Skill |
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
@@ -59,6 +59,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [interview-resume-deep-dive](./interview-resume-deep-dive/) | 把简历经历拆成“表层问题 + 追问问题”两层题库；每一题都给出基于真实材料的可直接开口答案、量化口径和下一层追问，提前练掉最容易被击穿的简历细节 |
 | [interview-round-prep](./interview-round-prep/) | 在面试备书基础上继续拆一面、二面、三面/终面、HR 面，按轮次生成高概率题、回答思路、可直接开口答案和追问预判；适合面试前按轮次集中练习，支持飞书文档或本地 Markdown |
 | [interview-script-naturalizer](./interview-script-naturalizer/) | 面试逐字稿去 AI 味：把 AI 生成或过度书面化的项目回答，改成真实、自然、能直接开口且接得住追问的表达；保留本人事实，不虚构数据 |
+| [interview-learning-loop](./interview-learning-loop/) | 面试训练循环：把每天的练习、模拟与真实面试反馈沉淀进同一份训练档案；始终更新今日最该做的一步，并按卡点联动备书、表达、复盘、岗位核验或谈薪 Skill |
 | [interview-transcript-replay](./interview-transcript-replay/) | 根据面试录音转写、PDF、飞书文档或纯文本记录，提炼真实面试问题，诊断原回答失分点，并生成核心问题复盘、其他问题复盘、可直接开口答案和下次练习计划 |
 | [resume-ai-naturalizer](./resume-ai-naturalizer/) | 把“赋能、闭环、从 0 到 1”式套话简历改成可投递、可追问的真实表达；输出 AI 腔反例、不同岗位侧重的经历版本、60 秒面试说法、追问和事实边界 |
 | [resume-jd-tailor](./resume-jd-tailor/) | 根据目标岗位 JD 和原始经历，把“信息很少/写得很薄”的经历改成可直接复制进简历的岗位定制 bullet；输出可切入岗位对比、写法策略、无数据占位版与逻辑自洽示例数据版，支持飞书文档或本地 Markdown |
