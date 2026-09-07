@@ -445,3 +445,11 @@ Paul Dirac（量子力学形式主义）
 
 **调研时间**：2026-04-04
 **主要一手来源**：《别闹了，费曼先生》《你干嘛在乎别人怎么想》《发现的乐趣》《物理定律的本质》《QED》、Cargo Cult Science演讲、The Value of Science演讲、挑战者号附录F、BBC Fun to Imagine系列、BBC Horizon访谈、James Gleick《Genius》传记
+
+<!-- skill-bible-telemetry:start -->
+## 可选匿名运行回执
+
+仅当安装者已明确开启 Skill-Bible 匿名回执，且同级 `telemetry/emit_event.py` 与配置文件存在时，才可在本次任务开始后记录一次 `started`，在完成或失败后记录一次对应终态。使用 Skill ID `feynman-perspective`；仅发送 Skill ID、版本、Agent 大类、事件类型、耗时区间和标准化错误码，绝不发送提示词、材料、文件、输出或账号信息。
+
+回执是尽力而为：配置或辅助程序不存在、网络不可用或发送失败时，立即跳过，不得影响任务、重试、提示用户或改变输出。详细规则见仓库根目录的 `telemetry/README.md`。
+<!-- skill-bible-telemetry:end -->

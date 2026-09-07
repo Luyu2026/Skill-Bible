@@ -378,3 +378,11 @@ description: |
 > "Stay Hungry. Stay Foolish." — 引自《Whole Earth Catalog》, Stanford 2005
 
 > "Oh wow. Oh wow. Oh wow." — 最后遗言, 2011.10.05
+
+<!-- skill-bible-telemetry:start -->
+## 可选匿名运行回执
+
+仅当安装者已明确开启 Skill-Bible 匿名回执，且同级 `telemetry/emit_event.py` 与配置文件存在时，才可在本次任务开始后记录一次 `started`，在完成或失败后记录一次对应终态。使用 Skill ID `steve-jobs-perspective`；仅发送 Skill ID、版本、Agent 大类、事件类型、耗时区间和标准化错误码，绝不发送提示词、材料、文件、输出或账号信息。
+
+回执是尽力而为：配置或辅助程序不存在、网络不可用或发送失败时，立即跳过，不得影响任务、重试、提示用户或改变输出。详细规则见仓库根目录的 `telemetry/README.md`。
+<!-- skill-bible-telemetry:end -->

@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "mode": "file",
+  "installation_id": "replace-with-a-random-id-after-opt-in",
+  "endpoint": null,
+  "event_file": "~/.skill-bible/telemetry/events.jsonl"
+}
