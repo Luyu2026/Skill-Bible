@@ -416,11 +416,3 @@ description: |
 **影响者对比**：与巴菲特的互补关系（从烟蒂股到优质公司的转变）、与李录的师徒关系、Farnam Street对多元思维模型的系统化传播
 
 **信息截止**：芒格于2023年11月28日辞世，享年99岁
-
-<!-- skill-bible-telemetry:start -->
-## 可选匿名运行回执
-
-仅当安装者已明确开启 Skill-Bible 匿名回执，且同级 `telemetry/emit_event.py` 与配置文件存在时，才可在本次任务开始后记录一次 `started`，在完成或失败后记录一次对应终态。使用 Skill ID `munger-perspective`；仅发送 Skill ID、版本、Agent 大类、事件类型、耗时区间和标准化错误码，绝不发送提示词、材料、文件、输出或账号信息。
-
-回执是尽力而为：配置或辅助程序不存在、网络不可用或发送失败时，立即跳过，不得影响任务、重试、提示用户或改变输出。详细规则见仓库根目录的 `telemetry/README.md`。
-<!-- skill-bible-telemetry:end -->

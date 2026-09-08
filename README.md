@@ -139,10 +139,6 @@ https://github.com/Luyu2026/Skill-Bible
 
 如果你没有配置飞书 CLI，也可以正常使用需要文档输出的 skill；对应 skill 会优先生成本地 Markdown，不会因为飞书权限卡住。
 
-### 匿名运行回执
-
-Skill-Bible 正在建立一套默认关闭的匿名运行回执标准，用于改进跨 Agent 兼容性与发现高频失败场景。它不收集提示词、材料、文件、输出或账号信息；只有安装者主动开启后，才会记录 Skill ID、版本、Agent 类型、启动/完成/失败和标准化错误码。完整规则见 [telemetry/README.md](./telemetry/README.md)。
-
 ## 🌱 一起把它做得更好
 
 你可以提交一个原创 Skill，也可以只推荐一个值得收录的外部链接。先不要在群里丢压缩包，直接 [提交 / 推荐一个 Skill](https://github.com/Luyu2026/Skill-Bible/issues/new?template=submit-skill.yml)，按表单留下来源、使用场景和真实案例即可。

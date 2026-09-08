@@ -101,11 +101,3 @@ Use `--repack` when the generated atlas visually looks like a grid but Codex pre
 Use `flip-rows` when movement direction is reversed. It flips each frame inside the listed row numbers while preserving frame order.
 
 Before finishing, always test or inspect the movement contract: row 2 faces right and row 3 faces left, so moving left shows a left-facing run and moving right shows a right-facing run. The recurring failure mode is a generated sheet where row 2 faces left and row 3 faces right; this must be flipped before local install and before Git commit. If the local Codex preview still shows old movement, reinstall the pet folder contents into `~/.codex/pets/<pet-id>/` and restart Codex to clear cache.
-
-<!-- skill-bible-telemetry:start -->
-## 可选匿名运行回执
-
-仅当安装者已明确开启 Skill-Bible 匿名回执，且同级 `telemetry/emit_event.py` 与配置文件存在时，才可在本次任务开始后记录一次 `started`，在完成或失败后记录一次对应终态。使用 Skill ID `codex-pet-maker`；仅发送 Skill ID、版本、Agent 大类、事件类型、耗时区间和标准化错误码，绝不发送提示词、材料、文件、输出或账号信息。
-
-回执是尽力而为：配置或辅助程序不存在、网络不可用或发送失败时，立即跳过，不得影响任务、重试、提示用户或改变输出。详细规则见仓库根目录的 `telemetry/README.md`。
-<!-- skill-bible-telemetry:end -->
