@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-26-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-35-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -32,11 +32,12 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | Category | What it helps with | Included now |
 |---|---|---|
 | ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative |
-| 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 9 job-search Skills |
+| 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 12 job-search Skills |
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
+| 🛠️ [**Skill development**](#skill-development) | Make Skills discoverable, testable, releasable, and maintainable | 5 development Skills |
 
 ---
 
@@ -61,8 +62,11 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | [interview-resume-deep-dive](./interview-resume-deep-dive/) | Turn resume bullets into a two-layer interview bank of surface questions and follow-ups, each grounded in real evidence with a speakable answer and the next likely challenge |
 | [interview-round-prep](./interview-round-prep/) | Prepare the same project differently for each interview round |
 | [interview-script-naturalizer](./interview-script-naturalizer/) | Turn AI-generated or overly formal interview scripts into natural, speakable answers that retain the user's facts and hold up under follow-up questions |
+| [interview-learning-loop](./interview-learning-loop/) | Maintain one evolving interview-training record, update today's task, and route each new practice or interview signal to the right next action |
 | [interview-transcript-replay](./interview-transcript-replay/) | Turn an interview transcript into the key misses, revised answers, and a practice plan |
+| [resume-ai-naturalizer](./resume-ai-naturalizer/) | Replace generic AI phrasing with evidence-based resume language while preserving facts and follow-up boundaries |
 | [resume-jd-tailor](./resume-jd-tailor/) | Turn existing experience into role-specific resume bullets without inventing facts |
+| [feishu-resume-template-exporter](./feishu-resume-template-exporter/) | Turn a structured Feishu resume into Word and PDF files that follow the bundled resume layout |
 | [offer-decision-advisor](./offer-decision-advisor/) | Compare offers across role, industry, income, city, constraints, and non-negotiables |
 
 <a id="investment-research"></a>
@@ -106,6 +110,17 @@ The perspective Skills are research-based mental models for decisions, products,
 | Skill | What it helps with |
 |---|---|
 | [codex-pet-maker](./codex-pet-maker/) | Create, repair, package, and install animated Codex desktop pets |
+
+<a id="skill-development"></a>
+### 🛠️ Skill development
+
+| Skill | What it helps with |
+|---|---|
+| [skill-route-orchestrator](./skill-route-orchestrator/) | Route an ambiguous, multi-step work situation to one primary Skill and the shortest useful supporting path |
+| [skill-eval-runner](./skill-eval-runner/) | Test a Skill with realistic, missing-information, and boundary cases before release |
+| [skill-discovery-optimizer](./skill-discovery-optimizer/) | Improve names, trigger descriptions, and neighboring boundaries so agents route correctly |
+| [skill-release-auditor](./skill-release-auditor/) | Check promises, resources, evals, dependencies, licenses, and documentation before release |
+| [skill-iteration-loop](./skill-iteration-loop/) | Turn external references, compliant feedback, or eval failures into tested Skill improvements |
 
 ## 📦 Install one Skill
 

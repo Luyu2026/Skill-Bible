@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill 迭代闭环"
+  short_description: "把真实信号转成可验证的下一版 Skill 改动"
+  default_prompt: "Use $skill-iteration-loop to turn this feedback into a tested Skill improvement."
+policy:
+  allow_implicit_invocation: true

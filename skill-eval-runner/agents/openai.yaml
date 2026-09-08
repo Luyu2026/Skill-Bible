@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill 评测器"
+  short_description: "用可复跑案例验证一个 Skill 是否可上架"
+  default_prompt: "Use $skill-eval-runner to evaluate whether this Skill is ready to publish."
+policy:
+  allow_implicit_invocation: true

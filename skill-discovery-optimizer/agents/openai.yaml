@@ -1,0 +1,6 @@
+interface:
+  display_name: "Skill 发现优化器"
+  short_description: "优化触发描述与边界，减少 Skill 误调用"
+  default_prompt: "Use $skill-discovery-optimizer to improve this Skill's discovery metadata."
+policy:
+  allow_implicit_invocation: true
