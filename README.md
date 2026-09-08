@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-35-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-30-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -37,7 +37,6 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
-| 🛠️ [**Skill 研发**](#skill-development) | 把 Skill 做成可发现、可评测、可发布、可迭代的产品 | 5 个研发 Skill |
 
 ---
 
@@ -108,17 +107,6 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | Skill | 用途 |
 |---|---|
 | [codex-pet-maker](./codex-pet-maker/) | 创建/修复/安装 Codex 桌面编程宠物动画，内含 10 个成品 pet |
-
-<a id="skill-development"></a>
-## 🛠️ Skill 研发
-
-| Skill | 用途 |
-|---|---|
-| [skill-route-orchestrator](./skill-route-orchestrator/) | 面对模糊、跨步骤的工作事件，选择一个主 Skill 和必要的辅助 Skill，给出最短可执行路径 |
-| [skill-eval-runner](./skill-eval-runner/) | 用真实感输入、信息不足和边界场景，验证一个 Skill 是否真的可以上架 |
-| [skill-discovery-optimizer](./skill-discovery-optimizer/) | 优化 Skill 名称、触发描述和相邻边界，让 Agent 更容易正确调用 |
-| [skill-release-auditor](./skill-release-auditor/) | 在发布前核对能力承诺、资源、评测、依赖、许可证与说明是否一致 |
-| [skill-iteration-loop](./skill-iteration-loop/) | 将外部参考、合规反馈或评测失败转成下一版 Skill 的可验证改动 |
 
 ## 📦 使用方式
 

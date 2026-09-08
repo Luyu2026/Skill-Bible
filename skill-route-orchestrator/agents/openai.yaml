@@ -1,6 +1,0 @@
-interface:
-  display_name: "Skill 路由器"
-  short_description: "为模糊工作问题选出最短的 Skill 路径"
-  default_prompt: "Use $skill-route-orchestrator to decide the next Skill path for my current situation."
-policy:
-  allow_implicit_invocation: true

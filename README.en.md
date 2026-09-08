@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-35-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-30-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -37,7 +37,6 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
-| 🛠️ [**Skill development**](#skill-development) | Make Skills discoverable, testable, releasable, and maintainable | 5 development Skills |
 
 ---
 
@@ -110,17 +109,6 @@ The perspective Skills are research-based mental models for decisions, products,
 | Skill | What it helps with |
 |---|---|
 | [codex-pet-maker](./codex-pet-maker/) | Create, repair, package, and install animated Codex desktop pets |
-
-<a id="skill-development"></a>
-### 🛠️ Skill development
-
-| Skill | What it helps with |
-|---|---|
-| [skill-route-orchestrator](./skill-route-orchestrator/) | Route an ambiguous, multi-step work situation to one primary Skill and the shortest useful supporting path |
-| [skill-eval-runner](./skill-eval-runner/) | Test a Skill with realistic, missing-information, and boundary cases before release |
-| [skill-discovery-optimizer](./skill-discovery-optimizer/) | Improve names, trigger descriptions, and neighboring boundaries so agents route correctly |
-| [skill-release-auditor](./skill-release-auditor/) | Check promises, resources, evals, dependencies, licenses, and documentation before release |
-| [skill-iteration-loop](./skill-iteration-loop/) | Turn external references, compliant feedback, or eval failures into tested Skill improvements |
 
 ## 📦 Install one Skill
 

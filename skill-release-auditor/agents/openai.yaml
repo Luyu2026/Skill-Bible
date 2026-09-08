@@ -1,6 +1,0 @@
-interface:
-  display_name: "Skill 发布审计"
-  short_description: "在上架前检查 Skill 的一致性、证据与风险"
-  default_prompt: "Use $skill-release-auditor to audit whether this Skill is ready to release."
-policy:
-  allow_implicit_invocation: true
