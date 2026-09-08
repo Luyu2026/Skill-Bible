@@ -1,0 +1,36 @@
+# Skill-Bible Notices and License Scope
+
+## What the default content license covers
+
+`LICENSE` applies only to original Skill-Bible instructional content: Skill
+instructions, original documentation, examples, evaluation rubrics, and
+original reference notes, unless a file or directory says otherwise.
+
+## Code and scripts
+
+Files in a `scripts/` directory, and standalone executable source files, are
+licensed under Apache License 2.0. See `LICENSE-CODE`.
+
+## Excluded materials
+
+The following are not automatically licensed by `LICENSE` or `LICENSE-CODE`:
+
+- third-party works, quotations, screenshots, datasets, and linked sources;
+- externally supplied templates, fonts, images, audio, video, and other
+  binary assets;
+- user-provided materials and personal data used while running a Skill;
+- the Skill-Bible name, logos, visual identity, and trademarks; and
+- any file or directory carrying its own license, rights notice, or source
+  attribution.
+
+Use excluded materials only under the permissions supplied by their respective
+rightsholders or under applicable law. A source citation is not itself a
+license grant.
+
+## Contributions
+
+By submitting original content to this repository, contributors represent that
+they have the right to contribute it and agree that their contribution may be
+distributed under the license that applies to the relevant file type above.
+Do not submit confidential materials, user data, or content copied from a
+source whose terms do not permit redistribution.

@@ -1,0 +1,30 @@
+# Skill-Bible Content License
+
+Unless a file or directory states otherwise, the original Skill instructions,
+documentation, examples, evaluation rubrics, and original reference notes in
+this repository are licensed under the **Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+
+You may copy, share, and adapt the covered material for personal use, learning,
+research, and other non-commercial purposes, provided that you:
+
+1. give appropriate attribution to Skill-Bible and link to this repository;
+2. provide a link to the CC BY-NC 4.0 license; and
+3. indicate whether you made changes.
+
+You may not use covered material primarily for commercial advantage or
+monetary compensation without separate permission from the copyright holder.
+
+The full legal code is available at:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+The human-readable license summary is available at:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+This license does not grant rights to the Skill-Bible name, logos, visual
+identity, trademarks, third-party materials, or any file marked with a
+different license. See [NOTICE](./NOTICE) for scope and exceptions. Source
+code and scripts are licensed separately under [LICENSE-CODE](./LICENSE-CODE).
+
+For commercial licensing or other permissions, please open a GitHub Issue in
+this repository with the intended use and contact details.

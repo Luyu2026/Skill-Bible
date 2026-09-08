@@ -141,3 +141,19 @@ Skill Bible is not trying to mirror every Skill file on the internet. We care wh
 | Editor's Pick | Clear real-world value, documented boundaries, and maintainable quality | Worth prioritizing |
 
 Skill Bible keeps the final right to include, grade, and recommend a Skill. The goal is not a pile of files. The goal is to help Chinese-speaking users find Skills that actually work.
+
+## License
+
+Skill-Bible uses split licensing so people and Agents can determine reuse
+rights clearly:
+
+- Original Skill instructions, documentation, examples, and evaluation
+  materials are available under [CC BY-NC 4.0](./LICENSE): attribution is
+  required, and commercial use requires separate permission.
+- Code and scripts are available under [Apache License 2.0](./LICENSE-CODE).
+- Third-party material, fonts, templates, images, user-provided material, and
+  the Skill-Bible name and visual identity are not automatically licensed by
+  either license. See [NOTICE](./NOTICE) for the scope and exceptions.
+
+For commercial licensing, open a GitHub Issue with the intended use and
+contact details.
