@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-51-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-52-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -37,6 +37,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
+| 📊 [**数据办公**](#data-operations) | 核对业务导出表，找出遗漏、重复与差异 | CSV 双表差异核对 |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -130,6 +131,13 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [inamori-perspective](./inamori-perspective/) | 稻盛和夫 | 作为人，何谓正确？动机至善，私心了无。 |
 | [laozi-perspective](./laozi-perspective/) | 老子 | 反者道之动。物极必反，柔弱胜刚强。 |
 | [wang-yangming-perspective](./wang-yangming-perspective/) | 王阳明 | 心即理，知行合一，致良知。破山中贼易，破心中贼难。 |
+
+<a id="data-operations"></a>
+## 📊 数据办公
+
+| Skill | 用途 |
+|---|---|
+| [csv-table-reconcile](./csv-table-reconcile/) | 按单键或复合键核对两份 CSV/TSV，隔离重复与空键，输出单侧缺失、字段差异和可追溯明细；支持明确指定的数值容差 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助

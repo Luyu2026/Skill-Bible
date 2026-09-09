@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-51-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-52-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -37,6 +37,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
+| 📊 [**Data operations**](#data-operations) | Reconcile business exports and locate missing, duplicate, or changed records | CSV table reconciliation |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
@@ -132,6 +133,13 @@ The perspective Skills are research-based mental models for decisions, products,
 | [inamori-perspective](./inamori-perspective/) | Kazuo Inamori | As a human being, what is right? Pure motive, no selfish intent. |
 | [laozi-perspective](./laozi-perspective/) | Laozi | The Way moves by returning. Things reverse at the extreme; the soft overcomes the hard. |
 | [wang-yangming-perspective](./wang-yangming-perspective/) | Wang Yangming | Mind is principle; knowledge and action are one. Extend your innate knowing. |
+
+<a id="data-operations"></a>
+### 📊 Data operations
+
+| Skill | What it helps with |
+|---|---|
+| [csv-table-reconcile](./csv-table-reconcile/) | Compare two CSV/TSV exports by single or composite keys, isolate duplicate and empty keys, and produce traceable differences with explicit numeric tolerances |
 
 <a id="development-tools"></a>
 ### 🧰 Development

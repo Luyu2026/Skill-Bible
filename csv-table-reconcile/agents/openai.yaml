@@ -1,0 +1,4 @@
+interface:
+  display_name: "CSV 双表差异核对"
+  short_description: "按单键或复合键核对两份导出表，定位缺失、重复与字段差异并生成明细"
+  default_prompt: "用 $csv-table-reconcile 核对我提供的两份 CSV，确认主键后生成差异摘要和逐条明细。"
