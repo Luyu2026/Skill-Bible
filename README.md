@@ -36,6 +36,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
+| ⚙️ [**元 Skill**](#meta-skill) | 输入一个职业/职能，自动调研并生成一套体系化的职业 Skill 链 | 陆羽Skill |
 | 📦 [**产品管理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 22 个 PM Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
@@ -101,6 +102,13 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [inamori-perspective](./inamori-perspective/) | 稻盛和夫 | 作为人，何谓正确？动机至善，私心了无。 |
 | [laozi-perspective](./laozi-perspective/) | 老子 | 反者道之动。物极必反，柔弱胜刚强。 |
 | [wang-yangming-perspective](./wang-yangming-perspective/) | 王阳明 | 心即理，知行合一，致良知。破山中贼易，破心中贼难。 |
+
+<a id="meta-skill"></a>
+## ⚙️ 元 Skill
+
+| Skill | 用途 |
+|---|---|
+| [luyu-skill](./luyu-skill/) | 陆羽Skill · 元 Skill 工厂：输入一个职业/职能/行业，自动完成行业基本概念调研 → 遴选 3 专家 + 3 本经典书 → 并行蒸馏 → 生成一套体系化的职业 Skill 链（career-master 总控 + 执行链 + 顾问团），交付即可安装使用 |
 
 <a id="product-management"></a>
 ## 📦 产品管理

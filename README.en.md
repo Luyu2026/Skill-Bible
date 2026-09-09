@@ -36,6 +36,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
+| ⚙️ [**Meta Skill**](#meta-skill) | Input a profession/function, auto-research it, and generate a systematic career Skill chain | LuyuSkill |
 | 📦 [**Product management**](#product-management) | Move from product judgment and research to prototypes, data, experiments, and review | 22 PM Skills (incl. advisory suite) |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
@@ -103,6 +104,13 @@ The perspective Skills are research-based mental models for decisions, products,
 | [inamori-perspective](./inamori-perspective/) | Kazuo Inamori | As a human being, what is right? Pure motive, no selfish intent. |
 | [laozi-perspective](./laozi-perspective/) | Laozi | The Way moves by returning. Things reverse at the extreme; the soft overcomes the hard. |
 | [wang-yangming-perspective](./wang-yangming-perspective/) | Wang Yangming | Mind is principle; knowledge and action are one. Extend your innate knowing. |
+
+<a id="meta-skill"></a>
+### ⚙️ Meta Skill
+
+| Skill | What it helps with |
+|---|---|
+| [luyu-skill](./luyu-skill/) | LuyuSkill · Meta Skill factory: input a profession/function/industry, auto-research its core workflows → select 3 experts + 3 classic books → parallel distillation → generate a systematic career Skill chain (career-master + execution chain + advisory board), ready to install |
 
 <a id="product-management"></a>
 ### 📦 Product management
