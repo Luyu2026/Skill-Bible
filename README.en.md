@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-51-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-66-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -37,7 +37,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
 | ⚙️ [**Meta Skill**](#meta-skill) | Input a profession/function, auto-research it, and generate a systematic career Skill chain | LuyuSkill |
-| 📦 [**Product management**](#product-management) | Move from product judgment and research to prototypes, data, experiments, and review | 22 PM Skills (incl. advisory suite) |
+| 📦 [**Product management**](#product-management) | Move from product judgment and research to prototypes, data, experiments, and review | 21 PM Skills (incl. advisory suite) |
 | 📣 [**General operations**](#general-operations) | Cover the full operations workflow: data, campaigns, content, user segmentation, review | 14 operations Skills (incl. advisory suite) |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
@@ -123,7 +123,7 @@ Start with `pm-master` when the product problem is unclear, then bring in only t
 | [pm-master](./pm-master/) | Product workflow dispatcher: triage the problem → route to the right Skill → orchestrate multi-Skill chains so each step's output feeds the next |
 | [pm-prd-writer](./pm-prd-writer/) | Turn a fuzzy idea or user problem into a reviewable PRD: stage-zero requirement check, four-stage workflow (clarify → structure → enrich → deliver), and a confirmation checklist; degrades to a scoping doc when input is insufficient |
 | [pm-review-board](./pm-review-board/) | Simulate a six-role review (product, engineering, test, design, operations, legal) with severity tiers and opinion quality red lines, surfacing review-day objections before the meeting |
-| [pm-advisory-board](./pm-advisory-board/) | Expert advisory board: Cagan, Torres, Yu Jun + Mom Test / Story Mapping / Build Trap, making "should we do this" disagreements explicit |
+| [pm-advisory-board](./pm-advisory-suite/pm-advisory-board/) | Expert advisory board: Cagan, Torres, Yu Jun + Mom Test / Story Mapping / Build Trap, making "should we do this" disagreements explicit |
 | [pm-advisor-cagan](./pm-advisory-suite/pm-advisor-cagan/) | Marty Cagan lens: review value, usability, feasibility, and business-sustainability risks |
 | [pm-advisor-torres](./pm-advisory-suite/pm-advisor-torres/) | Teresa Torres lens: organize outcomes, opportunities, solutions, and assumptions into an opportunity solution tree |
 | [pm-advisor-yujun](./pm-advisory-suite/pm-advisor-yujun/) | Yu Jun lens: user value = new experience − old experience − switching cost |

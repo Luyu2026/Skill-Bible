@@ -4,7 +4,7 @@ description: |
   阶段性运营策略制定。从业务目标、资源约束、现状数据出发，产出可执行的运营策略文档（目标拆解、策略选择、资源分配、节奏规划）。
   触发词：「下季度策略」「运营规划」「年度计划」「运营策略」「怎么定目标」「策略拆解」「OKR 运营」「阶段性打法」。
   也适用于：用户提供了业务目标/资源/现状数据要求制定运营策略；用户要求把大目标拆解为可执行动作；用户要求评估现有运营策略。
-  不适用于：单次活动策划（用 activity-planner）、单条内容选题（用 content-strategy）、纯数据分析（用 data-analysis）。
+  不适用于：单次活动策划（用 `operations-activity-planner`）、单条内容选题（用 `operations-content-strategy`）、纯数据分析（用 `operations-data-analysis`）。
 ---
 
 # 运营策略制定

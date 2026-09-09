@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-51-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-66-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -37,7 +37,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | ⚙️ [**元 Skill**](#meta-skill) | 输入一个职业/职能，自动调研并生成一套体系化的职业 Skill 链 | 陆羽Skill |
-| 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 22 个 PM Skill（含顾问团） |
+| 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 21 个 PM Skill（含顾问团） |
 | 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
@@ -121,7 +121,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [pm-master](./pm-master/) | 产品工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路，保证上一步产出能被下一步直接用 |
 | [pm-prd-writer](./pm-prd-writer/) | 把模糊需求转化为可评审的 PRD：阶段零需求体检、四阶段工作流（澄清→结构化→补漏→交付）、待确认项清单，信息不足时降级为需求梳理文档 |
 | [pm-review-board](./pm-review-board/) | 模拟产品、研发、测试、设计、运营、法务六角色评审 PRD/原型，按档位预审 + 意见质量红线，会前暴露评审会被喷的问题 |
-| [pm-advisory-board](./pm-advisory-board/) | 产品经理专家顾问团总控：Cagan、Torres、俞军 + Mom Test / Story Mapping / Build Trap，把"该不该做"的分歧提前摆上桌 |
+| [pm-advisory-board](./pm-advisory-suite/pm-advisory-board/) | 产品经理专家顾问团总控：Cagan、Torres、俞军 + Mom Test / Story Mapping / Build Trap，把"该不该做"的分歧提前摆上桌 |
 | [pm-advisor-cagan](./pm-advisory-suite/pm-advisor-cagan/) | Marty Cagan 视角：从价值、可用性、可行性和商业可持续性四类风险审查方案 |
 | [pm-advisor-torres](./pm-advisory-suite/pm-advisor-torres/) | Teresa Torres 视角：用机会解决方案树把 outcome、机会、方案和假设组织起来 |
 | [pm-advisor-yujun](./pm-advisory-suite/pm-advisor-yujun/) | 俞军视角：用用户价值公式（新体验 - 旧体验 - 替换成本）判断取舍 |
