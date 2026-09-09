@@ -36,7 +36,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
-| 📦 [**Product management**](#product-management) | Move from product judgment and research to prototypes, data, experiments, and review | PM Skills (requirement convergence first, expanding as validated) |
+| 📦 [**Product management**](#product-management) | Move from product judgment and research to prototypes, data, experiments, and review | 22 PM Skills (incl. advisory suite) |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
@@ -107,11 +107,31 @@ The perspective Skills are research-based mental models for decisions, products,
 <a id="product-management"></a>
 ### 📦 Product management
 
-Start from requirement convergence: turn a fuzzy idea, meeting notes, or user feedback into a reviewable PRD. Once this loop is proven, discovery, review, prioritization, roadmap, measurement, experimentation, analysis, and retrospective skills will be added as they are validated. Every Skill also works on its own.
+Start with `pm-master` when the product problem is unclear, then bring in only the needed Skills for discovery, requirements, review, prioritization, roadmap, measurement, experimentation, analysis, or retrospective. Every Skill also works on its own.
 
 | Skill | What it helps with |
 |---|---|
-| [pm-prd-writer](./pm-prd-writer/) | Turn a fuzzy idea or user problem into a reviewable, buildable, testable PRD: stage-zero requirement check, four-stage workflow (clarify → structure → enrich → deliver), and a confirmation checklist; degrades to a requirement-scoping doc when input is insufficient |
+| [pm-master](./pm-master/) | Product workflow dispatcher: triage the problem → route to the right Skill → orchestrate multi-Skill chains so each step's output feeds the next |
+| [pm-prd-writer](./pm-prd-writer/) | Turn a fuzzy idea or user problem into a reviewable PRD: stage-zero requirement check, four-stage workflow (clarify → structure → enrich → deliver), and a confirmation checklist; degrades to a scoping doc when input is insufficient |
+| [pm-review-board](./pm-review-board/) | Simulate a six-role review (product, engineering, test, design, operations, legal) with severity tiers and opinion quality red lines, surfacing review-day objections before the meeting |
+| [pm-advisory-board](./pm-advisory-board/) | Expert advisory board: Cagan, Torres, Yu Jun + Mom Test / Story Mapping / Build Trap, making "should we do this" disagreements explicit |
+| [pm-advisor-cagan](./pm-advisory-suite/pm-advisor-cagan/) | Marty Cagan lens: review value, usability, feasibility, and business-sustainability risks |
+| [pm-advisor-torres](./pm-advisory-suite/pm-advisor-torres/) | Teresa Torres lens: organize outcomes, opportunities, solutions, and assumptions into an opportunity solution tree |
+| [pm-advisor-yujun](./pm-advisory-suite/pm-advisor-yujun/) | Yu Jun lens: user value = new experience − old experience − switching cost |
+| [pm-method-mom-test](./pm-advisory-suite/pm-method-mom-test/) | The Mom Test: rewrite interviews around past behavior, concrete facts, and real commitments |
+| [pm-method-story-mapping](./pm-advisory-suite/pm-method-story-mapping/) | User Story Mapping: align the full journey and slice an end-to-end testable MVP |
+| [pm-method-build-trap](./pm-advisory-suite/pm-method-build-trap/) | Escaping the Build Trap: reconnect the roadmap to observable outcomes |
+| [pm-survey-designer](./pm-survey-designer/) | Design high-quality surveys from research goals: every question maps to a hypothesis, with bias/double-barrel/sampling checks |
+| [pm-competitor-deconstructor](./pm-competitor-deconstructor/) | Deconstruct competitors across strategy, capability, experience, and growth; separate borrowable from non-copyable and unvalidated opportunities |
+| [pm-prioritization-engine](./pm-prioritization-engine/) | RICE / ICE / Kano multi-model scoring + hard constraints + sensitivity analysis |
+| [pm-roadmap-planner](./pm-roadmap-planner/) | Turn quarterly goals, capacity, and dependencies into a version roadmap with milestones, risks, and buffers |
+| [pm-tracking-spec-writer](./pm-tracking-spec-writer/) | Break product goals and user journeys into event dictionaries, metric definitions, privacy boundaries, and QA checklists |
+| [pm-experiment-designer](./pm-experiment-designer/) | Complete A/B experiment design: falsifiable hypotheses, allocation, sample size, stop rules, and decision criteria |
+| [pm-analytics](./pm-analytics/) | From data signals to product decisions: data health check, metric decomposition, evidence-graded attribution, visualized report |
+| [pm-postmortem-writer](./pm-postmortem-writer/) | Structured retrospective: 5-Why root-cause evidence + enforced graded action items, ready to publish |
+| [pm-image2proto](./pm-image2proto/) | Screenshot → runnable, inspectable, editable HTML prototype |
+| [pm-image2pencil](./pm-image2pencil/) | Screenshot → editable Pencil design + structured design doc |
+| [pm-url2proto](./pm-url2proto/) | Authorized webpage → local, maintainable Next.js prototype project |
 
 <a id="development-tools"></a>
 ### 🧰 Development

@@ -36,7 +36,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
-| 📦 [**产品管理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | PM Skill（先跑通需求收敛，逐步扩展） |
+| 📦 [**产品管理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 22 个 PM Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -105,11 +105,31 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 <a id="product-management"></a>
 ## 📦 产品管理
 
-从一个说不清的需求开始，可以从需求收敛切入：把想法、会议纪要或用户反馈整理成可评审的 PRD，先跑通这一环，再按需要扩展调研、评审、排序、路线图、埋点、实验、数据分析和复盘能力。每个 Skill 也可以独立使用。
+从一个说不清的需求开始，先用 `pm-master` 判断当前卡点；再按需要接入调研、评审、排序、路线图、埋点、实验、数据分析和复盘能力。每个 Skill 也可以独立使用。
 
 | Skill | 用途 |
 |---|---|
-| [pm-prd-writer](./pm-prd-writer/) | 把模糊想法或用户问题收敛成可评审、可开发、可验收的 PRD：阶段零需求体检、四阶段工作流（澄清→结构化→补漏→交付）、待确认项清单，信息不足时降级为需求梳理文档 |
+| [pm-master](./pm-master/) | 产品工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路，保证上一步产出能被下一步直接用 |
+| [pm-prd-writer](./pm-prd-writer/) | 把模糊需求转化为可评审的 PRD：阶段零需求体检、四阶段工作流（澄清→结构化→补漏→交付）、待确认项清单，信息不足时降级为需求梳理文档 |
+| [pm-review-board](./pm-review-board/) | 模拟产品、研发、测试、设计、运营、法务六角色评审 PRD/原型，按档位预审 + 意见质量红线，会前暴露评审会被喷的问题 |
+| [pm-advisory-board](./pm-advisory-board/) | 产品经理专家顾问团总控：Cagan、Torres、俞军 + Mom Test / Story Mapping / Build Trap，把"该不该做"的分歧提前摆上桌 |
+| [pm-advisor-cagan](./pm-advisory-suite/pm-advisor-cagan/) | Marty Cagan 视角：从价值、可用性、可行性和商业可持续性四类风险审查方案 |
+| [pm-advisor-torres](./pm-advisory-suite/pm-advisor-torres/) | Teresa Torres 视角：用机会解决方案树把 outcome、机会、方案和假设组织起来 |
+| [pm-advisor-yujun](./pm-advisory-suite/pm-advisor-yujun/) | 俞军视角：用用户价值公式（新体验 - 旧体验 - 替换成本）判断取舍 |
+| [pm-method-mom-test](./pm-advisory-suite/pm-method-mom-test/) | 《The Mom Test》方法论：把访谈改成围绕过去行为、具体事实和真实承诺的问法 |
+| [pm-method-story-mapping](./pm-advisory-suite/pm-method-story-mapping/) | 《User Story Mapping》方法论：对齐完整旅程，切出端到端可验证的 MVP |
+| [pm-method-build-trap](./pm-advisory-suite/pm-method-build-trap/) | 《Escaping the Build Trap》方法论：把路线图重新连回可观察的 outcome |
+| [pm-survey-designer](./pm-survey-designer/) | 从调研目标设计高质量问卷：每道题对应一个假设，内置诱导/双重问题/样本偏差检查 |
+| [pm-competitor-deconstructor](./pm-competitor-deconstructor/) | 按策略、功能、体验、增长四维拆解竞品，区分可借鉴、不可照搬与待验证机会 |
+| [pm-prioritization-engine](./pm-prioritization-engine/) | RICE / ICE / Kano 多模型排序 + 硬约束过滤 + 敏感性分析，排优先级不拍脑袋 |
+| [pm-roadmap-planner](./pm-roadmap-planner/) | 从季度目标、团队产能、依赖方反推版本路线图：里程碑、依赖风险、缓冲策略 |
+| [pm-tracking-spec-writer](./pm-tracking-spec-writer/) | 把产品目标和用户链路拆成事件字典、指标口径、隐私边界与 QA 校验清单 |
+| [pm-experiment-designer](./pm-experiment-designer/) | 完整 A/B 实验方案：可证伪假设、分组、样本量估算、止损规则、判定标准 |
+| [pm-analytics](./pm-analytics/) | 从数据现象到产品决策：数据体检、指标拆解、证据分级归因，输出可视化报告 |
+| [pm-postmortem-writer](./pm-postmortem-writer/) | 结构化复盘：5-Why 根因证据 + 强制分级行动项，复盘写完能直接发 |
+| [pm-image2proto](./pm-image2proto/) | 截图 → 可运行、可检查、可继续修改的 HTML 原型 |
+| [pm-image2pencil](./pm-image2pencil/) | 截图 → 可编辑的 Pencil 设计稿 + 结构化设计文档 |
+| [pm-url2proto](./pm-url2proto/) | 获得授权的网页 → 本地可运行、可维护的 Next.js 原型项目 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
