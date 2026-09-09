@@ -36,7 +36,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
-| 📦 [**产品管理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 21 个 PM Skill |
+| 📦 [**产品管理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | PM Skill（先跑通需求收敛，逐步扩展） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -105,31 +105,11 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 <a id="product-management"></a>
 ## 📦 产品管理
 
-从一个说不清的需求开始，可以先用 `pm-master` 判断当前卡点；再按需要接入需求、调研、评审、排序、路线图、埋点、实验、数据分析和复盘能力。每个 Skill 也可以独立使用。
+从一个说不清的需求开始，可以从需求收敛切入：把想法、会议纪要或用户反馈整理成可评审的 PRD，先跑通这一环，再按需要扩展调研、评审、排序、路线图、埋点、实验、数据分析和复盘能力。每个 Skill 也可以独立使用。
 
 | Skill | 用途 |
 |---|---|
-| [pm-master](./pm-master/) | 产品工作总控：先识别当前问题，再用最少必要的 PM Skill 推进，避免所有工具一窝蜂上场 |
-| [pm-prd-writer](./pm-prd-writer/) | 把模糊想法或用户问题收敛成可评审、可开发、可验收的产品需求 |
-| [pm-advisory-board](./pm-advisory-board/) | 面对“该不该做”的高分歧问题，组织价值、发现、用户价值、访谈、切片和 outcome 视角，给出条件化结论 |
-| [pm-advisor-cagan](./pm-advisor-cagan/) | 从价值、可用性、可行性和商业可持续性四类风险审查方案，并设计低成本验证 |
-| [pm-advisor-torres](./pm-advisor-torres/) | 将 outcome、用户机会、方案和假设组织为持续更新的机会树 |
-| [pm-advisor-yujun](./pm-advisor-yujun/) | 比较新体验、旧体验和替换成本，判断产品是否创造足够净用户价值 |
-| [pm-method-mom-test](./pm-method-mom-test/) | 将需求访谈改成围绕过去行为、具体事实和真实承诺的问法 |
-| [pm-method-story-mapping](./pm-method-story-mapping/) | 用用户故事地图对齐完整旅程，并切出端到端可验证的 MVP |
-| [pm-method-build-trap](./pm-method-build-trap/) | 检查团队是否陷入功能产出陷阱，把路线图重新连回可观察的 outcome |
-| [pm-survey-designer](./pm-survey-designer/) | 从研究问题设计可投放、可分析的问卷，并检查诱导、双重问题和样本偏差 |
-| [pm-competitor-deconstructor](./pm-competitor-deconstructor/) | 从策略、功能、体验和增长拆解竞品，区分可借鉴、不可照搬与待验证机会 |
-| [pm-prioritization-engine](./pm-prioritization-engine/) | 用可解释的评分、硬约束和敏感性分析排需求优先级，而不是只给一个总分 |
-| [pm-roadmap-planner](./pm-roadmap-planner/) | 将目标、候选工作、团队产能和依赖转为可更新的产品路线图 |
-| [pm-review-board](./pm-review-board/) | 用产品、研发、测试、设计、运营和合规视角预审方案，给出可复评的风险清单 |
-| [pm-tracking-spec-writer](./pm-tracking-spec-writer/) | 把产品目标和用户链路转成事件字典、指标口径、隐私边界与 QA 验收方案 |
-| [pm-experiment-designer](./pm-experiment-designer/) | 设计 A/B 或替代验证方案，预先定义指标、样本、止损和结果判定规则 |
-| [pm-analytics](./pm-analytics/) | 从指标异常、漏斗、留存或分群数据中形成有证据等级的产品判断与验证计划 |
-| [pm-postmortem-writer](./pm-postmortem-writer/) | 把上线、项目、实验或事故结果整理成有根因证据和可追踪行动项的复盘 |
-| [pm-image-to-prototype](./pm-image-to-prototype/) | 将截图转成可运行、可检查并可继续修改的前端原型 |
-| [pm-url-to-prototype](./pm-url-to-prototype/) | 将获得授权的网页重建为本地可运行、可维护的前端原型 |
-| [pm-image2pencil](./pm-image2pencil/) | 将截图复刻为可编辑的 Pencil 设计稿，并保留结构和组件说明 |
+| [pm-prd-writer](./pm-prd-writer/) | 把模糊想法或用户问题收敛成可评审、可开发、可验收的 PRD：阶段零需求体检、四阶段工作流（澄清→结构化→补漏→交付）、待确认项清单，信息不足时降级为需求梳理文档 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
