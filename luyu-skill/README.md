@@ -19,6 +19,8 @@
 
 **总控分诊 + 链路编排**：生成的 career-master 会判断你是「判断类」（该不该做、怎么选）还是「产出类」（写文档、出方案），分别路由到顾问团或执行链；任务横跨多步时编排链路，保证上一步产出是下一步的合法输入。
 
+**每个执行 Skill 自带参考模板**（模仿 pm-prd-writer 最佳实践）：SKILL.md 只写判断与工作流，完整输出模板（含写作指引）放 `references/output-template.md`——模板不复制进最终文档，可独立复用/迭代。
+
 ## 你会拿到什么
 
 一套完整的职业 Skill 套件目录：
@@ -26,14 +28,14 @@
 ```
 [职业]-skill-suite/
 ├── career-master/          # 总控：分诊 → 路由 → 编排
-├── career-xxx/             # 执行链：3-6 个高频工作场景 Skill
+├── career-xxx/             # 执行链：3-6 个高频工作场景 Skill（各带 references/ 输出模板）
 ├── career-advisor-*/       # 3 位专家视角（心智模型+决策启发式+表达DNA）
 ├── career-method-*/        # 3 本书方法论（框架+规则+清单）
 ├── career-advisory-board/  # 顾问团子总控（路由+评审会+分歧地图）
 └── README.md               # 套件使用说明
 ```
 
-每个 Skill 都是完整目录（SKILL.md + README + SOURCES），可直接安装到任何 skills-compatible 的 Agent。
+每个 Skill 都是完整目录（SKILL.md + README + SOURCES，执行型另加 references/ 模板），可直接安装到任何 skills-compatible 的 Agent。
 
 ## 怎么开始
 

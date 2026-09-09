@@ -232,6 +232,23 @@ A. [方向1]  B. [方向2]  C. [方向3]  D. 其他：___
 
 从 Phase 1 的高频工作场景中，选 3-6 个「反复出现 + 卡人 + 能被体系化解决」的场景，每个生成一个执行 Skill。参照 pm-prd-writer 的结构（输入 → 核心判断 → 编号工作流 → 交付 → 边界）。
 
+**每个执行 Skill 必须自带参考模板**（模仿 pm-prd-writer 的 `references/prd-template.md` 最佳实践）：
+
+```
+[职业]-xxx/
+├── SKILL.md                       # 判断 + 工作流
+├── README.md                      # 使用者说明
+├── SOURCES.md                     # 来源档案
+└── references/
+    └── output-template.md         # ★ 完整输出模板（必配）
+```
+
+- **SKILL.md 保持轻量**：输出章节只写结构概览（一二级标题），并注明"读取 `references/output-template.md` 获取完整模板"
+- **模板含写作指引**：完整章节骨架 + 每节说明（"这节是干嘛的、怎么写"），Agent 生成时参考但不复制到最终文档
+- **模板与判断分离**：改模板不动 SKILL.md 判断逻辑；模板可独立复用/迭代
+
+模板文件命名建议：`<输出物>-template.md`（如 `report-template.md`、`plan-template.md`）。
+
 ### 5.3 顾问团（3 专家 + 3 方法论 + 1 子总控）
 
 - 3 个专家视角 Skill：按 `references/expert-distillation.md` 模板（心智模型 + 决策启发式 + 表达 DNA + 反模式 + 诚实边界 + 回答工作流）
@@ -252,6 +269,7 @@ A. [方向1]  B. [方向2]  C. [方向3]  D. 其他：___
 - [ ] 专家 Skill：读 100 字输出能认出是谁；心智模型 3-5 个且各有证据；诚实边界 ≥3 条
 - [ ] 方法论 Skill：每条规则可追溯章节；框架是"步骤+输出"不是知识罗列
 - [ ] 执行链 Skill：每个覆盖一个真实高频场景，交付物直接可用
+- [ ] 执行链 Skill：每个都带 `references/output-template.md`（SKILL.md 输出章节引用它，模板含写作指引）
 - [ ] 总控：路由覆盖 Phase 1 的高频决策场景；分歧地图非空
 - [ ] 全套：Skill 之间无明显重叠；触发词互不冲突；命名符合规范
 
