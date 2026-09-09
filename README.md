@@ -38,6 +38,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | ⚙️ [**元 Skill**](#meta-skill) | 输入一个职业/职能，自动调研并生成一套体系化的职业 Skill 链 | 陆羽Skill |
 | 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 22 个 PM Skill（含顾问团） |
+| 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -138,6 +139,28 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [pm-image2proto](./pm-image2proto/) | 截图 → 可运行、可检查、可继续修改的 HTML 原型 |
 | [pm-image2pencil](./pm-image2pencil/) | 截图 → 可编辑的 Pencil 设计稿 + 结构化设计文档 |
 | [pm-url2proto](./pm-url2proto/) | 获得授权的网页 → 本地可运行、可维护的 Next.js 原型项目 |
+
+<a id="general-operations"></a>
+## 📣 通用运营
+
+陆羽Skill 为「综合/通用运营」岗位生成的体系化 Skill 套件，覆盖运营完整工作链（数据 → 活动 → 内容 → 用户 → 复盘 → 策略）。先用 `operations-master` 判断当前卡点，再按需接入；判断类问题转 `operations-advisory-board` 顾问团（黄有璨/张亮/曲卉 + 三本经典方法论）。
+
+| Skill | 用途 |
+|---|---|
+| [operations-master](./general-operations-skills/operations-master/) | 运营工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路 |
+| [operations-strategy](./general-operations-skills/operations-strategy/) | 阶段性运营策略：目标拆解、策略选择、资源分配与节奏规划 |
+| [operations-data-analysis](./general-operations-skills/operations-data-analysis/) | 数据归因与决策：指标异动/漏斗/留存转化为证据分级（A/B/C）的判断与行动建议 |
+| [operations-activity-planner](./general-operations-skills/operations-activity-planner/) | 活动策划：从模糊想法到可执行方案，含 ROI 测算与风控 |
+| [operations-content-strategy](./general-operations-skills/operations-content-strategy/) | 内容选题与策略：选题矩阵 + 发布排期 + 数据反馈闭环 |
+| [operations-user-segmentation](./general-operations-skills/operations-user-segmentation/) | 用户分层与触达：RFM/生命周期分层 + 各层差异化策略 |
+| [operations-review](./general-operations-skills/operations-review/) | 运营复盘：根因证据（5-Why）+ 强制分级可追踪行动项 |
+| [operations-advisory-board](./general-operations-skills/operations-advisory-board/) | 运营顾问团总控：路由到专家/方法论，或召开多专家评审会（共识/分歧/综合结论） |
+| [operations-advisor-huang](./general-operations-skills/operations-advisor-huang/) | 黄有璨视角：运营价值判断、做局/破局思维、回报后置 |
+| [operations-advisor-zhang](./general-operations-skills/operations-advisor-zhang/) | 张亮视角：运营四模块体系、用户生命周期、精细化运营 |
+| [operations-advisor-qu](./general-operations-skills/operations-advisor-qu/) | 曲卉视角：增长实验闭环、北极星指标、增长模型 |
+| [operations-method-light-of-operations](./general-operations-skills/operations-method-light-of-operations/) | 《运营之光》方法论：做局破局、四大运营思维、运营第一公式 |
+| [operations-method-lean-analytics](./general-operations-skills/operations-method-lean-analytics/) | 《精益数据分析》方法论：第一关键指标 OMTM、精益分析循环、五阶段门控 |
+| [operations-method-growth-hacking](./general-operations-skills/operations-method-growth-hacking/) | 《增长黑客》方法论：增长实验循环、北极星指标、AARRR 漏斗 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
