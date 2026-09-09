@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-52-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-51-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -32,12 +32,11 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | Category | What it helps with | Included now |
 |---|---|---|
 | ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative |
-| 📦 [**Product management**](#product-management) | Move from product judgment and research to prototypes, data, experiments, and review | 21 PM Skills |
 | 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 12 job-search Skills |
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
-| 📊 [**Data operations**](#data-operations) | Reconcile business exports and locate missing, duplicate, or changed records | CSV table reconciliation |
+| 📦 [**Product management**](#product-management) | Move from product judgment and research to prototypes, data, experiments, and review | 21 PM Skills |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
@@ -51,35 +50,6 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | Turn a rough idea into a structured short-video script, edit version, quotes, and titles |
 | [wechat-visual-narrative](./wechat-visual-narrative/) | Read a finished WeChat article, identify its visual mode, and plan, generate, and place images that improve comprehension rather than decorate the page |
-
-<a id="product-management"></a>
-### 📦 Product management
-
-Start with `pm-master` when the product problem is unclear, then bring in only the needed Skills for discovery, requirements, review, prioritization, roadmap, measurement, experimentation, analysis, or retrospective. Every Skill also works on its own.
-
-| Skill | What it helps with |
-|---|---|
-| [pm-master](./pm-master/) | Identify the current product blocker and route the shortest useful PM workflow |
-| [pm-prd-writer](./pm-prd-writer/) | Turn a fuzzy idea or user problem into a reviewable, buildable, testable requirement |
-| [pm-advisory-board](./pm-advisory-board/) | Surface product disagreements and produce a conditional, evidence-led decision |
-| [pm-advisor-cagan](./pm-advisor-cagan/) | Review value, usability, feasibility, and business risks before delivery |
-| [pm-advisor-torres](./pm-advisor-torres/) | Build an evolving opportunity tree from outcomes, user evidence, solutions, and assumptions |
-| [pm-advisor-yujun](./pm-advisor-yujun/) | Compare new value, old experience, and switching costs for a product choice |
-| [pm-method-mom-test](./pm-method-mom-test/) | Rewrite discovery interviews around past behavior, facts, and real commitments |
-| [pm-method-story-mapping](./pm-method-story-mapping/) | Map an end-to-end user journey and slice a testable MVP release |
-| [pm-method-build-trap](./pm-method-build-trap/) | Reconnect feature output to observable outcomes and a learning cadence |
-| [pm-survey-designer](./pm-survey-designer/) | Design a decision-focused product survey with bias checks and an analysis plan |
-| [pm-competitor-deconstructor](./pm-competitor-deconstructor/) | Compare competitors by strategy, capability, experience, and growth without mistaking screenshots for strategy |
-| [pm-prioritization-engine](./pm-prioritization-engine/) | Prioritize demand with transparent evidence, constraints, and sensitivity analysis |
-| [pm-roadmap-planner](./pm-roadmap-planner/) | Turn outcomes, capacity, dependencies, and candidates into an adaptable roadmap |
-| [pm-review-board](./pm-review-board/) | Pre-review a proposal through product, engineering, test, design, operations, and compliance lenses |
-| [pm-tracking-spec-writer](./pm-tracking-spec-writer/) | Turn product journeys into events, metrics, privacy boundaries, and QA acceptance checks |
-| [pm-experiment-designer](./pm-experiment-designer/) | Design A/B or alternative validation with pre-defined metrics, samples, stop rules, and decisions |
-| [pm-analytics](./pm-analytics/) | Turn product data changes into evidence-graded findings and a validation plan |
-| [pm-postmortem-writer](./pm-postmortem-writer/) | Produce a retrospective with evidence-backed causes and trackable actions |
-| [pm-image-to-prototype](./pm-image-to-prototype/) | Turn interface screenshots into a runnable, inspectable frontend prototype |
-| [pm-url-to-prototype](./pm-url-to-prototype/) | Rebuild an authorized webpage as a local, maintainable frontend prototype |
-| [pm-image2pencil](./pm-image2pencil/) | Recreate a screenshot as an editable Pencil design with structural notes |
 
 <a id="job-search-and-interviews"></a>
 ### 💼 Job search and interviews
@@ -134,12 +104,34 @@ The perspective Skills are research-based mental models for decisions, products,
 | [laozi-perspective](./laozi-perspective/) | Laozi | The Way moves by returning. Things reverse at the extreme; the soft overcomes the hard. |
 | [wang-yangming-perspective](./wang-yangming-perspective/) | Wang Yangming | Mind is principle; knowledge and action are one. Extend your innate knowing. |
 
-<a id="data-operations"></a>
-### 📊 Data operations
+<a id="product-management"></a>
+### 📦 Product management
+
+Start with `pm-master` when the product problem is unclear, then bring in only the needed Skills for discovery, requirements, review, prioritization, roadmap, measurement, experimentation, analysis, or retrospective. Every Skill also works on its own.
 
 | Skill | What it helps with |
 |---|---|
-| [csv-table-reconcile](./csv-table-reconcile/) | Compare two CSV/TSV exports by single or composite keys, isolate duplicate and empty keys, and produce traceable differences with explicit numeric tolerances |
+| [pm-master](./pm-master/) | Identify the current product blocker and route the shortest useful PM workflow |
+| [pm-prd-writer](./pm-prd-writer/) | Turn a fuzzy idea or user problem into a reviewable, buildable, testable requirement |
+| [pm-advisory-board](./pm-advisory-board/) | Surface product disagreements and produce a conditional, evidence-led decision |
+| [pm-advisor-cagan](./pm-advisor-cagan/) | Review value, usability, feasibility, and business risks before delivery |
+| [pm-advisor-torres](./pm-advisor-torres/) | Build an evolving opportunity tree from outcomes, user evidence, solutions, and assumptions |
+| [pm-advisor-yujun](./pm-advisor-yujun/) | Compare new value, old experience, and switching costs for a product choice |
+| [pm-method-mom-test](./pm-method-mom-test/) | Rewrite discovery interviews around past behavior, facts, and real commitments |
+| [pm-method-story-mapping](./pm-method-story-mapping/) | Map an end-to-end user journey and slice a testable MVP release |
+| [pm-method-build-trap](./pm-method-build-trap/) | Reconnect feature output to observable outcomes and a learning cadence |
+| [pm-survey-designer](./pm-survey-designer/) | Design a decision-focused product survey with bias checks and an analysis plan |
+| [pm-competitor-deconstructor](./pm-competitor-deconstructor/) | Compare competitors by strategy, capability, experience, and growth without mistaking screenshots for strategy |
+| [pm-prioritization-engine](./pm-prioritization-engine/) | Prioritize demand with transparent evidence, constraints, and sensitivity analysis |
+| [pm-roadmap-planner](./pm-roadmap-planner/) | Turn outcomes, capacity, dependencies, and candidates into an adaptable roadmap |
+| [pm-review-board](./pm-review-board/) | Pre-review a proposal through product, engineering, test, design, operations, and compliance lenses |
+| [pm-tracking-spec-writer](./pm-tracking-spec-writer/) | Turn product journeys into events, metrics, privacy boundaries, and QA acceptance checks |
+| [pm-experiment-designer](./pm-experiment-designer/) | Design A/B or alternative validation with pre-defined metrics, samples, stop rules, and decisions |
+| [pm-analytics](./pm-analytics/) | Turn product data changes into evidence-graded findings and a validation plan |
+| [pm-postmortem-writer](./pm-postmortem-writer/) | Produce a retrospective with evidence-backed causes and trackable actions |
+| [pm-image-to-prototype](./pm-image-to-prototype/) | Turn interface screenshots into a runnable, inspectable frontend prototype |
+| [pm-url-to-prototype](./pm-url-to-prototype/) | Rebuild an authorized webpage as a local, maintainable frontend prototype |
+| [pm-image2pencil](./pm-image2pencil/) | Recreate a screenshot as an editable Pencil design with structural notes |
 
 <a id="development-tools"></a>
 ### 🧰 Development
