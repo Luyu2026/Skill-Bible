@@ -31,12 +31,11 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
-| ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
+| ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事、字幕时间轴校正 |
 | 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 12 个求职 Skill |
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
-| ⚙️ [**元 Skill**](#meta-skill) | 输入一个职业/职能，自动调研并生成一套体系化的职业 Skill 链 | 陆羽Skill |
 | 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 21 个 PM Skill（含顾问团） |
 | 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
@@ -50,6 +49,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
 | [wechat-visual-narrative](./wechat-visual-narrative/) | 根据已定稿的飞书公众号文章，先识别流程型、命题论证型或案例复盘型，再规划、生成并按位置插入真正帮助理解的配图 |
+| [subtitle-retime](./subtitle-retime/) | 校正 SRT 字幕整体偏移或匀速漂移，保留原稿与字幕文字，交付新字幕和逐条时间变更报告 |
 
 <a id="job-search-and-interviews"></a>
 ## 💼 求职面试
@@ -104,13 +104,6 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [laozi-perspective](./laozi-perspective/) | 老子 | 反者道之动。物极必反，柔弱胜刚强。 |
 | [wang-yangming-perspective](./wang-yangming-perspective/) | 王阳明 | 心即理，知行合一，致良知。破山中贼易，破心中贼难。 |
 
-<a id="meta-skill"></a>
-## ⚙️ 元 Skill
-
-| Skill | 用途 |
-|---|---|
-| [luyu-skill](./luyu-skill/) | 陆羽Skill · 元 Skill 工厂：输入一个职业/职能/行业，自动完成行业基本概念调研 → 遴选 3 专家 + 3 本经典书 → 并行蒸馏 → 生成一套体系化的职业 Skill 链（career-master 总控 + 执行链 + 顾问团），交付即可安装使用 |
-
 <a id="product-management"></a>
 ## 📦 产品经理
 
@@ -143,7 +136,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 <a id="general-operations"></a>
 ## 📣 通用运营
 
-陆羽Skill 为「综合/通用运营」岗位生成的体系化 Skill 套件，覆盖运营完整工作链（数据 → 活动 → 内容 → 用户 → 复盘 → 策略）。先用 `operations-master` 判断当前卡点，再按需接入；判断类问题转 `operations-advisory-board` 顾问团（黄有璨/张亮/曲卉 + 三本经典方法论）。
+面向「综合/通用运营」岗位的体系化 Skill 套件，覆盖运营完整工作链（数据 → 活动 → 内容 → 用户 → 复盘 → 策略）。先用 `operations-master` 判断当前卡点，再按需接入；判断类问题转 `operations-advisory-board` 顾问团（黄有璨/张亮/曲卉 + 三本经典方法论）。
 
 | Skill | 用途 |
 |---|---|

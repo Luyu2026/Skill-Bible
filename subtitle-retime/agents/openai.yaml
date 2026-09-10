@@ -1,0 +1,4 @@
+interface:
+  display_name: "字幕时间轴校正"
+  short_description: "校正 SRT 字幕整体偏移或匀速漂移，保留原稿并交付时间变更报告"
+  default_prompt: "用 $subtitle-retime 根据我提供的偏移量或两组对应时刻校正 SRT，生成新字幕和时间变更报告。"
