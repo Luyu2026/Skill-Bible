@@ -38,6 +38,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 21 个 PM Skill（含顾问团） |
 | 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
+| 👥 [**用户运营**](#user-operations) | 从分层、生命周期、留存到召回、会员、社群，覆盖用户全生命周期 | 14 个用户运营 Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -154,6 +155,28 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [operations-method-light-of-operations](./general-operations-skills/operations-method-light-of-operations/) | 《运营之光》方法论：做局破局、四大运营思维、运营第一公式 |
 | [operations-method-lean-analytics](./general-operations-skills/operations-method-lean-analytics/) | 《精益数据分析》方法论：第一关键指标 OMTM、精益分析循环、五阶段门控 |
 | [operations-method-growth-hacking](./general-operations-skills/operations-method-growth-hacking/) | 《增长黑客》方法论：增长实验循环、北极星指标、AARRR 漏斗 |
+
+<a id="user-operations"></a>
+## 👥 用户运营
+
+陆羽Skill 为「用户运营」岗位生成的体系化 Skill 套件，覆盖用户全生命周期（分层 → 生命周期 → 留存 → 召回 → 会员 → 社群），与通用运营错位互补。先用 `user-operations-master` 判断当前卡点，再按需接入；判断类问题转 `user-operations-advisory-board` 顾问团（张亮/曲卉/徐志斌 + 三本方法论）。
+
+| Skill | 用途 |
+|---|---|
+| [user-operations-master](./user-operations-skills/user-operations-master/) | 用户运营工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路 |
+| [user-operations-segmentation](./user-operations-skills/user-operations-segmentation/) | 用户分层体系：RFM/生命周期/价值分层 + 各层差异化策略 |
+| [user-operations-lifecycle](./user-operations-skills/user-operations-lifecycle/) | 生命周期运营：各阶段目标/策略/动作 + 阶段转化与防流失 |
+| [user-operations-retention](./user-operations-skills/user-operations-retention/) | 留存提升：留存诊断 → 流失定位 → 机制设计（习惯养成）→ 留存实验 |
+| [user-operations-recall](./user-operations-skills/user-operations-recall/) | 沉默唤醒与流失召回：钩子设计 + 渠道成本 + 召回实验 |
+| [user-operations-membership](./user-operations-skills/user-operations-membership/) | 会员体系：等级/权益/积分成长值/成本 ROI 测算 |
+| [user-operations-community](./user-operations-skills/user-operations-community/) | 社群运营：小群拆分/活跃机制/激励转化 |
+| [user-operations-advisory-board](./user-operations-skills/user-operations-advisory-board/) | 用户运营顾问团总控：路由到专家/方法论，或召开多专家评审会 |
+| [user-operations-advisor-zhang](./user-operations-skills/user-operations-advisor-zhang/) | 张亮视角：生命周期、开源节流、精细化运营 |
+| [user-operations-advisor-qu](./user-operations-skills/user-operations-advisor-qu/) | 曲卉视角：留存实验、北极星指标、增长模型 |
+| [user-operations-advisor-xu](./user-operations-skills/user-operations-advisor-xu/) | 徐志斌视角：小群效应、社交红利、用户激励 |
+| [user-operations-method-hooked](./user-operations-skills/user-operations-method-hooked/) | 《上瘾》方法论：Hook 模型、习惯养成、留存机制 |
+| [user-operations-method-membership](./user-operations-skills/user-operations-method-membership/) | 《会员经济》方法论：会员模式、价值阶梯、免费转付费 |
+| [user-operations-method-small-group](./user-operations-skills/user-operations-method-small-group/) | 《小群效应》方法论：三近一反、社群增长与激励引擎 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
