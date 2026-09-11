@@ -40,6 +40,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
 | 👥 [**用户运营**](#user-operations) | 从分层、生命周期、留存到召回、会员、社群，覆盖用户全生命周期 | 14 个用户运营 Skill（含顾问团） |
 | 🌍 [**海外市场营销**](#overseas-marketing) | 从市场调研、品牌定位到内容SEO、投放、邮件与数据分析，覆盖出海营销完整工作链 | 14 个海外营销 Skill（含顾问团） |
+| 🧩 [**Skill 制作**](#skill-creation) | 从一个职业、职能或 JD 出发，构建一套可继续验证的职业 Skill 链 | 陆羽Skill · 元 Skill 工厂 |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -199,6 +200,13 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [overseas-marketing-method-this-is-marketing](./overseas-marketing-skills/overseas-marketing-method-this-is-marketing/) | 《This Is Marketing》方法论：MVA、制造改变、五步营销法 |
 | [overseas-marketing-method-influence](./overseas-marketing-skills/overseas-marketing-method-influence/) | 《影响力》方法论：六大原则、预说服、转化说服框架 |
 | [overseas-marketing-method-storybrand](./overseas-marketing-skills/overseas-marketing-method-storybrand/) | 《StoryBrand》方法论：SB7 故事框架、品牌叙事、官网文案 |
+
+<a id="skill-creation"></a>
+## 🧩 Skill 制作
+
+| Skill | 用途 |
+|---|---|
+| [luyu-skill](./luyu-skill/) | 陆羽Skill · 元 Skill 工厂：输入一个职业、职能、行业或 JD，先调研高频工作场景与能力地图，再生成一套职业 Skill 链，包括总控、执行链和顾问团；也可用于更新已有职业 Skill 或单独建立行业顾问团 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
