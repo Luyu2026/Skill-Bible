@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-81-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-94-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -31,7 +31,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 
 | Category | What it helps with | Included now |
 |---|---|---|
-| ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative, subtitle timing correction |
+| ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative |
 | 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 12 job-search Skills |
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
@@ -53,7 +53,6 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | Turn a rough idea into a structured short-video script, edit version, quotes, and titles |
 | [wechat-visual-narrative](./wechat-visual-narrative/) | Read a finished WeChat article, identify its visual mode, and plan, generate, and place images that improve comprehension rather than decorate the page |
-| [subtitle-retime](./subtitle-retime/) | Correct SRT timing offsets or linear drift from two anchors; preserve text and originals, and deliver a new subtitle file with a per-cue timing report |
 
 <a id="job-search-and-interviews"></a>
 ### 💼 Job search and interviews
