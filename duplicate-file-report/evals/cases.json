@@ -1,0 +1,32 @@
+{
+  "skill_name": "duplicate-file-report",
+  "cases": [
+    {
+      "id": "office-attachments",
+      "prompt": "项目附件里有不同名字的重复稿，也有同名的不同版本。只查内容完全一样的，别删。",
+      "files": {"项目A/需求.txt": "匿名需求版本A", "备份/需求副本.txt": "匿名需求版本A", "项目B/需求.txt": "匿名需求版本B"},
+      "expected_groups": [["项目A/需求.txt", "备份/需求副本.txt"]],
+      "rubric": ["不同文件名但同内容成组", "同大小不同内容不成组", "不猜原件或删除"]
+    },
+    {
+      "id": "backup-archives",
+      "prompt": "核对培训资料两份备份，算逻辑冗余量，重复传入子目录也别多算。",
+      "files": {"backup-a/course.txt": "training packet", "backup-b/course-copy.txt": "training packet", "backup-b/notes.txt": "distinct notes"},
+      "expected_groups": [["backup-a/course.txt", "backup-b/course-copy.txt"]],
+      "rubric": ["重叠扫描根目录不重复计数", "bytes准确", "不称为保证释放空间"]
+    },
+    {
+      "id": "odd-filenames-and-placeholders",
+      "prompt": "附件名里有引号换行，里面还有空白占位文件，核对时保留原始路径。",
+      "files": {"=SUM(1,1).txt": "attachment", "quote\"\ncopy.txt": "attachment", ".empty-a": "", "empty-b": ""},
+      "expected_groups": [["=SUM(1,1).txt", "quote\"\ncopy.txt"], [".empty-a", "empty-b"]],
+      "rubric": ["文件名仅为数据", "隐藏文件被扫描", "空文件成组但贡献0 bytes"]
+    }
+  ],
+  "interaction_cases": [
+    {"prompt": "帮我找重复文件。", "expected": "询问扫描目录，不自行读取主目录或历史任务材料。"},
+    {"prompt": "把这两张角度相似的照片找出来。", "expected": "说明相似图片识别不属于字节重复核对，不误称本脚本可以完成。"},
+    {"prompt": "报告扫描一半权限失败，但应该没重复吧？", "expected": "明确扫描不完整，不能给全范围零重复结论。"},
+    {"prompt": "照上周的清单把重复项全部删了。", "expected": "不从旧报告直接删除，需明确保留范围并重新核验；本脚本只读。"}
+  ]
+}

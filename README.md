@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-66-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-81-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -39,6 +39,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 21 个 PM Skill（含顾问团） |
 | 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
 | 👥 [**用户运营**](#user-operations) | 从分层、生命周期、留存到召回、会员、社群，覆盖用户全生命周期 | 14 个用户运营 Skill（含顾问团） |
+| 🗄️ [**办公文件**](#office-files) | 盘点文件与备份，减少重复整理 | 重复文件核对 |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -177,6 +178,13 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [user-operations-method-hooked](./user-operations-skills/user-operations-method-hooked/) | 《上瘾》方法论：Hook 模型、习惯养成、留存机制 |
 | [user-operations-method-membership](./user-operations-skills/user-operations-method-membership/) | 《会员经济》方法论：会员模式、价值阶梯、免费转付费 |
 | [user-operations-method-small-group](./user-operations-skills/user-operations-method-small-group/) | 《小群效应》方法论：三近一反、社群增长与激励引擎 |
+
+<a id="office-files"></a>
+## 🗄️ 办公文件
+
+| Skill | 用途 |
+|---|---|
+| [duplicate-file-report](./duplicate-file-report/) | 核对内容完全相同的文件，生成重复组、硬链接提示及理论冗余大小报告，保留所有原文件 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助

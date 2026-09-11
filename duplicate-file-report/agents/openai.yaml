@@ -1,0 +1,4 @@
+interface:
+  display_name: "重复文件核对"
+  short_description: "核对办公资料与备份中的完全重复文件，生成分组清单及理论冗余大小"
+  default_prompt: "用 $duplicate-file-report 核对我指定的文件夹，生成重复文件报告，保留所有原文件。"
