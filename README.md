@@ -39,6 +39,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 21 个 PM Skill（含顾问团） |
 | 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
 | 👥 [**用户运营**](#user-operations) | 从分层、生命周期、留存到召回、会员、社群，覆盖用户全生命周期 | 14 个用户运营 Skill（含顾问团） |
+| 🌍 [**海外市场营销**](#overseas-marketing) | 从市场调研、品牌定位到内容SEO、投放、邮件与数据分析，覆盖出海营销完整工作链 | 14 个海外营销 Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -177,6 +178,28 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [user-operations-method-hooked](./user-operations-skills/user-operations-method-hooked/) | 《上瘾》方法论：Hook 模型、习惯养成、留存机制 |
 | [user-operations-method-membership](./user-operations-skills/user-operations-method-membership/) | 《会员经济》方法论：会员模式、价值阶梯、免费转付费 |
 | [user-operations-method-small-group](./user-operations-skills/user-operations-method-small-group/) | 《小群效应》方法论：三近一反、社群增长与激励引擎 |
+
+<a id="overseas-marketing"></a>
+## 🌍 海外市场营销
+
+陆羽Skill 为「海外市场营销」岗位生成的体系化 Skill 套件，覆盖出海营销完整工作链（市场调研 → 品牌定位 → 内容/SEO → 付费投放 → 邮件营销 → 数据分析）。先用 `overseas-marketing-master` 判断当前卡点，再按需接入；判断类问题转 `overseas-marketing-advisory-board` 顾问团（Seth Godin / Neil Patel / Cialdini + 三本经典方法论）。
+
+| Skill | 用途 |
+|---|---|
+| [overseas-marketing-master](./overseas-marketing-skills/overseas-marketing-master/) | 海外营销工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路 |
+| [overseas-marketing-research](./overseas-marketing-skills/overseas-marketing-research/) | 海外市场调研：市场扫描、评分矩阵选市场、竞品分析、进入策略 |
+| [overseas-marketing-branding](./overseas-marketing-skills/overseas-marketing-branding/) | 品牌定位：目标客群/MVA、定位句式、竞品定位地图、品牌故事 |
+| [overseas-marketing-content-seo](./overseas-marketing-skills/overseas-marketing-content-seo/) | 内容营销 + SEO：关键词地图、选题排期、On-page/Off-page 优化 |
+| [overseas-marketing-paid-ads](./overseas-marketing-skills/overseas-marketing-paid-ads/) | 付费投放：渠道选择、受众/素材/出价、盈亏线与测试计划 |
+| [overseas-marketing-email](./overseas-marketing-skills/overseas-marketing-email/) | 邮件营销：列表健康、欢迎流/弃购流自动化、文案与合规 |
+| [overseas-marketing-analytics](./overseas-marketing-skills/overseas-marketing-analytics/) | 营销数据分析：渠道拆解、漏斗定位、归因（证据分级）、优化建议 |
+| [overseas-marketing-advisory-board](./overseas-marketing-skills/overseas-marketing-advisory-board/) | 海外营销顾问团总控：路由到专家/方法论，或召开多专家评审会 |
+| [overseas-marketing-advisor-godin](./overseas-marketing-skills/overseas-marketing-advisor-godin/) | Seth Godin 视角：最小可行受众（MVA）、许可营销、营销即改变 |
+| [overseas-marketing-advisor-patel](./overseas-marketing-skills/overseas-marketing-advisor-patel/) | Neil Patel 视角：SEO 三步法、内容 80/20 飞轮、渠道 ROI |
+| [overseas-marketing-advisor-cialdini](./overseas-marketing-skills/overseas-marketing-advisor-cialdini/) | Cialdini 视角：六大影响力原则、预说服、转化优化 |
+| [overseas-marketing-method-this-is-marketing](./overseas-marketing-skills/overseas-marketing-method-this-is-marketing/) | 《This Is Marketing》方法论：MVA、制造改变、五步营销法 |
+| [overseas-marketing-method-influence](./overseas-marketing-skills/overseas-marketing-method-influence/) | 《影响力》方法论：六大原则、预说服、转化说服框架 |
+| [overseas-marketing-method-storybrand](./overseas-marketing-skills/overseas-marketing-method-storybrand/) | 《StoryBrand》方法论：SB7 故事框架、品牌叙事、官网文案 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
