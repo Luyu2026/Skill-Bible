@@ -308,6 +308,10 @@ Keep it factual and brief. The user wants a record they can share with their tea
 
 ---
 
+## 延展机制
+
+默认使用用户提供的材料、已有知识库和本 Skill 内置能力。当材料不足以把问题拆深，或用户明确要求进一步研究时，可以去 GitHub 参考同类成熟项目的**产品机制**（如何拆解问题、如何区分类型、如何做连续追问、如何设计验收），参考的是机制，不是照搬内容。发现可复用的检查项后，补入本 Skill 下一版。
+
 ## 上下游衔接
 
 本 Skill 是 pm-skills 工作流的一环，由 `pm-master` 总控统一路由。
