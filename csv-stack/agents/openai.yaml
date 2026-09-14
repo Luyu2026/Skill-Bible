@@ -1,4 +1,0 @@
-interface:
-  display_name: "CSV 多文件合并"
-  short_description: "按列名合并多份 CSV 报表，保留编号文本、逐行来源和行数核对"
-  default_prompt: "用 $csv-stack 合并这些 CSV，保留来源与编号文本，并核对每份文件和最终行数。"

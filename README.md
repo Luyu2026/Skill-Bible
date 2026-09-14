@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-94-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-93-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -40,7 +40,6 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
 | 👥 [**用户运营**](#user-operations) | 从分层、生命周期、留存到召回、会员、社群，覆盖用户全生命周期 | 14 个用户运营 Skill（含顾问团） |
 | 🌍 [**海外市场营销**](#overseas-marketing) | 从市场调研、品牌定位到内容SEO、投放、邮件与数据分析，覆盖出海营销完整工作链 | 14 个海外营销 Skill（含顾问团） |
-| 🗃️ [**办公数据**](#office-data) | 汇总导出明细，保留来源并核对行数 | CSV 多文件合并 |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -200,13 +199,6 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [overseas-marketing-method-this-is-marketing](./overseas-marketing-skills/overseas-marketing-method-this-is-marketing/) | 《This Is Marketing》方法论：MVA、制造改变、五步营销法 |
 | [overseas-marketing-method-influence](./overseas-marketing-skills/overseas-marketing-method-influence/) | 《影响力》方法论：六大原则、预说服、转化说服框架 |
 | [overseas-marketing-method-storybrand](./overseas-marketing-skills/overseas-marketing-method-storybrand/) | 《StoryBrand》方法论：SB7 故事框架、品牌叙事、官网文案 |
-
-<a id="office-data"></a>
-## 🗃️ 办公数据
-
-| Skill | 用途 |
-|---|---|
-| [csv-stack](./csv-stack/) | 按列名纵向合并多份 CSV，保留编号文本、逐行来源和行数核对；支持缺列留空 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
