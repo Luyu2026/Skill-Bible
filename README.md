@@ -40,6 +40,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
 | 👥 [**用户运营**](#user-operations) | 从分层、生命周期、留存到召回、会员、社群，覆盖用户全生命周期 | 14 个用户运营 Skill（含顾问团） |
 | 🌍 [**海外市场营销**](#overseas-marketing) | 从市场调研、品牌定位到内容SEO、投放、邮件与数据分析，覆盖出海营销完整工作链 | 14 个海外营销 Skill（含顾问团） |
+| 🌟 [**海外KOL运营**](#kol-operations) | 从策略、寻源、触达到内容共创、投放与分析，覆盖网红营销完整工作链 | 14 个KOL Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -199,6 +200,28 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [overseas-marketing-method-this-is-marketing](./overseas-marketing-skills/overseas-marketing-method-this-is-marketing/) | 《This Is Marketing》方法论：MVA、制造改变、五步营销法 |
 | [overseas-marketing-method-influence](./overseas-marketing-skills/overseas-marketing-method-influence/) | 《影响力》方法论：六大原则、预说服、转化说服框架 |
 | [overseas-marketing-method-storybrand](./overseas-marketing-skills/overseas-marketing-method-storybrand/) | 《StoryBrand》方法论：SB7 故事框架、品牌叙事、官网文案 |
+
+<a id="kol-operations"></a>
+## 🌟 海外KOL运营
+
+陆羽Skill 为「海外KOL运营」岗位生成的体系化 Skill 套件，覆盖网红营销完整工作链（策略 → 寻源 → 触达 → 内容共创 → 投放执行 → 数据分析）。先用 `kol-operations-master` 判断当前卡点，再按需接入；判断类问题转 `kol-operations-advisory-board` 顾问团（Gary Vee / Neal Schaffer / Brittany Hennessy + 三本方法论）。
+
+| Skill | 用途 |
+|---|---|
+| [kol-operations-master](./kol-operations-skills/kol-operations-master/) | KOL 运营工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路 |
+| [kol-operations-strategy](./kol-operations-skills/kol-operations-strategy/) | KOL 营销策略：目标 KPI、平台选择、达人分层、预算分配、节奏验收 |
+| [kol-operations-discovery](./kol-operations-skills/kol-operations-discovery/) | 达人寻源与筛选：互动率/画像/调性评估，产出候选名单与风险筛查 |
+| [kol-operations-outreach](./kol-operations-skills/kol-operations-outreach/) | 触达与谈判：个性化触达文案、报价评估（CPE）、合作条款设计 |
+| [kol-operations-co-creation](./kol-operations-skills/kol-operations-co-creation/) | 内容共创：内容 Brief（方向+底线）、植入方式、审核清单 |
+| [kol-operations-campaign](./kol-operations-skills/kol-operations-campaign/) | 投放执行：排期规划、交付追踪、权益管理、验收记录 |
+| [kol-operations-analytics](./kol-operations-skills/kol-operations-analytics/) | 效果分析：达人维度拆解、组合归因（证据分级）、复投建议 |
+| [kol-operations-advisory-board](./kol-operations-skills/kol-operations-advisory-board/) | KOL 顾问团总控：路由到专家/方法论，或召开多专家评审会 |
+| [kol-operations-advisor-garyvee](./kol-operations-skills/kol-operations-advisor-garyvee/) | Gary Vee 视角：内容营销、Document Don't Create、注意力经济 |
+| [kol-operations-advisor-schaffer](./kol-operations-skills/kol-operations-advisor-schaffer/) | Neal Schaffer 视角：影响力分层漏斗、16 种合作方式、长期大使关系 |
+| [kol-operations-advisor-hennessy](./kol-operations-skills/kol-operations-advisor-hennessy/) | Brittany Hennessy 视角：定价双因子、完美10分锚定、谈判三原则 |
+| [kol-operations-method-influencer](./kol-operations-skills/kol-operations-method-influencer/) | 《Influencer》方法论：分层金字塔、费率五要素定价、合同核验 |
+| [kol-operations-method-contagious](./kol-operations-skills/kol-operations-method-contagious/) | 《Contagious》方法论：STEPPS 六原则、内容传染性设计 |
+| [kol-operations-method-leverage](./kol-operations-skills/kol-operations-method-leverage/) | 《Contagious》传播机制：杠杆式传播、内容配比、联盟互推 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
