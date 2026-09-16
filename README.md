@@ -37,11 +37,12 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | ⚙️ [**元 Skill**](#meta-skill) | 输入一个职业/职能，自动调研并生成一套体系化的职业 Skill 链 | 陆羽Skill |
-| 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 21 个 PM Skill（含顾问团） |
+| 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 22 个 PM Skill（含顾问团） |
 | 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
 | 👥 [**用户运营**](#user-operations) | 从分层、生命周期、留存到召回、会员、社群，覆盖用户全生命周期 | 14 个用户运营 Skill（含顾问团） |
 | 🌍 [**海外市场营销**](#overseas-marketing) | 从市场调研、品牌定位到内容SEO、投放、邮件与数据分析，覆盖出海营销完整工作链 | 14 个海外营销 Skill（含顾问团） |
 | 🌟 [**海外KOL运营**](#kol-operations) | 从策略、寻源、触达到内容共创、投放与分析，覆盖网红营销完整工作链 | 14 个KOL Skill（含顾问团） |
+| ✍️ [**内容运营**](#content-operations) | 从策略、选题、生产到分发与数据复盘，覆盖内容运营完整工作链 | 13 个内容运营 Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -230,6 +231,27 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [kol-operations-method-influencer](./kol-operations-skills/kol-operations-method-influencer/) | 《Influencer》方法论：分层金字塔、费率五要素定价、合同核验 |
 | [kol-operations-method-contagious](./kol-operations-skills/kol-operations-method-contagious/) | 《Contagious》方法论：STEPPS 六原则、内容传染性设计 |
 | [kol-operations-method-leverage](./kol-operations-skills/kol-operations-method-leverage/) | 《Contagious》传播机制：杠杆式传播、内容配比、联盟互推 |
+
+<a id="content-operations"></a>
+## ✍️ 内容运营
+
+从一个「内容该怎么做」的模糊问题开始，覆盖内容运营完整工作链：**策略 → 选题 → 生产 → 分发 → 数据复盘**。由陆羽Skill 生成。先用 `content-operations-master` 判断卡点，再路由到对应环节。
+
+| Skill | 说明 |
+|---|---|
+| [content-operations-master](./content-operations-skills/content-operations-master/) | 🎯 总控：分诊 → 路由 → 编排 |
+| [content-operations-strategy](./content-operations-skills/content-operations-strategy/) | 内容策略：业务目标→支柱→矩阵→节奏→资源 |
+| [content-operations-topic](./content-operations-skills/content-operations-topic/) | 内容选题：5 维评分排序 |
+| [content-operations-production](./content-operations-skills/content-operations-production/) | 内容生产：成品可直接发布 |
+| [content-operations-distribution](./content-operations-skills/content-operations-distribution/) | 内容分发：矩阵/时机/投流 |
+| [content-operations-analytics](./content-operations-skills/content-operations-analytics/) | 数据复盘：分层归因+行动项 |
+| [content-operations-advisory-board](./content-operations-skills/content-operations-advisory-board/) | 🧭 顾问团总控：评审会+分歧地图 |
+| [content-operations-advisor-handley](./content-operations-skills/content-operations-advisor-handley/) | Ann Handley：文案写作与内容质量 |
+| [content-operations-advisor-pulizzi](./content-operations-skills/content-operations-advisor-pulizzi/) | Joe Pulizzi：内容营销战略与差异化 |
+| [content-operations-advisor-huang](./content-operations-skills/content-operations-advisor-huang/) | 黄有璨：内容运营心法 |
+| [content-operations-method-everybody-writes](./content-operations-skills/content-operations-method-everybody-writes/) | 《Everybody Writes》：写作质量与 4U 标题 |
+| [content-operations-method-epic-content](./content-operations-skills/content-operations-method-epic-content/) | 《Epic Content Marketing》：使命宣言/倾斜/7步法 |
+| [content-operations-method-light-of-operations](./content-operations-skills/content-operations-method-light-of-operations/) | 《运营之光》（内容版）：做局/四大思维/闭环 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
