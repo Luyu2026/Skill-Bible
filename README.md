@@ -43,6 +43,9 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 🌍 [**海外市场营销**](#overseas-marketing) | 从市场调研、品牌定位到内容SEO、投放、邮件与数据分析，覆盖出海营销完整工作链 | 14 个海外营销 Skill（含顾问团） |
 | 🌟 [**海外KOL运营**](#kol-operations) | 从策略、寻源、触达到内容共创、投放与分析，覆盖网红营销完整工作链 | 14 个KOL Skill（含顾问团） |
 | ✍️ [**内容运营**](#content-operations) | 从策略、选题、生产到分发与数据复盘，覆盖内容运营完整工作链 | 13 个内容运营 Skill（含顾问团） |
+| 🎯 [**活动运营**](#activity-operations) | 从目标设定、机制设计到执行、传播与复盘，覆盖活动运营完整工作链 | 13 个活动运营 Skill（含顾问团） |
+| 📱 [**产品运营**](#product-operations) | 从运营策略、激活留存到激励体系、数据迭代与版本运营，覆盖产品上线后完整运营工作链 | 14 个产品运营 Skill（含顾问团） |
+| 💬 [**私域运营**](#private-domain-operations) | 从体系设计、引流、社群运营到转化、裂变与数据分层，覆盖私域运营完整工作链 | 14 个私域运营 Skill（含顾问团） |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -252,6 +255,71 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [content-operations-method-everybody-writes](./content-operations-skills/content-operations-method-everybody-writes/) | 《Everybody Writes》：写作质量与 4U 标题 |
 | [content-operations-method-epic-content](./content-operations-skills/content-operations-method-epic-content/) | 《Epic Content Marketing》：使命宣言/倾斜/7步法 |
 | [content-operations-method-light-of-operations](./content-operations-skills/content-operations-method-light-of-operations/) | 《运营之光》（内容版）：做局/四大思维/闭环 |
+
+<a id="activity-operations"></a>
+## 🎯 活动运营
+
+从「办什么活动」到「复盘沉淀」，覆盖活动运营完整工作链：**目标设定 → 机制设计 → 执行落地 → 传播放大 → 复盘**。由陆羽Skill 生成。先用 `activity-operations-master` 判断卡点。
+
+| Skill | 说明 |
+|---|---|
+| [activity-operations-master](./activity-operations/activity-operations-master/) | 🎯 总控：分诊 → 路由 → 编排 |
+| [activity-operations-planning](./activity-operations/activity-operations-planning/) | 活动策划：目标、玩法、预算、排期 |
+| [activity-operations-mechanics](./activity-operations/activity-operations-mechanics/) | 机制设计：参与/传播机制、激励、风控 |
+| [activity-operations-execution](./activity-operations/activity-operations-execution/) | 执行落地：任务分解、上线检查 |
+| [activity-operations-promotion](./activity-operations/activity-operations-promotion/) | 传播放大：渠道组合、节奏、投流 |
+| [activity-operations-review](./activity-operations/activity-operations-review/) | 复盘：数据归因、经验沉淀 |
+| [activity-operations-advisory-board](./activity-operations/activity-operations-advisory-board/) | 🧭 顾问团总控：评审会+分歧地图 |
+| [activity-operations-advisor-huang](./activity-operations/activity-operations-advisor-huang/) | 黄有璨：运营价值判断 |
+| [activity-operations-advisor-zhang](./activity-operations/activity-operations-advisor-zhang/) | 张亮：运营体系判断 |
+| [activity-operations-advisor-qu](./activity-operations/activity-operations-advisor-qu/) | 曲卉：增长实验判断 |
+| [activity-operations-method-light-of-operations](./activity-operations/activity-operations-method-light-of-operations/) | 《运营之光》：做局/四大思维/闭环 |
+| [activity-operations-method-growth-hacking](./activity-operations/activity-operations-method-growth-hacking/) | 《增长黑客》：实验循环/AARRR/北极星 |
+| [activity-operations-method-lean-analytics](./activity-operations/activity-operations-method-lean-analytics/) | 《精益数据分析》：第一关键指标/数据诊断 |
+
+<a id="product-operations"></a>
+## 📱 产品运营
+
+从「产品上线后怎么运营」到「数据驱动迭代」，覆盖产品运营完整工作链：**运营策略 → 激活留存 → 激励体系 → 数据迭代 → 版本运营 → 反馈闭环**。由陆羽Skill 生成。先用 `product-operations-master` 判断卡点。
+
+| Skill | 说明 |
+|---|---|
+| [product-operations-master](./product-operations/product-operations-master/) | 🎯 总控：分诊 → 路由 → 编排 |
+| [product-operations-strategy](./product-operations/product-operations-strategy/) | 运营策略：阶段定位、北极星指标 |
+| [product-operations-activation](./product-operations/product-operations-activation/) | 激活留存：Aha Moment、留存曲线 |
+| [product-operations-incentive](./product-operations/product-operations-incentive/) | 激励体系：积分/等级/勋章 |
+| [product-operations-data](./product-operations/product-operations-data/) | 数据迭代：看板/漏斗/实验 |
+| [product-operations-release](./product-operations/product-operations-release/) | 版本运营：节奏/上线/验证 |
+| [product-operations-feedback](./product-operations/product-operations-feedback/) | 反馈闭环：收集/需求池/回应 |
+| [product-operations-advisory-board](./product-operations/product-operations-advisory-board/) | 🧭 顾问团总控：评审会+分歧地图 |
+| [product-operations-advisor-zhang](./product-operations/product-operations-advisor-zhang/) | 张亮：产品运营体系 |
+| [product-operations-advisor-qu](./product-operations/product-operations-advisor-qu/) | 曲卉：激活/留存实验 |
+| [product-operations-advisor-yujun](./product-operations/product-operations-advisor-yujun/) | 俞军：用户价值判断 |
+| [product-operations-method-hooked](./product-operations/product-operations-method-hooked/) | 《上瘾》：Hook 模型/习惯养成 |
+| [product-operations-method-growth-hacking](./product-operations/product-operations-method-growth-hacking/) | 《增长黑客》：实验循环/北极星 |
+| [product-operations-method-lean-analytics](./product-operations/product-operations-method-lean-analytics/) | 《精益数据分析》：第一关键指标 |
+
+<a id="private-domain-operations"></a>
+## 💬 私域运营
+
+从「私域怎么搭」到「裂变放大」，覆盖私域运营完整工作链：**体系设计 → 引流 → 社群运营 → 转化 → 裂变 → 数据分层**。由陆羽Skill 生成。先用 `private-domain-operations-master` 判断卡点。
+
+| Skill | 说明 |
+|---|---|
+| [private-domain-operations-master](./private-domain-operations/private-domain-operations-master/) | 🎯 总控：分诊 → 路由 → 编排 |
+| [private-domain-operations-strategy](./private-domain-operations/private-domain-operations-strategy/) | 体系设计：渠道/人设/承接/转化路径 |
+| [private-domain-operations-traffic](./private-domain-operations/private-domain-operations-traffic/) | 引流：钩子/路径/承接 |
+| [private-domain-operations-community](./private-domain-operations/private-domain-operations-community/) | 社群运营：内容/互动/成交三线 |
+| [private-domain-operations-conversion](./private-domain-operations/private-domain-operations-conversion/) | 转化：信任→成交→复购 |
+| [private-domain-operations-referral](./private-domain-operations/private-domain-operations-referral/) | 裂变转介绍：激励/路径/风控 |
+| [private-domain-operations-data](./private-domain-operations/private-domain-operations-data/) | 数据分层：标签/SCRM |
+| [private-domain-operations-advisory-board](./private-domain-operations/private-domain-operations-advisory-board/) | 🧭 顾问团总控：评审会+分歧地图 |
+| [private-domain-operations-advisor-xu](./private-domain-operations/private-domain-operations-advisor-xu/) | 徐志斌：社群运营 |
+| [private-domain-operations-advisor-zhang](./private-domain-operations/private-domain-operations-advisor-zhang/) | 张亮：生命周期运营 |
+| [private-domain-operations-advisor-qu](./private-domain-operations/private-domain-operations-advisor-qu/) | 曲卉：留存/复购实验 |
+| [private-domain-operations-method-small-group](./private-domain-operations/private-domain-operations-method-small-group/) | 《小群效应》：三近一反/临界规模 |
+| [private-domain-operations-method-membership](./private-domain-operations/private-domain-operations-method-membership/) | 《会员经济》：会员体系/超级用户 |
+| [private-domain-operations-method-private-domain](./private-domain-operations/private-domain-operations-method-private-domain/) | 私域方法论：链路/标签/SCRM |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
