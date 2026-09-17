@@ -37,7 +37,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
 | ⚙️ [**Meta Skill**](#meta-skill) | Input a profession/function, auto-research it, and generate a systematic career Skill chain | LuyuSkill |
-| 🧩 [**Career Skills**](./career-skills/) | Enter through real work across product, operations, and global growth | 9 role tracks, 132 career Skills |
+| 🧩 [**Career Skills**](./career-skills/) | Enter through real work and let a controller Skill guide the workflow | Product, operations, and marketing |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
@@ -115,7 +115,7 @@ The perspective Skills are research-based mental models for decisions, products,
 <a id="career-skills"></a>
 ### 🧩 Career Skills
 
-Career Skills are no longer isolated tools. They are nine role-based workflows that move from diagnosis to delivery and review. The homepage no longer lists all 132 entries; choose the work you are doing, then begin with that role's controller Skill.
+Career Skills are role-based workflows that move from diagnosis to delivery and review. Choose the work you are doing, then begin with that role's controller Skill.
 
 | Work track | Best for | Role entry points |
 |---|---|---|
