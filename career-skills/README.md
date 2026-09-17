@@ -2,7 +2,7 @@
 
 > Enter through the work you are doing. You do not need to memorize every Skill name first.
 
-Career Skills are organized as nine role-based workflows. Each workflow starts with a controller Skill: describe the goal, materials, and blocker; the controller identifies the stage and routes work to the relevant specialist Skills. Once you know the task, call a specialist directly.
+Career Skills are organized as role-based workflows. Each workflow starts with a controller Skill: describe the goal, materials, and blocker; the controller identifies the stage and routes work to the relevant specialist Skills. Once you know the task, call a specialist directly.
 
 ## Choose by the work in front of you
 
@@ -21,7 +21,7 @@ Career Skills are organized as nine role-based workflows. Each workflow starts w
 <a id="product-management"></a>
 ## 📦 Product management
 
-22 Skills for connecting requests, evidence, decisions, and delivery. Start with [pm-master](../pm-master/).
+Connect requests, evidence, decisions, and delivery. Start with [pm-master](../pm-master/).
 
 <details>
 <summary>View the full product-management Skill list</summary>
@@ -32,42 +32,42 @@ Career Skills are organized as nine role-based workflows. Each workflow starts w
 <a id="product-operations"></a>
 ## 📱 Product operations
 
-[View the 14-Skill product-operations workflow](../product-operations/).
+[View the product-operations workflow](../product-operations/).
 
 <a id="general-operations"></a>
 ## 📣 General operations
 
-[View the 14-Skill general-operations workflow](../general-operations-skills/).
+[View the general-operations workflow](../general-operations-skills/).
 
 <a id="user-operations"></a>
 ## 👥 User operations
 
-[View the 14-Skill user-operations workflow](../user-operations-skills/).
+[View the user-operations workflow](../user-operations-skills/).
 
 <a id="content-operations"></a>
 ## ✍️ Content operations
 
-[View the 13-Skill content-operations workflow](../content-operations-skills/).
+[View the content-operations workflow](../content-operations-skills/).
 
 <a id="activity-operations"></a>
 ## 🎯 Activity operations
 
-[View the 13-Skill activity-operations workflow](../activity-operations/).
+[View the activity-operations workflow](../activity-operations/).
 
 <a id="private-domain-operations"></a>
 ## 💬 Private-domain operations
 
-[View the 14-Skill private-domain-operations workflow](../private-domain-operations/).
+[View the private-domain-operations workflow](../private-domain-operations/).
 
 <a id="overseas-marketing"></a>
 ## 🌍 Overseas marketing
 
-[View the 14-Skill overseas-marketing workflow](../overseas-marketing-skills/).
+[View the overseas-marketing workflow](../overseas-marketing-skills/).
 
 <a id="kol-operations"></a>
 ## 🌟 KOL operations
 
-[View the 14-Skill KOL-operations workflow](../kol-operations-skills/).
+[View the KOL-operations workflow](../kol-operations-skills/).
 
 ## Usage principle
 
