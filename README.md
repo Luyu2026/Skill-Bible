@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-93-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-162-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -37,15 +37,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | ⚙️ [**元 Skill**](#meta-skill) | 输入一个职业/职能，自动调研并生成一套体系化的职业 Skill 链 | 陆羽Skill |
-| 📦 [**产品经理**](#product-management) | 从需求判断、调研、原型到数据、实验与复盘，推进一整段产品工作 | 22 个 PM Skill（含顾问团） |
-| 📣 [**通用运营**](#general-operations) | 从数据、活动、内容到用户分层与复盘，覆盖运营完整工作链 | 14 个运营 Skill（含顾问团） |
-| 👥 [**用户运营**](#user-operations) | 从分层、生命周期、留存到召回、会员、社群，覆盖用户全生命周期 | 14 个用户运营 Skill（含顾问团） |
-| 🌍 [**海外市场营销**](#overseas-marketing) | 从市场调研、品牌定位到内容SEO、投放、邮件与数据分析，覆盖出海营销完整工作链 | 14 个海外营销 Skill（含顾问团） |
-| 🌟 [**海外KOL运营**](#kol-operations) | 从策略、寻源、触达到内容共创、投放与分析，覆盖网红营销完整工作链 | 14 个KOL Skill（含顾问团） |
-| ✍️ [**内容运营**](#content-operations) | 从策略、选题、生产到分发与数据复盘，覆盖内容运营完整工作链 | 13 个内容运营 Skill（含顾问团） |
-| 🎯 [**活动运营**](#activity-operations) | 从目标设定、机制设计到执行、传播与复盘，覆盖活动运营完整工作链 | 13 个活动运营 Skill（含顾问团） |
-| 📱 [**产品运营**](#product-operations) | 从运营策略、激活留存到激励体系、数据迭代与版本运营，覆盖产品上线后完整运营工作链 | 14 个产品运营 Skill（含顾问团） |
-| 💬 [**私域运营**](#private-domain-operations) | 从体系设计、引流、社群运营到转化、裂变与数据分层，覆盖私域运营完整工作链 | 14 个私域运营 Skill（含顾问团） |
+| 🧩 [**岗位技能库**](./岗位技能库/) | 按真实工作场景进入产品、运营与海外增长三条工作线 | 9 个岗位方向，132 个职业 Skill |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -118,208 +110,18 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 |---|---|
 | [luyu-skill](./luyu-skill/) | 陆羽Skill · 元 Skill 工厂：输入一个职业/职能/行业，自动完成行业基本概念调研 → 遴选 3 专家 + 3 本经典书 → 并行蒸馏 → 生成一套体系化的职业 Skill 链（career-master 总控 + 执行链 + 顾问团），交付即可安装使用 |
 
-<a id="product-management"></a>
-## 📦 产品经理
+<a id="career-skills"></a>
+## 🧩 岗位技能库
 
-从一个说不清的需求开始，先用 `pm-master` 判断当前卡点；再按需要接入调研、评审、排序、路线图、埋点、实验、数据分析和复盘能力。每个 Skill 也可以独立使用。
+岗位 Skill 已经不再是几个孤立工具，而是 9 组可以从问题判断一路推进到交付、复盘的职业工作流。首页不再平铺 132 个条目；请按你实际在做的工作进入对应岗位，再从该岗位的总控 Skill 开始。
 
-| Skill | 用途 |
-|---|---|
-| [pm-master](./pm-master/) | 产品工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路，保证上一步产出能被下一步直接用 |
-| [pm-prd-writer](./pm-prd-writer/) | 把模糊需求转化为可评审的 PRD：阶段零需求体检、四阶段工作流（澄清→结构化→补漏→交付）、待确认项清单，信息不足时降级为需求梳理文档 |
-| [pm-review-board](./pm-review-board/) | 模拟产品、研发、测试、设计、运营、法务六角色评审 PRD/原型，按档位预审 + 意见质量红线，会前暴露评审会被喷的问题 |
-| [pm-advisory-board](./pm-advisory-suite/pm-advisory-board/) | 产品经理专家顾问团总控：Cagan、Torres、俞军 + Mom Test / Story Mapping / Build Trap，把"该不该做"的分歧提前摆上桌 |
-| [pm-advisor-cagan](./pm-advisory-suite/pm-advisor-cagan/) | Marty Cagan 视角：从价值、可用性、可行性和商业可持续性四类风险审查方案 |
-| [pm-advisor-torres](./pm-advisory-suite/pm-advisor-torres/) | Teresa Torres 视角：用机会解决方案树把 outcome、机会、方案和假设组织起来 |
-| [pm-advisor-yujun](./pm-advisory-suite/pm-advisor-yujun/) | 俞军视角：用用户价值公式（新体验 - 旧体验 - 替换成本）判断取舍 |
-| [pm-method-mom-test](./pm-advisory-suite/pm-method-mom-test/) | 《The Mom Test》方法论：把访谈改成围绕过去行为、具体事实和真实承诺的问法 |
-| [pm-method-story-mapping](./pm-advisory-suite/pm-method-story-mapping/) | 《User Story Mapping》方法论：对齐完整旅程，切出端到端可验证的 MVP |
-| [pm-method-build-trap](./pm-advisory-suite/pm-method-build-trap/) | 《Escaping the Build Trap》方法论：把路线图重新连回可观察的 outcome |
-| [pm-survey-designer](./pm-survey-designer/) | 从调研目标设计高质量问卷：每道题对应一个假设，内置诱导/双重问题/样本偏差检查 |
-| [pm-competitor-deconstructor](./pm-competitor-deconstructor/) | 按策略、功能、体验、增长四维拆解竞品，区分可借鉴、不可照搬与待验证机会 |
-| [pm-prioritization-engine](./pm-prioritization-engine/) | RICE / ICE / Kano 多模型排序 + 硬约束过滤 + 敏感性分析，排优先级不拍脑袋 |
-| [pm-roadmap-planner](./pm-roadmap-planner/) | 从季度目标、团队产能、依赖方反推版本路线图：里程碑、依赖风险、缓冲策略 |
-| [pm-tracking-spec-writer](./pm-tracking-spec-writer/) | 把产品目标和用户链路拆成事件字典、指标口径、隐私边界与 QA 校验清单 |
-| [pm-experiment-designer](./pm-experiment-designer/) | 完整 A/B 实验方案：可证伪假设、分组、样本量估算、止损规则、判定标准 |
-| [pm-analytics](./pm-analytics/) | 从数据现象到产品决策：数据体检、指标拆解、证据分级归因，输出可视化报告 |
-| [pm-postmortem-writer](./pm-postmortem-writer/) | 结构化复盘：5-Why 根因证据 + 强制分级行动项，复盘写完能直接发 |
-| [pm-image2proto](./pm-image2proto/) | 截图 → 可运行、可检查、可继续修改的 HTML 原型 |
-| [pm-image2pencil](./pm-image2pencil/) | 截图 → 可编辑的 Pencil 设计稿 + 结构化设计文档 |
-| [pm-url2proto](./pm-url2proto/) | 获得授权的网页 → 本地可运行、可维护的 Next.js 原型项目 |
+| 工作线 | 适合什么问题 | 岗位入口 |
+|---|---|---|
+| **产品与产品运营** | 需求、调研、评审、版本规划、产品激活和迭代 | [📦 产品经理](./岗位技能库/#product-manager) · [📱 产品运营](./岗位技能库/#product-operations) |
+| **运营与增长** | 数据、活动、内容、用户、私域、留存、转化与复盘 | [📣 通用运营](./岗位技能库/#general-operations) · [👥 用户运营](./岗位技能库/#user-operations) · [✍️ 内容运营](./岗位技能库/#content-operations) · [🎯 活动运营](./岗位技能库/#activity-operations) · [💬 私域运营](./岗位技能库/#private-domain-operations) |
+| **海外增长** | 市场进入、品牌、SEO、投放、邮件营销与达人合作 | [🌍 海外市场营销](./岗位技能库/#overseas-marketing) · [🌟 海外 KOL 运营](./岗位技能库/#kol-operations) |
 
-<a id="general-operations"></a>
-## 📣 通用运营
-
-面向「综合/通用运营」岗位的体系化 Skill 套件，覆盖运营完整工作链（数据 → 活动 → 内容 → 用户 → 复盘 → 策略）。先用 `operations-master` 判断当前卡点，再按需接入；判断类问题转 `operations-advisory-board` 顾问团（黄有璨/张亮/曲卉 + 三本经典方法论）。
-
-| Skill | 用途 |
-|---|---|
-| [operations-master](./general-operations-skills/operations-master/) | 运营工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路 |
-| [operations-strategy](./general-operations-skills/operations-strategy/) | 阶段性运营策略：目标拆解、策略选择、资源分配与节奏规划 |
-| [operations-data-analysis](./general-operations-skills/operations-data-analysis/) | 数据归因与决策：指标异动/漏斗/留存转化为证据分级（A/B/C）的判断与行动建议 |
-| [operations-activity-planner](./general-operations-skills/operations-activity-planner/) | 活动策划：从模糊想法到可执行方案，含 ROI 测算与风控 |
-| [operations-content-strategy](./general-operations-skills/operations-content-strategy/) | 内容选题与策略：选题矩阵 + 发布排期 + 数据反馈闭环 |
-| [operations-user-segmentation](./general-operations-skills/operations-user-segmentation/) | 用户分层与触达：RFM/生命周期分层 + 各层差异化策略 |
-| [operations-review](./general-operations-skills/operations-review/) | 运营复盘：根因证据（5-Why）+ 强制分级可追踪行动项 |
-| [operations-advisory-board](./general-operations-skills/operations-advisory-board/) | 运营顾问团总控：路由到专家/方法论，或召开多专家评审会（共识/分歧/综合结论） |
-| [operations-advisor-huang](./general-operations-skills/operations-advisor-huang/) | 黄有璨视角：运营价值判断、做局/破局思维、回报后置 |
-| [operations-advisor-zhang](./general-operations-skills/operations-advisor-zhang/) | 张亮视角：运营四模块体系、用户生命周期、精细化运营 |
-| [operations-advisor-qu](./general-operations-skills/operations-advisor-qu/) | 曲卉视角：增长实验闭环、北极星指标、增长模型 |
-| [operations-method-light-of-operations](./general-operations-skills/operations-method-light-of-operations/) | 《运营之光》方法论：做局破局、四大运营思维、运营第一公式 |
-| [operations-method-lean-analytics](./general-operations-skills/operations-method-lean-analytics/) | 《精益数据分析》方法论：第一关键指标 OMTM、精益分析循环、五阶段门控 |
-| [operations-method-growth-hacking](./general-operations-skills/operations-method-growth-hacking/) | 《增长黑客》方法论：增长实验循环、北极星指标、AARRR 漏斗 |
-
-<a id="user-operations"></a>
-## 👥 用户运营
-
-陆羽Skill 为「用户运营」岗位生成的体系化 Skill 套件，覆盖用户全生命周期（分层 → 生命周期 → 留存 → 召回 → 会员 → 社群），与通用运营错位互补。先用 `user-operations-master` 判断当前卡点，再按需接入；判断类问题转 `user-operations-advisory-board` 顾问团（张亮/曲卉/徐志斌 + 三本方法论）。
-
-| Skill | 用途 |
-|---|---|
-| [user-operations-master](./user-operations-skills/user-operations-master/) | 用户运营工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路 |
-| [user-operations-segmentation](./user-operations-skills/user-operations-segmentation/) | 用户分层体系：RFM/生命周期/价值分层 + 各层差异化策略 |
-| [user-operations-lifecycle](./user-operations-skills/user-operations-lifecycle/) | 生命周期运营：各阶段目标/策略/动作 + 阶段转化与防流失 |
-| [user-operations-retention](./user-operations-skills/user-operations-retention/) | 留存提升：留存诊断 → 流失定位 → 机制设计（习惯养成）→ 留存实验 |
-| [user-operations-recall](./user-operations-skills/user-operations-recall/) | 沉默唤醒与流失召回：钩子设计 + 渠道成本 + 召回实验 |
-| [user-operations-membership](./user-operations-skills/user-operations-membership/) | 会员体系：等级/权益/积分成长值/成本 ROI 测算 |
-| [user-operations-community](./user-operations-skills/user-operations-community/) | 社群运营：小群拆分/活跃机制/激励转化 |
-| [user-operations-advisory-board](./user-operations-skills/user-operations-advisory-board/) | 用户运营顾问团总控：路由到专家/方法论，或召开多专家评审会 |
-| [user-operations-advisor-zhang](./user-operations-skills/user-operations-advisor-zhang/) | 张亮视角：生命周期、开源节流、精细化运营 |
-| [user-operations-advisor-qu](./user-operations-skills/user-operations-advisor-qu/) | 曲卉视角：留存实验、北极星指标、增长模型 |
-| [user-operations-advisor-xu](./user-operations-skills/user-operations-advisor-xu/) | 徐志斌视角：小群效应、社交红利、用户激励 |
-| [user-operations-method-hooked](./user-operations-skills/user-operations-method-hooked/) | 《上瘾》方法论：Hook 模型、习惯养成、留存机制 |
-| [user-operations-method-membership](./user-operations-skills/user-operations-method-membership/) | 《会员经济》方法论：会员模式、价值阶梯、免费转付费 |
-| [user-operations-method-small-group](./user-operations-skills/user-operations-method-small-group/) | 《小群效应》方法论：三近一反、社群增长与激励引擎 |
-
-<a id="overseas-marketing"></a>
-## 🌍 海外市场营销
-
-陆羽Skill 为「海外市场营销」岗位生成的体系化 Skill 套件，覆盖出海营销完整工作链（市场调研 → 品牌定位 → 内容/SEO → 付费投放 → 邮件营销 → 数据分析）。先用 `overseas-marketing-master` 判断当前卡点，再按需接入；判断类问题转 `overseas-marketing-advisory-board` 顾问团（Seth Godin / Neil Patel / Cialdini + 三本经典方法论）。
-
-| Skill | 用途 |
-|---|---|
-| [overseas-marketing-master](./overseas-marketing-skills/overseas-marketing-master/) | 海外营销工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路 |
-| [overseas-marketing-research](./overseas-marketing-skills/overseas-marketing-research/) | 海外市场调研：市场扫描、评分矩阵选市场、竞品分析、进入策略 |
-| [overseas-marketing-branding](./overseas-marketing-skills/overseas-marketing-branding/) | 品牌定位：目标客群/MVA、定位句式、竞品定位地图、品牌故事 |
-| [overseas-marketing-content-seo](./overseas-marketing-skills/overseas-marketing-content-seo/) | 内容营销 + SEO：关键词地图、选题排期、On-page/Off-page 优化 |
-| [overseas-marketing-paid-ads](./overseas-marketing-skills/overseas-marketing-paid-ads/) | 付费投放：渠道选择、受众/素材/出价、盈亏线与测试计划 |
-| [overseas-marketing-email](./overseas-marketing-skills/overseas-marketing-email/) | 邮件营销：列表健康、欢迎流/弃购流自动化、文案与合规 |
-| [overseas-marketing-analytics](./overseas-marketing-skills/overseas-marketing-analytics/) | 营销数据分析：渠道拆解、漏斗定位、归因（证据分级）、优化建议 |
-| [overseas-marketing-advisory-board](./overseas-marketing-skills/overseas-marketing-advisory-board/) | 海外营销顾问团总控：路由到专家/方法论，或召开多专家评审会 |
-| [overseas-marketing-advisor-godin](./overseas-marketing-skills/overseas-marketing-advisor-godin/) | Seth Godin 视角：最小可行受众（MVA）、许可营销、营销即改变 |
-| [overseas-marketing-advisor-patel](./overseas-marketing-skills/overseas-marketing-advisor-patel/) | Neil Patel 视角：SEO 三步法、内容 80/20 飞轮、渠道 ROI |
-| [overseas-marketing-advisor-cialdini](./overseas-marketing-skills/overseas-marketing-advisor-cialdini/) | Cialdini 视角：六大影响力原则、预说服、转化优化 |
-| [overseas-marketing-method-this-is-marketing](./overseas-marketing-skills/overseas-marketing-method-this-is-marketing/) | 《This Is Marketing》方法论：MVA、制造改变、五步营销法 |
-| [overseas-marketing-method-influence](./overseas-marketing-skills/overseas-marketing-method-influence/) | 《影响力》方法论：六大原则、预说服、转化说服框架 |
-| [overseas-marketing-method-storybrand](./overseas-marketing-skills/overseas-marketing-method-storybrand/) | 《StoryBrand》方法论：SB7 故事框架、品牌叙事、官网文案 |
-
-<a id="kol-operations"></a>
-## 🌟 海外KOL运营
-
-陆羽Skill 为「海外KOL运营」岗位生成的体系化 Skill 套件，覆盖网红营销完整工作链（策略 → 寻源 → 触达 → 内容共创 → 投放执行 → 数据分析）。先用 `kol-operations-master` 判断当前卡点，再按需接入；判断类问题转 `kol-operations-advisory-board` 顾问团（Gary Vee / Neal Schaffer / Brittany Hennessy + 三本方法论）。
-
-| Skill | 用途 |
-|---|---|
-| [kol-operations-master](./kol-operations-skills/kol-operations-master/) | KOL 运营工作总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路 |
-| [kol-operations-strategy](./kol-operations-skills/kol-operations-strategy/) | KOL 营销策略：目标 KPI、平台选择、达人分层、预算分配、节奏验收 |
-| [kol-operations-discovery](./kol-operations-skills/kol-operations-discovery/) | 达人寻源与筛选：互动率/画像/调性评估，产出候选名单与风险筛查 |
-| [kol-operations-outreach](./kol-operations-skills/kol-operations-outreach/) | 触达与谈判：个性化触达文案、报价评估（CPE）、合作条款设计 |
-| [kol-operations-co-creation](./kol-operations-skills/kol-operations-co-creation/) | 内容共创：内容 Brief（方向+底线）、植入方式、审核清单 |
-| [kol-operations-campaign](./kol-operations-skills/kol-operations-campaign/) | 投放执行：排期规划、交付追踪、权益管理、验收记录 |
-| [kol-operations-analytics](./kol-operations-skills/kol-operations-analytics/) | 效果分析：达人维度拆解、组合归因（证据分级）、复投建议 |
-| [kol-operations-advisory-board](./kol-operations-skills/kol-operations-advisory-board/) | KOL 顾问团总控：路由到专家/方法论，或召开多专家评审会 |
-| [kol-operations-advisor-garyvee](./kol-operations-skills/kol-operations-advisor-garyvee/) | Gary Vee 视角：内容营销、Document Don't Create、注意力经济 |
-| [kol-operations-advisor-schaffer](./kol-operations-skills/kol-operations-advisor-schaffer/) | Neal Schaffer 视角：影响力分层漏斗、16 种合作方式、长期大使关系 |
-| [kol-operations-advisor-hennessy](./kol-operations-skills/kol-operations-advisor-hennessy/) | Brittany Hennessy 视角：定价双因子、完美10分锚定、谈判三原则 |
-| [kol-operations-method-influencer](./kol-operations-skills/kol-operations-method-influencer/) | 《Influencer》方法论：分层金字塔、费率五要素定价、合同核验 |
-| [kol-operations-method-contagious](./kol-operations-skills/kol-operations-method-contagious/) | 《Contagious》方法论：STEPPS 六原则、内容传染性设计 |
-| [kol-operations-method-leverage](./kol-operations-skills/kol-operations-method-leverage/) | 《Contagious》传播机制：杠杆式传播、内容配比、联盟互推 |
-
-<a id="content-operations"></a>
-## ✍️ 内容运营
-
-从一个「内容该怎么做」的模糊问题开始，覆盖内容运营完整工作链：**策略 → 选题 → 生产 → 分发 → 数据复盘**。由陆羽Skill 生成。先用 `content-operations-master` 判断卡点，再路由到对应环节。
-
-| Skill | 说明 |
-|---|---|
-| [content-operations-master](./content-operations-skills/content-operations-master/) | 🎯 总控：分诊 → 路由 → 编排 |
-| [content-operations-strategy](./content-operations-skills/content-operations-strategy/) | 内容策略：业务目标→支柱→矩阵→节奏→资源 |
-| [content-operations-topic](./content-operations-skills/content-operations-topic/) | 内容选题：5 维评分排序 |
-| [content-operations-production](./content-operations-skills/content-operations-production/) | 内容生产：成品可直接发布 |
-| [content-operations-distribution](./content-operations-skills/content-operations-distribution/) | 内容分发：矩阵/时机/投流 |
-| [content-operations-analytics](./content-operations-skills/content-operations-analytics/) | 数据复盘：分层归因+行动项 |
-| [content-operations-advisory-board](./content-operations-skills/content-operations-advisory-board/) | 🧭 顾问团总控：评审会+分歧地图 |
-| [content-operations-advisor-handley](./content-operations-skills/content-operations-advisor-handley/) | Ann Handley：文案写作与内容质量 |
-| [content-operations-advisor-pulizzi](./content-operations-skills/content-operations-advisor-pulizzi/) | Joe Pulizzi：内容营销战略与差异化 |
-| [content-operations-advisor-huang](./content-operations-skills/content-operations-advisor-huang/) | 黄有璨：内容运营心法 |
-| [content-operations-method-everybody-writes](./content-operations-skills/content-operations-method-everybody-writes/) | 《Everybody Writes》：写作质量与 4U 标题 |
-| [content-operations-method-epic-content](./content-operations-skills/content-operations-method-epic-content/) | 《Epic Content Marketing》：使命宣言/倾斜/7步法 |
-| [content-operations-method-light-of-operations](./content-operations-skills/content-operations-method-light-of-operations/) | 《运营之光》（内容版）：做局/四大思维/闭环 |
-
-<a id="activity-operations"></a>
-## 🎯 活动运营
-
-从「办什么活动」到「复盘沉淀」，覆盖活动运营完整工作链：**目标设定 → 机制设计 → 执行落地 → 传播放大 → 复盘**。由陆羽Skill 生成。先用 `activity-operations-master` 判断卡点。
-
-| Skill | 说明 |
-|---|---|
-| [activity-operations-master](./activity-operations/activity-operations-master/) | 🎯 总控：分诊 → 路由 → 编排 |
-| [activity-operations-planning](./activity-operations/activity-operations-planning/) | 活动策划：目标、玩法、预算、排期 |
-| [activity-operations-mechanics](./activity-operations/activity-operations-mechanics/) | 机制设计：参与/传播机制、激励、风控 |
-| [activity-operations-execution](./activity-operations/activity-operations-execution/) | 执行落地：任务分解、上线检查 |
-| [activity-operations-promotion](./activity-operations/activity-operations-promotion/) | 传播放大：渠道组合、节奏、投流 |
-| [activity-operations-review](./activity-operations/activity-operations-review/) | 复盘：数据归因、经验沉淀 |
-| [activity-operations-advisory-board](./activity-operations/activity-operations-advisory-board/) | 🧭 顾问团总控：评审会+分歧地图 |
-| [activity-operations-advisor-huang](./activity-operations/activity-operations-advisor-huang/) | 黄有璨：运营价值判断 |
-| [activity-operations-advisor-zhang](./activity-operations/activity-operations-advisor-zhang/) | 张亮：运营体系判断 |
-| [activity-operations-advisor-qu](./activity-operations/activity-operations-advisor-qu/) | 曲卉：增长实验判断 |
-| [activity-operations-method-light-of-operations](./activity-operations/activity-operations-method-light-of-operations/) | 《运营之光》：做局/四大思维/闭环 |
-| [activity-operations-method-growth-hacking](./activity-operations/activity-operations-method-growth-hacking/) | 《增长黑客》：实验循环/AARRR/北极星 |
-| [activity-operations-method-lean-analytics](./activity-operations/activity-operations-method-lean-analytics/) | 《精益数据分析》：第一关键指标/数据诊断 |
-
-<a id="product-operations"></a>
-## 📱 产品运营
-
-从「产品上线后怎么运营」到「数据驱动迭代」，覆盖产品运营完整工作链：**运营策略 → 激活留存 → 激励体系 → 数据迭代 → 版本运营 → 反馈闭环**。由陆羽Skill 生成。先用 `product-operations-master` 判断卡点。
-
-| Skill | 说明 |
-|---|---|
-| [product-operations-master](./product-operations/product-operations-master/) | 🎯 总控：分诊 → 路由 → 编排 |
-| [product-operations-strategy](./product-operations/product-operations-strategy/) | 运营策略：阶段定位、北极星指标 |
-| [product-operations-activation](./product-operations/product-operations-activation/) | 激活留存：Aha Moment、留存曲线 |
-| [product-operations-incentive](./product-operations/product-operations-incentive/) | 激励体系：积分/等级/勋章 |
-| [product-operations-data](./product-operations/product-operations-data/) | 数据迭代：看板/漏斗/实验 |
-| [product-operations-release](./product-operations/product-operations-release/) | 版本运营：节奏/上线/验证 |
-| [product-operations-feedback](./product-operations/product-operations-feedback/) | 反馈闭环：收集/需求池/回应 |
-| [product-operations-advisory-board](./product-operations/product-operations-advisory-board/) | 🧭 顾问团总控：评审会+分歧地图 |
-| [product-operations-advisor-zhang](./product-operations/product-operations-advisor-zhang/) | 张亮：产品运营体系 |
-| [product-operations-advisor-qu](./product-operations/product-operations-advisor-qu/) | 曲卉：激活/留存实验 |
-| [product-operations-advisor-yujun](./product-operations/product-operations-advisor-yujun/) | 俞军：用户价值判断 |
-| [product-operations-method-hooked](./product-operations/product-operations-method-hooked/) | 《上瘾》：Hook 模型/习惯养成 |
-| [product-operations-method-growth-hacking](./product-operations/product-operations-method-growth-hacking/) | 《增长黑客》：实验循环/北极星 |
-| [product-operations-method-lean-analytics](./product-operations/product-operations-method-lean-analytics/) | 《精益数据分析》：第一关键指标 |
-
-<a id="private-domain-operations"></a>
-## 💬 私域运营
-
-从「私域怎么搭」到「裂变放大」，覆盖私域运营完整工作链：**体系设计 → 引流 → 社群运营 → 转化 → 裂变 → 数据分层**。由陆羽Skill 生成。先用 `private-domain-operations-master` 判断卡点。
-
-| Skill | 说明 |
-|---|---|
-| [private-domain-operations-master](./private-domain-operations/private-domain-operations-master/) | 🎯 总控：分诊 → 路由 → 编排 |
-| [private-domain-operations-strategy](./private-domain-operations/private-domain-operations-strategy/) | 体系设计：渠道/人设/承接/转化路径 |
-| [private-domain-operations-traffic](./private-domain-operations/private-domain-operations-traffic/) | 引流：钩子/路径/承接 |
-| [private-domain-operations-community](./private-domain-operations/private-domain-operations-community/) | 社群运营：内容/互动/成交三线 |
-| [private-domain-operations-conversion](./private-domain-operations/private-domain-operations-conversion/) | 转化：信任→成交→复购 |
-| [private-domain-operations-referral](./private-domain-operations/private-domain-operations-referral/) | 裂变转介绍：激励/路径/风控 |
-| [private-domain-operations-data](./private-domain-operations/private-domain-operations-data/) | 数据分层：标签/SCRM |
-| [private-domain-operations-advisory-board](./private-domain-operations/private-domain-operations-advisory-board/) | 🧭 顾问团总控：评审会+分歧地图 |
-| [private-domain-operations-advisor-xu](./private-domain-operations/private-domain-operations-advisor-xu/) | 徐志斌：社群运营 |
-| [private-domain-operations-advisor-zhang](./private-domain-operations/private-domain-operations-advisor-zhang/) | 张亮：生命周期运营 |
-| [private-domain-operations-advisor-qu](./private-domain-operations/private-domain-operations-advisor-qu/) | 曲卉：留存/复购实验 |
-| [private-domain-operations-method-small-group](./private-domain-operations/private-domain-operations-method-small-group/) | 《小群效应》：三近一反/临界规模 |
-| [private-domain-operations-method-membership](./private-domain-operations/private-domain-operations-method-membership/) | 《会员经济》：会员体系/超级用户 |
-| [private-domain-operations-method-private-domain](./private-domain-operations/private-domain-operations-method-private-domain/) | 私域方法论：链路/标签/SCRM |
+**第一次用，不需要猜该调哪个。** 打开[岗位技能库](./岗位技能库/)后，从对应岗位的 `*-master` 总控开始，描述你的目标、已有材料和当前卡点；已明确要做的工作，再直接使用专项 Skill。每个岗位页面均保留完整清单、工作链与顾问团入口。
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
