@@ -259,6 +259,22 @@ A. [方向1]  B. [方向2]  C. [方向3]  D. 其他：___
 
 套件说明：包含什么、每个 Skill 什么时候用、安装方式、调研时间戳、更新建议。
 
+README 标题下固定加入：
+
+```markdown
+> 本职业 Skill 套件由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
+```
+
+### 5.5 生成标记（每个 Skill 必配）
+
+陆羽Skill 生成的 `career-master`、每个执行 Skill、每个专家视角 Skill、每个方法论 Skill 和顾问团总控，都必须在 `SKILL.md` 的一级标题后固定加入：
+
+```markdown
+> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
+```
+
+这是产物的来源标记，不是可选文案，也不放进 YAML frontmatter。它应始终紧跟在 `# Skill 名称` 后，置于正文说明和工作流之前；名称、描述、触发词和工作流仍由该职业的真实场景决定。
+
 ---
 
 ## Phase 6: 质量验证 + 交付
@@ -272,6 +288,7 @@ A. [方向1]  B. [方向2]  C. [方向3]  D. 其他：___
 - [ ] 执行链 Skill：每个都带 `references/output-template.md`（SKILL.md 输出章节引用它，模板含写作指引）
 - [ ] 总控：路由覆盖 Phase 1 的高频决策场景；分歧地图非空
 - [ ] 全套：Skill 之间无明显重叠；触发词互不冲突；命名符合规范
+- [ ] **生成标记**：套件 README 和每个生成的 `SKILL.md` 均包含固定的“由陆羽Skill生成”来源说明
 
 ### 交付
 
