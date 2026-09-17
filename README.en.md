@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-93-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-162-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -37,15 +37,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
 | ⚙️ [**Meta Skill**](#meta-skill) | Input a profession/function, auto-research it, and generate a systematic career Skill chain | LuyuSkill |
-| 📦 [**Product management**](#product-management) | Move from product judgment and research to prototypes, data, experiments, and review | 22 PM Skills (incl. advisory suite) |
-| 📣 [**General operations**](#general-operations) | Cover the full operations workflow: data, campaigns, content, user segmentation, review | 14 operations Skills (incl. advisory suite) |
-| 👥 [**User operations**](#user-operations) | Cover the full user lifecycle: segmentation, lifecycle, retention, recall, membership, community | 14 user operations Skills (incl. advisory suite) |
-| 🌍 [**Overseas marketing**](#overseas-marketing) | Cover the full outbound marketing workflow: research, branding, content/SEO, paid ads, email, analytics | 14 overseas marketing Skills (incl. advisory suite) |
-| 🌟 [**KOL operations**](#kol-operations) | Cover the full influencer marketing workflow: strategy, discovery, outreach, co-creation, campaign, analytics | 14 KOL skills (incl. advisory suite) |
-| ✍️ [**Content operations**](#content-operations) | Cover the full content workflow: strategy, topics, production, distribution, analytics | 13 content operations Skills (incl. advisory suite) |
-| 🎯 [**Activity operations**](#activity-operations) | Cover the full campaign workflow: goals, mechanics, execution, promotion, review | 13 activity operations Skills (incl. advisory suite) |
-| 📱 [**Product operations**](#product-operations) | Cover post-launch product operations: strategy, activation, retention, incentives, data, releases | 14 product operations Skills (incl. advisory suite) |
-| 💬 [**Private domain operations**](#private-domain-operations) | Cover the full private-domain workflow: system, traffic, community, conversion, referral, data | 14 private domain Skills (incl. advisory suite) |
+| 🧩 [**Career Skills**](./career-skills/) | Enter through real work across product, operations, and global growth | 9 role tracks, 132 career Skills |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
@@ -120,208 +112,18 @@ The perspective Skills are research-based mental models for decisions, products,
 |---|---|
 | [luyu-skill](./luyu-skill/) | LuyuSkill · Meta Skill factory: input a profession/function/industry, auto-research its core workflows → select 3 experts + 3 classic books → parallel distillation → generate a systematic career Skill chain (career-master + execution chain + advisory board), ready to install |
 
-<a id="product-management"></a>
-### 📦 Product management
+<a id="career-skills"></a>
+### 🧩 Career Skills
 
-Start with `pm-master` when the product problem is unclear, then bring in only the needed Skills for discovery, requirements, review, prioritization, roadmap, measurement, experimentation, analysis, or retrospective. Every Skill also works on its own.
+Career Skills are no longer isolated tools. They are nine role-based workflows that move from diagnosis to delivery and review. The homepage no longer lists all 132 entries; choose the work you are doing, then begin with that role's controller Skill.
 
-| Skill | What it helps with |
-|---|---|
-| [pm-master](./pm-master/) | Product workflow dispatcher: triage the problem → route to the right Skill → orchestrate multi-Skill chains so each step's output feeds the next |
-| [pm-prd-writer](./pm-prd-writer/) | Turn a fuzzy idea or user problem into a reviewable PRD: stage-zero requirement check, four-stage workflow (clarify → structure → enrich → deliver), and a confirmation checklist; degrades to a scoping doc when input is insufficient |
-| [pm-review-board](./pm-review-board/) | Simulate a six-role review (product, engineering, test, design, operations, legal) with severity tiers and opinion quality red lines, surfacing review-day objections before the meeting |
-| [pm-advisory-board](./pm-advisory-suite/pm-advisory-board/) | Expert advisory board: Cagan, Torres, Yu Jun + Mom Test / Story Mapping / Build Trap, making "should we do this" disagreements explicit |
-| [pm-advisor-cagan](./pm-advisory-suite/pm-advisor-cagan/) | Marty Cagan lens: review value, usability, feasibility, and business-sustainability risks |
-| [pm-advisor-torres](./pm-advisory-suite/pm-advisor-torres/) | Teresa Torres lens: organize outcomes, opportunities, solutions, and assumptions into an opportunity solution tree |
-| [pm-advisor-yujun](./pm-advisory-suite/pm-advisor-yujun/) | Yu Jun lens: user value = new experience − old experience − switching cost |
-| [pm-method-mom-test](./pm-advisory-suite/pm-method-mom-test/) | The Mom Test: rewrite interviews around past behavior, concrete facts, and real commitments |
-| [pm-method-story-mapping](./pm-advisory-suite/pm-method-story-mapping/) | User Story Mapping: align the full journey and slice an end-to-end testable MVP |
-| [pm-method-build-trap](./pm-advisory-suite/pm-method-build-trap/) | Escaping the Build Trap: reconnect the roadmap to observable outcomes |
-| [pm-survey-designer](./pm-survey-designer/) | Design high-quality surveys from research goals: every question maps to a hypothesis, with bias/double-barrel/sampling checks |
-| [pm-competitor-deconstructor](./pm-competitor-deconstructor/) | Deconstruct competitors across strategy, capability, experience, and growth; separate borrowable from non-copyable and unvalidated opportunities |
-| [pm-prioritization-engine](./pm-prioritization-engine/) | RICE / ICE / Kano multi-model scoring + hard constraints + sensitivity analysis |
-| [pm-roadmap-planner](./pm-roadmap-planner/) | Turn quarterly goals, capacity, and dependencies into a version roadmap with milestones, risks, and buffers |
-| [pm-tracking-spec-writer](./pm-tracking-spec-writer/) | Break product goals and user journeys into event dictionaries, metric definitions, privacy boundaries, and QA checklists |
-| [pm-experiment-designer](./pm-experiment-designer/) | Complete A/B experiment design: falsifiable hypotheses, allocation, sample size, stop rules, and decision criteria |
-| [pm-analytics](./pm-analytics/) | From data signals to product decisions: data health check, metric decomposition, evidence-graded attribution, visualized report |
-| [pm-postmortem-writer](./pm-postmortem-writer/) | Structured retrospective: 5-Why root-cause evidence + enforced graded action items, ready to publish |
-| [pm-image2proto](./pm-image2proto/) | Screenshot → runnable, inspectable, editable HTML prototype |
-| [pm-image2pencil](./pm-image2pencil/) | Screenshot → editable Pencil design + structured design doc |
-| [pm-url2proto](./pm-url2proto/) | Authorized webpage → local, maintainable Next.js prototype project |
+| Work track | Best for | Role entry points |
+|---|---|---|
+| **Product and product operations** | Discovery, PRDs, reviews, roadmaps, activation, and iteration | [📦 Product management](./career-skills/#product-management) · [📱 Product operations](./career-skills/#product-operations) |
+| **Operations and growth** | Data, campaigns, content, users, private domain, retention, conversion, and review | [📣 General operations](./career-skills/#general-operations) · [👥 User operations](./career-skills/#user-operations) · [✍️ Content operations](./career-skills/#content-operations) · [🎯 Activity operations](./career-skills/#activity-operations) · [💬 Private-domain operations](./career-skills/#private-domain-operations) |
+| **Global growth** | Market entry, branding, SEO, paid ads, email, and creator partnerships | [🌍 Overseas marketing](./career-skills/#overseas-marketing) · [🌟 KOL operations](./career-skills/#kol-operations) |
 
-<a id="general-operations"></a>
-### 📣 General operations
-
-A Skill suite for the general operations role, covering the full operations workflow (data → campaigns → content → users → review → strategy). Start with `operations-master` to triage the blocker, then bring in what's needed; judgment questions go to the `operations-advisory-board` (Huang Youcan / Zhang Liang / Qu Hui + three classic methodology books).
-
-| Skill | What it helps with |
-|---|---|
-| [operations-master](./general-operations-skills/operations-master/) | Operations dispatcher: triage → route to the right Skill → orchestrate multi-Skill chains |
-| [operations-strategy](./general-operations-skills/operations-strategy/) | Period strategy: goal decomposition, strategy selection, resource allocation, milestone rhythm |
-| [operations-data-analysis](./general-operations-skills/operations-data-analysis/) | Data attribution & decisions: turn metric anomalies/funnels/retention into evidence-graded (A/B/C) findings and actions |
-| [operations-activity-planner](./general-operations-skills/operations-activity-planner/) | Campaign planning: fuzzy idea → executable plan with ROI estimate and risk control |
-| [operations-content-strategy](./general-operations-skills/operations-content-strategy/) | Content strategy: topic matrix + publishing calendar + data feedback loop |
-| [operations-user-segmentation](./general-operations-skills/operations-user-segmentation/) | User segmentation & outreach: RFM/lifecycle tiers + differentiated strategies per tier |
-| [operations-review](./general-operations-skills/operations-review/) | Retrospective: root-cause evidence (5-Why) + enforced graded, trackable action items |
-| [operations-advisory-board](./general-operations-skills/operations-advisory-board/) | Advisory board dispatcher: route to experts/methods, or run a multi-expert review (consensus/disagreement/synthesized conclusion) |
-| [operations-advisor-huang](./general-operations-skills/operations-advisor-huang/) | Huang Youcan lens: operations value judgment, "setting the game" / breakthrough thinking, deferred rewards |
-| [operations-advisor-zhang](./general-operations-skills/operations-advisor-zhang/) | Zhang Liang lens: four-module operations system, user lifecycle, refined operations |
-| [operations-advisor-qu](./general-operations-skills/operations-advisor-qu/) | Qu Hui lens: growth experiment loop, North Star metric, growth model |
-| [operations-method-light-of-operations](./general-operations-skills/operations-method-light-of-operations/) | *The Light of Operations*: setting the game, four operations mindsets, the operations formula |
-| [operations-method-lean-analytics](./general-operations-skills/operations-method-lean-analytics/) | *Lean Analytics*: One Metric That Matters, lean analytics cycle, five stage gates |
-| [operations-method-growth-hacking](./general-operations-skills/operations-method-growth-hacking/) | *Hacking Growth*: growth experiment loop, North Star metric, AARRR funnel |
-
-<a id="user-operations"></a>
-### 👥 User operations
-
-A systematic Skill suite generated by LuyuSkill for the user operations role, covering the full user lifecycle (segmentation → lifecycle → retention → recall → membership → community). Start with `user-operations-master` to triage the blocker; judgment questions go to the `user-operations-advisory-board` (Zhang Liang / Qu Hui / Xu Zhibin + three methodology books).
-
-| Skill | What it helps with |
-|---|---|
-| [user-operations-master](./user-operations-skills/user-operations-master/) | User operations dispatcher: triage → route to the right Skill → orchestrate multi-Skill chains |
-| [user-operations-segmentation](./user-operations-skills/user-operations-segmentation/) | Segmentation system: RFM/lifecycle/value tiers + differentiated strategies per tier |
-| [user-operations-lifecycle](./user-operations-skills/user-operations-lifecycle/) | Lifecycle operations: stage goals/strategies/actions + stage conversion and churn prevention |
-| [user-operations-retention](./user-operations-skills/user-operations-retention/) | Retention: diagnose → locate churn → design habit mechanisms → retention experiments |
-| [user-operations-recall](./user-operations-skills/user-operations-recall/) | Win-back & recall: hook design + channel cost + recall experiments |
-| [user-operations-membership](./user-operations-skills/user-operations-membership/) | Membership: tiers/benefits/points/growth value/ROI |
-| [user-operations-community](./user-operations-skills/user-operations-community/) | Community: small-group split/activity mechanics/incentives & conversion |
-| [user-operations-advisory-board](./user-operations-skills/user-operations-advisory-board/) | Advisory board dispatcher: route to experts/methods, or run a multi-expert review |
-| [user-operations-advisor-zhang](./user-operations-skills/user-operations-advisor-zhang/) | Zhang Liang lens: lifecycle, acquisition/retention, refined operations |
-| [user-operations-advisor-qu](./user-operations-skills/user-operations-advisor-qu/) | Qu Hui lens: retention experiments, North Star metric, growth model |
-| [user-operations-advisor-xu](./user-operations-skills/user-operations-advisor-xu/) | Xu Zhibin lens: small-group effect, social dividend, user incentives |
-| [user-operations-method-hooked](./user-operations-skills/user-operations-method-hooked/) | *Hooked*: Hook model, habit formation, retention mechanics |
-| [user-operations-method-membership](./user-operations-skills/user-operations-method-membership/) | *The Membership Economy*: membership model, value ladder, freemium |
-| [user-operations-method-small-group](./user-operations-skills/user-operations-method-small-group/) | *The Small Group Effect*: three-close-one-reverse, community growth & incentive engine |
-
-<a id="overseas-marketing"></a>
-### 🌍 Overseas marketing
-
-A systematic Skill suite generated by LuyuSkill for the overseas marketing role, covering the full outbound marketing workflow (research → branding → content/SEO → paid ads → email → analytics). Start with `overseas-marketing-master` to triage the blocker; judgment questions go to the `overseas-marketing-advisory-board` (Seth Godin / Neil Patel / Cialdini + three classic methodology books).
-
-| Skill | What it helps with |
-|---|---|
-| [overseas-marketing-master](./overseas-marketing-skills/overseas-marketing-master/) | Overseas marketing dispatcher: triage → route to the right Skill → orchestrate multi-Skill chains |
-| [overseas-marketing-research](./overseas-marketing-skills/overseas-marketing-research/) | Market research: market scan, weighted scoring for market selection, competitive analysis, entry strategy |
-| [overseas-marketing-branding](./overseas-marketing-skills/overseas-marketing-branding/) | Brand positioning: target audience/MVA, positioning statement, competitor map, brand story |
-| [overseas-marketing-content-seo](./overseas-marketing-skills/overseas-marketing-content-seo/) | Content marketing + SEO: keyword map, topic calendar, on-page/off-page optimization |
-| [overseas-marketing-paid-ads](./overseas-marketing-skills/overseas-marketing-paid-ads/) | Paid ads: channel selection, audience/creative/bidding, break-even line, testing plan |
-| [overseas-marketing-email](./overseas-marketing-skills/overseas-marketing-email/) | Email marketing: list health, welcome/abandoned-cart automations, copywriting & compliance |
-| [overseas-marketing-analytics](./overseas-marketing-skills/overseas-marketing-analytics/) | Marketing analytics: channel breakdown, funnel diagnosis, attribution (evidence-graded), optimization |
-| [overseas-marketing-advisory-board](./overseas-marketing-skills/overseas-marketing-advisory-board/) | Advisory board dispatcher: route to experts/methods, or run a multi-expert review |
-| [overseas-marketing-advisor-godin](./overseas-marketing-skills/overseas-marketing-advisor-godin/) | Seth Godin lens: Minimum Viable Audience, permission marketing, marketing as change |
-| [overseas-marketing-advisor-patel](./overseas-marketing-skills/overseas-marketing-advisor-patel/) | Neil Patel lens: 3-step SEO, 80/20 content flywheel, channel ROI |
-| [overseas-marketing-advisor-cialdini](./overseas-marketing-skills/overseas-marketing-advisor-cialdini/) | Cialdini lens: six principles of persuasion, pre-suasion, conversion optimization |
-| [overseas-marketing-method-this-is-marketing](./overseas-marketing-skills/overseas-marketing-method-this-is-marketing/) | *This Is Marketing*: MVA, making change, five-step marketing method |
-| [overseas-marketing-method-influence](./overseas-marketing-skills/overseas-marketing-method-influence/) | *Influence*: six principles, pre-suasion, conversion persuasion framework |
-| [overseas-marketing-method-storybrand](./overseas-marketing-skills/overseas-marketing-method-storybrand/) | *Building a StoryBrand*: SB7 story framework, brand narrative, website copy |
-
-<a id="kol-operations"></a>
-### 🌟 KOL operations
-
-A systematic Skill suite generated by LuyuSkill for the overseas KOL (influencer) marketing role, covering the full influencer marketing workflow (strategy → discovery → outreach → co-creation → campaign → analytics). Start with `kol-operations-master` to triage the blocker; judgment questions go to the `kol-operations-advisory-board` (Gary Vee / Neal Schaffer / Brittany Hennessy + three methodology books).
-
-| Skill | What it helps with |
-|---|---|
-| [kol-operations-master](./kol-operations-skills/kol-operations-master/) | KOL operations dispatcher: triage → route to the right Skill → orchestrate multi-Skill chains |
-| [kol-operations-strategy](./kol-operations-skills/kol-operations-strategy/) | Strategy: goals/KPIs, platform selection, creator tiers, budget allocation, cadence |
-| [kol-operations-discovery](./kol-operations-skills/kol-operations-discovery/) | Creator discovery & vetting: engagement rate/audience/tone assessment, risk screening |
-| [kol-operations-outreach](./kol-operations-skills/kol-operations-outreach/) | Outreach & negotiation: personalized pitches, rate evaluation (CPE), contract terms |
-| [kol-operations-co-creation](./kol-operations-skills/kol-operations-co-creation/) | Content co-creation: creative brief (direction + guardrails), integration, review checklist |
-| [kol-operations-campaign](./kol-operations-skills/kol-operations-campaign/) | Campaign execution: scheduling, delivery tracking, rights management, acceptance |
-| [kol-operations-analytics](./kol-operations-skills/kol-operations-analytics/) | Analytics: per-creator breakdown, combination attribution (evidence-graded), re-invest advice |
-| [kol-operations-advisory-board](./kol-operations-skills/kol-operations-advisory-board/) | Advisory board dispatcher: route to experts/methods, or run a multi-expert review |
-| [kol-operations-advisor-garyvee](./kol-operations-skills/kol-operations-advisor-garyvee/) | Gary Vee lens: content marketing, Document Don't Create, attention economy |
-| [kol-operations-advisor-schaffer](./kol-operations-skills/kol-operations-advisor-schaffer/) | Neal Schaffer lens: influence funnel, 16 collaboration types, long-term ambassador relations |
-| [kol-operations-advisor-hennessy](./kol-operations-skills/kol-operations-advisor-hennessy/) | Brittany Hennessy lens: two-factor pricing, Perfect-10 anchoring, negotiation principles |
-| [kol-operations-method-influencer](./kol-operations-skills/kol-operations-method-influencer/) | *Influencer*: creator tier pyramid, 5-factor rate pricing, contract review |
-| [kol-operations-method-contagious](./kol-operations-skills/kol-operations-method-contagious/) | *Contagious*: STEPPS framework, contagious content design |
-| [kol-operations-method-leverage](./kol-operations-skills/kol-operations-method-leverage/) | *Contagious* propagation mechanics: leverage playbook, content mix, cross-promotion |
-
-<a id="content-operations"></a>
-## ✍️ Content operations
-
-From a vague "how should we do content" question, covering the full content workflow: **strategy → topics → production → distribution → analytics**. Generated by LuyuSkill. Start with `content-operations-master` to locate the bottleneck, then route to the matching skill.
-
-| Skill | Description |
-|---|---|
-| [content-operations-master](./content-operations-skills/content-operations-master/) | 🎯 Master: triage → route → orchestrate |
-| [content-operations-strategy](./content-operations-skills/content-operations-strategy/) | Content strategy: goals → pillars → matrix → cadence → resources |
-| [content-operations-topic](./content-operations-skills/content-operations-topic/) | Topic selection: 5-dimension scoring |
-| [content-operations-production](./content-operations-skills/content-operations-production/) | Content production: publish-ready output |
-| [content-operations-distribution](./content-operations-skills/content-operations-distribution/) | Distribution: platform matrix / timing / paid amplification |
-| [content-operations-analytics](./content-operations-skills/content-operations-analytics/) | Analytics: layered attribution + action items |
-| [content-operations-advisory-board](./content-operations-skills/content-operations-advisory-board/) | 🧭 Advisory board: review sessions + disagreement map |
-| [content-operations-advisor-handley](./content-operations-skills/content-operations-advisor-handley/) | Ann Handley: writing & content quality |
-| [content-operations-advisor-pulizzi](./content-operations-skills/content-operations-advisor-pulizzi/) | Joe Pulizzi: content marketing strategy & differentiation |
-| [content-operations-advisor-huang](./content-operations-skills/content-operations-advisor-huang/) | Huang Youcan: content operations mindset |
-| [content-operations-method-everybody-writes](./content-operations-skills/content-operations-method-everybody-writes/) | *Everybody Writes*: writing quality & 4U headlines |
-| [content-operations-method-epic-content](./content-operations-skills/content-operations-method-epic-content/) | *Epic Content Marketing*: mission statement / tilt / 7-step |
-| [content-operations-method-light-of-operations](./content-operations-skills/content-operations-method-light-of-operations/) | *Light of Operations* (content edition): game-making / 4 mindsets / flywheel |
-
-<a id="activity-operations"></a>
-## 🎯 Activity operations
-
-From "what campaign should we run" to review, covering the full campaign workflow: **goals → mechanics → execution → promotion → review**. Generated by LuyuSkill. Start with `activity-operations-master` to locate the bottleneck.
-
-| Skill | Description |
-|---|---|
-| [activity-operations-master](./activity-operations/activity-operations-master/) | 🎯 Master: triage → route → orchestrate |
-| [activity-operations-planning](./activity-operations/activity-operations-planning/) | Campaign planning: goals, mechanics, budget, schedule |
-| [activity-operations-mechanics](./activity-operations/activity-operations-mechanics/) | Mechanics design: participation/viral loops, incentives, risk control |
-| [activity-operations-execution](./activity-operations/activity-operations-execution/) | Execution: task breakdown, launch checklist |
-| [activity-operations-promotion](./activity-operations/activity-operations-promotion/) | Promotion: channel mix, cadence, paid amplification |
-| [activity-operations-review](./activity-operations/activity-operations-review/) | Review: data attribution, lessons |
-| [activity-operations-advisory-board](./activity-operations/activity-operations-advisory-board/) | 🧭 Advisory board: review sessions + disagreement map |
-| [activity-operations-advisor-huang](./activity-operations/activity-operations-advisor-huang/) | Huang Youcan: operations value judgment |
-| [activity-operations-advisor-zhang](./activity-operations/activity-operations-advisor-zhang/) | Zhang Liang: operations system |
-| [activity-operations-advisor-qu](./activity-operations/activity-operations-advisor-qu/) | Qu Hui: growth experiments |
-| [activity-operations-method-light-of-operations](./activity-operations/activity-operations-method-light-of-operations/) | *Light of Operations*: game-making / 4 mindsets / formula |
-| [activity-operations-method-growth-hacking](./activity-operations/activity-operations-method-growth-hacking/) | *Hacking Growth*: experiment loop / AARRR / North Star |
-| [activity-operations-method-lean-analytics](./activity-operations/activity-operations-method-lean-analytics/) | *Lean Analytics*: One Metric That Matters / diagnostics |
-
-<a id="product-operations"></a>
-## 📱 Product operations
-
-From "how to operate after launch" to data-driven iteration, covering post-launch product operations: **strategy → activation/retention → incentives → data → releases → feedback loop**. Generated by LuyuSkill. Start with `product-operations-master`.
-
-| Skill | Description |
-|---|---|
-| [product-operations-master](./product-operations/product-operations-master/) | 🎯 Master: triage → route → orchestrate |
-| [product-operations-strategy](./product-operations/product-operations-strategy/) | Operations strategy: stage, North Star metric |
-| [product-operations-activation](./product-operations/product-operations-activation/) | Activation & retention: Aha Moment, retention curves |
-| [product-operations-incentive](./product-operations/product-operations-incentive/) | Incentive systems: points/levels/badges |
-| [product-operations-data](./product-operations/product-operations-data/) | Data-driven iteration: dashboards/funnels/experiments |
-| [product-operations-release](./product-operations/product-operations-release/) | Release operations: cadence/launch/verification |
-| [product-operations-feedback](./product-operations/product-operations-feedback/) | Feedback loop: collection/backlog/response |
-| [product-operations-advisory-board](./product-operations/product-operations-advisory-board/) | 🧭 Advisory board: review sessions + disagreement map |
-| [product-operations-advisor-zhang](./product-operations/product-operations-advisor-zhang/) | Zhang Liang: product operations system |
-| [product-operations-advisor-qu](./product-operations/product-operations-advisor-qu/) | Qu Hui: activation/retention experiments |
-| [product-operations-advisor-yujun](./product-operations/product-operations-advisor-yujun/) | Yu Jun: user value judgment |
-| [product-operations-method-hooked](./product-operations/product-operations-method-hooked/) | *Hooked*: Hook model / habit formation |
-| [product-operations-method-growth-hacking](./product-operations/product-operations-method-growth-hacking/) | *Hacking Growth*: experiment loop / North Star |
-| [product-operations-method-lean-analytics](./product-operations/product-operations-method-lean-analytics/) | *Lean Analytics*: One Metric That Matters |
-
-<a id="private-domain-operations"></a>
-## 💬 Private domain operations
-
-From "how to build private domain" to viral amplification, covering the full private-domain workflow: **system → traffic → community → conversion → referral → data**. Generated by LuyuSkill. Start with `private-domain-operations-master`.
-
-| Skill | Description |
-|---|---|
-| [private-domain-operations-master](./private-domain-operations/private-domain-operations-master/) | 🎯 Master: triage → route → orchestrate |
-| [private-domain-operations-strategy](./private-domain-operations/private-domain-operations-strategy/) | System design: channels/persona/onboarding/conversion path |
-| [private-domain-operations-traffic](./private-domain-operations/private-domain-operations-traffic/) | Traffic: hooks/paths/onboarding |
-| [private-domain-operations-community](./private-domain-operations/private-domain-operations-community/) | Community: content/interaction/sales |
-| [private-domain-operations-conversion](./private-domain-operations/private-domain-operations-conversion/) | Conversion: trust → purchase → repurchase |
-| [private-domain-operations-referral](./private-domain-operations/private-domain-operations-referral/) | Referral/viral: incentives/paths/risk control |
-| [private-domain-operations-data](./private-domain-operations/private-domain-operations-data/) | Data & segmentation: tags/SCRM |
-| [private-domain-operations-advisory-board](./private-domain-operations/private-domain-operations-advisory-board/) | 🧭 Advisory board: review sessions + disagreement map |
-| [private-domain-operations-advisor-xu](./private-domain-operations/private-domain-operations-advisor-xu/) | Xu Zhibin: community operations |
-| [private-domain-operations-advisor-zhang](./private-domain-operations/private-domain-operations-advisor-zhang/) | Zhang Liang: lifecycle operations |
-| [private-domain-operations-advisor-qu](./private-domain-operations/private-domain-operations-advisor-qu/) | Qu Hui: retention/repurchase experiments |
-| [private-domain-operations-method-small-group](./private-domain-operations/private-domain-operations-method-small-group/) | *Small Group Effect*: 3-Near-1-Against / critical mass |
-| [private-domain-operations-method-membership](./private-domain-operations/private-domain-operations-method-membership/) | *Membership Economy*: membership systems / super users |
-| [private-domain-operations-method-private-domain](./private-domain-operations/private-domain-operations-method-private-domain/) | Private domain playbook: chain/tags/SCRM |
+**No need to guess which Skill to use the first time.** Open [Career Skills](./career-skills/), start with the relevant `*-master` controller, and describe your goal, available material, and blocker. When the task is already clear, call the specialist Skill directly.
 
 <a id="development-tools"></a>
 ### 🧰 Development
