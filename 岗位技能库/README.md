@@ -1,8 +1,6 @@
 # 🧩 岗位技能库
 
-> 按你正在做的工作进入，不必先记住每一个 Skill 的名字。
-
-这里收录的是围绕具体岗位工作链构建的一组 Skill。每一组都从一个总控 Skill 开始：先描述你此刻卡住的事，由总控判断问题处于哪一环、组织需要的上下游能力；熟悉后也可以直接调用单项 Skill。
+请按你正在做的工作问题进入对应岗位，再从该岗位的总控 Skill 开始。
 
 ## 怎么选
 
@@ -23,7 +21,7 @@
 <a id="product-manager"></a>
 ### 📦 产品经理
 
-22 个 Skill，适合将需求、证据、决策和交付串成完整产品工作流。第一次使用，从 [pm-master](../pm-master/) 开始。
+适合将需求、证据、决策和交付串成完整产品工作流。第一次使用，从 [pm-master](../pm-master/) 开始。
 
 <details>
 <summary>查看产品经理完整 Skill 清单</summary>
@@ -56,42 +54,42 @@
 <a id="product-operations"></a>
 ### 📱 产品运营
 
-[进入产品运营完整 Skill 清单](../product-operations/)：14 个 Skill，适合产品上线后从激活到迭代的持续运营。
+[进入产品运营完整 Skill 清单](../product-operations/)：适合产品上线后从激活到迭代的持续运营。
 
 <a id="general-operations"></a>
 ### 📣 通用运营
 
-[进入通用运营完整 Skill 清单](../general-operations-skills/)：14 个 Skill，适合跨数据、活动、内容、用户和策略的综合问题。
+[进入通用运营完整 Skill 清单](../general-operations-skills/)：适合跨数据、活动、内容、用户和策略的综合问题。
 
 <a id="user-operations"></a>
 ### 👥 用户运营
 
-[进入用户运营完整 Skill 清单](../user-operations-skills/)：14 个 Skill，适合以用户生命周期为主线的精细化运营。
+[进入用户运营完整 Skill 清单](../user-operations-skills/)：适合以用户生命周期为主线的精细化运营。
 
 <a id="content-operations"></a>
 ### ✍️ 内容运营
 
-[进入内容运营完整 Skill 清单](../content-operations-skills/)：13 个 Skill，适合建立内容从选题到数据反馈的闭环。
+[进入内容运营完整 Skill 清单](../content-operations-skills/)：适合建立内容从选题到数据反馈的闭环。
 
 <a id="activity-operations"></a>
 ### 🎯 活动运营
 
-[进入活动运营完整 Skill 清单](../activity-operations/)：13 个 Skill，适合一次活动从目标到复盘的全程推进。
+[进入活动运营完整 Skill 清单](../activity-operations/)：适合一次活动从目标到复盘的全程推进。
 
 <a id="private-domain-operations"></a>
 ### 💬 私域运营
 
-[进入私域运营完整 Skill 清单](../private-domain-operations/)：14 个 Skill，适合搭建承接、社群、转化与复购体系。
+[进入私域运营完整 Skill 清单](../private-domain-operations/)：适合搭建承接、社群、转化与复购体系。
 
 <a id="overseas-marketing"></a>
 ### 🌍 海外市场营销
 
-[进入海外市场营销完整 Skill 清单](../overseas-marketing-skills/)：14 个 Skill，适合市场进入、品牌、渠道与增长分析。
+[进入海外市场营销完整 Skill 清单](../overseas-marketing-skills/)：适合市场进入、品牌、渠道与增长分析。
 
 <a id="kol-operations"></a>
 ### 🌟 海外 KOL 运营
 
-[进入海外 KOL 运营完整 Skill 清单](../kol-operations-skills/)：14 个 Skill，适合达人营销的策略、合作、投放和评估。
+[进入海外 KOL 运营完整 Skill 清单](../kol-operations-skills/)：适合达人营销的策略、合作、投放和评估。
 
 ## 使用原则
 
