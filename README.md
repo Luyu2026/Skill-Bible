@@ -33,9 +33,8 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 |---|---|---|
 | 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 12 个求职 Skill |
 | 🧩 [**岗位技能库**](#career-skills) | 按真实工作场景进入岗位能力系统：既能直接交付，也能在关键取舍时辅助判断 | 9 个岗位方向 · 133 个 Skill |
-| ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
-| 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
+| ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
 | 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | ⚙️ [**元 Skill**](#meta-skill) | 输入一个职业/职能，自动调研并生成一套体系化的职业 Skill 链 | 陆羽Skill |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
@@ -75,14 +74,6 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | **运营与增长** | 数据、活动、内容、用户、私域、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/README.md#general-operations) · [👥 用户运营 · 14](./岗位技能库/README.md#user-operations) · [✍️ 内容运营 · 14](./岗位技能库/README.md#content-operations) · [🎯 活动运营 · 14](./岗位技能库/README.md#activity-operations) · [💬 私域运营 · 14](./岗位技能库/README.md#private-domain-operations) |
 | **市场营销** | 市场进入、品牌、SEO、投放、邮件营销与达人合作 | [🌍 海外市场营销 · 14](./岗位技能库/README.md#overseas-marketing) · [🌟 海外 KOL 运营 · 14](./岗位技能库/README.md#kol-operations) |
 
-<a id="content-creation"></a>
-## ✍️ 内容创作
-
-| Skill | 用途 |
-|---|---|
-| [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
-| [wechat-visual-narrative](./wechat-visual-narrative/) | 根据已定稿的飞书公众号文章，先识别流程型、命题论证型或案例复盘型，再规划、生成并按位置插入真正帮助理解的配图 |
-
 <a id="perspectives"></a>
 ## 🧠 思维视角
 
@@ -104,12 +95,13 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [laozi-perspective](./laozi-perspective/) | 老子 | 反者道之动。物极必反，柔弱胜刚强。 |
 | [wang-yangming-perspective](./wang-yangming-perspective/) | 王阳明 | 心即理，知行合一，致良知。破山中贼易，破心中贼难。 |
 
-<a id="long-term-planning"></a>
-## 🛤️ 长期规划
+<a id="content-creation"></a>
+## ✍️ 内容创作
 
 | Skill | 用途 |
 |---|---|
-| [multi-year-path-planner](./multi-year-path-planner/) | 1、2、5 年路径推演：基于 Agent 可见的历史会话和项目材料，区分事实、信号与假设，持续判断长期路径、本周主押注与停止条件 |
+| [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
+| [wechat-visual-narrative](./wechat-visual-narrative/) | 根据已定稿的飞书公众号文章，先识别流程型、命题论证型或案例复盘型，再规划、生成并按位置插入真正帮助理解的配图 |
 
 <a id="investment-research"></a>
 ## 📈 投资研究
