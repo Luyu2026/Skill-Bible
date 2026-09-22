@@ -23,20 +23,14 @@
 <a id="product-manager"></a>
 ### 📦 产品经理
 
-把需求、证据、决策和交付串成完整产品工作流。**共 21 个 Skill。**
+把需求、证据、决策和交付串成完整产品工作流。**共 21 个 Skill：13 个执行 Skill，8 个判断 Skill。**
+
+#### 执行 Skill
 
 | Skill | 用途 |
 |---|---|
-| [pm-master](../pm-master/) | 产品工作分诊与多 Skill 工作流编排 |
 | [pm-prd-writer](../pm-prd-writer/) | 模糊需求 → 可评审 PRD |
 | [pm-review-board](../pm-review-board/) | 多角色评审 PRD 或原型 |
-| [pm-advisory-board](../pm-advisory-suite/pm-advisory-board/) | 有分歧时组织专家评审 |
-| [pm-advisor-cagan](../pm-advisory-suite/pm-advisor-cagan/) | 审查价值、可用性、可行性与商业风险 |
-| [pm-advisor-torres](../pm-advisory-suite/pm-advisor-torres/) | 用机会解决方案树拆解问题 |
-| [pm-advisor-yujun](../pm-advisory-suite/pm-advisor-yujun/) | 从用户价值判断需求取舍 |
-| [pm-method-mom-test](../pm-advisory-suite/pm-method-mom-test/) | 围绕真实行为设计用户访谈 |
-| [pm-method-story-mapping](../pm-advisory-suite/pm-method-story-mapping/) | 画用户旅程并切分 MVP |
-| [pm-method-build-trap](../pm-advisory-suite/pm-method-build-trap/) | 用 outcome 校准路线图 |
 | [pm-survey-designer](../pm-survey-designer/) | 设计问卷并检查样本偏差 |
 | [pm-competitor-deconstructor](../pm-competitor-deconstructor/) | 拆解竞品策略、功能、体验与增长 |
 | [pm-prioritization-engine](../pm-prioritization-engine/) | 对需求或项目排序并做敏感性分析 |
@@ -49,10 +43,25 @@
 | [pm-image2pencil](../pm-image2pencil/) | 截图 → 可编辑 Pencil 设计稿 |
 | [pm-url2proto](../pm-url2proto/) | 授权网页 → 可运行原型项目 |
 
+#### 判断 Skill
+
+| Skill | 用途 |
+|---|---|
+| [pm-master](../pm-master/) | 产品工作分诊与多 Skill 工作流编排 |
+| [pm-advisory-board](../pm-advisory-suite/pm-advisory-board/) | 有分歧时组织专家评审 |
+| [pm-advisor-cagan](../pm-advisory-suite/pm-advisor-cagan/) | 审查价值、可用性、可行性与商业风险 |
+| [pm-advisor-torres](../pm-advisory-suite/pm-advisor-torres/) | 用机会解决方案树拆解问题 |
+| [pm-advisor-yujun](../pm-advisory-suite/pm-advisor-yujun/) | 从用户价值判断需求取舍 |
+| [pm-method-mom-test](../pm-advisory-suite/pm-method-mom-test/) | 围绕真实行为设计用户访谈 |
+| [pm-method-story-mapping](../pm-advisory-suite/pm-method-story-mapping/) | 画用户旅程并切分 MVP |
+| [pm-method-build-trap](../pm-advisory-suite/pm-method-build-trap/) | 用 outcome 校准路线图 |
+
 <a id="product-operations"></a>
 ### 📱 产品运营
 
-覆盖产品上线后的策略、激活留存、激励、数据迭代、版本运营与反馈闭环。**共 14 个 Skill。**
+覆盖产品上线后的策略、激活留存、激励、数据迭代、版本运营与反馈闭环。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+
+#### 执行 Skill
 
 | Skill | 用途 |
 |---|---|
@@ -63,6 +72,11 @@
 | [product-operations-data](../product-operations/product-operations-data/) | 用看板、漏斗与实验推动数据迭代 |
 | [product-operations-release](../product-operations/product-operations-release/) | 规划版本上线节奏并验证效果 |
 | [product-operations-feedback](../product-operations/product-operations-feedback/) | 收集、分类、回应用户反馈并维护需求池 |
+
+#### 判断 Skill
+
+| Skill | 用途 |
+|---|---|
 | [product-operations-advisory-board](../product-operations/product-operations-advisory-board/) | 围绕运营方案开专家评审会 |
 | [product-operations-advisor-zhang](../product-operations/product-operations-advisor-zhang/) | 从运营体系判断问题 |
 | [product-operations-advisor-qu](../product-operations/product-operations-advisor-qu/) | 从激活与留存实验判断问题 |
@@ -74,7 +88,9 @@
 <a id="general-operations"></a>
 ### 📣 通用运营
 
-解决跨数据、活动、内容、用户和复盘的综合运营问题，侧重做决策与推进交付。**共 14 个 Skill。**
+解决跨数据、活动、内容、用户和复盘的综合运营问题，侧重做决策与推进交付。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+
+#### 执行 Skill
 
 | Skill | 用途 |
 |---|---|
@@ -85,6 +101,11 @@
 | [operations-content-strategy](../general-operations-skills/operations-content-strategy/) | 输出选题清单与内容排期 |
 | [operations-user-segmentation](../general-operations-skills/operations-user-segmentation/) | 搭建用户分层与差异化触达策略 |
 | [operations-review](../general-operations-skills/operations-review/) | 完成项目、活动或月度复盘 |
+
+#### 判断 Skill
+
+| Skill | 用途 |
+|---|---|
 | [operations-advisory-board](../general-operations-skills/operations-advisory-board/) | 组织多专家运营评审 |
 | [operations-advisor-huang](../general-operations-skills/operations-advisor-huang/) | 判断运营动作值不值得做 |
 | [operations-advisor-zhang](../general-operations-skills/operations-advisor-zhang/) | 判断运营体系与执行质量 |
@@ -96,7 +117,9 @@
 <a id="user-operations"></a>
 ### 👥 用户运营
 
-围绕用户全生命周期，解决分层、留存、召回、会员与社群的持续运营问题。**共 14 个 Skill。**
+围绕用户全生命周期，解决分层、留存、召回、会员与社群的持续运营问题。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+
+#### 执行 Skill
 
 | Skill | 用途 |
 |---|---|
@@ -107,6 +130,11 @@
 | [user-operations-recall](../user-operations-skills/user-operations-recall/) | 设计沉睡与流失用户召回方案 |
 | [user-operations-membership](../user-operations-skills/user-operations-membership/) | 搭建会员等级与权益体系 |
 | [user-operations-community](../user-operations-skills/user-operations-community/) | 设计社群运营与活跃方案 |
+
+#### 判断 Skill
+
+| Skill | 用途 |
+|---|---|
 | [user-operations-advisory-board](../user-operations-skills/user-operations-advisory-board/) | 组织用户运营专家评审 |
 | [user-operations-advisor-zhang](../user-operations-skills/user-operations-advisor-zhang/) | 设计生命周期运营体系 |
 | [user-operations-advisor-qu](../user-operations-skills/user-operations-advisor-qu/) | 判断留存提升与实验方向 |
@@ -118,7 +146,9 @@
 <a id="content-operations"></a>
 ### ✍️ 内容运营
 
-覆盖内容策略、选题、生产、分发与数据复盘，让内容形成完整闭环。**共 13 个 Skill。**
+覆盖内容策略、选题、生产、分发与数据复盘，让内容形成完整闭环。**共 13 个 Skill：6 个执行 Skill，7 个判断 Skill。**
+
+#### 执行 Skill
 
 | Skill | 用途 |
 |---|---|
@@ -128,6 +158,11 @@
 | [content-operations-production](../content-operations-skills/content-operations-production/) | 产出可直接发布的内容成品 |
 | [content-operations-distribution](../content-operations-skills/content-operations-distribution/) | 规划渠道矩阵、发布时间与投流 |
 | [content-operations-analytics](../content-operations-skills/content-operations-analytics/) | 为内容数据分层归因并形成行动项 |
+
+#### 判断 Skill
+
+| Skill | 用途 |
+|---|---|
 | [content-operations-advisory-board](../content-operations-skills/content-operations-advisory-board/) | 组织内容方案专家评审 |
 | [content-operations-advisor-handley](../content-operations-skills/content-operations-advisor-handley/) | 改善文案写作与可读性 |
 | [content-operations-advisor-pulizzi](../content-operations-skills/content-operations-advisor-pulizzi/) | 判断内容营销战略与受众价值 |
@@ -139,7 +174,9 @@
 <a id="activity-operations"></a>
 ### 🎯 活动运营
 
-覆盖从目标设定、机制设计到执行、传播放大和复盘沉淀的完整活动链路。**共 13 个 Skill。**
+覆盖从目标设定、机制设计到执行、传播放大和复盘沉淀的完整活动链路。**共 13 个 Skill：6 个执行 Skill，7 个判断 Skill。**
+
+#### 执行 Skill
 
 | Skill | 用途 |
 |---|---|
@@ -149,6 +186,11 @@
 | [activity-operations-execution](../activity-operations/activity-operations-execution/) | 拆解任务、排期并完成上线检查 |
 | [activity-operations-promotion](../activity-operations/activity-operations-promotion/) | 规划渠道组合、传播节奏与投流 |
 | [activity-operations-review](../activity-operations/activity-operations-review/) | 做数据归因、经验沉淀与后续行动 |
+
+#### 判断 Skill
+
+| Skill | 用途 |
+|---|---|
 | [activity-operations-advisory-board](../activity-operations/activity-operations-advisory-board/) | 组织活动方案专家评审 |
 | [activity-operations-advisor-huang](../activity-operations/activity-operations-advisor-huang/) | 判断活动的运营价值 |
 | [activity-operations-advisor-zhang](../activity-operations/activity-operations-advisor-zhang/) | 判断活动体系与执行质量 |
@@ -160,7 +202,9 @@
 <a id="private-domain-operations"></a>
 ### 💬 私域运营
 
-覆盖体系设计、引流、社群、转化、裂变与数据分层，解决私域增长的完整工作链。**共 14 个 Skill。**
+覆盖体系设计、引流、社群、转化、裂变与数据分层，解决私域增长的完整工作链。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+
+#### 执行 Skill
 
 | Skill | 用途 |
 |---|---|
@@ -171,6 +215,11 @@
 | [private-domain-operations-conversion](../private-domain-operations/private-domain-operations-conversion/) | 从信任走到成交与复购 |
 | [private-domain-operations-referral](../private-domain-operations/private-domain-operations-referral/) | 设计裂变、转介绍与风控 |
 | [private-domain-operations-data](../private-domain-operations/private-domain-operations-data/) | 用标签与 SCRM 做数据分层 |
+
+#### 判断 Skill
+
+| Skill | 用途 |
+|---|---|
 | [private-domain-operations-advisory-board](../private-domain-operations/private-domain-operations-advisory-board/) | 组织私域方案专家评审 |
 | [private-domain-operations-advisor-xu](../private-domain-operations/private-domain-operations-advisor-xu/) | 判断社群运营方向 |
 | [private-domain-operations-advisor-zhang](../private-domain-operations/private-domain-operations-advisor-zhang/) | 判断生命周期运营体系 |
@@ -182,7 +231,9 @@
 <a id="overseas-marketing"></a>
 ### 🌍 海外市场营销
 
-覆盖市场调研、品牌定位、内容与 SEO、投放、邮件营销和数据分析。**共 14 个 Skill。**
+覆盖市场调研、品牌定位、内容与 SEO、投放、邮件营销和数据分析。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+
+#### 执行 Skill
 
 | Skill | 用途 |
 |---|---|
@@ -193,6 +244,11 @@
 | [overseas-marketing-paid-ads](../overseas-marketing-skills/overseas-marketing-paid-ads/) | 写广告投放计划、盈亏线与测试方案 |
 | [overseas-marketing-email](../overseas-marketing-skills/overseas-marketing-email/) | 设计欢迎、弃购等邮件自动化流 |
 | [overseas-marketing-analytics](../overseas-marketing-skills/overseas-marketing-analytics/) | 做归因、ROAS 与营销数据诊断 |
+
+#### 判断 Skill
+
+| Skill | 用途 |
+|---|---|
 | [overseas-marketing-advisory-board](../overseas-marketing-skills/overseas-marketing-advisory-board/) | 组织海外营销专家评审 |
 | [overseas-marketing-advisor-godin](../overseas-marketing-skills/overseas-marketing-advisor-godin/) | 判断品牌、受众与内容方向 |
 | [overseas-marketing-advisor-patel](../overseas-marketing-skills/overseas-marketing-advisor-patel/) | 判断 SEO、渠道 ROI 与内容执行 |
@@ -204,7 +260,9 @@
 <a id="kol-operations"></a>
 ### 🌟 海外 KOL 运营
 
-覆盖策略、寻源、触达、共创、投放执行与效果分析，解决达人营销的完整链路。**共 14 个 Skill。**
+覆盖策略、寻源、触达、共创、投放执行与效果分析，解决达人营销的完整链路。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+
+#### 执行 Skill
 
 | Skill | 用途 |
 |---|---|
@@ -215,6 +273,11 @@
 | [kol-operations-co-creation](../kol-operations-skills/kol-operations-co-creation/) | 写内容 Brief 并审核脚本 |
 | [kol-operations-campaign](../kol-operations-skills/kol-operations-campaign/) | 安排投放节奏并建立追踪表 |
 | [kol-operations-analytics](../kol-operations-skills/kol-operations-analytics/) | 分析投放效果并判断是否复投 |
+
+#### 判断 Skill
+
+| Skill | 用途 |
+|---|---|
 | [kol-operations-advisory-board](../kol-operations-skills/kol-operations-advisory-board/) | 组织 KOL 方案专家评审 |
 | [kol-operations-advisor-garyvee](../kol-operations-skills/kol-operations-advisor-garyvee/) | 判断达人内容方向与账号增长 |
 | [kol-operations-advisor-schaffer](../kol-operations-skills/kol-operations-advisor-schaffer/) | 设计 KOL 策略与长期关系 |
