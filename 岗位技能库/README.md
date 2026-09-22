@@ -1,21 +1,5 @@
 # 🧩 岗位技能库
 
-## 怎么选
-
-| 你正在解决的问题 | 从这里开始 | 覆盖的核心链路 |
-|---|---|---|
-| 需求说不清、要做 PRD、排优先级、规划版本或看数据 | [📦 产品经理](#product-manager) | 需求判断 → 调研 → 方案 → 评审 → 上线 → 实验与复盘 |
-| 产品已上线，想把激活、留存、版本节奏和反馈跑起来 | [📱 产品运营](#product-operations) | 策略 → 激活留存 → 激励 → 数据迭代 → 版本运营 |
-| 不确定运营先做什么，活动、数据、内容、策略都需要推进 | [📣 通用运营](#general-operations) | 数据 → 活动 → 内容 → 用户 → 复盘 → 策略 |
-| 关注用户分层、留存、召回、会员或社群 | [👥 用户运营](#user-operations) | 分层 → 生命周期 → 留存 → 召回 → 会员 → 社群 |
-| 内容缺策略、选题、生产、分发或复盘的闭环 | [✍️ 内容运营](#content-operations) | 策略 → 选题 → 生产 → 分发 → 数据复盘 |
-| 要办一场能衡量、能传播、能复盘的活动 | [🎯 活动运营](#activity-operations) | 目标 → 机制 → 执行 → 传播放大 → 复盘 |
-| 要搭建私域、引流、运营社群、成交或做转介绍 | [💬 私域运营](#private-domain-operations) | 体系设计 → 引流 → 社群 → 转化 → 裂变 → 数据分层 |
-| 要进入海外市场，做定位、SEO、投放、邮件或归因 | [🌍 海外市场营销](#overseas-marketing) | 调研 → 品牌定位 → 内容/SEO → 投放 → 邮件 → 数据分析 |
-| 要找达人、谈合作、做内容共创、管理投放或评估复投 | [🌟 海外 KOL 运营](#kol-operations) | 策略 → 寻源 → 触达 → 共创 → 投放执行 → 数据分析 |
-
-第一次使用某个岗位，直接调用该岗位的 `*-master`，说清目标、已有材料和当前卡点；任务已经明确时，直接调用对应专项 Skill。
-
 ## 岗位技能
 
 每个岗位的全部能力都直接列在对应表格中。
@@ -23,7 +7,7 @@
 <a id="product-manager"></a>
 ### 📦 产品经理
 
-把需求、证据、决策和交付串成完整产品工作流。**共 21 个 Skill：13 个执行 Skill，8 个判断 Skill。**
+把需求、证据、决策和交付串成完整产品工作流。**共 21 个 Skill：13 个执行 Skill，8 个判断 Skill。** 第一次使用，先从 [pm-master](../pm-master/) 描述你的目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
@@ -53,7 +37,7 @@
 <a id="product-operations"></a>
 ### 📱 产品运营
 
-覆盖产品上线后的策略、激活留存、激励、数据迭代、版本运营与反馈闭环。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+覆盖产品上线后的策略、激活留存、激励、数据迭代、版本运营与反馈闭环。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [product-operations-master](../product-operations/product-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
@@ -76,7 +60,7 @@
 <a id="general-operations"></a>
 ### 📣 通用运营
 
-解决跨数据、活动、内容、用户和复盘的综合运营问题，侧重做决策与推进交付。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+解决跨数据、活动、内容、用户和复盘的综合运营问题，侧重做决策与推进交付。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [operations-master](../general-operations-skills/operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
@@ -99,7 +83,7 @@
 <a id="user-operations"></a>
 ### 👥 用户运营
 
-围绕用户全生命周期，解决分层、留存、召回、会员与社群的持续运营问题。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+围绕用户全生命周期，解决分层、留存、召回、会员与社群的持续运营问题。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [user-operations-master](../user-operations-skills/user-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
@@ -122,7 +106,7 @@
 <a id="content-operations"></a>
 ### ✍️ 内容运营
 
-覆盖内容策略、选题、生产、分发与数据复盘，让内容形成完整闭环。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+覆盖内容策略、选题、生产、分发与数据复盘，让内容形成完整闭环。**共 13 个 Skill：6 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [content-operations-master](../content-operations-skills/content-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
@@ -130,7 +114,6 @@
 | [content-operations-strategy](../content-operations-skills/content-operations-strategy/) | 定内容支柱、矩阵、节奏与资源配置 |
 | [content-operations-topic](../content-operations-skills/content-operations-topic/) | 对内容选题评分、排序与取舍 |
 | [content-operations-production](../content-operations-skills/content-operations-production/) | 产出可直接发布的内容成品 |
-| [content-operations-seo](../content-operations-skills/content-operations-seo/) | 关键词研究、SEO 选题与页面优化，获取搜索流量 |
 | [content-operations-distribution](../content-operations-skills/content-operations-distribution/) | 规划渠道矩阵、发布时间与投流 |
 | [content-operations-analytics](../content-operations-skills/content-operations-analytics/) | 为内容数据分层归因并形成行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>用途</strong></div> |
@@ -145,7 +128,7 @@
 <a id="activity-operations"></a>
 ### 🎯 活动运营
 
-覆盖从目标设定、机制设计到执行、传播放大和复盘沉淀的完整活动链路。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+覆盖从目标设定、机制设计到执行、传播放大和复盘沉淀的完整活动链路。**共 13 个 Skill：6 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [activity-operations-master](../activity-operations/activity-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
@@ -153,7 +136,6 @@
 | [activity-operations-planning](../activity-operations/activity-operations-planning/) | 定活动目标、玩法、预算与排期 |
 | [activity-operations-mechanics](../activity-operations/activity-operations-mechanics/) | 设计参与、传播、激励与风控机制 |
 | [activity-operations-execution](../activity-operations/activity-operations-execution/) | 拆解任务、排期并完成上线检查 |
-| [activity-operations-budgeting](../activity-operations/activity-operations-budgeting/) | 成本拆解、ROI 测算、预算分配与止损线 |
 | [activity-operations-promotion](../activity-operations/activity-operations-promotion/) | 规划渠道组合、传播节奏与投流 |
 | [activity-operations-review](../activity-operations/activity-operations-review/) | 做数据归因、经验沉淀与后续行动 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>用途</strong></div> |
@@ -168,7 +150,7 @@
 <a id="private-domain-operations"></a>
 ### 💬 私域运营
 
-覆盖体系设计、引流、社群、转化、裂变与数据分层，解决私域增长的完整工作链。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+覆盖体系设计、引流、社群、转化、裂变与数据分层，解决私域增长的完整工作链。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [private-domain-operations-master](../private-domain-operations/private-domain-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
@@ -191,7 +173,7 @@
 <a id="overseas-marketing"></a>
 ### 🌍 海外市场营销
 
-覆盖市场调研、品牌定位、内容与 SEO、投放、邮件营销和数据分析。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+覆盖市场调研、品牌定位、内容与 SEO、投放、邮件营销和数据分析。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [overseas-marketing-master](../overseas-marketing-skills/overseas-marketing-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
@@ -214,7 +196,7 @@
 <a id="kol-operations"></a>
 ### 🌟 海外 KOL 运营
 
-覆盖策略、寻源、触达、共创、投放执行与效果分析，解决达人营销的完整链路。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
+覆盖策略、寻源、触达、共创、投放执行与效果分析，解决达人营销的完整链路。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [kol-operations-master](../kol-operations-skills/kol-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
