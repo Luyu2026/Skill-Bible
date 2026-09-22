@@ -31,24 +31,16 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
-| ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
 | 💼 [**求职面试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 12 个求职 Skill |
-| 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
-| 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
+| 🧩 [**岗位技能库**](#career-skills) | 按真实工作场景进入岗位能力系统：既能直接交付，也能在关键取舍时辅助判断 | 9 个岗位方向 · 133 个 Skill |
+| ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
 | 🧠 [**思维视角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
+| 🛤️ [**长期规划**](#long-term-planning) | 区分事实、信号与假设，判断长期路径该怎么走 | 1 个路径 Skill |
+| 📈 [**投资研究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
 | ⚙️ [**元 Skill**](#meta-skill) | 输入一个职业/职能，自动调研并生成一套体系化的职业 Skill 链 | 陆羽Skill |
-| 🧩 [**岗位技能库**](./岗位技能库/) | 按真实工作场景进入岗位能力系统：既能直接交付，也能在关键取舍时辅助判断 | 9 个岗位方向 · 133 个 Skill |
 | 🧰 [**编程辅助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
-
-<a id="content-creation"></a>
-## ✍️ 内容创作
-
-| Skill | 用途 |
-|---|---|
-| [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
-| [wechat-visual-narrative](./wechat-visual-narrative/) | 根据已定稿的飞书公众号文章，先识别流程型、命题论证型或案例复盘型，再规划、生成并按位置插入真正帮助理解的配图 |
 
 <a id="job-search-and-interviews"></a>
 ## 💼 求职面试
@@ -68,19 +60,28 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [feishu-resume-template-exporter](./feishu-resume-template-exporter/) | 把结构化飞书简历按内置样稿重新排成可投递的 Word 和 PDF；保持头像、身份信息、分区标题、经历条目和日期的简历版式，而不是简单导出 |
 | [offer-decision-advisor](./offer-decision-advisor/) | Offer 选择顾问：比较两份及以上 Offer，结合兴趣、行业、岗位、薪资、城市与个人底线，给出可解释的建议、反转条件和入职前核实话术 |
 
-<a id="investment-research"></a>
-## 📈 投资研究
+<a id="career-skills"></a>
+## 🧩 岗位技能库
+
+**9 个岗位方向，133 个 Skill。** 把产品、运营与营销工作中反复卡住的真实场景，整理成可以直接调用的岗位能力系统。
+
+它不只是把工具按岗位放在一起：每个岗位都把高频工作拆成**执行技能**与**判断技能**。前者直接产出方案、报告、计划或成品；后者在你不确定“该不该做、先做什么、资源放哪里”时提供判断路径。第一次不知道怎么开始，交给岗位总控；任务已经明确，直接进入专项 Skill。
+
+### 从你正在做的工作进入
+
+| 工作线 | 适合什么问题 | 岗位与 Skill 数量 |
+|---|---|---|
+| **产品** | 需求调研、评审、版本规划、产品激活和迭代 | [📦 产品经理 · 21](./岗位技能库/README.md#product-manager) · [📱 产品运营 · 14](./岗位技能库/README.md#product-operations) |
+| **运营与增长** | 数据、活动、内容、用户、私域、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/README.md#general-operations) · [👥 用户运营 · 14](./岗位技能库/README.md#user-operations) · [✍️ 内容运营 · 14](./岗位技能库/README.md#content-operations) · [🎯 活动运营 · 14](./岗位技能库/README.md#activity-operations) · [💬 私域运营 · 14](./岗位技能库/README.md#private-domain-operations) |
+| **市场营销** | 市场进入、品牌、SEO、投放、邮件营销与达人合作 | [🌍 海外市场营销 · 14](./岗位技能库/README.md#overseas-marketing) · [🌟 海外 KOL 运营 · 14](./岗位技能库/README.md#kol-operations) |
+
+<a id="content-creation"></a>
+## ✍️ 内容创作
 
 | Skill | 用途 |
 |---|---|
-| [chanlun-framework](./chanlun-framework/) | 缠论框架：将行情拆成走势类型、中枢、背驰与买卖点，以大级别定方向、小级别找位置；用于研究、复盘和风险检查，不提供确定的买卖结论 |
-
-<a id="long-term-planning"></a>
-## 🛤️ 长期规划
-
-| Skill | 用途 |
-|---|---|
-| [multi-year-path-planner](./multi-year-path-planner/) | 1、2、5 年路径推演：基于 Agent 可见的历史会话和项目材料，区分事实、信号与假设，持续判断长期路径、本周主押注与停止条件 |
+| [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
+| [wechat-visual-narrative](./wechat-visual-narrative/) | 根据已定稿的飞书公众号文章，先识别流程型、命题论证型或案例复盘型，再规划、生成并按位置插入真正帮助理解的配图 |
 
 <a id="perspectives"></a>
 ## 🧠 思维视角
@@ -103,27 +104,26 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [laozi-perspective](./laozi-perspective/) | 老子 | 反者道之动。物极必反，柔弱胜刚强。 |
 | [wang-yangming-perspective](./wang-yangming-perspective/) | 王阳明 | 心即理，知行合一，致良知。破山中贼易，破心中贼难。 |
 
+<a id="long-term-planning"></a>
+## 🛤️ 长期规划
+
+| Skill | 用途 |
+|---|---|
+| [multi-year-path-planner](./multi-year-path-planner/) | 1、2、5 年路径推演：基于 Agent 可见的历史会话和项目材料，区分事实、信号与假设，持续判断长期路径、本周主押注与停止条件 |
+
+<a id="investment-research"></a>
+## 📈 投资研究
+
+| Skill | 用途 |
+|---|---|
+| [chanlun-framework](./chanlun-framework/) | 缠论框架：将行情拆成走势类型、中枢、背驰与买卖点，以大级别定方向、小级别找位置；用于研究、复盘和风险检查，不提供确定的买卖结论 |
+
 <a id="meta-skill"></a>
 ## ⚙️ 元 Skill
 
 | Skill | 用途 |
 |---|---|
 | [luyu-skill](./luyu-skill/) | 陆羽Skill · 元 Skill 工厂：输入一个职业/职能/行业，自动完成行业基本概念调研 → 遴选 3 专家 + 3 本经典书 → 并行蒸馏 → 生成一套体系化的职业 Skill 链（career-master 总控 + 执行链 + 顾问团），交付即可安装使用 |
-
-<a id="career-skills"></a>
-## 🧩 岗位技能库
-
-**9 个岗位方向，133 个 Skill。** 把产品、运营与营销工作中反复卡住的真实场景，整理成可以直接调用的岗位能力系统。
-
-它不只是把工具按岗位放在一起：每个岗位都把高频工作拆成**执行技能**与**判断技能**。前者直接产出方案、报告、计划或成品；后者在你不确定“该不该做、先做什么、资源放哪里”时提供判断路径。第一次不知道怎么开始，交给岗位总控；任务已经明确，直接进入专项 Skill。
-
-### 从你正在做的工作进入
-
-| 工作线 | 适合什么问题 | 岗位与 Skill 数量 |
-|---|---|---|
-| **产品** | 需求调研、评审、版本规划、产品激活和迭代 | [📦 产品经理 · 21](./岗位技能库/README.md#product-manager) · [📱 产品运营 · 14](./岗位技能库/README.md#product-operations) |
-| **运营与增长** | 数据、活动、内容、用户、私域、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/README.md#general-operations) · [👥 用户运营 · 14](./岗位技能库/README.md#user-operations) · [✍️ 内容运营 · 14](./岗位技能库/README.md#content-operations) · [🎯 活动运营 · 14](./岗位技能库/README.md#activity-operations) · [💬 私域运营 · 14](./岗位技能库/README.md#private-domain-operations) |
-| **市场营销** | 市场进入、品牌、SEO、投放、邮件营销与达人合作 | [🌍 海外市场营销 · 14](./岗位技能库/README.md#overseas-marketing) · [🌟 海外 KOL 运营 · 14](./岗位技能库/README.md#kol-operations) |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
