@@ -26,7 +26,7 @@
 把需求、证据、决策和交付串成完整产品工作流。**共 21 个 Skill。**
 
 | Skill | 用途 |
-|---|---|---|
+|---|---|
 | [pm-master](../pm-master/) | 产品工作分诊与多 Skill 工作流编排 |
 | [pm-prd-writer](../pm-prd-writer/) | 模糊需求 → 可评审 PRD |
 | [pm-review-board](../pm-review-board/) | 多角色评审 PRD 或原型 |
@@ -55,7 +55,7 @@
 覆盖产品上线后的策略、激活留存、激励、数据迭代、版本运营与反馈闭环。**共 14 个 Skill。**
 
 | Skill | 用途 |
-|---|---|---|
+|---|---|
 | [product-operations-master](../product-operations/product-operations-master/) | 产品运营问题分诊与链路编排 |
 | [product-operations-strategy](../product-operations/product-operations-strategy/) | 定阶段定位、北极星指标与运营抓手 |
 | [product-operations-activation](../product-operations/product-operations-activation/) | 找 Aha Moment，设计激活与留存路径 |
@@ -77,7 +77,7 @@
 解决跨数据、活动、内容、用户和复盘的综合运营问题，侧重做决策与推进交付。**共 14 个 Skill。**
 
 | Skill | 用途 |
-|---|---|---|
+|---|---|
 | [operations-master](../general-operations-skills/operations-master/) | 通用运营问题分诊与多 Skill 编排 |
 | [operations-strategy](../general-operations-skills/operations-strategy/) | 定季度或年度运营策略 |
 | [operations-data-analysis](../general-operations-skills/operations-data-analysis/) | 为指标异常归因并给出行动建议 |
@@ -99,7 +99,7 @@
 围绕用户全生命周期，解决分层、留存、召回、会员与社群的持续运营问题。**共 14 个 Skill。**
 
 | Skill | 用途 |
-|---|---|---|
+|---|---|
 | [user-operations-master](../user-operations-skills/user-operations-master/) | 用户全生命周期问题分诊与编排 |
 | [user-operations-segmentation](../user-operations-skills/user-operations-segmentation/) | 做 RFM 或其他用户分层 |
 | [user-operations-lifecycle](../user-operations-skills/user-operations-lifecycle/) | 设计各生命周期阶段策略与运营日历 |
@@ -121,7 +121,7 @@
 覆盖内容策略、选题、生产、分发与数据复盘，让内容形成完整闭环。**共 13 个 Skill。**
 
 | Skill | 用途 |
-|---|---|---|
+|---|---|
 | [content-operations-master](../content-operations-skills/content-operations-master/) | 内容工作分诊与链路编排 |
 | [content-operations-strategy](../content-operations-skills/content-operations-strategy/) | 定内容支柱、矩阵、节奏与资源配置 |
 | [content-operations-topic](../content-operations-skills/content-operations-topic/) | 对内容选题评分、排序与取舍 |
@@ -142,7 +142,7 @@
 覆盖从目标设定、机制设计到执行、传播放大和复盘沉淀的完整活动链路。**共 13 个 Skill。**
 
 | Skill | 用途 |
-|---|---|---|
+|---|---|
 | [activity-operations-master](../activity-operations/activity-operations-master/) | 活动问题分诊与全流程编排 |
 | [activity-operations-planning](../activity-operations/activity-operations-planning/) | 定活动目标、玩法、预算与排期 |
 | [activity-operations-mechanics](../activity-operations/activity-operations-mechanics/) | 设计参与、传播、激励与风控机制 |
@@ -163,7 +163,7 @@
 覆盖体系设计、引流、社群、转化、裂变与数据分层，解决私域增长的完整工作链。**共 14 个 Skill。**
 
 | Skill | 用途 |
-|---|---|---|
+|---|---|
 | [private-domain-operations-master](../private-domain-operations/private-domain-operations-master/) | 私域问题分诊与链路编排 |
 | [private-domain-operations-strategy](../private-domain-operations/private-domain-operations-strategy/) | 设计渠道、人设、承接与转化路径 |
 | [private-domain-operations-traffic](../private-domain-operations/private-domain-operations-traffic/) | 设计引流钩子、路径与承接 |
@@ -185,7 +185,7 @@
 覆盖市场调研、品牌定位、内容与 SEO、投放、邮件营销和数据分析。**共 14 个 Skill。**
 
 | Skill | 用途 |
-|---|---|---|
+|---|---|
 | [overseas-marketing-master](../overseas-marketing-skills/overseas-marketing-master/) | 海外营销问题分诊与链路编排 |
 | [overseas-marketing-research](../overseas-marketing-skills/overseas-marketing-research/) | 研究市场机会并选定优先市场 |
 | [overseas-marketing-branding](../overseas-marketing-skills/overseas-marketing-branding/) | 做品牌定位、差异化与品牌故事 |
@@ -207,7 +207,7 @@
 覆盖策略、寻源、触达、共创、投放执行与效果分析，解决达人营销的完整链路。**共 14 个 Skill。**
 
 | Skill | 用途 |
-|---|---|---|
+|---|---|
 | [kol-operations-master](../kol-operations-skills/kol-operations-master/) | KOL 营销问题分诊与链路编排 |
 | [kol-operations-strategy](../kol-operations-skills/kol-operations-strategy/) | 定平台、达人分层与预算策略 |
 | [kol-operations-discovery](../kol-operations-skills/kol-operations-discovery/) | 寻找、筛选和评估达人 |
