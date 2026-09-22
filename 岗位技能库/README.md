@@ -122,7 +122,7 @@
 <a id="content-operations"></a>
 ### ✍️ 内容运营
 
-覆盖内容策略、选题、生产、分发与数据复盘，让内容形成完整闭环。**共 13 个 Skill：6 个执行 Skill，7 个判断 Skill。**
+覆盖内容策略、选题、生产、分发与数据复盘，让内容形成完整闭环。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
 
 | 执行技能 | 用途 |
 |---|---|
@@ -130,6 +130,7 @@
 | [content-operations-strategy](../content-operations-skills/content-operations-strategy/) | 定内容支柱、矩阵、节奏与资源配置 |
 | [content-operations-topic](../content-operations-skills/content-operations-topic/) | 对内容选题评分、排序与取舍 |
 | [content-operations-production](../content-operations-skills/content-operations-production/) | 产出可直接发布的内容成品 |
+| [content-operations-seo](../content-operations-skills/content-operations-seo/) | 关键词研究、SEO 选题与页面优化，获取搜索流量 |
 | [content-operations-distribution](../content-operations-skills/content-operations-distribution/) | 规划渠道矩阵、发布时间与投流 |
 | [content-operations-analytics](../content-operations-skills/content-operations-analytics/) | 为内容数据分层归因并形成行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>用途</strong></div> |
@@ -144,7 +145,7 @@
 <a id="activity-operations"></a>
 ### 🎯 活动运营
 
-覆盖从目标设定、机制设计到执行、传播放大和复盘沉淀的完整活动链路。**共 13 个 Skill：6 个执行 Skill，7 个判断 Skill。**
+覆盖从目标设定、机制设计到执行、传播放大和复盘沉淀的完整活动链路。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。**
 
 | 执行技能 | 用途 |
 |---|---|
@@ -152,6 +153,7 @@
 | [activity-operations-planning](../activity-operations/activity-operations-planning/) | 定活动目标、玩法、预算与排期 |
 | [activity-operations-mechanics](../activity-operations/activity-operations-mechanics/) | 设计参与、传播、激励与风控机制 |
 | [activity-operations-execution](../activity-operations/activity-operations-execution/) | 拆解任务、排期并完成上线检查 |
+| [activity-operations-budgeting](../activity-operations/activity-operations-budgeting/) | 成本拆解、ROI 测算、预算分配与止损线 |
 | [activity-operations-promotion](../activity-operations/activity-operations-promotion/) | 规划渠道组合、传播节奏与投流 |
 | [activity-operations-review](../activity-operations/activity-operations-review/) | 做数据归因、经验沉淀与后续行动 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>用途</strong></div> |
