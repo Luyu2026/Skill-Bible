@@ -121,11 +121,9 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 
 | 工作线 | 适合什么问题 | 岗位与 Skill 数量 |
 |---|---|---|
-| **产品** | 需求调研、评审、版本规划、产品激活和迭代 | [📦 产品经理 · 21](./岗位技能库/#product-manager) · [📱 产品运营 · 14](./岗位技能库/#product-operations) |
-| **运营与增长** | 数据、活动、内容、用户、私域、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/#general-operations) · [👥 用户运营 · 14](./岗位技能库/#user-operations) · [✍️ 内容运营 · 13](./岗位技能库/#content-operations) · [🎯 活动运营 · 13](./岗位技能库/#activity-operations) · [💬 私域运营 · 14](./岗位技能库/#private-domain-operations) |
-| **市场营销** | 市场进入、品牌、SEO、投放、邮件营销与达人合作 | [🌍 海外市场营销 · 14](./岗位技能库/#overseas-marketing) · [🌟 海外 KOL 运营 · 14](./岗位技能库/#kol-operations) |
-
-**第一次用，不需要猜该调哪个。** 打开[岗位技能库](./岗位技能库/)后，从对应岗位的 `*-master` 总控开始，描述你的目标、现有材料和当前卡点；已明确要做的工作，再直接使用专项技能。岗位页面中可查看该岗位的完整 Skill 清单与工作链。
+| **产品** | 需求调研、评审、版本规划、产品激活和迭代 | [📦 产品经理 · 21](./岗位技能库/README.md#product-manager) · [📱 产品运营 · 14](./岗位技能库/README.md#product-operations) |
+| **运营与增长** | 数据、活动、内容、用户、私域、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/README.md#general-operations) · [👥 用户运营 · 14](./岗位技能库/README.md#user-operations) · [✍️ 内容运营 · 13](./岗位技能库/README.md#content-operations) · [🎯 活动运营 · 13](./岗位技能库/README.md#activity-operations) · [💬 私域运营 · 14](./岗位技能库/README.md#private-domain-operations) |
+| **市场营销** | 市场进入、品牌、SEO、投放、邮件营销与达人合作 | [🌍 海外市场营销 · 14](./岗位技能库/README.md#overseas-marketing) · [🌟 海外 KOL 运营 · 14](./岗位技能库/README.md#kol-operations) |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助
