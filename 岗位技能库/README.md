@@ -106,7 +106,7 @@
 <a id="content-operations"></a>
 ### ✍️ 内容运营
 
-覆盖内容策略、选题、生产、分发与数据复盘，让内容形成完整闭环。**共 13 个 Skill：6 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [content-operations-master](../content-operations-skills/content-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+覆盖内容策略、选题、生产、分发、SEO 与数据复盘，让内容形成完整闭环。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [content-operations-master](../content-operations-skills/content-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
@@ -115,6 +115,7 @@
 | [content-operations-topic](../content-operations-skills/content-operations-topic/) | 对内容选题评分、排序与取舍 |
 | [content-operations-production](../content-operations-skills/content-operations-production/) | 产出可直接发布的内容成品 |
 | [content-operations-distribution](../content-operations-skills/content-operations-distribution/) | 规划渠道矩阵、发布时间与投流 |
+| [content-operations-seo](../content-operations-skills/content-operations-seo/) | 做关键词、搜索意图、页面优化与排名监控 |
 | [content-operations-analytics](../content-operations-skills/content-operations-analytics/) | 为内容数据分层归因并形成行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>用途</strong></div> |
 | [content-operations-advisory-board](../content-operations-skills/content-operations-advisory-board/) | 组织内容方案专家评审 |
@@ -128,12 +129,13 @@
 <a id="activity-operations"></a>
 ### 🎯 活动运营
 
-覆盖从目标设定、机制设计到执行、传播放大和复盘沉淀的完整活动链路。**共 13 个 Skill：6 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [activity-operations-master](../activity-operations/activity-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+覆盖从目标设定、机制设计、预算测算到执行、传播放大和复盘沉淀的完整活动链路。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [activity-operations-master](../activity-operations/activity-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 用途 |
 |---|---|
 | [activity-operations-master](../activity-operations/activity-operations-master/) | 活动问题分诊与全流程编排 |
 | [activity-operations-planning](../activity-operations/activity-operations-planning/) | 定活动目标、玩法、预算与排期 |
+| [activity-operations-budgeting](../activity-operations/activity-operations-budgeting/) | 测算成本、收益、ROI、预算分配与止损线 |
 | [activity-operations-mechanics](../activity-operations/activity-operations-mechanics/) | 设计参与、传播、激励与风控机制 |
 | [activity-operations-execution](../activity-operations/activity-operations-execution/) | 拆解任务、排期并完成上线检查 |
 | [activity-operations-promotion](../activity-operations/activity-operations-promotion/) | 规划渠道组合、传播节奏与投流 |
