@@ -126,6 +126,52 @@
 | [growth-operations-method-hooked](../growth-operations-skills/growth-operations-method-hooked/) | Hook 模型 | 习惯养成与多变奖励 |
 | [growth-operations-method-liuliangchi](../growth-operations-skills/growth-operations-method-liuliangchi/) | 流量池 | 裂变、私域与品效协同 |
 
+<a id="live-operations"></a>
+### 📺 直播运营
+
+解决场次策划、话术、控场、引流、投流与复盘的整段直播工作链，侧重做决策与推进交付。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [live-master](../live-operations-skills/live-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [live-master](../live-operations-skills/live-master/) | 直播运营问题分诊与多 Skill 编排时 | 问题诊断 + 调用路径 |
+| [live-session-planning](../live-operations-skills/live-session-planning/) | 需要策划一场直播、排品、定节奏时 | 直播方案 + 排品表 + 风险预案 |
+| [live-script](../live-operations-skills/live-script/) | 需要写话术、逼单、开场白时 | 话术脚本 + 逼单设计 |
+| [live-hosting](../live-operations-skills/live-hosting/) | 需要控场、突发处理、开播前检查时 | 控场 SOP + 突发预案 |
+| [live-feed](../live-operations-skills/live-feed/) | 需要短视频引流、切片、预告时 | 引流计划 + 发布节奏 |
+| [live-ads](../live-operations-skills/live-ads/) | 需要投流、千川、直播间流量时 | 投流计划 + 出价策略 + 止损线 |
+| [live-analytics](../live-operations-skills/live-analytics/) | 需要复盘场次数据、迭代时 | 复盘报告 + 行动项 |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [live-advisory-board](../live-operations-skills/live-advisory-board/) | 多角色专项评审 | 组织多专家直播评审 |
+| [live-advisor-li-jiaqi](../live-operations-skills/live-advisor-li-jiaqi/) | 直播转化 | 判断转化怎么提、选品标准 |
+| [live-advisor-dong-yuhui](../live-operations-skills/live-advisor-dong-yuhui/) | 内容直播 | 判断留人、内容差异化 |
+| [live-advisor-luo-yonghao](../live-operations-skills/live-advisor-luo-yonghao/) | 直播生意 | 判断值不值得做、供应链 |
+| [live-method-influence](../live-operations-skills/live-method-influence/) | 影响力 | 用六大原则设计转化机制 |
+| [live-method-contagious](../live-operations-skills/live-method-contagious/) | 疯传 | 用 STEPPS 设计传播内容 |
+| [live-method-conversion](../live-operations-skills/live-method-conversion/) | 爆款文案 | 用卖点四步法写话术 |
+
+<a id="new-media-operations"></a>
+### 📱 新媒体运营
+
+覆盖账号定位、内容创作、涨粉经营、爆款打造、多平台分发与数据复盘的新媒体完整工作链。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [new-media-operations-master](../new-media-operations-skills/new-media-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [new-media-operations-master](../new-media-operations-skills/new-media-operations-master/) | 新媒体运营问题分诊与多 Skill 编排时 | 问题诊断 + 调用路径 |
+| [new-media-operations-positioning](../new-media-operations-skills/new-media-operations-positioning/) | 需要账号定位、起号、人设设计时 | 账号定位卡（赛道/人群/人设/差异化） |
+| [new-media-operations-content](../new-media-operations-skills/new-media-operations-content/) | 需要选题、内容脚本、文案时 | 选题清单 + 内容脚本/文案 |
+| [new-media-operations-growth](../new-media-operations-skills/new-media-operations-growth/) | 需要涨粉、粉丝经营时 | 涨粉打法方案（内容/互动/私域承接） |
+| [new-media-operations-viral](../new-media-operations-skills/new-media-operations-viral/) | 需要出爆款、内容没爆时 | 爆款选题 + 结构拆解 + 内容方案 |
+| [new-media-operations-distribution](../new-media-operations-skills/new-media-operations-distribution/) | 需要多平台发布、矩阵运营时 | 多平台分发计划 + 矩阵布局建议 |
+| [new-media-operations-review](../new-media-operations-skills/new-media-operations-review/) | 需要数据复盘、归因、迭代时 | 复盘报告（爆款/失败归因 + 迭代） |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [new-media-operations-advisory-board](../new-media-operations-skills/new-media-operations-advisory-board/) | 多角色专项评审 | 组织多专家新媒体评审 |
+| [new-media-operations-advisor-qiuye](../new-media-operations-skills/new-media-operations-advisor-qiuye/) | 秋叶 | 矩阵运营/账号定位/个人IP/变现 |
+| [new-media-operations-advisor-zhouzuoluo](../new-media-operations-skills/new-media-operations-advisor-zhouzuoluo/) | 粥左罗 | 内容创作/选题/写作方法论 |
+| [new-media-operations-advisor-lvbai](../new-media-operations-skills/new-media-operations-advisor-lvbai/) | 吕白 | 爆款公式/对标拆解/黄金开头 |
+| [new-media-operations-method-baokuan](../new-media-operations-skills/new-media-operations-method-baokuan/) | 爆款文案 | 用爆款结构写内容 |
+| [new-media-operations-method-tipping-point](../new-media-operations-skills/new-media-operations-method-tipping-point/) | 引爆点 | 用传播法则做增长 |
+| [new-media-operations-method-positioning](../new-media-operations-skills/new-media-operations-method-positioning/) | 定位 | 用定位理论做差异化 |
+
 <a id="user-operations"></a>
 ### 👥 用户运营
 
