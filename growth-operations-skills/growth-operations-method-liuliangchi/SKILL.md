@@ -7,8 +7,6 @@ description: |
 
 # 《流量池》· 中国增长方法论
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 流量池思维（存量找增量/高频带高频）+ 品效合一 + 裂变营销 + 私域，中国语境下的增长与投放打法。
 
 ## 核心框架
@@ -75,3 +73,5 @@ description: |
 ## 诚实说明
 
 提炼基于《流量池》（杨飞, 2018）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。
