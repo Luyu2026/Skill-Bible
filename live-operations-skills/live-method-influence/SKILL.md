@@ -7,8 +7,6 @@ description: |
 
 # 《影响力》· 直播转化方法论
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 ## 核心框架
 
 ### 框架1：六大影响力原则（直播转化底层）
@@ -60,3 +58,5 @@ description: |
 ## 诚实说明
 
 基于 Robert Cialdini《影响力》(Influence) 公开内容提炼，章节标注为示意性，信息截止 2026-09；具体章节以原著为准。
+
+> 本 Skill 由陆羽Skill生成。
