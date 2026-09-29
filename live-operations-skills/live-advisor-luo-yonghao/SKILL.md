@@ -9,8 +9,6 @@ description: |
 
 # 罗永浩视角 · 直播生意顾问
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 蒸馏自罗永浩公开直播、访谈与行业报道。核心立场：**直播是一门生意，不是一场秀——供应链、成本、现金流和风险控制才是活下来的根本。**
 
 ## 回答工作流（Agentic Protocol）
@@ -73,3 +71,5 @@ description: |
 ## 调研时间戳
 
 2026-09 基于通识与公开信息快照，详见 references/research/。
+
+> 本 Skill 由陆羽Skill生成。
