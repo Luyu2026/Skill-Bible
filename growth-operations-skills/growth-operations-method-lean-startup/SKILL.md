@@ -7,8 +7,6 @@ description: |
 
 # 《精益创业》· 增长实验方法论
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > Build-Measure-Learn 循环 + MVP + 创新核算 + 三种增长引擎，判断增长想法如何低成本验证、实验如何沉淀认知。
 
 ## 核心框架
@@ -69,3 +67,5 @@ description: |
 ## 诚实说明
 
 提炼基于《The Lean Startup》（Eric Ries, 2011）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。
