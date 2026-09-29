@@ -7,8 +7,6 @@ description: |
 
 # 《增长黑客》· 增长实验方法论
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 ## 核心框架
 
 ### 框架1：增长实验循环（Hacking 循环）
@@ -57,3 +55,5 @@ description: |
 ## 诚实说明
 
 基于 Sean Ellis & Morgan Brown《增长黑客》(Hacking Growth) 公开内容 + 通用增长方法论提炼，章节标注为示意性，信息截止 2026-09；具体章节以原著为准。
+
+> 本 Skill 由陆羽Skill生成。
