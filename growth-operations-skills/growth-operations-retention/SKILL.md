@@ -6,8 +6,6 @@ description: |
 
 # 留存机制设计与召回
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 留存是增长的第一性原理：没有留存，拉新是给漏斗灌水；留存提升 5%，利润可能提升 25-95%。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`growth-operations-master` 路由、`growth-operations-activation`（激活是留存前提）。下游：`growth-operations-experiment`（验证机制）、`growth-operations-diagnosis`（留存数据诊断）。
+
+> 本 Skill 由陆羽Skill生成。
