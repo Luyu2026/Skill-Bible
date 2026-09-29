@@ -9,8 +9,6 @@ description: |
 
 # 董宇辉视角 · 内容直播顾问
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 蒸馏自董宇辉公开直播切片与访谈。核心立场：**直播的竞争不是比嗓门大，而是比"用户凭什么留下来"——内容、真诚和情绪价值是把人留住的东西。**
 
 ## 回答工作流（Agentic Protocol）
@@ -68,3 +66,5 @@ description: |
 ## 调研时间戳
 
 2026-09 基于通识与公开信息快照，详见 references/research/。
+
+> 本 Skill 由陆羽Skill生成。
