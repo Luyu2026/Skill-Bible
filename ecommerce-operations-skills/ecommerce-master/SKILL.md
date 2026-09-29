@@ -21,6 +21,7 @@ description: |
 | `ecommerce-product-selection` | 选品与爆款判断 | 市场数据/供应链信息 → 选品评估报告 + 上架建议 |
 | `ecommerce-activity-planning` | 大促/活动策划与备货判断 | 活动目标/预算/库存 → 可执行活动方案 + 目标拆解 |
 | `ecommerce-traffic-operations` | 流量投放与渠道运营 | 预算/渠道/目标 → 投放计划 + 渠道组合建议 |
+| `ecommerce-live-operations` | 直播运营与排品 | 目标/货盘/主播 → 直播方案（排品表+话术+节奏） |
 | `ecommerce-data-analysis` | 数据归因与经营诊断 | 店铺数据/现象 → 诊断报告 + 行动建议（证据分级） |
 | `ecommerce-review` | 活动/月/季经营复盘 | 经营记录/数据 → 复盘报告 + 可追踪行动项 |
 
@@ -44,6 +45,7 @@ description: |
 | 选品 / 这个品能不能上 / 爆款怎么选 | `ecommerce-product-selection` | |
 | 大促 / 活动方案 / 双11 / 店庆 | `ecommerce-activity-planning` | |
 | 投广告 / 直通车 / 流量 / 预算分配 | `ecommerce-traffic-operations` | |
+| 直播 / 排品 / 主播话术 / 直播间 | `ecommerce-live-operations` | |
 | 数据跌了 / 转化率低 / 分析店铺数据 | `ecommerce-data-analysis` | |
 | 复盘 / 活动总结 / 月度经营回顾 | `ecommerce-review` | |
 | 这个品该不该上 / 降不降价 / 值不值得投 | `ecommerce-advisory-board` | 判断类转交顾问团 |

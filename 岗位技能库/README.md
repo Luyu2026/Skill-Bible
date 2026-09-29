@@ -83,7 +83,7 @@
 <a id="e-commerce-operations"></a>
 ### 🛒 电商运营
 
-解决选品、大促、流量投放、数据诊断与经营复盘的整段电商工作链，侧重做决策与推进交付。**共 13 个 Skill：6 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [ecommerce-master](../ecommerce-operations-skills/ecommerce-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+解决选品、大促、流量投放、直播运营、数据诊断与经营复盘的整段电商工作链，侧重做决策与推进交付。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [ecommerce-master](../ecommerce-operations-skills/ecommerce-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 什么时候用 | 产出 |
 |---|---|---|
@@ -91,6 +91,7 @@
 | [ecommerce-product-selection](../ecommerce-operations-skills/ecommerce-product-selection/) | 需要选品/爆款判断、评估这个品能不能上时 | 选品评估 + 盈利测算 + 测款计划 |
 | [ecommerce-activity-planning](../ecommerce-operations-skills/ecommerce-activity-planning/) | 需要设计大促/活动方案、备货与预算时 | 活动方案 + 目标拆解 + 风险预案 |
 | [ecommerce-traffic-operations](../ecommerce-operations-skills/ecommerce-traffic-operations/) | 需要做流量投放、预算分配与渠道组合时 | 投放计划 + 渠道组合 + 止损线 |
+| [ecommerce-live-operations](../ecommerce-operations-skills/ecommerce-live-operations/) | 需要做直播运营、排品与话术设计时 | 直播方案 + 排品表 + 话术大纲 |
 | [ecommerce-data-analysis](../ecommerce-operations-skills/ecommerce-data-analysis/) | 数据下滑/转化率低需要归因定位时 | 诊断报告 + 止损/验证/长期动作 |
 | [ecommerce-review](../ecommerce-operations-skills/ecommerce-review/) | 需要完成活动/月度/季度经营复盘时 | 复盘报告 + 可追踪行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |

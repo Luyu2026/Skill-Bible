@@ -5,7 +5,7 @@
 
 ## 这套库解决什么
 
-电商运营看似零散——今天选品、明天备大促、后天投流量、还要盯数据、定复盘。这套 Skill 库把电商经营的完整工作链沉淀为 **13 个 Skill**：**先感知判断（顾问团），再产出交付（执行链）**，总控负责路由和编排。
+电商运营看似零散——今天选品、明天备大促、后天投流量、还要开直播、盯数据、定复盘。这套 Skill 库把电商经营的完整工作链沉淀为 **14 个 Skill**：**先感知判断（顾问团），再产出交付（执行链）**，总控负责路由和编排。
 
 ## 成员总览
 
@@ -15,13 +15,14 @@
 |---|---|
 | [ecommerce-master](./ecommerce-master/) | 电商运营总控：分诊问题 → 路由到最合适的 Skill → 编排多 Skill 链路 |
 
-### ⚙️ 执行链（5，产出型）
+### ⚙️ 执行链（6，产出型）
 
 | Skill | 什么时候用 | 产出 |
 |---|---|---|
 | [ecommerce-product-selection](./ecommerce-product-selection/) | 选品/爆款判断、这个品能不能上 | 选品评估报告（A/B/C/D 结论 + 盈利测算 + 测款计划） |
 | [ecommerce-activity-planning](./ecommerce-activity-planning/) | 大促/活动策划、双11/618、店庆 | 完整活动方案（目标拆解/玩法/备货/预算/风险预案） |
 | [ecommerce-traffic-operations](./ecommerce-traffic-operations/) | 投广告、预算分配、流量不够 | 投放计划（渠道组合/出价素材/预算分配/止损线） |
+| [ecommerce-live-operations](./ecommerce-live-operations/) | 直播运营、排品、主播话术 | 直播方案（排品表/话术大纲/节奏/盯盘/止损线） |
 | [ecommerce-data-analysis](./ecommerce-data-analysis/) | 数据跌了、转化率低、要归因 | 诊断报告 + 行动建议（证据分级） |
 | [ecommerce-review](./ecommerce-review/) | 活动/月度/季度经营复盘 | 复盘报告（C-I-S-S 经验提炼 + 可追踪行动项） |
 
