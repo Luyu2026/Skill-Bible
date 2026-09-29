@@ -1,7 +1,7 @@
 # 直播运营岗位技能（Live Operations Skills）
 
 > 陆羽Skill 为「直播运营」岗位生成的体系化 Skill 套件，涵盖直播完整工作链。侧重**做决策 + 产出质量**。
-> 生成时间：2026-09 · 生成器：[陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill)（元 Skill 工厂）
+> 生成时间：2026-09 · 生成器：陆羽Skill（元 Skill 工厂）
 
 ## 这套库解决什么
 
@@ -76,5 +76,5 @@
 
 ---
 
-> 本职业 Skill 套件由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
+> 本职业 Skill 套件由 陆羽Skill 生成。
 > 哪个专家/哪本书/哪个执行场景不符合预期，告诉我，我单独重做那一个。
