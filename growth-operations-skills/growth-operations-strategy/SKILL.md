@@ -6,8 +6,6 @@ description: |
 
 # 增长策略与目标拆解
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 增长不是「拉一波量」，而是先回答五个问题再动手：为谁、凭什么增长、增长什么、增长多少、靠什么增长。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`growth-operations-master` 判断卡点。下游：`growth-operations-channel`（渠道预算）、`growth-operations-experiment`（实验路线）、`growth-operations-activation` / `growth-operations-retention`（落地执行）。
+
+> 本 Skill 由陆羽Skill生成。
