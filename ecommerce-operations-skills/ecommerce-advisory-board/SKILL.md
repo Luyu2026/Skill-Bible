@@ -8,8 +8,6 @@ description: |
 
 # 电商运营专家顾问团
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 ## 成员名册
 
 | 成员 | 类型 | 核心镜片 | 最擅长的问题 |
@@ -81,3 +79,5 @@ description: |
 - 涉及具体平台规则/市场数据，需先 WebSearch 查证
 - 专家观点覆盖不到的新兴领域（AI 电商、兴趣电商新玩法）需谨慎
 - 不替用户拍板：给条件化结论 + 判断依据
+
+> 本 Skill 由陆羽Skill生成。
