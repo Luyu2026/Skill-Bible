@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-162-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-190-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -34,9 +34,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative |
 | 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 12 job-search Skills |
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
-| 🛤️ [**Long-term planning**](#long-term-planning) | Separate facts, signals, and assumptions to make clearer path decisions | 1 path Skill |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
-| ⚙️ [**Meta Skill**](#meta-skill) | Input a profession/function, auto-research it, and generate a systematic career Skill chain | LuyuSkill |
 | 🧩 [**Career Skills**](./career-skills/) | Enter through real work and let a controller Skill guide the workflow | Product, operations, and marketing |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
@@ -77,13 +75,6 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 |---|---|
 | [chanlun-framework](./chanlun-framework/) | Chan theory: decompose price action into trend types, central zones, divergences, and buy/sell points to locate positions at the right level; for research, review, and risk checks, not for buy/sell verdicts |
 
-<a id="long-term-planning"></a>
-### 🛤️ Long-term planning
-
-| Skill | What it helps with |
-|---|---|
-| [multi-year-path-planner](./multi-year-path-planner/) | Separate facts, signals, and assumptions to find the next weekly priority |
-
 <a id="perspectives"></a>
 ### 🧠 Perspectives
 
@@ -105,13 +96,6 @@ The perspective Skills are research-based mental models for decisions, products,
 | [laozi-perspective](./laozi-perspective/) | Laozi | The Way moves by returning. Things reverse at the extreme; the soft overcomes the hard. |
 | [wang-yangming-perspective](./wang-yangming-perspective/) | Wang Yangming | Mind is principle; knowledge and action are one. Extend your innate knowing. |
 
-<a id="meta-skill"></a>
-### ⚙️ Meta Skill
-
-| Skill | What it helps with |
-|---|---|
-| [luyu-skill](./luyu-skill/) | LuyuSkill · Meta Skill factory: input a profession/function/industry, auto-research its core workflows → select 3 experts + 3 classic books → parallel distillation → generate a systematic career Skill chain (career-master + execution chain + advisory board), ready to install |
-
 <a id="career-skills"></a>
 ### 🧩 Career Skills
 
@@ -120,7 +104,7 @@ Career Skills are role-based workflows that move from diagnosis to delivery and 
 | Work track | Best for | Role entry points |
 |---|---|---|
 | **Product and product operations** | Discovery, PRDs, reviews, roadmaps, activation, and iteration | [📦 Product management](./career-skills/#product-management) · [📱 Product operations](./career-skills/#product-operations) |
-| **Operations and growth** | Data, campaigns, content, users, private domain, retention, conversion, and review | [📣 General operations](./career-skills/#general-operations) · [👥 User operations](./career-skills/#user-operations) · [✍️ Content operations](./career-skills/#content-operations) · [🎯 Activity operations](./career-skills/#activity-operations) · [💬 Private-domain operations](./career-skills/#private-domain-operations) |
+| **Operations and growth** | Data, experiments, campaigns, e-commerce, content, users, private domain, retention, conversion, and review | [📣 General operations](./career-skills/#general-operations) · [📈 Growth operations](./career-skills/#growth-operations) · [🛒 E-commerce operations](./career-skills/#e-commerce-operations) · [👥 User operations](./career-skills/#user-operations) · [✍️ Content operations](./career-skills/#content-operations) · [🎯 Activity operations](./career-skills/#activity-operations) · [💬 Private-domain operations](./career-skills/#private-domain-operations) |
 | **Global growth** | Market entry, branding, SEO, paid ads, email, and creator partnerships | [🌍 Overseas marketing](./career-skills/#overseas-marketing) · [🌟 KOL operations](./career-skills/#kol-operations) |
 
 **No need to guess which Skill to use the first time.** Open [Career Skills](./career-skills/), start with the relevant `*-master` controller, and describe your goal, available material, and blocker. When the task is already clear, call the specialist Skill directly.
