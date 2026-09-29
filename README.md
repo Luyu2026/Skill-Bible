@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-190-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-232-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -32,7 +32,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
 | [**💼&nbsp;求&#8288;职&#8288;面&#8288;试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 12 个求职 Skill |
-| [**🧩&nbsp;岗&#8288;位&#8288;技&#8288;能&#8288;库**](#career-skills) | 按真实工作场景进入岗位能力系统：既能直接交付，也能在关键取舍时辅助判断 | 11 个岗位方向 · 161 个 Skill |
+| [**🧩&nbsp;岗&#8288;位&#8288;技&#8288;能&#8288;库**](#career-skills) | 按真实工作场景进入岗位能力系统：既能直接交付，也能在关键取舍时辅助判断 | 14 个岗位方向 · 203 个 Skill |
 | [**🧠&nbsp;思&#8288;维&#8288;视&#8288;角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | [**✍️&nbsp;内&#8288;容&#8288;创&#8288;作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
 | [**📈&nbsp;投&#8288;资&#8288;研&#8288;究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
@@ -61,7 +61,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 <a id="career-skills"></a>
 ## 🧩 岗位技能
 
-**11 个岗位方向，161 个 Skill。** 把产品、运营与营销工作中反复卡住的真实场景，整理成可以直接调用的岗位能力系统。
+**14 个岗位方向，203 个 Skill。** 把产品、运营与营销工作中反复卡住的真实场景，整理成可以直接调用的岗位能力系统。
 
 它不只是把工具按岗位放在一起：每个岗位都把高频工作拆成**执行技能**与**判断技能**。前者直接产出方案、报告、计划或成品；后者在你不确定“该不该做、先做什么、资源放哪里”时提供判断路径。第一次不知道怎么开始，交给岗位总控；任务已经明确，直接进入专项 Skill。
 
@@ -70,7 +70,8 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 工作线 | 适合什么问题 | 岗位与 Skill 数量 |
 |---|---|---|
 | **产品** | 需求调研、评审、版本规划、产品激活和迭代 | [📦 产品经理 · 21](./岗位技能库/README.md#product-manager) · [📱 产品运营 · 14](./岗位技能库/README.md#product-operations) |
-| **运营与增长** | 增长目标、实验、数据、活动、内容、用户、私域、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/README.md#general-operations) · [📈 增长运营 · 14](./岗位技能库/README.md#growth-operations) · [🛒 电商运营 · 14](./岗位技能库/README.md#e-commerce-operations) · [👥 用户运营 · 14](./岗位技能库/README.md#user-operations) · [✍️ 内容运营 · 14](./岗位技能库/README.md#content-operations) · [🎯 活动运营 · 14](./岗位技能库/README.md#activity-operations) · [💬 私域运营 · 14](./岗位技能库/README.md#private-domain-operations) · [🎮 游戏运营 · 14](./岗位技能库/README.md#game-operations) |
+| **运营与增长** | 增长目标、实验、数据、活动、用户、私域、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/README.md#general-operations) · [📈 增长运营 · 14](./岗位技能库/README.md#growth-operations) · [🛒 电商运营 · 14](./岗位技能库/README.md#e-commerce-operations) · [👥 用户运营 · 14](./岗位技能库/README.md#user-operations) · [🎯 活动运营 · 14](./岗位技能库/README.md#activity-operations) · [💬 私域运营 · 14](./岗位技能库/README.md#private-domain-operations) · [🎮 游戏运营 · 14](./岗位技能库/README.md#game-operations) |
+| **内容与新媒体** | 内容策略、账号定位、短视频、直播、分发、投流与数据复盘 | [✍️ 内容运营 · 14](./岗位技能库/README.md#content-operations) · [📱 新媒体运营 · 14](./岗位技能库/README.md#new-media-operations) · [📺 直播运营 · 14](./岗位技能库/README.md#live-operations) |
 | **市场营销** | 市场进入、品牌、SEO、投放、邮件营销与达人合作 | [🌍 海外市场营销 · 14](./岗位技能库/README.md#overseas-marketing) · [🌟 海外 KOL 运营 · 14](./岗位技能库/README.md#kol-operations) |
 
 <a id="perspectives"></a>
