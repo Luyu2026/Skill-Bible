@@ -7,8 +7,6 @@ description: |
 
 # 《上瘾》· 留存习惯方法论
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > Hook 模型（触发→行动→多变奖励→投入）+ 习惯区判断，设计/诊断留存机制与习惯养成功能。
 
 ## 核心框架
@@ -70,3 +68,5 @@ description: |
 ## 诚实说明
 
 提炼基于《Hooked》（Nir Eyal, 2014）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。
