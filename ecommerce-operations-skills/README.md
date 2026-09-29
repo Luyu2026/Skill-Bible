@@ -58,6 +58,17 @@
 - **证据分级**：数据结论区分 A（数据支持）/ B（强推断）/ C（推测）
 - **诚实边界**：每个 Skill 明确写"做不到什么"，不夸大适用范围
 
+## 演示工作包
+
+从执行链中挑选最能代表真实工作价值的 2 个场景，制作了可公开展示的完整交付样稿（**数据均为模拟**，替换真实业务数据后可直接用于开会/决策/执行）：
+
+| 演示包 | 场景 | 对应 Skill |
+|---|---|---|
+| [选品评估演示：便携咖啡随行杯](./ecommerce-product-selection/references/demo/demo-product-selection.md) | 这个品能不能上？备多少货？ | `ecommerce-product-selection` |
+| [数据诊断演示：GMV 连续 3 周下滑](./ecommerce-data-analysis/references/demo/demo-data-diagnosis.md) | 数据跌了，是市场、自己还是平台问题？ | `ecommerce-data-analysis` |
+
+> 演示规范见 `references/demo-document-standard.md`。
+
 ## 调研时间戳
 
 2026-09。调研快照与专家/书籍蒸馏见 `references/research/`。
