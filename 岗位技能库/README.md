@@ -103,6 +103,29 @@
 | [ecommerce-method-alibaba-sales](../ecommerce-operations-skills/ecommerce-method-alibaba-sales/) | 阿里铁军销售法 | 用目标倒推、客户分层、话术 SOP 促交付 |
 | [ecommerce-method-growth-hacking](../ecommerce-operations-skills/ecommerce-method-growth-hacking/) | 增长黑客 | 用增长实验循环低成本验证增长点 |
 
+<a id="growth-operations"></a>
+### 📈 增长运营
+
+覆盖增长目标拆解、实验验证、激活优化、留存机制、渠道预算与数据诊断。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [growth-operations-master](../growth-operations-skills/growth-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [growth-operations-master](../growth-operations-skills/growth-operations-master/) | 增长目标模糊、不知道从哪里切入时 | 问题诊断 + 调用路径 |
+| [growth-operations-strategy](../growth-operations-skills/growth-operations-strategy/) | 定增长目标、北极星指标或年度规划时 | 增长策略 + 指标树/路线图 |
+| [growth-operations-experiment](../growth-operations-skills/growth-operations-experiment/) | 设计 A/B 测试、判断改动是否上线时 | 实验方案 + 结果评估 |
+| [growth-operations-activation](../growth-operations-skills/growth-operations-activation/) | 新用户流失、激活率低或要优化 onboarding 时 | 激活漏斗诊断 + 优化方案 |
+| [growth-operations-retention](../growth-operations-skills/growth-operations-retention/) | 留存下降、用户流失或要设计召回时 | 留存机制 + 召回实验 |
+| [growth-operations-channel](../growth-operations-skills/growth-operations-channel/) | 分配投放预算、评估渠道或 CAC 过高时 | 渠道评估表 + 预算建议 |
+| [growth-operations-diagnosis](../growth-operations-skills/growth-operations-diagnosis/) | 指标异常、数据下滑或需要增长复盘时 | 诊断报告 + 行动建议 |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [growth-operations-advisory-board](../growth-operations-skills/growth-operations-advisory-board/) | 多角色增长评审 | 路由分歧与组织专家评审会 |
+| [growth-operations-advisor-zhang-ximeng](../growth-operations-skills/growth-operations-advisor-zhang-ximeng/) | 数据驱动增长 | 北极星指标、增长团队与数据闭环 |
+| [growth-operations-advisor-andrew-chen](../growth-operations-skills/growth-operations-advisor-andrew-chen/) | 冷启动与网络效应 | 增长战略、增长循环与规模化路径 |
+| [growth-operations-advisor-alex-schultz](../growth-operations-skills/growth-operations-advisor-alex-schultz/) | 留存第一 | 魔法时刻、激活漏斗与留存提升 |
+| [growth-operations-method-lean-startup](../growth-operations-skills/growth-operations-method-lean-startup/) | 精益创业 | MVP、实验循环与增长引擎 |
+| [growth-operations-method-hooked](../growth-operations-skills/growth-operations-method-hooked/) | Hook 模型 | 习惯养成与多变奖励 |
+| [growth-operations-method-liuliangchi](../growth-operations-skills/growth-operations-method-liuliangchi/) | 流量池 | 裂变、私域与品效协同 |
+
 <a id="user-operations"></a>
 ### 👥 用户运营
 
