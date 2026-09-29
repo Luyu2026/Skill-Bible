@@ -13,10 +13,13 @@ Career Skills are organized as role-based workflows. Each workflow starts with a
 | Move an operations problem across data, campaigns, content, users, and review | [📣 General operations](#general-operations) | Data → campaigns → content → users → review → strategy |
 | Turn ambiguous growth goals into tested experiments, activation, retention, and channel choices | [📈 Growth operations](#growth-operations) | Strategy → experiment → activation → retention → channel → diagnosis |
 | Run an e-commerce store across selection, campaigns, traffic, live-streaming, data, and review | [🛒 E-commerce operations](#e-commerce-operations) | Selection → campaigns → traffic → live → data → review → strategy |
+| Run a live room from session planning and scripts to traffic, real-time control, and review | [📺 Live operations](#live-operations) | Planning → script → on-air control → short-video traffic → paid traffic → review |
+| Build and grow a new-media account through positioning, topics, content, distribution, and analysis | [📱 New-media operations](#new-media-operations) | Positioning → topics → production → distribution → growth → analysis |
 | Improve segmentation, lifecycle, retention, recall, membership, or community | [👥 User operations](#user-operations) | Segmentation → lifecycle → retention → recall → membership → community |
 | Build a content loop from strategy and topics to distribution and review | [✍️ Content operations](#content-operations) | Strategy → topics → production → distribution → analytics |
 | Plan a measurable campaign with mechanisms, execution, amplification, and review | [🎯 Activity operations](#activity-operations) | Goals → mechanics → execution → promotion → review |
 | Build a private-domain funnel, community, conversion, referral, or data layer | [💬 Private-domain operations](#private-domain-operations) | System → traffic → community → conversion → referral → data |
+| Run a game across lifecycle, segmentation, events, monetization, data, and community | [🎮 Game operations](#game-operations) | Lifecycle → segmentation → events → monetization → data → community |
 | Enter an overseas market with positioning, SEO, ads, email, and analytics | [🌍 Overseas marketing](#overseas-marketing) | Research → brand → content/SEO → paid → email → analytics |
 | Source creators, negotiate, co-create, operate campaigns, and assess reinvestment | [🌟 KOL operations](#kol-operations) | Strategy → discovery → outreach → co-creation → campaigns → analytics |
 
@@ -51,6 +54,16 @@ Connect requests, evidence, decisions, and delivery. Start with [pm-master](../p
 
 [View the growth-operations workflow](../growth-operations-skills/).
 
+<a id="live-operations"></a>
+## 📺 Live operations
+
+[View the live-operations workflow](../live-operations-skills/).
+
+<a id="new-media-operations"></a>
+## 📱 New-media operations
+
+[View the new-media-operations workflow](../new-media-operations-skills/).
+
 <a id="user-operations"></a>
 ## 👥 User operations
 
@@ -70,6 +83,11 @@ Connect requests, evidence, decisions, and delivery. Start with [pm-master](../p
 ## 💬 Private-domain operations
 
 [View the private-domain-operations workflow](../private-domain-operations/).
+
+<a id="game-operations"></a>
+## 🎮 Game operations
+
+[View the game-operations workflow](../game-operations-skills/).
 
 <a id="overseas-marketing"></a>
 ## 🌍 Overseas marketing
