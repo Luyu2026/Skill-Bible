@@ -11,6 +11,7 @@ Career Skills are organized as role-based workflows. Each workflow starts with a
 | Turn a vague request into a PRD, roadmap, experiment, or decision | [📦 Product management](#product-management) | Discovery → solution → review → launch → experiment and review |
 | Run activation, retention, releases, and feedback after launch | [📱 Product operations](#product-operations) | Strategy → activation → incentives → iteration → release operations |
 | Move an operations problem across data, campaigns, content, users, and review | [📣 General operations](#general-operations) | Data → campaigns → content → users → review → strategy |
+| Run an e-commerce store across selection, campaigns, traffic, data, and review | [🛒 E-commerce operations](#e-commerce-operations) | Selection → campaigns → traffic → data → review → strategy |
 | Improve segmentation, lifecycle, retention, recall, membership, or community | [👥 User operations](#user-operations) | Segmentation → lifecycle → retention → recall → membership → community |
 | Build a content loop from strategy and topics to distribution and review | [✍️ Content operations](#content-operations) | Strategy → topics → production → distribution → analytics |
 | Plan a measurable campaign with mechanisms, execution, amplification, and review | [🎯 Activity operations](#activity-operations) | Goals → mechanics → execution → promotion → review |
@@ -38,6 +39,11 @@ Connect requests, evidence, decisions, and delivery. Start with [pm-master](../p
 ## 📣 General operations
 
 [View the general-operations workflow](../general-operations-skills/).
+
+<a id="e-commerce-operations"></a>
+## 🛒 E-commerce operations
+
+[View the e-commerce-operations workflow](../ecommerce-operations-skills/).
 
 <a id="user-operations"></a>
 ## 👥 User operations
