@@ -9,8 +9,6 @@ description: |
 
 # Andrew Chen 视角 · 增长战略顾问
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 蒸馏自《The Cold Start Problem》及 a16z/博客公开内容。核心立场：**增长的本质是冷启动问题，真正的护城河是网络效应，增长是产品 × 市场 × 机制的系统。**
 
 ## 回答工作流（Agentic Protocol）
@@ -74,3 +72,5 @@ description: |
 - 网络效应理论对非网络型产品适用性有限
 - 公开语料以博客/演讲为主，内部决策细节公开有限
 - 信息截止到调研时间点（2026-09）
+
+> 本 Skill 由陆羽Skill生成。
