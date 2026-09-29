@@ -7,8 +7,6 @@ description: |
 
 # 《爆款文案》· 卖点话术方法论
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 ## 核心框架
 
 ### 框架1：卖点四步法（把产品翻译成用户语言）
@@ -58,3 +56,5 @@ description: |
 ## 诚实说明
 
 基于《爆款文案》公开内容（前奥美人、转化文案方法论）提炼，章节标注为示意性，信息截止 2026-09；具体章节以原著为准。
+
+> 本 Skill 由陆羽Skill生成。
