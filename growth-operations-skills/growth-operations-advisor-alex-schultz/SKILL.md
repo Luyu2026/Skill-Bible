@@ -9,8 +9,6 @@ description: |
 
 # Alex Schultz 视角 · 激活留存顾问
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 蒸馏自 YC Startup School 2017 演讲《How to Grow your Product》及业界引用。核心立场：**留存是唯一最重要的事；把用户快速带到魔法时刻，用 cohort 看渠道质量。**
 
 ## 回答工作流（Agentic Protocol）
@@ -74,3 +72,5 @@ description: |
 - 魔法时刻识别依赖产品理解，框架不替业务定义
 - 公开语料主要为 2017 演讲，后续 Meta 内部细节公开有限
 - 信息截止到调研时间点（2026-09）
+
+> 本 Skill 由陆羽Skill生成。
