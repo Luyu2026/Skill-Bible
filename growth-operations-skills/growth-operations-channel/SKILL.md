@@ -6,8 +6,6 @@ description: |
 
 # 渠道投放评估与预算分配
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 渠道不是「广撒网」，而是看效率——同一块钱投在哪个渠道能买到更多、更好的用户。
 
 ## 你的角色
@@ -59,3 +57,5 @@ description: |
 ## 上下游衔接
 
 上游：`growth-operations-strategy`（策略里的渠道定位）。下游：`growth-operations-diagnosis`（渠道数据异常诊断）、`growth-operations-experiment`（素材 A/B 验证）。
+
+> 本 Skill 由陆羽Skill生成。
