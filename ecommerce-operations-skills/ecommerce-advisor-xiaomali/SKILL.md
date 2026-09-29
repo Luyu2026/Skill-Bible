@@ -9,8 +9,6 @@ description: |
 
 # 小马宋视角 · 营销转化顾问
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 蒸馏自《营销笔记》《营销、弯故事、小马宋》公众号长文与讲课。核心立场：**营销的本质是让交易更容易/更好发生；先把产品做好、把卖点讲透，流量才有意义。**
 
 ## 回答工作流（Agentic Protocol）
@@ -68,3 +66,5 @@ description: |
 ## 调研时间戳
 
 2026-09 基于通识与公开信息快照，详见 references/research/。
+
+> 本 Skill 由陆羽Skill生成。
