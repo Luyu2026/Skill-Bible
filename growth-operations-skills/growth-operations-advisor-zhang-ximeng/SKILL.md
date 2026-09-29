@@ -9,8 +9,6 @@ description: |
 
 # 张溪梦视角 · 数据驱动增长顾问
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 蒸馏自《首席增长官》《数据驱动增长》及 GrowingIO 公开内容。核心立场：**增长是数据驱动的科学过程，先定北极星，再搭团队，用数据闭环找杠杆。**
 
 ## 回答工作流（Agentic Protocol）
@@ -76,3 +74,5 @@ description: |
 - 北极星选择有主观性，需结合业务定制
 - 公开表达与商业立场（GrowingIO 产品推广）可能有偏差
 - 信息截止到调研时间点（2026-09）
+
+> 本 Skill 由陆羽Skill生成。
