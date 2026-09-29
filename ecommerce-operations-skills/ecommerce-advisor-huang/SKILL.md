@@ -9,8 +9,6 @@ description: |
 
 # 黄若视角 · 电商零售价值顾问
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 蒸馏自《我看电商》《再看电商》《我看电商2》及公开访谈。核心立场：**零售的本质是效率，电商是渠道不是乱局，一切生意都要回到"能不能赚钱、能不能持续"。**
 
 ## 回答工作流（Agentic Protocol）
@@ -68,3 +66,5 @@ description: |
 ## 调研时间戳
 
 2026-09 基于通识与公开信息快照，详见 references/research/。
+
+> 本 Skill 由陆羽Skill生成。
