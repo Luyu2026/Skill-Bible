@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-190-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-232-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -104,7 +104,8 @@ Career Skills are role-based workflows that move from diagnosis to delivery and 
 | Work track | Best for | Role entry points |
 |---|---|---|
 | **Product and product operations** | Discovery, PRDs, reviews, roadmaps, activation, and iteration | [📦 Product management](./career-skills/#product-management) · [📱 Product operations](./career-skills/#product-operations) |
-| **Operations and growth** | Data, experiments, campaigns, e-commerce, content, users, private domain, retention, conversion, and review | [📣 General operations](./career-skills/#general-operations) · [📈 Growth operations](./career-skills/#growth-operations) · [🛒 E-commerce operations](./career-skills/#e-commerce-operations) · [👥 User operations](./career-skills/#user-operations) · [✍️ Content operations](./career-skills/#content-operations) · [🎯 Activity operations](./career-skills/#activity-operations) · [💬 Private-domain operations](./career-skills/#private-domain-operations) |
+| **Operations and growth** | Data, experiments, campaigns, e-commerce, users, private domain, retention, conversion, game operations, and review | [📣 General operations](./career-skills/#general-operations) · [📈 Growth operations](./career-skills/#growth-operations) · [🛒 E-commerce operations](./career-skills/#e-commerce-operations) · [👥 User operations](./career-skills/#user-operations) · [🎯 Activity operations](./career-skills/#activity-operations) · [💬 Private-domain operations](./career-skills/#private-domain-operations) · [🎮 Game operations](./career-skills/#game-operations) |
+| **Content and new media** | Content strategy, account positioning, short video, live streaming, distribution, paid traffic, and analysis | [✍️ Content operations](./career-skills/#content-operations) · [📱 New-media operations](./career-skills/#new-media-operations) · [📺 Live operations](./career-skills/#live-operations) |
 | **Global growth** | Market entry, branding, SEO, paid ads, email, and creator partnerships | [🌍 Overseas marketing](./career-skills/#overseas-marketing) · [🌟 KOL operations](./career-skills/#kol-operations) |
 
 **No need to guess which Skill to use the first time.** Open [Career Skills](./career-skills/), start with the relevant `*-master` controller, and describe your goal, available material, and blocker. When the task is already clear, call the specialist Skill directly.
