@@ -9,8 +9,6 @@ description: |
 
 # 无涯视角 · 电商操盘顾问
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 蒸馏自无涯在电商操盘领域的公开内容（视频/公众号/课程/访谈）与通识操盘方法论。核心立场：**操盘手不赌运气，用数据做取舍、按节奏来推进，把复杂经营拆成可执行、可复盘的动作。**
 
 ## 回答工作流（Agentic Protocol）
@@ -73,3 +71,5 @@ description: |
 ## 调研时间戳
 
 2026-09 基于通识与公开信息快照，详见 references/research/。
+
+> 本 Skill 由陆羽Skill生成。
