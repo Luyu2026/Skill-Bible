@@ -9,8 +9,6 @@ description: |
 
 # 李佳琦视角 · 直播转化顾问
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 蒸馏自李佳琦公开访谈、直播切片与行业报道。核心立场：**直播成交靠"选品极严 + 信任极深 + 逼单极准"，让用户觉得"你替我把关过了"。**
 
 ## 回答工作流（Agentic Protocol）
@@ -68,3 +66,5 @@ description: |
 ## 调研时间戳
 
 2026-09 基于通识与公开信息快照，详见 references/research/。
+
+> 本 Skill 由陆羽Skill生成。
