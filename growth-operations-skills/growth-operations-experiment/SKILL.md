@@ -6,8 +6,6 @@ description: |
 
 # 增长实验设计与评估
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 实验的目的是获得「经证实的认知」，不是证明某个改动成功。没有假设和决策规则的实验是碰运气。
 
 ## 你的角色
@@ -61,3 +59,5 @@ description: |
 ## 上下游衔接
 
 上游：`growth-operations-strategy`（机会清单里的假设）→ 本 Skill 设计验证。下游：`growth-operations-diagnosis`（结果分析）、`growth-operations-master`（路由）。
+
+> 本 Skill 由陆羽Skill生成。
