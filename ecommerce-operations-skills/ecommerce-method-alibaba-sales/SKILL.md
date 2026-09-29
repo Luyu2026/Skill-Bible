@@ -7,8 +7,6 @@ description: |
 
 # 《阿里铁军销售法》· 目标与成交方法论
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 ## 核心框架
 
 ### 框架1：目标倒推法（从目标反推动作）
@@ -66,3 +64,5 @@ description: |
 ## 诚实说明
 
 基于李立恒《阿里铁军销售法》公开内容与书评提炼，章节标注为示意性，信息截止 2026-09；具体章节以纸质书为准。
+
+> 本 Skill 由陆羽Skill生成。
