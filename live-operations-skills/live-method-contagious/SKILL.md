@@ -7,8 +7,6 @@ description: |
 
 # 《疯传》· 直播传播方法论
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 ## 核心框架
 
 ### 框架1：STEPPS 六原则（直播/切片传播底层）
@@ -59,3 +57,5 @@ description: |
 ## 诚实说明
 
 基于 Jonah Berger《疯传》(Contagious) 公开内容提炼，章节标注为示意性，信息截止 2026-09；具体章节以原著为准。
+
+> 本 Skill 由陆羽Skill生成。
