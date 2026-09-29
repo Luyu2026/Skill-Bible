@@ -6,8 +6,6 @@ description: |
 
 # 增长指标异常诊断与复盘
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 数据异常的第一反应不是「找原因」，而是「排除假象」——先确认是不是统计口径、埋点、技术问题，再谈业务原因。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`growth-operations-master` 路由（数据异常→诊断）。下游：`growth-operations-experiment`（验证假设）、`growth-operations-channel`（渠道问题处置）、`growth-operations-retention`（留存问题处置）。
+
+> 本 Skill 由陆羽Skill生成。
