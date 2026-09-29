@@ -7,8 +7,6 @@ description: |
 
 # 《我看电商》· 零售效率方法论
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 ## 核心框架
 
 ### 框架1：生意三问（判断电商模式值不值得做）
@@ -55,3 +53,5 @@ description: |
 ## 诚实说明
 
 基于通识与黄若公开书籍/访谈提炼（章节标注为示意性），信息截止 2026-09；章节号与原文若有出入，以纸质书为准。
+
+> 本 Skill 由陆羽Skill生成。
