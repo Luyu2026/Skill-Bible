@@ -264,6 +264,29 @@
 | [private-domain-operations-method-membership](../private-domain-operations/private-domain-operations-method-membership/) | 会员经济 | 用会员经济设计关系升级 |
 | [private-domain-operations-method-private-domain](../private-domain-operations/private-domain-operations-method-private-domain/) | 私域方法论 | 搭建私域链路、标签与 SCRM 方法 |
 
+<a id="game-operations"></a>
+### 🎮 游戏运营
+
+覆盖玩家生命周期、分层运营、活动策划、商业化设计与数据分析，解决游戏产品全生命周期的运营问题。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [game-master](../game-operations-skills/game-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [game-master](../game-operations-skills/game-master/) | 游戏运营问题分诊、不知道卡在哪一环时 | 问题诊断 + 调用路径 |
+| [game-lifecycle](../game-operations-skills/game-lifecycle/) | 设计玩家生命周期策略、新手引导或召回时 | 生命周期运营方案 |
+| [game-segmentation](../game-operations-skills/game-segmentation/) | 玩家分层（大R/中R/小R/白嫖）、差异化运营时 | 分层运营方案 |
+| [game-events](../game-operations-skills/game-events/) | 设计开服/节日/拉收活动时 | 活动策划方案 |
+| [game-monetization](../game-operations-skills/game-monetization/) | 设计付费体系、付费率/ARPU 低时 | 商业化方案 |
+| [game-analytics](../game-operations-skills/game-analytics/) | 分析留存/活跃/付费/流失数据时 | 数据分析报告 |
+| [game-community](../game-operations-skills/game-community/) | 运营玩家社区、UGC 与口碑时 | 社区运营方案 |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [game-advisory-board](../game-operations-skills/game-advisory-board/) | 多角色游戏运营评审 | 组织专家评审与分歧地图 |
+| [game-advisor-ops](../game-operations-skills/game-advisor-ops/) | 游戏运营实战 | 生命周期诊断、首日说服链、商业化四问 |
+| [game-advisor-chou](../game-operations-skills/game-advisor-chou/) | 游戏化设计 | Octalysis 八角动机、白帽/黑帽机制 |
+| [game-advisor-qu](../game-operations-skills/game-advisor-qu/) | 增长实验 | 设计留存与付费实验 |
+| [game-method-ops](../game-operations-skills/game-method-ops/) | 游戏运营方法论 | 生命周期法、数据指标体检表 |
+| [game-method-chou](../game-operations-skills/game-method-chou/) | 游戏化实战 | 八角行为分析、玩家旅程四阶段 |
+| [game-method-hooked](../game-operations-skills/game-method-hooked/) | Hook 模型 | 习惯养成与多变奖励 |
+
 <a id="overseas-marketing"></a>
 ### 🌍 海外市场营销
 

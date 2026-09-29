@@ -70,7 +70,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 工作线 | 适合什么问题 | 岗位与 Skill 数量 |
 |---|---|---|
 | **产品** | 需求调研、评审、版本规划、产品激活和迭代 | [📦 产品经理 · 21](./岗位技能库/README.md#product-manager) · [📱 产品运营 · 14](./岗位技能库/README.md#product-operations) |
-| **运营与增长** | 增长目标、实验、数据、活动、内容、用户、私域、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/README.md#general-operations) · [📈 增长运营 · 14](./岗位技能库/README.md#growth-operations) · [🛒 电商运营 · 14](./岗位技能库/README.md#e-commerce-operations) · [👥 用户运营 · 14](./岗位技能库/README.md#user-operations) · [✍️ 内容运营 · 14](./岗位技能库/README.md#content-operations) · [🎯 活动运营 · 14](./岗位技能库/README.md#activity-operations) · [💬 私域运营 · 14](./岗位技能库/README.md#private-domain-operations) |
+| **运营与增长** | 增长目标、实验、数据、活动、内容、用户、私域、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/README.md#general-operations) · [📈 增长运营 · 14](./岗位技能库/README.md#growth-operations) · [🛒 电商运营 · 14](./岗位技能库/README.md#e-commerce-operations) · [👥 用户运营 · 14](./岗位技能库/README.md#user-operations) · [✍️ 内容运营 · 14](./岗位技能库/README.md#content-operations) · [🎯 活动运营 · 14](./岗位技能库/README.md#activity-operations) · [💬 私域运营 · 14](./岗位技能库/README.md#private-domain-operations) · [🎮 游戏运营 · 14](./岗位技能库/README.md#game-operations) |
 | **市场营销** | 市场进入、品牌、SEO、投放、邮件营销与达人合作 | [🌍 海外市场营销 · 14](./岗位技能库/README.md#overseas-marketing) · [🌟 海外 KOL 运营 · 14](./岗位技能库/README.md#kol-operations) |
 
 <a id="perspectives"></a>
