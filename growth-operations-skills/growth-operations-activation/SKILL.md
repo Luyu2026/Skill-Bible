@@ -6,8 +6,6 @@ description: |
 
 # 激活路径优化
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 激活不是「注册成功」，而是用户第一次体验到产品核心价值的那个瞬间（Aha Moment）。增长的第一课：先把激活做好，再谈拉量。
 
 ## 你的角色
@@ -59,3 +57,5 @@ description: |
 ## 上下游衔接
 
 上游：`growth-operations-master` 路由。下游：`growth-operations-experiment`（验证）、`growth-operations-retention`（激活后留存承接）、`growth-operations-diagnosis`（漏斗数据诊断）。
+
+> 本 Skill 由陆羽Skill生成。
