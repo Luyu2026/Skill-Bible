@@ -6,8 +6,6 @@ description: |
 
 # 增长运营总控
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 > 增长不是「拉一波量」，而是一条从目标到复盘的完整链路。本 Skill 负责判断卡点、路由到最合适的执行工具。
 
 ## 你的角色
@@ -48,3 +46,5 @@ description: |
 ## 上下游衔接
 
 上游：用户增长问题入口。下游：执行链（strategy/experiment/activation/retention/channel/diagnosis）、顾问团（advisory-board）。
+
+> 本 Skill 由陆羽Skill生成。
