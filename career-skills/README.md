@@ -49,6 +49,16 @@ Connect requests, evidence, decisions, and delivery. Start with [pm-master](../p
 
 [View the e-commerce-operations workflow](../ecommerce-operations-skills/).
 
+<a id="live-operations"></a>
+## 📺 Live operations
+
+[View the live-operations workflow](../live-operations-skills/).
+
+<a id="new-media-operations"></a>
+## 📱 New media operations
+
+[View the new-media-operations workflow](../new-media-operations-skills/).
+
 <a id="growth-operations"></a>
 ## 📈 Growth operations
 
