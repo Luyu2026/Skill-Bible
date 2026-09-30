@@ -6,8 +6,6 @@ description: |
 
 # 成员招募与冷启动
 
-> 本 Skill 由陆羽Skill生成。
-
 > 招募不是"拉人进群"，而是找对第一批人——种子用户质量决定社区基因，核心成员决定社区活力。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`community-operations-positioning`（定位决定招谁）。下游：`community-operations-engagement`（激活新成员）、`community-operations-content`（价值供给）。
+
+> 本 Skill 由陆羽Skill生成。

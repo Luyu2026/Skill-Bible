@@ -6,8 +6,6 @@ description: |
 
 # AI 运营总控
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 运营不是"蹭 AI 概念"，而是一条从定位到复盘的完整链路。本 Skill 负责判断卡点、路由到最合适的执行工具。
 
 ## 你的角色
@@ -49,3 +47,5 @@ description: |
 ## 上下游衔接
 
 上游：用户 AI 运营问题入口。下游：执行链（positioning/experiment/chatbot/content/growth/monetization/review）、顾问团（advisory-board）。
+
+> 本 Skill 由陆羽Skill生成。

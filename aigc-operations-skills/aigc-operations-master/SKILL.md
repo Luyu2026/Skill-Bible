@@ -6,8 +6,6 @@ description: |
 
 # AIGC 运营总控
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 提效不是"装个工具"，而是一条从基本功到流程重构的完整链路。本 Skill 负责判断卡点、路由到最合适的执行工具。
 
 ## 你的角色
@@ -49,3 +47,5 @@ description: |
 ## 上下游衔接
 
 上游：用户 AI 提效问题入口。下游：执行链（prompt/content/chatbot/analysis/workflow/evaluation/review）、顾问团（advisory-board）。
+
+> 本 Skill 由陆羽Skill生成。

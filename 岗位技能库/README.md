@@ -403,21 +403,53 @@
 | [crossborder-method-amazon](../crossborder-operations-skills/crossborder-method-amazon/) | 亚马逊运营 | 用 Listing/广告/FBA 实操方法 |
 | [crossborder-method-dtc](../crossborder-operations-skills/crossborder-method-dtc/) | DTC品牌出海 | 用独立站漏斗做品牌路线 |
 
-<a id="aigc-operations"></a>
-### 🤖 AIGC 运营
+<a id="ai-product-operations"></a>
+### 🧠 AI 产品运营
 
-覆盖 AIGC 工作流、提示词、内容生成与评估的 AI 应用链。**共 15 个 Skill：8 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [aigc-operations-master](../aigc-operations-skills/aigc-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+面向 AI 应用、大模型产品与智能体：从定位、体验与增长，到定价、成本和复盘。**共 15 个 Skill：8 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [ai-operations-master](../ai-operations-skills/ai-operations-master/) 说清产品阶段、材料和卡点；任务明确时，直接选择下方专项。
 
 | 执行技能 | 什么时候用 | 产出 |
 |---|---|---|
-| [aigc-operations-master](../aigc-operations-skills/aigc-operations-master/) | AIGC 问题分诊与链路编排时 | 问题诊断 + 调用路径 |
-| [aigc-operations-workflow](../aigc-operations-skills/aigc-operations-workflow/) | 设计 AIGC 工作流与自动化链路时 | 工作流设计 + 自动化方案 |
-| [aigc-operations-prompt](../aigc-operations-skills/aigc-operations-prompt/) | 写提示词、优化生成效果时 | 提示词方案 + 优化策略 |
-| [aigc-operations-content](../aigc-operations-skills/aigc-operations-content/) | 用 AI 生成文案/图片/视频内容时 | 内容生成方案 + 成品 |
-| [aigc-operations-evaluation](../aigc-operations-skills/aigc-operations-evaluation/) | 评估 AI 生成质量、迭代效果时 | 质量评估 + 迭代建议 |
-| [aigc-operations-multimodal](../aigc-operations-skills/aigc-operations-multimodal/) | 多模态内容（图文/音视频）生成时 | 多模态方案 + 生产流程 |
-| [aigc-operations-tool](../aigc-operations-skills/aigc-operations-tool/) | 选 AI 工具、搭工具组合时 | 工具选型 + 组合方案 |
-| [aigc-operations-review](../aigc-operations-skills/aigc-operations-review/) | AIGC 落地复盘与提效评估时 | 复盘报告 + 提效动作 |
+| [ai-operations-master](../ai-operations-skills/ai-operations-master/) | 不确定 AI 产品卡在哪一环、需要编排工作链时 | 问题诊断 + 调用路径 |
+| [ai-operations-positioning](../ai-operations-skills/ai-operations-positioning/) | 判断产品做什么场景、服务谁、是否接近 PMF 时 | 产品定位卡 + 人机分工方案 |
+| [ai-operations-experiment](../ai-operations-skills/ai-operations-experiment/) | 需要测试 Prompt、功能效果或关键假设时 | 实验设计 + 决策规则 |
+| [ai-operations-chatbot](../ai-operations-skills/ai-operations-chatbot/) | 回答质量差、出现幻觉或需要设计兜底时 | 体验诊断 + 调优与兜底方案 |
+| [ai-operations-content](../ai-operations-skills/ai-operations-content/) | 搭建模板库、Prompt 库或用户共创机制时 | 内容生态方案 |
+| [ai-operations-growth](../ai-operations-skills/ai-operations-growth/) | 获客困难、激活低或新鲜感衰减时 | 增长循环 + 激活方案 |
+| [ai-operations-monetization](../ai-operations-skills/ai-operations-monetization/) | 设计收费、定价、成本与增值路径时 | 商业化方案 + 成本核算 |
+| [ai-operations-review](../ai-operations-skills/ai-operations-review/) | 需要同时复盘质量、留存与 Token 成本时 | 三角复盘报告 + 行动项 |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [ai-operations-advisory-board](../ai-operations-skills/ai-operations-advisory-board/) | 多角色 AI 产品评审 | 组织专家评审与分歧地图 |
+| [ai-operations-advisor-ng](../ai-operations-skills/ai-operations-advisor-ng/) | 数据飞轮与 AI 转型 | 判断数据策略、数据闭环与转型路径 |
+| [ai-operations-advisor-rachitsky](../ai-operations-skills/ai-operations-advisor-rachitsky/) | 增长、激活与 PMF | 判断增长循环、激活与产品市场匹配 |
+| [ai-operations-advisor-lijiariu](../ai-operations-skills/ai-operations-advisor-lijiariu/) | AI+私域与对话式营销 | 判断场景选择、对话体验与转化路径 |
+| [ai-operations-method-prediction](../ai-operations-skills/ai-operations-method-prediction/) | AI 商业与人机分工 | 用预测机器框架判断 AI 价值与分工 |
+| [ai-operations-method-ageofai](../ai-operations-skills/ai-operations-method-ageofai/) | 数据网络效应 | 用 AI 工厂框架判断竞争优势 |
+| [ai-operations-method-humanmachine](../ai-operations-skills/ai-operations-method-humanmachine/) | 人机协作 | 判断人在回路、协作边界与组织设计 |
+
+<a id="aigc-operations"></a>
+### 🤖 AIGC 运营
+
+面向“用 AI 做运营”：从提示词、内容和客服，到数据分析、团队工作流、评估合规与提效复盘。**共 15 个 Skill：8 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [aigc-operations-master](../aigc-operations-skills/aigc-operations-master/) 说清工作目标、现有流程和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [aigc-operations-master](../aigc-operations-skills/aigc-operations-master/) | 不确定哪一段工作最适合 AI 化时 | 问题诊断 + 调用路径 |
+| [aigc-operations-prompt](../aigc-operations-skills/aigc-operations-prompt/) | 写提示词、选工具或解决 AI 不好用时 | Prompt 库 + 工具选型方案 |
+| [aigc-operations-content](../aigc-operations-skills/aigc-operations-content/) | 用 AI 提升文案、图片或内容生产效率时 | AIGC 内容生产 SOP |
+| [aigc-operations-chatbot](../aigc-operations-skills/aigc-operations-chatbot/) | 设计 AI 客服或对话式获客时 | 智能客服方案 + 人机切换规则 |
+| [aigc-operations-analysis](../aigc-operations-skills/aigc-operations-analysis/) | 用 AI 做数据分析或生成经营报告时 | AI 分析 SOP + 报告框架 |
+| [aigc-operations-workflow](../aigc-operations-skills/aigc-operations-workflow/) | 改造团队工作流、找到 AI 嵌入点时 | 工作流改造方案 |
+| [aigc-operations-evaluation](../aigc-operations-skills/aigc-operations-evaluation/) | 检查产出质量、幻觉与合规边界时 | 评估与合规检查清单 |
+| [aigc-operations-review](../aigc-operations-skills/aigc-operations-review/) | 衡量 AI 提效值不值得、下一步如何迭代时 | 提效复盘报告 + 行动项 |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [aigc-operations-advisory-board](../aigc-operations-skills/aigc-operations-advisory-board/) | 多角色 AIGC 落地评审 | 组织专家评审与分歧地图 |
+| [aigc-operations-advisor-mollick](../aigc-operations-skills/aigc-operations-advisor-mollick/) | AI 协作与人在回路 | 判断协作边界与锯齿状能力 |
+| [aigc-operations-advisor-renxin](../aigc-operations-skills/aigc-operations-advisor-renxin/) | 工作流嵌入 | 判断场景、工具与流程如何结合 |
+| [aigc-operations-advisor-fanbing](../aigc-operations-skills/aigc-operations-advisor-fanbing/) | 工具选型与效果验证 | 判断工具组合、数据验证与实验 |
+| [aigc-operations-method-cointelligence](../aigc-operations-skills/aigc-operations-method-cointelligence/) | AI 协作方法论 | 用 Co-Intelligence 设计协作方式 |
+| [aigc-operations-method-ai2041](../aigc-operations-skills/aigc-operations-method-ai2041/) | AI 场景判断 | 用 AI 2041 识别真实可行场景 |
+| [aigc-operations-method-comingwave](../aigc-operations-skills/aigc-operations-method-comingwave/) | AI 治理 | 用 The Coming Wave 判断治理与风险 |
 
 <a id="overseas-marketing"></a>
 ### 🌍 海外市场营销

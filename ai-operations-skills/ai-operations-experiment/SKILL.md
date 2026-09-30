@@ -6,8 +6,6 @@ description: |
 
 # AI 产品实验与迭代
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 产品迭代快，实验要更快——Prompt、模型、参数、兜底策略都是可实验变量，建实验台账是 AI 运营的基本功。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`ai-operations-chatbot`（体验问题→实验验证）。下游：`ai-operations-review`（数据复盘）、`ai-operations-growth`（实验放量）。
+
+> 本 Skill 由陆羽Skill生成。

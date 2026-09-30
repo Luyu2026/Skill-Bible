@@ -7,8 +7,6 @@ description: |
 
 # 新媒体运营顾问团
 
-> 本 Skill 由陆羽Skill生成。
-
 > 判断类问题找顾问团：一个视角不够，就多视角评审。成员是新媒体系列的专家与方法论。
 
 ## 成员名册
@@ -54,3 +52,5 @@ description: |
 ## 上下游衔接
 
 上游：`new-media-operations-master` 把判断类问题转交本 Skill。下游：6 位成员（3 专家 + 3 方法论）。
+
+> 本 Skill 由陆羽Skill生成。

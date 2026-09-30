@@ -7,8 +7,6 @@ description: |
 
 # 《定位》· 账号定位方法论
 
-> 本 Skill 由陆羽Skill生成。
-
 > 心智抢占（第一法则/二元法则/关联法则）+ 定位四步法，判断账号/品牌定位与差异化。
 
 ## 核心框架
@@ -66,3 +64,5 @@ description: |
 ## 诚实说明
 
 提炼基于《Positioning》（Al Ries and Jack Trout, 1981）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。

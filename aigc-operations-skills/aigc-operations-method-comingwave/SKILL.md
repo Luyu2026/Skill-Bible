@@ -7,8 +7,6 @@ description: |
 
 # 《The Coming Wave》· AI 治理方法论
 
-> 本 Skill 由陆羽Skill生成。
-
 > 收益×风险平衡 + 扩散路径 + 遏制框架，判断 AI 应用的治理与推广。
 
 ## 核心框架
@@ -67,3 +65,5 @@ description: |
 ## 诚实说明
 
 提炼基于《The Coming Wave》（Mustafa Suleyman, 2023）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。

@@ -6,8 +6,6 @@ description: |
 
 # AI 产品商业化与定价
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 商业化的核心矛盾：模型按次烧钱（Token 成本），用户按价值付费——定价要锚定价值，运营要控住成本。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`ai-operations-growth`（付费承接）。下游：`ai-operations-experiment`（定价实验）、`ai-operations-review`（商业化复盘）。
+
+> 本 Skill 由陆羽Skill生成。

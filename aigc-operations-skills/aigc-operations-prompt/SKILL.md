@@ -6,8 +6,6 @@ description: |
 
 # Prompt 与 AI 工具应用
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 不是搜索引擎，是"最笨最懒的实习生"——它不会猜你要什么，但给够清晰指令它能干得很好。用不好的 90% 原因是指令不清晰。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`aigc-operations-master` 判断卡点。下游：`aigc-operations-content`（内容生产）、`aigc-operations-analysis`（数据分析）。
+
+> 本 Skill 由陆羽Skill生成。

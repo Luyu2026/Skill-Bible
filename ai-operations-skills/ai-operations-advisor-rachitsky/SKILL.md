@@ -9,8 +9,6 @@ description: |
 
 # Lenny Rachitsky 视角 · AI 产品增长顾问
 
-> 本 Skill 由陆羽Skill生成。
-
 > 蒸馏自《Lenny's Newsletter》与播客 AI 产品访谈系列。核心立场：**增长是循环不是单次动作；AI 产品的激活=第一次"啊哈"；PMF 前不投流。**
 
 ## 回答工作流（Agentic Protocol）
@@ -73,3 +71,5 @@ description: |
 - 通讯/播客观点是行业观察而非实证研究
 - 观点有时效性（2023-2025 为主）
 - 信息截止到调研时间点（2026-09）
+
+> 本 Skill 由陆羽Skill生成。

@@ -32,7 +32,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
 | [**💼&nbsp;求&#8288;职&#8288;面&#8288;试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 12 个求职 Skill |
-| [**🧩&nbsp;岗&#8288;位&#8288;技&#8288;能&#8288;库**](#career-skills) | 按真实工作场景进入岗位能力系统：既能直接交付，也能在关键取舍时辅助判断 | 20 个岗位方向 · 289 个 Skill |
+| [**🧩&nbsp;岗&#8288;位&#8288;技&#8288;能&#8288;库**](#career-skills) | 按真实工作场景进入岗位能力系统：既能直接交付，也能在关键取舍时辅助判断 | 21 个岗位方向 · 304 个 Skill |
 | [**🧠&nbsp;思&#8288;维&#8288;视&#8288;角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | [**✍️&nbsp;内&#8288;容&#8288;创&#8288;作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
 | [**📈&nbsp;投&#8288;资&#8288;研&#8288;究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
@@ -61,7 +61,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 <a id="career-skills"></a>
 ## 🧩 岗位技能
 
-**20 个岗位方向，289 个 Skill。** 把产品、运营与营销工作中反复卡住的真实场景，整理成可以直接调用的岗位能力系统。
+**21 个岗位方向，304 个 Skill。** 把产品、运营、营销与 AI 应用工作中反复卡住的真实场景，整理成可以直接调用的岗位能力系统。
 
 它不只是把工具按岗位放在一起：每个岗位都把高频工作拆成**执行技能**与**判断技能**。前者直接产出方案、报告、计划或成品；后者在你不确定“该不该做、先做什么、资源放哪里”时提供判断路径。第一次不知道怎么开始，交给岗位总控；任务已经明确，直接进入专项 Skill。
 
@@ -74,7 +74,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | **运营与增长** | 增长目标、实验、数据、活动、用户、私域、社区、留存、转化与复盘 | [📣 通用运营 · 14](./岗位技能库/README.md#general-operations) · [📈 增长运营 · 14](./岗位技能库/README.md#growth-operations) · [🛒 电商运营 · 14](./岗位技能库/README.md#e-commerce-operations) · [👥 用户运营 · 14](./岗位技能库/README.md#user-operations) · [🎯 活动运营 · 14](./岗位技能库/README.md#activity-operations) · [💬 私域运营 · 14](./岗位技能库/README.md#private-domain-operations) · [🎮 游戏运营 · 14](./岗位技能库/README.md#game-operations) · [🧑‍🤝‍🧑 社区运营 · 15](./岗位技能库/README.md#community-operations) |
 | **内容与新媒体** | 内容策略、账号定位、短视频、直播、小红书、分发、投流与数据复盘 | [✍️ 内容运营 · 14](./岗位技能库/README.md#content-operations) · [📱 新媒体运营 · 14](./岗位技能库/README.md#new-media-operations) · [📺 直播运营 · 14](./岗位技能库/README.md#live-operations) · [🎬 短视频编导 · 14](./岗位技能库/README.md#shortvideo-operations) · [🧣 小红书运营 · 14](./岗位技能库/README.md#xiaohongshu-operations) |
 | **出海与跨境** | 市场进入、跨境平台、选品、Listing、履约、SEO、投放与达人合作 | [🌐 跨境电商运营 · 14](./岗位技能库/README.md#crossborder-operations) · [🌍 海外市场营销 · 14](./岗位技能库/README.md#overseas-marketing) · [🌟 海外 KOL 运营 · 14](./岗位技能库/README.md#kol-operations) |
-| **AI 赋能** | AIGC 工作流、提示词、AI 提效与智能体应用 | [🤖 AIGC 运营 · 15](./岗位技能库/README.md#aigc-operations) |
+| **AI 产品与 AI 赋能** | 运营 AI 应用的定位、体验、增长与商业化；或用 AI 优化既有工作流 | [🧠 AI 产品运营 · 15](./岗位技能库/README.md#ai-product-operations) · [🤖 AIGC 运营 · 15](./岗位技能库/README.md#aigc-operations) |
 
 <a id="perspectives"></a>
 ## 🧠 思维视角

@@ -6,8 +6,6 @@ description: |
 
 # 新媒体运营总控
 
-> 本 Skill 由陆羽Skill生成。
-
 > 新媒体不是"发内容"，而是一条从定位到复盘的完整链路。本 Skill 负责判断卡点、路由到最合适的执行工具。
 
 ## 你的角色
@@ -48,3 +46,5 @@ description: |
 ## 上下游衔接
 
 上游：用户新媒体问题入口。下游：执行链（positioning/content/growth/viral/distribution/review）、顾问团（advisory-board）。
+
+> 本 Skill 由陆羽Skill生成。

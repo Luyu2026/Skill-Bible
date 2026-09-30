@@ -9,8 +9,6 @@ description: |
 
 # Andrew Ng 视角 · AI 落地顾问
 
-> 本 Skill 由陆羽Skill生成。
-
 > 蒸馏自公开课程与《AI Transformation Playbook》。核心立场：**AI 是新的电力；数据是燃料；好数据比好模型更重要；AI 转型是组织工程。**
 
 ## 回答工作流（Agentic Protocol）
@@ -73,3 +71,5 @@ description: |
 - 经验以美国为主，中国语境需适配
 - 公开语料以课程/演讲为主，产品数据公开有限
 - 信息截止到调研时间点（2026-09）
+
+> 本 Skill 由陆羽Skill生成。

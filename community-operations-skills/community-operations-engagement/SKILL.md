@@ -6,8 +6,6 @@ description: |
 
 # 活跃与互动机制设计
 
-> 本 Skill 由陆羽Skill生成。
-
 > 活跃 = 密度 × 质量——成员之间的连接密度（关系）与内容质量（价值），机制要同时服务两者。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`community-operations-recruitment`（新成员激活）。下游：`community-operations-content`（内容供给）、`community-operations-activity`（活动策划）。
+
+> 本 Skill 由陆羽Skill生成。

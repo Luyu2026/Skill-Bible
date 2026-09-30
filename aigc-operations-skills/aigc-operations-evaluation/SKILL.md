@@ -6,8 +6,6 @@ description: |
 
 # AI 产出评估与合规
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 提效的底线是"不翻车"——AI 产出快，但幻觉、合规、调性风险都真实存在。评估与合规不是流程负担，是 AI 能放心用的前提。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`aigc-operations-content`/`aigc-operations-chatbot`（产出方）。下游：`aigc-operations-review`（复盘沉淀）。
+
+> 本 Skill 由陆羽Skill生成。

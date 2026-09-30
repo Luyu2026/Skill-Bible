@@ -6,8 +6,6 @@ description: |
 
 # 对话/生成体验优化
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 产品的体验 = 生成质量 × 边界兜底 × 用户引导——质量再高，没有兜底的 AI 也让人不敢用。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`ai-operations-positioning`（人机分工边界）。下游：`ai-operations-experiment`（Prompt 改动实验验证）、`ai-operations-review`（质量复盘）。
+
+> 本 Skill 由陆羽Skill生成。

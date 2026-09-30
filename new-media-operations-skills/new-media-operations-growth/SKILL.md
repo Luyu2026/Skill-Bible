@@ -6,8 +6,6 @@ description: |
 
 # 涨粉与粉丝经营
 
-> 本 Skill 由陆羽Skill生成。
-
 > 涨粉的本质是"内容价值 + 关注理由"——用户关注你是因为"以后还想看到你"，不是因为你一条爆了。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`new-media-operations-positioning`（定位决定关注理由）。下游：`new-media-operations-viral`（爆款拉新）、`new-media-operations-review`（涨粉数据复盘）。
+
+> 本 Skill 由陆羽Skill生成。

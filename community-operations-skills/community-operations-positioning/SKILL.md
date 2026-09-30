@@ -6,8 +6,6 @@ description: |
 
 # 社区定位与规则设计
 
-> 本 Skill 由陆羽Skill生成。
-
 > 定位不是"建个群"，而是回答五个问题：给谁、聊什么、凭什么聚、什么氛围、什么规矩。
 
 ## 你的角色
@@ -57,3 +55,5 @@ description: |
 ## 上下游衔接
 
 上游：`community-operations-master` 判断卡点。下游：`community-operations-recruitment`（招募落地）、`community-operations-engagement`（活跃机制）。
+
+> 本 Skill 由陆羽Skill生成。

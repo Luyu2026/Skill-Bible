@@ -6,8 +6,6 @@ description: |
 
 # AI 工作流设计
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 提效的最高阶玩法不是"换个工具"，而是重新设计工作流——把任务拆颗粒，AI 干的给 AI，人干的给人，流程围绕 AI 重构。这是从"会用"到"会设计"的分水岭。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`aigc-operations-analysis`（流程数据化）。下游：`aigc-operations-review`（提效复盘）、`aigc-operations-evaluation`（效果评估）。
+
+> 本 Skill 由陆羽Skill生成。

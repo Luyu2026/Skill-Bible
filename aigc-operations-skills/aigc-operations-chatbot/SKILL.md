@@ -6,8 +6,6 @@ description: |
 
 # 智能客服与对话运营
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 客服的目标不是"完全替代人"，而是"接住 80% 的重复问题，把人留给 20% 的复杂/高价值对话"——人机切换设计是核心。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`aigc-operations-prompt`（话术编写）。下游：`aigc-operations-review`（提效复盘）、`aigc-operations-evaluation`（质量评估）。
+
+> 本 Skill 由陆羽Skill生成。

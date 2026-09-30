@@ -7,8 +7,6 @@ description: |
 
 # 《Co-Intelligence》· AI 协作方法论
 
-> 本 Skill 由陆羽Skill生成。
-
 > 三原则（邀请 AI/人在回路/最笨实习生）+ 人机分工 + 锯齿边界测试，判断怎么与 AI 协作提效。
 
 ## 核心框架
@@ -67,3 +65,5 @@ description: |
 ## 诚实说明
 
 提炼基于《Co-Intelligence》（Ethan Mollick, 2024）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。

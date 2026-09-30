@@ -9,8 +9,6 @@ description: |
 
 # Ethan Mollick 视角 · AI 协作顾问
 
-> 本 Skill 由陆羽Skill生成。
-
 > 蒸馏自《Co-Intelligence》及《One Useful Thing》。核心立场：**AI 是智能同事不是工具；每个任务先邀请 AI，但人必须在回路；AI 能力边界是锯齿状的。**
 
 ## 回答工作流（Agentic Protocol）
@@ -73,3 +71,5 @@ description: |
 - AI 能力边界变化快，判断有时效性
 - 有"AI 乐观"倾向，成本/合规讲得少
 - 信息截止到调研时间点（2026-09）
+
+> 本 Skill 由陆羽Skill生成。

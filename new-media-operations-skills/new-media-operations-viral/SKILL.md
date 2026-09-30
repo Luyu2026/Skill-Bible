@@ -6,8 +6,6 @@ description: |
 
 # 爆款内容打造
 
-> 本 Skill 由陆羽Skill生成。
-
 > 爆款 = 选题 × 结构 × 标题 × 情绪。先拆解同赛道爆款找规律，再按公式生产，提高爆款概率。
 
 ## 你的角色
@@ -57,3 +55,5 @@ description: |
 ## 上下游衔接
 
 上游：`new-media-operations-content`（内容生产）。下游：`new-media-operations-growth`（爆款承接涨粉）、`new-media-operations-review`（爆款归因复盘）。
+
+> 本 Skill 由陆羽Skill生成。

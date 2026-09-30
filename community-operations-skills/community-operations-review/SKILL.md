@@ -6,8 +6,6 @@ description: |
 
 # 社区数据复盘与治理
 
-> 本 Skill 由陆羽Skill生成。
-
 > 复盘的目的是看社区"健不健康"——不只是活跃数字，而是贡献结构、连接密度、内容质量、流失与风险。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`community-operations-master` 路由。下游：`community-operations-engagement`（活跃修复）、`community-operations-activity`（活动干预）、`community-operations-monetization`（变现复盘）。
+
+> 本 Skill 由陆羽Skill生成。

@@ -6,8 +6,6 @@ description: |
 
 # 社区商业化与转化
 
-> 本 Skill 由陆羽Skill生成。
-
 > 社区商业化的前提是信任——先经营关系，再经营生意。交易是关系的自然结果，不是目标。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`community-operations-engagement`（活跃是信任基础）。下游：`community-operations-activity`（商业化活动）、`community-operations-review`（变现复盘）。
+
+> 本 Skill 由陆羽Skill生成。

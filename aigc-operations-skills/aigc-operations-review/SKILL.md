@@ -6,8 +6,6 @@ description: |
 
 # AI 提效复盘
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 化不是"上了就算成功"——用数据回答三个问题：快了多少（效率）、质量掉没掉（质量）、花了多少（成本）。数据说值得才继续，不值得就调。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`aigc-operations-workflow`（AI 化项目）。下游：`aigc-operations-prompt`（调优）、`aigc-operations-evaluation`（质量再评估）。
+
+> 本 Skill 由陆羽Skill生成。

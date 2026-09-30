@@ -6,8 +6,6 @@ description: |
 
 # AIGC 内容生产提效
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 内容生产的正确姿势：AI 起草 → 人优化 → 再迭代——AI 管速度与数量，人管质量与调性。不是"AI 全自动"，而是"人机协作流水线"。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`aigc-operations-prompt`（Prompt 基础）。下游：`aigc-operations-review`（提效复盘）、`aigc-operations-evaluation`（质量评估）。
+
+> 本 Skill 由陆羽Skill生成。

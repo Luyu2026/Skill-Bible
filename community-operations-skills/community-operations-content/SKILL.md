@@ -6,8 +6,6 @@ description: |
 
 # 社区内容生态建设
 
-> 本 Skill 由陆羽Skill生成。
-
 > 社区内容的本质是"成员生产、成员消费"——运营的角色是引导 UGC、补位官方内容、沉淀精华，不是自己写所有内容。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`community-operations-positioning`（内容围绕主题）。下游：`community-operations-engagement`（内容驱动活跃）、`community-operations-review`（内容数据复盘）。
+
+> 本 Skill 由陆羽Skill生成。

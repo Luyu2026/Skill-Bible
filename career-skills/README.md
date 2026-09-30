@@ -25,7 +25,8 @@ Career Skills are organized as role-based workflows. Each workflow starts with a
 | Produce short videos across account, topics, script, production, editing, and operations | [🎬 Short-video operations](#shortvideo-operations) | Account → topics → script → production → editing → operations |
 | Run a Xiaohongshu account across positioning, content, visuals, publishing, growth, and monetization | [🧣 Xiaohongshu operations](#xiaohongshu-operations) | Positioning → content → visual → publishing → growth → monetization |
 | Sell cross-border across platform, selection, listing, traffic, service, and data | [🌐 Cross-border operations](#crossborder-operations) | Platform → selection → listing → traffic → service → data |
-| Apply AIGC across workflows, prompts, content generation, and evaluation | [🤖 AIGC operations](#aigc-operations) | Workflows → prompts → content → evaluation |
+| Operate an AI application across positioning, experience, growth, monetization, and cost | [🧠 AI product operations](#ai-product-operations) | Positioning → experiments → experience → growth → monetization → review |
+| Apply AIGC across workflows, prompts, content generation, and evaluation | [🤖 AIGC operations](#aigc-operations) | Prompts → content → chatbot → analysis → workflow → evaluation |
 | Enter an overseas market with positioning, SEO, ads, email, and analytics | [🌍 Overseas marketing](#overseas-marketing) | Research → brand → content/SEO → paid → email → analytics |
 | Source creators, negotiate, co-create, operate campaigns, and assess reinvestment | [🌟 KOL operations](#kol-operations) | Strategy → discovery → outreach → co-creation → campaigns → analytics |
 
@@ -119,6 +120,11 @@ Connect requests, evidence, decisions, and delivery. Start with [pm-master](../p
 ## 🌐 Cross-border operations
 
 [View the crossborder-operations workflow](../crossborder-operations-skills/).
+
+<a id="ai-product-operations"></a>
+## 🧠 AI product operations
+
+[View the ai-operations workflow](../ai-operations-skills/).
 
 <a id="aigc-operations"></a>
 ## 🤖 AIGC operations

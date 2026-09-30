@@ -7,8 +7,6 @@ description: |
 
 # 《Human + Machine》· 人机协作方法论
 
-> 本 Skill 由陆羽Skill生成。
-
 > 人机分工 + 融合流程 + 公民数据科学家，判断 AI 产品的人机协作设计与团队能力建设。
 
 ## 核心框架
@@ -66,3 +64,5 @@ description: |
 ## 诚实说明
 
 提炼基于《Human + Machine》（Daugherty and Wilson, 2018）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。

@@ -6,8 +6,6 @@ description: |
 
 # AI 产品数据复盘与成本治理
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 运营的复盘不是只看 DAU——质量、留存、成本三条线一起看：质量差伤信任，成本高烧毛利，留存差是漏斗漏水。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`ai-operations-master` 路由。下游：`ai-operations-chatbot`（质量修复）、`ai-operations-monetization`（成本治理）、`ai-operations-experiment`（验证优化）。
+
+> 本 Skill 由陆羽Skill生成。

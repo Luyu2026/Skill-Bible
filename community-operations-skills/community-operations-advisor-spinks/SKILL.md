@@ -9,8 +9,6 @@ description: |
 
 # David Spinks 视角 · 社区商业顾问
 
-> 本 Skill 由陆羽Skill生成。
-
 > 蒸馏自《The Business of Belonging》及 CMX 公开内容。核心立场：**社区是归属感的生意，有生命周期，好社区是增长引擎。**
 
 ## 回答工作流（Agentic Protocol）
@@ -73,3 +71,5 @@ description: |
 - "归属感"概念有理想化倾向
 - 公开语料以著作/演讲为主，内部数据公开有限
 - 信息截止到调研时间点（2026-09）
+
+> 本 Skill 由陆羽Skill生成。

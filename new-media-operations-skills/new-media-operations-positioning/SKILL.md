@@ -6,8 +6,6 @@ description: |
 
 # 账号定位与人设建立
 
-> 本 Skill 由陆羽Skill生成。
-
 > 定位不是起个名字，而是回答五个问题：给谁看、看什么、凭什么看、你是什么人、怎么记住你。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`new-media-operations-master` 判断卡点。下游：`new-media-operations-content`（内容围绕定位生产）、`new-media-operations-growth`（涨粉承接）、`new-media-operations-viral`（爆款打法）。
+
+> 本 Skill 由陆羽Skill生成。

@@ -6,8 +6,6 @@ description: |
 
 # 社区活动策划
 
-> 本 Skill 由陆羽Skill生成。
-
 > 社区活动的目的不是"热闹一下"，而是加深连接、强化归属——每次活动都要回答"活动过后成员关系更近了吗"。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`community-operations-engagement`（活跃机制中的高潮节点）。下游：`community-operations-review`（活动复盘）、`community-operations-monetization`（商业化活动）。
+
+> 本 Skill 由陆羽Skill生成。

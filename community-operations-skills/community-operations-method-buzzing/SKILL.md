@@ -7,8 +7,6 @@ description: |
 
 # 《Buzzing Communities》· 社区管理方法论
 
-> 本 Skill 由陆羽Skill生成。
-
 > 目标驱动框架 + 贡献者金字塔 + 密度×质量 + 成员生命周期，判断社区怎么管理、活跃怎么提升。
 
 ## 核心框架
@@ -67,3 +65,5 @@ description: |
 ## 诚实说明
 
 提炼基于《Buzzing Communities》（Richard Millington, 2012）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。

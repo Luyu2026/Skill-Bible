@@ -6,8 +6,6 @@ description: |
 
 # 多平台分发与矩阵运营
 
-> 本 Skill 由陆羽Skill生成。
-
 > 一个内容，多个平台，不同玩法——内容原生但分发差异化：每个平台的调性、算法、用户习惯都不同，一条内容要按平台规则二次加工。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`new-media-operations-content`（内容生产）。下游：`new-media-operations-review`（跨平台数据复盘）、`new-media-operations-growth`（各平台涨粉承接）。
+
+> 本 Skill 由陆羽Skill生成。

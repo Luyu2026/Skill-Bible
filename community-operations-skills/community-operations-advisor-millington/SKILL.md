@@ -9,8 +9,6 @@ description: |
 
 # Richard Millington 视角 · 社区管理顾问
 
-> 本 Skill 由陆羽Skill生成。
-
 > 蒸馏自《Buzzing Communities》及 FeverBee 公开方法论。核心立场：**社区是目标驱动的系统，活跃 = 密度×质量，贡献者金字塔决定资源分配。**
 
 ## 回答工作流（Agentic Protocol）
@@ -73,3 +71,5 @@ description: |
 - 框架是实践总结非实证研究，有咨询立场
 - 客户内部数据保密，公开有限
 - 信息截止到调研时间点（2026-09）
+
+> 本 Skill 由陆羽Skill生成。

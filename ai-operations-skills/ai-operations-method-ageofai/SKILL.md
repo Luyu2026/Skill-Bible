@@ -7,8 +7,6 @@ description: |
 
 # 《Competing in the Age of AI》· AI 战略方法论
 
-> 本 Skill 由陆羽Skill生成。
-
 > 重构业务流程 + 数据网络效应 + AI 工厂，判断 AI 战略与业务重塑方向。
 
 ## 核心框架
@@ -66,3 +64,5 @@ description: |
 ## 诚实说明
 
 提炼基于《Competing in the Age of AI》（Iansiti and Lakhani, 2020）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。

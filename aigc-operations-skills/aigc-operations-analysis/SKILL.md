@@ -6,8 +6,6 @@ description: |
 
 # AI 数据分析提效
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 数据分析的正确姿势：AI 负责"快"（取数、初稿、找洞察线索），人负责"准"（核查数据、判断因果、做决策）——AI 的分析必须能追溯到数据源。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`aigc-operations-prompt`（查询 Prompt）。下游：`aigc-operations-review`（提效复盘）、`aigc-operations-workflow`（分析流程 AI 化）。
+
+> 本 Skill 由陆羽Skill生成。

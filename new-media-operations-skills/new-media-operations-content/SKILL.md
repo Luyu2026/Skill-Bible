@@ -6,8 +6,6 @@ description: |
 
 # 内容创作与选题
 
-> 本 Skill 由陆羽Skill生成。
-
 > 内容创作是技能不是天赋：先选对题，再搭框架，然后写价值。选题决定内容命运，标题开头决定生死。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`new-media-operations-positioning`（内容围绕定位）。下游：`new-media-operations-distribution`（发布分发）、`new-media-operations-viral`（爆款放大）。
+
+> 本 Skill 由陆羽Skill生成。

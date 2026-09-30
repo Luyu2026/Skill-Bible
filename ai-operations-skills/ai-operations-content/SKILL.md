@@ -6,8 +6,6 @@ description: |
 
 # AIGC 内容与模板生态运营
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 产品的内容不是小编写的文章，而是模板、Prompt、案例——内容生态让用户"拿来就能用"，也是降低使用门槛的关键。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`ai-operations-positioning`（场景决定模板方向）。下游：`ai-operations-growth`（内容生态驱动增长）、`ai-operations-review`（内容数据复盘）。
+
+> 本 Skill 由陆羽Skill生成。

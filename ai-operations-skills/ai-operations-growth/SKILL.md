@@ -6,8 +6,6 @@ description: |
 
 # AI 产品增长
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 产品增长 = 让用户"试一次就惊艳" + "惊艳后想分享" + "分享后新用户再试"——循环比买量重要。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`ai-operations-positioning`（PMF 验证）。下游：`ai-operations-chatbot`（激活体验）、`ai-operations-monetization`（付费承接）。
+
+> 本 Skill 由陆羽Skill生成。

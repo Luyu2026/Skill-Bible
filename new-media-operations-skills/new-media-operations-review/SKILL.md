@@ -6,8 +6,6 @@ description: |
 
 # 数据复盘与迭代
 
-> 本 Skill 由陆羽Skill生成。
-
 > 复盘的目的是找到"什么规律有效"——拆解爆款为什么爆、失败为什么败，把经验变成下一次的决策依据。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`new-media-operations-distribution`（发布数据）。下游：`new-media-operations-content`（迭代内容）、`new-media-operations-viral`（爆款规律复用）。
+
+> 本 Skill 由陆羽Skill生成。

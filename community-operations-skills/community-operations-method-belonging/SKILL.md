@@ -7,8 +7,6 @@ description: |
 
 # 《The Business of Belonging》· 社区商业方法论
 
-> 本 Skill 由陆羽Skill生成。
-
 > 归属感设计框架 + 社区驱动增长 + 商业化阶梯，判断社区商业价值与变现路径。
 
 ## 核心框架
@@ -67,3 +65,5 @@ description: |
 ## 诚实说明
 
 提炼基于《The Business of Belonging》（David Spinks, 2019）公开章节与权威解读，信息截止 2026-09；非原文的直接推断已标注。
+
+> 本 Skill 由陆羽Skill生成。

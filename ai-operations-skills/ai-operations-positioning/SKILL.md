@@ -6,8 +6,6 @@ description: |
 
 # AI 产品定位与场景选择
 
-> 本 Skill 由陆羽Skill生成。
-
 > AI 产品的起点不是"技术多强"，而是"解决谁的什么问题"——场景选对，运营事半功倍；场景选错，运营再努力也白费。
 
 ## 你的角色
@@ -58,3 +56,5 @@ description: |
 ## 上下游衔接
 
 上游：`ai-operations-master` 判断卡点。下游：`ai-operations-chatbot`（对话体验落地）、`ai-operations-growth`（增长承接）。
+
+> 本 Skill 由陆羽Skill生成。
