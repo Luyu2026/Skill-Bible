@@ -334,6 +334,91 @@
 | [game-method-chou](../game-operations-skills/game-method-chou/) | 游戏化实战 | 八角行为分析、玩家旅程四阶段 |
 | [game-method-hooked](../game-operations-skills/game-method-hooked/) | Hook 模型 | 习惯养成与多变奖励 |
 
+<a id="shortvideo-operations"></a>
+### 🎬 短视频编导
+
+解决账号定位、选题、脚本、拍摄、剪辑、发布运营的整段短视频内容生产链。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [shortvideo-master](../shortvideo-operations-skills/shortvideo-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [shortvideo-master](../shortvideo-operations-skills/shortvideo-master/) | 短视频问题分诊与链路编排时 | 问题诊断 + 调用路径 |
+| [shortvideo-account](../shortvideo-operations-skills/shortvideo-account/) | 起号、定位、人设搭建时 | 账号定位卡（定位一句话/人设/差异化） |
+| [shortvideo-topic](../shortvideo-operations-skills/shortvideo-topic/) | 选题、追热点、内容日历规划时 | 选题清单（选题池/评分卡/日历） |
+| [shortvideo-script](../shortvideo-operations-skills/shortvideo-script/) | 写脚本、口播稿、分镜时 | 视频脚本（钩子/结构/口播/分镜） |
+| [shortvideo-production](../shortvideo-operations-skills/shortvideo-production/) | 拍摄、机位、光线、器材准备时 | 拍摄执行清单（拆镜/光线/拍摄SOP） |
+| [shortvideo-editing](../shortvideo-operations-skills/shortvideo-editing/) | 剪辑、字幕、BGM、节奏把控时 | 剪辑方案（节奏/精剪/包装/导出） |
+| [shortvideo-operations](../shortvideo-operations-skills/shortvideo-operations/) | 发布、数据复盘、迭代时 | 发布运营复盘（数据归因/迭代计划） |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [shortvideo-advisory-board](../shortvideo-operations-skills/shortvideo-advisory-board/) | 多角色专项评审 | 组织多专家短视频评审 |
+| [shortvideo-advisor-zhangqi](../shortvideo-operations-skills/shortvideo-advisor-zhangqi/) | 口播爆款 | 判断口播怎么爆、观点怎么提炼 |
+| [shortvideo-advisor-fangqi](../shortvideo-operations-skills/shortvideo-advisor-fangqi/) | 内容表达 | 判断文案怎么打动人、表达质感 |
+| [shortvideo-advisor-he](../shortvideo-operations-skills/shortvideo-advisor-he/) | 制作创意 | 判断创意设计、制作质感 |
+| [shortvideo-method-sticky](../shortvideo-operations-skills/shortvideo-method-sticky/) | 让创意更有黏性 | 用 SUCCES 设计传播内容 |
+| [shortvideo-method-copywriting](../shortvideo-operations-skills/shortvideo-method-copywriting/) | 文案的基本修养 | 用洞察写口播/旁白 |
+| [shortvideo-method-supersymbol](../shortvideo-operations-skills/shortvideo-method-supersymbol/) | 超级符号 | 用文化母体建记忆点 |
+
+<a id="xiaohongshu-operations"></a>
+### 🧣 小红书运营
+
+解决账号定位、内容、视觉、发布、增长与变现的整段小红书运营链。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [xhs-master](../xiaohongshu-operations-skills/xhs-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [xhs-master](../xiaohongshu-operations-skills/xhs-master/) | 小红书问题分诊与链路编排时 | 问题诊断 + 调用路径 |
+| [xhs-account](../xiaohongshu-operations-skills/xhs-account/) | 起号、定位、人设搭建时 | 账号定位卡 |
+| [xhs-content](../xiaohongshu-operations-skills/xhs-content/) | 选题、笔记创作、标题时 | 笔记方案（标题/正文/标签/SEO） |
+| [xhs-visual](../xiaohongshu-operations-skills/xhs-visual/) | 封面、配图、排版、视频时 | 视觉方案（风格/封面/图序） |
+| [xhs-publish](../xiaohongshu-operations-skills/xhs-publish/) | 发布时机、互动、评论运营时 | 发布计划（时机/频率/互动） |
+| [xhs-growth](../xiaohongshu-operations-skills/xhs-growth/) | 涨粉慢、数据复盘、爆款拆解时 | 增长复盘（爆款要素/归因） |
+| [xhs-monetization](../xiaohongshu-operations-skills/xhs-monetization/) | 接广、带货、引流变现时 | 变现方案（路径/测算/风险） |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [xhs-advisory-board](../xiaohongshu-operations-skills/xhs-advisory-board/) | 多角色专项评审 | 组织多专家小红书评审 |
+| [xhs-advisor-maowenchao](../xiaohongshu-operations-skills/xhs-advisor-maowenchao/) | 运营实战 | 判断账号打法、流量逻辑 |
+| [xhs-advisor-qufan](../xiaohongshu-operations-skills/xhs-advisor-qufan/) | 生活方式内容 | 判断内容气质、种草设计 |
+| [xhs-advisor-fangqi](../xiaohongshu-operations-skills/xhs-advisor-fangqi/) | 视频与直播 | 判断视频/直播内容打法 |
+| [xhs-method-weakcommunication](../xiaohongshu-operations-skills/xhs-method-weakcommunication/) | 弱传播 | 用弱传播设计共鸣内容 |
+| [xhs-method-copywriting-manual](../xiaohongshu-operations-skills/xhs-method-copywriting-manual/) | 文案创作完全手册 | 用 4U/AIDA 写文案标题 |
+| [xhs-method-superip](../xiaohongshu-operations-skills/xhs-method-superip/) | 超级IP | 用人格化建人设资产 |
+
+<a id="crossborder-operations"></a>
+### 🌐 跨境电商运营
+
+解决平台选择、选品、Listing、投放、履约与数据的整段跨境出海链。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [crossborder-master](../crossborder-operations-skills/crossborder-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [crossborder-master](../crossborder-operations-skills/crossborder-master/) | 跨境问题分诊与链路编排时 | 问题诊断 + 调用路径 |
+| [crossborder-platform](../crossborder-operations-skills/crossborder-platform/) | 选平台、入驻、平台对比时 | 平台评估报告 + 入驻路径 |
+| [crossborder-selection](../crossborder-operations-skills/crossborder-selection/) | 选品、货源、这个品能不能做时 | 选品评估 A/B/C/D + 盈利测算 |
+| [crossborder-listing](../crossborder-operations-skills/crossborder-listing/) | Listing、标题、五点、转化率时 | Listing 优化方案 + 词库 |
+| [crossborder-traffic](../crossborder-operations-skills/crossborder-traffic/) | 广告、投放、ACOS、预算时 | 投放计划 + 渠道组合 + 止损线 |
+| [crossborder-service](../crossborder-operations-skills/crossborder-service/) | 物流、履约、客服、退货时 | 履约方案 + 客服 SOP |
+| [crossborder-data](../crossborder-operations-skills/crossborder-data/) | 销量下滑、复盘、库存积压时 | 诊断报告 + 行动建议 |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [crossborder-advisory-board](../crossborder-operations-skills/crossborder-advisory-board/) | 多角色专项评审 | 组织多专家跨境评审 |
+| [crossborder-advisor-chenxianting](../crossborder-operations-skills/crossborder-advisor-chenxianting/) | 行业趋势 | 判断行业前景、平台选择 |
+| [crossborder-advisor-lipengbo](../crossborder-operations-skills/crossborder-advisor-lipengbo/) | 模式方法论 | 判断模式、诊断业务 |
+| [crossborder-advisor-wangshutong](../crossborder-operations-skills/crossborder-advisor-wangshutong/) | 平台生态 | 判断中小卖家机会、平台关系 |
+| [crossborder-method-30](../crossborder-operations-skills/crossborder-method-30/) | 跨境电商3.0时代 | 用版本论设计升级路径 |
+| [crossborder-method-amazon](../crossborder-operations-skills/crossborder-method-amazon/) | 亚马逊运营 | 用 Listing/广告/FBA 实操方法 |
+| [crossborder-method-dtc](../crossborder-operations-skills/crossborder-method-dtc/) | DTC品牌出海 | 用独立站漏斗做品牌路线 |
+
+<a id="aigc-operations"></a>
+### 🤖 AIGC 运营
+
+覆盖 AIGC 工作流、提示词、内容生成与评估的 AI 应用链。**共 15 个 Skill：8 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [aigc-operations-master](../aigc-operations-skills/aigc-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [aigc-operations-master](../aigc-operations-skills/aigc-operations-master/) | AIGC 问题分诊与链路编排时 | 问题诊断 + 调用路径 |
+| [aigc-operations-workflow](../aigc-operations-skills/aigc-operations-workflow/) | 设计 AIGC 工作流与自动化链路时 | 工作流设计 + 自动化方案 |
+| [aigc-operations-prompt](../aigc-operations-skills/aigc-operations-prompt/) | 写提示词、优化生成效果时 | 提示词方案 + 优化策略 |
+| [aigc-operations-content](../aigc-operations-skills/aigc-operations-content/) | 用 AI 生成文案/图片/视频内容时 | 内容生成方案 + 成品 |
+| [aigc-operations-evaluation](../aigc-operations-skills/aigc-operations-evaluation/) | 评估 AI 生成质量、迭代效果时 | 质量评估 + 迭代建议 |
+| [aigc-operations-multimodal](../aigc-operations-skills/aigc-operations-multimodal/) | 多模态内容（图文/音视频）生成时 | 多模态方案 + 生产流程 |
+| [aigc-operations-tool](../aigc-operations-skills/aigc-operations-tool/) | 选 AI 工具、搭工具组合时 | 工具选型 + 组合方案 |
+| [aigc-operations-review](../aigc-operations-skills/aigc-operations-review/) | AIGC 落地复盘与提效评估时 | 复盘报告 + 提效动作 |
+
 <a id="overseas-marketing"></a>
 ### 🌍 海外市场营销
 

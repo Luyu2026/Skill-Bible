@@ -22,6 +22,10 @@ Career Skills are organized as role-based workflows. Each workflow starts with a
 | Build a private-domain funnel, community, conversion, referral, or data layer | [💬 Private-domain operations](#private-domain-operations) | System → traffic → community → conversion → referral → data |
 | Build a community across positioning, recruitment, engagement, activity, content, monetization, and review | [🧑‍🤝‍🧑 Community operations](#community-operations) | Positioning → recruitment → engagement → activity → content → monetization → review |
 | Run a game across lifecycle, segmentation, events, monetization, data, and community | [🎮 Game operations](#game-operations) | Lifecycle → segmentation → events → monetization → data → community |
+| Produce short videos across account, topics, script, production, editing, and operations | [🎬 Short-video operations](#shortvideo-operations) | Account → topics → script → production → editing → operations |
+| Run a Xiaohongshu account across positioning, content, visuals, publishing, growth, and monetization | [🧣 Xiaohongshu operations](#xiaohongshu-operations) | Positioning → content → visual → publishing → growth → monetization |
+| Sell cross-border across platform, selection, listing, traffic, service, and data | [🌐 Cross-border operations](#crossborder-operations) | Platform → selection → listing → traffic → service → data |
+| Apply AIGC across workflows, prompts, content generation, and evaluation | [🤖 AIGC operations](#aigc-operations) | Workflows → prompts → content → evaluation |
 | Enter an overseas market with positioning, SEO, ads, email, and analytics | [🌍 Overseas marketing](#overseas-marketing) | Research → brand → content/SEO → paid → email → analytics |
 | Source creators, negotiate, co-create, operate campaigns, and assess reinvestment | [🌟 KOL operations](#kol-operations) | Strategy → discovery → outreach → co-creation → campaigns → analytics |
 
@@ -100,6 +104,26 @@ Connect requests, evidence, decisions, and delivery. Start with [pm-master](../p
 ## 🎮 Game operations
 
 [View the game-operations workflow](../game-operations-skills/).
+
+<a id="shortvideo-operations"></a>
+## 🎬 Short-video operations
+
+[View the shortvideo-operations workflow](../shortvideo-operations-skills/).
+
+<a id="xiaohongshu-operations"></a>
+## 🧣 Xiaohongshu operations
+
+[View the xiaohongshu-operations workflow](../xiaohongshu-operations-skills/).
+
+<a id="crossborder-operations"></a>
+## 🌐 Cross-border operations
+
+[View the crossborder-operations workflow](../crossborder-operations-skills/).
+
+<a id="aigc-operations"></a>
+## 🤖 AIGC operations
+
+[View the aigc-operations workflow](../aigc-operations-skills/).
 
 <a id="overseas-marketing"></a>
 ## 🌍 Overseas marketing
