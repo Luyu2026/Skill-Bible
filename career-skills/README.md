@@ -11,6 +11,7 @@ Career Skills are organized as role-based workflows. Each workflow starts with a
 | Turn a vague request into a PRD, roadmap, experiment, or decision | [📦 Product management](#product-management) | Discovery → solution → review → launch → experiment and review |
 | Run activation, retention, releases, and feedback after launch | [📱 Product operations](#product-operations) | Strategy → activation → incentives → iteration → release operations |
 | Move an operations problem across data, campaigns, content, users, and review | [📣 General operations](#general-operations) | Data → campaigns → content → users → review → strategy |
+| Design monetization across strategy, pricing, membership, ads, diagnostics, and review | [💰 Commercial operations](#commercial-operations) | Strategy → pricing → membership → ads → diagnostics → review |
 | Turn ambiguous growth goals into tested experiments, activation, retention, and channel choices | [📈 Growth operations](#growth-operations) | Strategy → experiment → activation → retention → channel → diagnosis |
 | Run an e-commerce store across selection, campaigns, traffic, live-streaming, data, and review | [🛒 E-commerce operations](#e-commerce-operations) | Selection → campaigns → traffic → live → data → review → strategy |
 | Run a live room from session planning and scripts to traffic, real-time control, and review | [📺 Live operations](#live-operations) | Planning → script → on-air control → short-video traffic → paid traffic → review |
@@ -43,6 +44,11 @@ Connect requests, evidence, decisions, and delivery. Start with [pm-master](../p
 ## 📣 General operations
 
 [View the general-operations workflow](../general-operations-skills/).
+
+<a id="commercial-operations"></a>
+## 💰 Commercial operations
+
+[View the commercial-operations workflow](../commercial-operations-skills/).
 
 <a id="e-commerce-operations"></a>
 ## 🛒 E-commerce operations

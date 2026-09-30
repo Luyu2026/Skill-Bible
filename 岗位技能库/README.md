@@ -80,6 +80,29 @@
 | [operations-method-lean-analytics](../general-operations-skills/operations-method-lean-analytics/) | 第一关键指标 | 用第一关键指标诊断数据 |
 | [operations-method-growth-hacking](../general-operations-skills/operations-method-growth-hacking/) | 增长实验 | 用增长实验循环推进增长 |
 
+<a id="commercial-operations"></a>
+### 💰 商业化运营
+
+解决商业模式、定价、会员订阅、广告变现、收入诊断与复盘的整段商业化工作链，侧重做决策与推进交付。**共 14 个 Skill：7 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [commercial-master](../commercial-operations-skills/commercial-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [commercial-master](../commercial-operations-skills/commercial-master/) | 商业化问题分诊与多 Skill 编排时 | 问题诊断 + 调用路径 |
+| [commercial-strategy](../commercial-operations-skills/commercial-strategy/) | 需要设计商业模式、变现路径时 | 商业化蓝图 + 模式评估 |
+| [commercial-pricing](../commercial-operations-skills/commercial-pricing/) | 需要定价、调价、价格策略时 | 定价方案 + 价格带 |
+| [commercial-membership](../commercial-operations-skills/commercial-membership/) | 需要设计会员体系、订阅时 | 会员方案 + 权益梯度 |
+| [commercial-ads](../commercial-operations-skills/commercial-ads/) | 需要广告变现、流量变现时 | 广告方案 + 收入测算 |
+| [commercial-diagnostics](../commercial-operations-skills/commercial-diagnostics/) | 收入下滑、商业化数据异常时 | 诊断报告 + 行动建议 |
+| [commercial-review](../commercial-operations-skills/commercial-review/) | 需要季度/年度商业化复盘时 | 复盘报告 + 行动项 |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [commercial-advisory-board](../commercial-operations-skills/commercial-advisory-board/) | 多角色专项评审 | 组织多专家商业化评审 |
+| [commercial-advisor-liurun](../commercial-operations-skills/commercial-advisor-liurun/) | 商业洞察 | 判断生意值不值得做、模式靠不靠谱 |
+| [commercial-advisor-wangsai](../commercial-operations-skills/commercial-advisor-wangsai/) | 增长战略 | 判断增长从哪里来、战略取舍 |
+| [commercial-advisor-songxing](../commercial-operations-skills/commercial-advisor-songxing/) | 数据驱动 | 判断用户/流量怎么变现实效最好 |
+| [commercial-method-growthfive](../commercial-operations-skills/commercial-method-growthfive/) | 增长五线 | 用增长地图设计增长路径 |
+| [commercial-method-leananalytics](../commercial-operations-skills/commercial-method-leananalytics/) | 精益数据分析 | 用 OMTM 找到最重要指标 |
+| [commercial-method-membership](../commercial-operations-skills/commercial-method-membership/) | 订阅经济 | 用经常性收入模型设计订阅 |
+
 <a id="e-commerce-operations"></a>
 ### 🛒 电商运营
 
