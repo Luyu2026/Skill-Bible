@@ -287,6 +287,30 @@
 | [private-domain-operations-method-membership](../private-domain-operations/private-domain-operations-method-membership/) | 会员经济 | 用会员经济设计关系升级 |
 | [private-domain-operations-method-private-domain](../private-domain-operations/private-domain-operations-method-private-domain/) | 私域方法论 | 搭建私域链路、标签与 SCRM 方法 |
 
+<a id="community-operations"></a>
+### 🧑‍🤝‍🧑 社区运营
+
+覆盖社区定位、招募、活跃、活动、内容、变现与复盘的完整社区工作链，侧重做决策与推进交付。**共 15 个 Skill：8 个执行 Skill，7 个判断 Skill。** 第一次使用，先从 [community-operations-master](../community-operations-skills/community-operations-master/) 说清目标、材料和卡点；任务明确时，直接选择下方专项。
+
+| 执行技能 | 什么时候用 | 产出 |
+|---|---|---|
+| [community-operations-master](../community-operations-skills/community-operations-master/) | 社区运营问题分诊与多 Skill 编排时 | 问题诊断 + 调用路径 |
+| [community-operations-positioning](../community-operations-skills/community-operations-positioning/) | 需要社区定位、目标与价值主张时 | 社区定位 + 价值主张 |
+| [community-operations-recruitment](../community-operations-skills/community-operations-recruitment/) | 需要招募成员、冷启动、增长时 | 招募方案 + 冷启动计划 |
+| [community-operations-engagement](../community-operations-skills/community-operations-engagement/) | 需要提升活跃、互动与留存时 | 活跃方案 + 互动机制 |
+| [community-operations-activity](../community-operations-skills/community-operations-activity/) | 需要策划社区活动、规则时 | 活动方案 + 规则设计 |
+| [community-operations-content](../community-operations-skills/community-operations-content/) | 需要社区内容策略与生产时 | 内容策略 + 生产计划 |
+| [community-operations-monetization](../community-operations-skills/community-operations-monetization/) | 需要社区变现设计时 | 变现方案 + 收入测算 |
+| [community-operations-review](../community-operations-skills/community-operations-review/) | 需要社区复盘、归因、迭代时 | 复盘报告 + 行动项 |
+| <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
+| [community-operations-advisory-board](../community-operations-skills/community-operations-advisory-board/) | 多角色专项评审 | 组织多专家社区评审 |
+| [community-operations-advisor-spinks](../community-operations-skills/community-operations-advisor-spinks/) | 社区价值 | 判断社区建设与价值交付 |
+| [community-operations-advisor-millington](../community-operations-skills/community-operations-advisor-millington/) | 社区增长 | 判断社区增长与留存策略 |
+| [community-operations-advisor-luyan](../community-operations-skills/community-operations-advisor-luyan/) | 社群运营 | 判断社群运营与变现方法 |
+| [community-operations-method-buzzing](../community-operations-skills/community-operations-method-buzzing/) | Buzzing Communities | 用社区建设框架设计社区 |
+| [community-operations-method-belonging](../community-operations-skills/community-operations-method-belonging/) | 归属感生意 | 用归属感驱动社区增长 |
+| [community-operations-method-shequnsiwei](../community-operations-skills/community-operations-method-shequnsiwei/) | 社群思维 | 用社群思维运营与变现 |
+
 <a id="game-operations"></a>
 ### 🎮 游戏运营
 

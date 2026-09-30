@@ -20,6 +20,7 @@ Career Skills are organized as role-based workflows. Each workflow starts with a
 | Build a content loop from strategy and topics to distribution and review | [✍️ Content operations](#content-operations) | Strategy → topics → production → distribution → analytics |
 | Plan a measurable campaign with mechanisms, execution, amplification, and review | [🎯 Activity operations](#activity-operations) | Goals → mechanics → execution → promotion → review |
 | Build a private-domain funnel, community, conversion, referral, or data layer | [💬 Private-domain operations](#private-domain-operations) | System → traffic → community → conversion → referral → data |
+| Build a community across positioning, recruitment, engagement, activity, content, monetization, and review | [🧑‍🤝‍🧑 Community operations](#community-operations) | Positioning → recruitment → engagement → activity → content → monetization → review |
 | Run a game across lifecycle, segmentation, events, monetization, data, and community | [🎮 Game operations](#game-operations) | Lifecycle → segmentation → events → monetization → data → community |
 | Enter an overseas market with positioning, SEO, ads, email, and analytics | [🌍 Overseas marketing](#overseas-marketing) | Research → brand → content/SEO → paid → email → analytics |
 | Source creators, negotiate, co-create, operate campaigns, and assess reinvestment | [🌟 KOL operations](#kol-operations) | Strategy → discovery → outreach → co-creation → campaigns → analytics |
@@ -70,16 +71,6 @@ Connect requests, evidence, decisions, and delivery. Start with [pm-master](../p
 
 [View the growth-operations workflow](../growth-operations-skills/).
 
-<a id="live-operations"></a>
-## 📺 Live operations
-
-[View the live-operations workflow](../live-operations-skills/).
-
-<a id="new-media-operations"></a>
-## 📱 New-media operations
-
-[View the new-media-operations workflow](../new-media-operations-skills/).
-
 <a id="user-operations"></a>
 ## 👥 User operations
 
@@ -99,6 +90,11 @@ Connect requests, evidence, decisions, and delivery. Start with [pm-master](../p
 ## 💬 Private-domain operations
 
 [View the private-domain-operations workflow](../private-domain-operations/).
+
+<a id="community-operations"></a>
+## 🧑‍🤝‍🧑 Community operations
+
+[View the community-operations workflow](../community-operations-skills/).
 
 <a id="game-operations"></a>
 ## 🎮 Game operations
