@@ -1,7 +1,5 @@
 # 直播场次策划与排品
 
-> 本 Skill 由 [陆羽Skill](https://github.com/Luyu2026/Skill-Bible/tree/main/luyu-skill) 生成。
-
 **一句话**：把目标/货盘/主播转化为可执行直播方案
 
 ## 什么时候用
