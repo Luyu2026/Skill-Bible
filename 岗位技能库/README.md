@@ -165,9 +165,9 @@
 | [live-analytics](../live-operations-skills/live-analytics/) | 需要复盘场次数据、迭代时 | 复盘报告 + 行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
 | [live-advisory-board](../live-operations-skills/live-advisory-board/) | 多角色专项评审 | 组织多专家直播评审 |
-| [live-advisor-li-jiaqi](../live-operations-skills/live-advisor-li-jiaqi/) | 直播转化 | 判断转化怎么提、选品标准 |
-| [live-advisor-dong-yuhui](../live-operations-skills/live-advisor-dong-yuhui/) | 内容直播 | 判断留人、内容差异化 |
-| [live-advisor-luo-yonghao](../live-operations-skills/live-advisor-luo-yonghao/) | 直播生意 | 判断值不值得做、供应链 |
+| [live-advisor-li-jiaqi](../live-operations-skills/live-advisor-li-jiaqi/) | 李佳琦 | 判断转化怎么提、选品标准 |
+| [live-advisor-dong-yuhui](../live-operations-skills/live-advisor-dong-yuhui/) | 董宇辉 | 判断留人、内容差异化 |
+| [live-advisor-luo-yonghao](../live-operations-skills/live-advisor-luo-yonghao/) | 罗永浩 | 判断值不值得做、供应链 |
 | [live-method-influence](../live-operations-skills/live-method-influence/) | 影响力 | 用六大原则设计转化机制 |
 | [live-method-contagious](../live-operations-skills/live-method-contagious/) | 疯传 | 用 STEPPS 设计传播内容 |
 | [live-method-conversion](../live-operations-skills/live-method-conversion/) | 爆款文案 | 用卖点四步法写话术 |
