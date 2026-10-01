@@ -25,14 +25,14 @@
 | [pm-image2pencil](../pm-image2pencil/) | 截图 → 可编辑 Pencil 设计稿时 | 可编辑 Pencil 设计稿 |
 | [pm-url2proto](../pm-url2proto/) | 授权网页 → 可运行原型项目时 | 可运行原型项目 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [pm-master](../pm-master/) | 产品问题分诊 | 产品工作分诊与多 Skill 工作流编排 |
-| [pm-advisory-board](../pm-advisory-suite/pm-advisory-board/) | 多角色产品评审 | 有分歧时组织专家评审 |
-| [pm-advisor-cagan](../pm-advisory-suite/pm-advisor-cagan/) | 价值、可用性与商业风险 | 审查价值、可用性、可行性与商业风险 |
-| [pm-advisor-torres](../pm-advisory-suite/pm-advisor-torres/) | 机会解决方案树 | 用机会解决方案树拆解问题 |
-| [pm-advisor-yujun](../pm-advisory-suite/pm-advisor-yujun/) | 用户价值 | 从用户价值判断需求取舍 |
-| [pm-method-mom-test](../pm-advisory-suite/pm-method-mom-test/) | 真实行为访谈 | 围绕真实行为设计用户访谈 |
-| [pm-method-story-mapping](../pm-advisory-suite/pm-method-story-mapping/) | 用户旅程与 MVP | 画用户旅程并切分 MVP |
-| [pm-method-build-trap](../pm-advisory-suite/pm-method-build-trap/) | Outcome 导向 | 用 outcome 校准路线图 |
+| [pm-master](../pm-master/) | 岗位总控 | 产品工作分诊与多 Skill 工作流编排 |
+| [pm-advisory-board](../pm-advisory-suite/pm-advisory-board/) | 顾问团 | 有分歧时组织专家评审 |
+| [pm-advisor-cagan](../pm-advisory-suite/pm-advisor-cagan/) | 马蒂·卡根 | 审查价值、可用性、可行性与商业风险 |
+| [pm-advisor-torres](../pm-advisory-suite/pm-advisor-torres/) | 特蕾莎·托雷斯 | 用机会解决方案树拆解问题 |
+| [pm-advisor-yujun](../pm-advisory-suite/pm-advisor-yujun/) | 俞军 | 从用户价值判断需求取舍 |
+| [pm-method-mom-test](../pm-advisory-suite/pm-method-mom-test/) | 《The Mom Test》 | 围绕真实行为设计用户访谈 |
+| [pm-method-story-mapping](../pm-advisory-suite/pm-method-story-mapping/) | 《User Story Mapping》 | 画用户旅程并切分 MVP |
+| [pm-method-build-trap](../pm-advisory-suite/pm-method-build-trap/) | 《Escaping the Build Trap》 | 用 outcome 校准路线图 |
 
 <a id="product-operations"></a>
 ### 📱 产品运营
@@ -49,13 +49,13 @@
 | [product-operations-release](../product-operations/product-operations-release/) | 需要规划版本上线节奏并验证效果时 | 上线计划 + 验证清单 |
 | [product-operations-feedback](../product-operations/product-operations-feedback/) | 需要收集、分类、回应用户反馈并维护需求池时 | 反馈分层 + 需求池 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [product-operations-advisory-board](../product-operations/product-operations-advisory-board/) | 多角色专项评审 | 围绕运营方案开专家评审会 |
-| [product-operations-advisor-zhang](../product-operations/product-operations-advisor-zhang/) | 运营体系 | 从运营体系判断问题 |
-| [product-operations-advisor-qu](../product-operations/product-operations-advisor-qu/) | 增长实验 | 从激活与留存实验判断问题 |
-| [product-operations-advisor-yujun](../product-operations/product-operations-advisor-yujun/) | 用户价值 | 从用户价值判断取舍 |
-| [product-operations-method-hooked](../product-operations/product-operations-method-hooked/) | Hook 模型 | 用 Hook 模型设计习惯养成 |
-| [product-operations-method-growth-hacking](../product-operations/product-operations-method-growth-hacking/) | 增长实验 | 用增长实验循环校准动作 |
-| [product-operations-method-lean-analytics](../product-operations/product-operations-method-lean-analytics/) | 第一关键指标 | 找到并改善第一关键指标 |
+| [product-operations-advisory-board](../product-operations/product-operations-advisory-board/) | 顾问团 | 围绕运营方案开专家评审会 |
+| [product-operations-advisor-zhang](../product-operations/product-operations-advisor-zhang/) | 张亮 | 从运营体系判断问题 |
+| [product-operations-advisor-qu](../product-operations/product-operations-advisor-qu/) | 曲卉 | 从激活与留存实验判断问题 |
+| [product-operations-advisor-yujun](../product-operations/product-operations-advisor-yujun/) | 俞军 | 从用户价值判断取舍 |
+| [product-operations-method-hooked](../product-operations/product-operations-method-hooked/) | 《上瘾》 | 用 Hook 模型设计习惯养成 |
+| [product-operations-method-growth-hacking](../product-operations/product-operations-method-growth-hacking/) | 《增长黑客》 | 用增长实验循环校准动作 |
+| [product-operations-method-lean-analytics](../product-operations/product-operations-method-lean-analytics/) | 《精益数据分析》 | 找到并改善第一关键指标 |
 
 <a id="general-operations"></a>
 ### 📣 通用运营
@@ -72,13 +72,13 @@
 | [operations-user-segmentation](../general-operations-skills/operations-user-segmentation/) | 需要搭建用户分层与差异化触达策略时 | 用户分层表 + 触达策略 |
 | [operations-review](../general-operations-skills/operations-review/) | 需要完成项目、活动或月度复盘时 | 复盘报告 + 后续行动 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [operations-advisory-board](../general-operations-skills/operations-advisory-board/) | 多角色专项评审 | 组织多专家运营评审 |
-| [operations-advisor-huang](../general-operations-skills/operations-advisor-huang/) | 运营价值 | 判断运营动作值不值得做 |
-| [operations-advisor-zhang](../general-operations-skills/operations-advisor-zhang/) | 运营体系 | 判断运营体系与执行质量 |
-| [operations-advisor-qu](../general-operations-skills/operations-advisor-qu/) | 增长实验 | 设计增长实验与指标观察 |
-| [operations-method-light-of-operations](../general-operations-skills/operations-method-light-of-operations/) | 运营之光 | 用做局、破局理解运营 |
-| [operations-method-lean-analytics](../general-operations-skills/operations-method-lean-analytics/) | 第一关键指标 | 用第一关键指标诊断数据 |
-| [operations-method-growth-hacking](../general-operations-skills/operations-method-growth-hacking/) | 增长实验 | 用增长实验循环推进增长 |
+| [operations-advisory-board](../general-operations-skills/operations-advisory-board/) | 顾问团 | 组织多专家运营评审 |
+| [operations-advisor-huang](../general-operations-skills/operations-advisor-huang/) | 黄有璨 | 判断运营动作值不值得做 |
+| [operations-advisor-zhang](../general-operations-skills/operations-advisor-zhang/) | 张亮 | 判断运营体系与执行质量 |
+| [operations-advisor-qu](../general-operations-skills/operations-advisor-qu/) | 曲卉 | 设计增长实验与指标观察 |
+| [operations-method-light-of-operations](../general-operations-skills/operations-method-light-of-operations/) | 《运营之光》 | 用做局、破局理解运营 |
+| [operations-method-lean-analytics](../general-operations-skills/operations-method-lean-analytics/) | 《精益数据分析》 | 用第一关键指标诊断数据 |
+| [operations-method-growth-hacking](../general-operations-skills/operations-method-growth-hacking/) | 《增长黑客》 | 用增长实验循环推进增长 |
 
 <a id="commercial-operations"></a>
 ### 💰 商业化运营
@@ -95,13 +95,13 @@
 | [commercial-diagnostics](../commercial-operations-skills/commercial-diagnostics/) | 收入下滑、商业化数据异常时 | 诊断报告 + 行动建议 |
 | [commercial-review](../commercial-operations-skills/commercial-review/) | 需要季度/年度商业化复盘时 | 复盘报告 + 行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [commercial-advisory-board](../commercial-operations-skills/commercial-advisory-board/) | 多角色专项评审 | 组织多专家商业化评审 |
-| [commercial-advisor-liurun](../commercial-operations-skills/commercial-advisor-liurun/) | 商业洞察 | 判断生意值不值得做、模式靠不靠谱 |
-| [commercial-advisor-wangsai](../commercial-operations-skills/commercial-advisor-wangsai/) | 增长战略 | 判断增长从哪里来、战略取舍 |
-| [commercial-advisor-songxing](../commercial-operations-skills/commercial-advisor-songxing/) | 数据驱动 | 判断用户/流量怎么变现实效最好 |
-| [commercial-method-growthfive](../commercial-operations-skills/commercial-method-growthfive/) | 增长五线 | 用增长地图设计增长路径 |
-| [commercial-method-leananalytics](../commercial-operations-skills/commercial-method-leananalytics/) | 精益数据分析 | 用 OMTM 找到最重要指标 |
-| [commercial-method-membership](../commercial-operations-skills/commercial-method-membership/) | 订阅经济 | 用经常性收入模型设计订阅 |
+| [commercial-advisory-board](../commercial-operations-skills/commercial-advisory-board/) | 顾问团 | 组织多专家商业化评审 |
+| [commercial-advisor-liurun](../commercial-operations-skills/commercial-advisor-liurun/) | 刘润 | 判断生意值不值得做、模式靠不靠谱 |
+| [commercial-advisor-wangsai](../commercial-operations-skills/commercial-advisor-wangsai/) | 王赛 | 判断增长从哪里来、战略取舍 |
+| [commercial-advisor-songxing](../commercial-operations-skills/commercial-advisor-songxing/) | 宋星 | 判断用户/流量怎么变现实效最好 |
+| [commercial-method-growthfive](../commercial-operations-skills/commercial-method-growthfive/) | 《增长五线》 | 用增长地图设计增长路径 |
+| [commercial-method-leananalytics](../commercial-operations-skills/commercial-method-leananalytics/) | 《精益数据分析》 | 用 OMTM 找到最重要指标 |
+| [commercial-method-membership](../commercial-operations-skills/commercial-method-membership/) | 《订阅经济》 | 用经常性收入模型设计订阅 |
 
 <a id="e-commerce-operations"></a>
 ### 🛒 电商运营
@@ -118,13 +118,13 @@
 | [ecommerce-data-analysis](../ecommerce-operations-skills/ecommerce-data-analysis/) | 数据下滑/转化率低需要归因定位时 | 诊断报告 + 止损/验证/长期动作 |
 | [ecommerce-review](../ecommerce-operations-skills/ecommerce-review/) | 需要完成活动/月度/季度经营复盘时 | 复盘报告 + 可追踪行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [ecommerce-advisory-board](../ecommerce-operations-skills/ecommerce-advisory-board/) | 多角色专项评审 | 组织多专家电商评审 |
-| [ecommerce-advisor-huang](../ecommerce-operations-skills/ecommerce-advisor-huang/) | 零售效率 | 判断电商生意/模式值不值得做 |
-| [ecommerce-advisor-xiaomali](../ecommerce-operations-skills/ecommerce-advisor-xiaomali/) | 营销转化 | 判断产品怎么好卖、转化怎么提 |
-| [ecommerce-advisor-wuya](../ecommerce-operations-skills/ecommerce-advisor-wuya/) | 电商操盘 | 判断打法、节奏、怎么少走弯路 |
-| [ecommerce-method-see-ecommerce](../ecommerce-operations-skills/ecommerce-method-see-ecommerce/) | 我看电商 | 用零售效率 + 生意三问判断模式 |
-| [ecommerce-method-alibaba-sales](../ecommerce-operations-skills/ecommerce-method-alibaba-sales/) | 阿里铁军销售法 | 用目标倒推、客户分层、话术 SOP 促交付 |
-| [ecommerce-method-growth-hacking](../ecommerce-operations-skills/ecommerce-method-growth-hacking/) | 增长黑客 | 用增长实验循环低成本验证增长点 |
+| [ecommerce-advisory-board](../ecommerce-operations-skills/ecommerce-advisory-board/) | 顾问团 | 组织多专家电商评审 |
+| [ecommerce-advisor-huang](../ecommerce-operations-skills/ecommerce-advisor-huang/) | 黄若 | 判断电商生意/模式值不值得做 |
+| [ecommerce-advisor-xiaomali](../ecommerce-operations-skills/ecommerce-advisor-xiaomali/) | 小马宋 | 判断产品怎么好卖、转化怎么提 |
+| [ecommerce-advisor-wuya](../ecommerce-operations-skills/ecommerce-advisor-wuya/) | 无涯 | 判断打法、节奏、怎么少走弯路 |
+| [ecommerce-method-see-ecommerce](../ecommerce-operations-skills/ecommerce-method-see-ecommerce/) | 《我看电商》 | 用零售效率 + 生意三问判断模式 |
+| [ecommerce-method-alibaba-sales](../ecommerce-operations-skills/ecommerce-method-alibaba-sales/) | 《阿里铁军销售法》 | 用目标倒推、客户分层、话术 SOP 促交付 |
+| [ecommerce-method-growth-hacking](../ecommerce-operations-skills/ecommerce-method-growth-hacking/) | 《增长黑客》 | 用增长实验循环低成本验证增长点 |
 
 <a id="growth-operations"></a>
 ### 📈 增长运营
@@ -141,13 +141,13 @@
 | [growth-operations-channel](../growth-operations-skills/growth-operations-channel/) | 分配投放预算、评估渠道或 CAC 过高时 | 渠道评估表 + 预算建议 |
 | [growth-operations-diagnosis](../growth-operations-skills/growth-operations-diagnosis/) | 指标异常、数据下滑或需要增长复盘时 | 诊断报告 + 行动建议 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [growth-operations-advisory-board](../growth-operations-skills/growth-operations-advisory-board/) | 多角色增长评审 | 路由分歧与组织专家评审会 |
-| [growth-operations-advisor-zhang-ximeng](../growth-operations-skills/growth-operations-advisor-zhang-ximeng/) | 数据驱动增长 | 北极星指标、增长团队与数据闭环 |
-| [growth-operations-advisor-andrew-chen](../growth-operations-skills/growth-operations-advisor-andrew-chen/) | 冷启动与网络效应 | 增长战略、增长循环与规模化路径 |
-| [growth-operations-advisor-alex-schultz](../growth-operations-skills/growth-operations-advisor-alex-schultz/) | 留存第一 | 魔法时刻、激活漏斗与留存提升 |
-| [growth-operations-method-lean-startup](../growth-operations-skills/growth-operations-method-lean-startup/) | 精益创业 | MVP、实验循环与增长引擎 |
-| [growth-operations-method-hooked](../growth-operations-skills/growth-operations-method-hooked/) | Hook 模型 | 习惯养成与多变奖励 |
-| [growth-operations-method-liuliangchi](../growth-operations-skills/growth-operations-method-liuliangchi/) | 流量池 | 裂变、私域与品效协同 |
+| [growth-operations-advisory-board](../growth-operations-skills/growth-operations-advisory-board/) | 顾问团 | 路由分歧与组织专家评审会 |
+| [growth-operations-advisor-zhang-ximeng](../growth-operations-skills/growth-operations-advisor-zhang-ximeng/) | 张溪梦 | 北极星指标、增长团队与数据闭环 |
+| [growth-operations-advisor-andrew-chen](../growth-operations-skills/growth-operations-advisor-andrew-chen/) | 安德鲁·陈 | 增长战略、增长循环与规模化路径 |
+| [growth-operations-advisor-alex-schultz](../growth-operations-skills/growth-operations-advisor-alex-schultz/) | 亚历克斯·舒尔茨 | 魔法时刻、激活漏斗与留存提升 |
+| [growth-operations-method-lean-startup](../growth-operations-skills/growth-operations-method-lean-startup/) | 《精益创业》 | MVP、实验循环与增长引擎 |
+| [growth-operations-method-hooked](../growth-operations-skills/growth-operations-method-hooked/) | 《上瘾》 | 习惯养成与多变奖励 |
+| [growth-operations-method-liuliangchi](../growth-operations-skills/growth-operations-method-liuliangchi/) | 《流量池》 | 裂变、私域与品效协同 |
 
 <a id="live-operations"></a>
 ### 📺 直播运营
@@ -164,13 +164,13 @@
 | [live-ads](../live-operations-skills/live-ads/) | 需要投流、千川、直播间流量时 | 投流计划 + 出价策略 + 止损线 |
 | [live-analytics](../live-operations-skills/live-analytics/) | 需要复盘场次数据、迭代时 | 复盘报告 + 行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [live-advisory-board](../live-operations-skills/live-advisory-board/) | 多角色专项评审 | 组织多专家直播评审 |
-| [live-advisor-li-jiaqi](../live-operations-skills/live-advisor-li-jiaqi/) | 李佳琦 | 判断转化怎么提、选品标准 |
-| [live-advisor-dong-yuhui](../live-operations-skills/live-advisor-dong-yuhui/) | 董宇辉 | 判断留人、内容差异化 |
-| [live-advisor-luo-yonghao](../live-operations-skills/live-advisor-luo-yonghao/) | 罗永浩 | 判断值不值得做、供应链 |
-| [live-method-influence](../live-operations-skills/live-method-influence/) | 影响力 | 用六大原则设计转化机制 |
-| [live-method-contagious](../live-operations-skills/live-method-contagious/) | 疯传 | 用 STEPPS 设计传播内容 |
-| [live-method-conversion](../live-operations-skills/live-method-conversion/) | 爆款文案 | 用卖点四步法写话术 |
+| [live-advisory-board](../live-operations-skills/live-advisory-board/) | 顾问团 | 把转化、内容、供应链和流量放在同一套直播生意里做取舍 |
+| [live-advisor-li-jiaqi](../live-operations-skills/live-advisor-li-jiaqi/) | 李佳琦 | 货盘、价格锚点、逼单话术与转化节奏 |
+| [live-advisor-dong-yuhui](../live-operations-skills/live-advisor-dong-yuhui/) | 董宇辉 | 内容密度、停留意愿与信任感，避免只靠低价留人 |
+| [live-advisor-luo-yonghao](../live-operations-skills/live-advisor-luo-yonghao/) | 罗永浩 | 供应链、选品毛利与主播人格的生意模型 |
+| [live-method-influence](../live-operations-skills/live-method-influence/) | 《影响力》 | 用稀缺、社会认同、权威等原则检查促单设计 |
+| [live-method-contagious](../live-operations-skills/live-method-contagious/) | 《疯传》 | 用 STEPPS 判断内容是否值得被讨论和转发 |
+| [live-method-conversion](../live-operations-skills/live-method-conversion/) | 《爆款文案》 | 把卖点改成能听懂、想行动的直播话术 |
 
 <a id="new-media-operations"></a>
 ### 📱 新媒体运营
@@ -187,13 +187,13 @@
 | [new-media-operations-distribution](../new-media-operations-skills/new-media-operations-distribution/) | 需要多平台发布、矩阵运营时 | 多平台分发计划 + 矩阵布局建议 |
 | [new-media-operations-review](../new-media-operations-skills/new-media-operations-review/) | 需要数据复盘、归因、迭代时 | 复盘报告（爆款/失败归因 + 迭代） |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [new-media-operations-advisory-board](../new-media-operations-skills/new-media-operations-advisory-board/) | 多角色专项评审 | 组织多专家新媒体评审 |
+| [new-media-operations-advisory-board](../new-media-operations-skills/new-media-operations-advisory-board/) | 顾问团 | 组织多专家新媒体评审 |
 | [new-media-operations-advisor-qiuye](../new-media-operations-skills/new-media-operations-advisor-qiuye/) | 秋叶 | 矩阵运营/账号定位/个人IP/变现 |
 | [new-media-operations-advisor-zhouzuoluo](../new-media-operations-skills/new-media-operations-advisor-zhouzuoluo/) | 粥左罗 | 内容创作/选题/写作方法论 |
 | [new-media-operations-advisor-lvbai](../new-media-operations-skills/new-media-operations-advisor-lvbai/) | 吕白 | 爆款公式/对标拆解/黄金开头 |
-| [new-media-operations-method-baokuan](../new-media-operations-skills/new-media-operations-method-baokuan/) | 爆款文案 | 用爆款结构写内容 |
-| [new-media-operations-method-tipping-point](../new-media-operations-skills/new-media-operations-method-tipping-point/) | 引爆点 | 用传播法则做增长 |
-| [new-media-operations-method-positioning](../new-media-operations-skills/new-media-operations-method-positioning/) | 定位 | 用定位理论做差异化 |
+| [new-media-operations-method-baokuan](../new-media-operations-skills/new-media-operations-method-baokuan/) | 《爆款文案》 | 用爆款结构写内容 |
+| [new-media-operations-method-tipping-point](../new-media-operations-skills/new-media-operations-method-tipping-point/) | 《引爆点》 | 用传播法则做增长 |
+| [new-media-operations-method-positioning](../new-media-operations-skills/new-media-operations-method-positioning/) | 《定位》 | 用定位理论做差异化 |
 
 <a id="user-operations"></a>
 ### 👥 用户运营
@@ -210,13 +210,13 @@
 | [user-operations-membership](../user-operations-skills/user-operations-membership/) | 需要搭建会员等级与权益体系时 | 会员体系 + 权益清单 |
 | [user-operations-community](../user-operations-skills/user-operations-community/) | 需要设计社群运营与活跃方案时 | 社群方案 + 活跃节奏 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [user-operations-advisory-board](../user-operations-skills/user-operations-advisory-board/) | 多角色专项评审 | 组织用户运营专家评审 |
-| [user-operations-advisor-zhang](../user-operations-skills/user-operations-advisor-zhang/) | 运营体系 | 设计生命周期运营体系 |
-| [user-operations-advisor-qu](../user-operations-skills/user-operations-advisor-qu/) | 增长实验 | 判断留存提升与实验方向 |
-| [user-operations-advisor-xu](../user-operations-skills/user-operations-advisor-xu/) | 社群与传播 | 设计社群激励与传播 |
-| [user-operations-method-hooked](../user-operations-skills/user-operations-method-hooked/) | Hook 模型 | 用 Hook 模型设计留存机制 |
-| [user-operations-method-membership](../user-operations-skills/user-operations-method-membership/) | 会员经济 | 用会员经济升级用户关系 |
-| [user-operations-method-small-group](../user-operations-skills/user-operations-method-small-group/) | 小群效应 | 用小群效应设计社群结构 |
+| [user-operations-advisory-board](../user-operations-skills/user-operations-advisory-board/) | 顾问团 | 组织用户运营专家评审 |
+| [user-operations-advisor-zhang](../user-operations-skills/user-operations-advisor-zhang/) | 张亮 | 设计生命周期运营体系 |
+| [user-operations-advisor-qu](../user-operations-skills/user-operations-advisor-qu/) | 曲卉 | 判断留存提升与实验方向 |
+| [user-operations-advisor-xu](../user-operations-skills/user-operations-advisor-xu/) | 徐志斌 | 设计社群激励与传播 |
+| [user-operations-method-hooked](../user-operations-skills/user-operations-method-hooked/) | 《上瘾》 | 用 Hook 模型设计留存机制 |
+| [user-operations-method-membership](../user-operations-skills/user-operations-method-membership/) | 《会员经济》 | 用会员经济升级用户关系 |
+| [user-operations-method-small-group](../user-operations-skills/user-operations-method-small-group/) | 《小群效应》 | 用小群效应设计社群结构 |
 
 <a id="content-operations"></a>
 ### ✍️ 内容运营
@@ -233,13 +233,13 @@
 | [content-operations-seo](../content-operations-skills/content-operations-seo/) | 需要做关键词、搜索意图、页面优化与排名监控时 | 关键词地图 + 优化清单 |
 | [content-operations-analytics](../content-operations-skills/content-operations-analytics/) | 为内容数据分层归因并形成行动项时 | 内容复盘报告 + 行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [content-operations-advisory-board](../content-operations-skills/content-operations-advisory-board/) | 多角色专项评审 | 组织内容方案专家评审 |
-| [content-operations-advisor-handley](../content-operations-skills/content-operations-advisor-handley/) | 可读性写作 | 改善文案写作与可读性 |
-| [content-operations-advisor-pulizzi](../content-operations-skills/content-operations-advisor-pulizzi/) | 内容营销战略 | 判断内容营销战略与受众价值 |
-| [content-operations-advisor-huang](../content-operations-skills/content-operations-advisor-huang/) | 运营价值 | 用运营视角判断内容问题 |
-| [content-operations-method-everybody-writes](../content-operations-skills/content-operations-method-everybody-writes/) | 写作规则 | 用写作规则提升内容质量 |
-| [content-operations-method-epic-content](../content-operations-skills/content-operations-method-epic-content/) | 内容营销体系 | 建立高价值内容营销体系 |
-| [content-operations-method-light-of-operations](../content-operations-skills/content-operations-method-light-of-operations/) | 运营之光 | 将运营思维用于内容闭环 |
+| [content-operations-advisory-board](../content-operations-skills/content-operations-advisory-board/) | 顾问团 | 组织内容方案专家评审 |
+| [content-operations-advisor-handley](../content-operations-skills/content-operations-advisor-handley/) | 安·汉德利 | 改善文案写作与可读性 |
+| [content-operations-advisor-pulizzi](../content-operations-skills/content-operations-advisor-pulizzi/) | 乔·普利兹 | 判断内容营销战略与受众价值 |
+| [content-operations-advisor-huang](../content-operations-skills/content-operations-advisor-huang/) | 黄有璨 | 用运营视角判断内容问题 |
+| [content-operations-method-everybody-writes](../content-operations-skills/content-operations-method-everybody-writes/) | 《Everybody Writes》 | 用写作规则提升内容质量 |
+| [content-operations-method-epic-content](../content-operations-skills/content-operations-method-epic-content/) | 《Epic Content Marketing》 | 建立高价值内容营销体系 |
+| [content-operations-method-light-of-operations](../content-operations-skills/content-operations-method-light-of-operations/) | 《运营之光》 | 将运营思维用于内容闭环 |
 
 <a id="activity-operations"></a>
 ### 🎯 活动运营
@@ -256,13 +256,13 @@
 | [activity-operations-promotion](../activity-operations/activity-operations-promotion/) | 需要规划渠道组合、传播节奏与投流时 | 传播计划 + 渠道排期 |
 | [activity-operations-review](../activity-operations/activity-operations-review/) | 需要做数据归因、经验沉淀与后续行动时 | 复盘报告 + 后续行动 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [activity-operations-advisory-board](../activity-operations/activity-operations-advisory-board/) | 多角色专项评审 | 组织活动方案专家评审 |
-| [activity-operations-advisor-huang](../activity-operations/activity-operations-advisor-huang/) | 运营价值 | 判断活动的运营价值 |
-| [activity-operations-advisor-zhang](../activity-operations/activity-operations-advisor-zhang/) | 运营体系 | 判断活动体系与执行质量 |
-| [activity-operations-advisor-qu](../activity-operations/activity-operations-advisor-qu/) | 增长实验 | 从增长实验判断活动机制 |
-| [activity-operations-method-light-of-operations](../activity-operations/activity-operations-method-light-of-operations/) | 运营之光 | 用运营之光的方法设计闭环 |
-| [activity-operations-method-growth-hacking](../activity-operations/activity-operations-method-growth-hacking/) | 增长实验 | 用增长黑客推进活动实验 |
-| [activity-operations-method-lean-analytics](../activity-operations/activity-operations-method-lean-analytics/) | 第一关键指标 | 用精益数据分析做活动诊断 |
+| [activity-operations-advisory-board](../activity-operations/activity-operations-advisory-board/) | 顾问团 | 组织活动方案专家评审 |
+| [activity-operations-advisor-huang](../activity-operations/activity-operations-advisor-huang/) | 黄有璨 | 判断活动的运营价值 |
+| [activity-operations-advisor-zhang](../activity-operations/activity-operations-advisor-zhang/) | 张亮 | 判断活动体系与执行质量 |
+| [activity-operations-advisor-qu](../activity-operations/activity-operations-advisor-qu/) | 曲卉 | 从增长实验判断活动机制 |
+| [activity-operations-method-light-of-operations](../activity-operations/activity-operations-method-light-of-operations/) | 《运营之光》 | 用运营之光的方法设计闭环 |
+| [activity-operations-method-growth-hacking](../activity-operations/activity-operations-method-growth-hacking/) | 《增长黑客》 | 用增长黑客推进活动实验 |
+| [activity-operations-method-lean-analytics](../activity-operations/activity-operations-method-lean-analytics/) | 《精益数据分析》 | 用精益数据分析做活动诊断 |
 
 <a id="private-domain-operations"></a>
 ### 💬 私域运营
@@ -279,13 +279,13 @@
 | [private-domain-operations-referral](../private-domain-operations/private-domain-operations-referral/) | 需要设计裂变、转介绍与风控时 | 裂变方案 + 风控规则 |
 | [private-domain-operations-data](../private-domain-operations/private-domain-operations-data/) | 需要用标签与 SCRM 做数据分层时 | 标签体系 + 分层看板 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [private-domain-operations-advisory-board](../private-domain-operations/private-domain-operations-advisory-board/) | 多角色专项评审 | 组织私域方案专家评审 |
-| [private-domain-operations-advisor-xu](../private-domain-operations/private-domain-operations-advisor-xu/) | 社群与传播 | 判断社群运营方向 |
-| [private-domain-operations-advisor-zhang](../private-domain-operations/private-domain-operations-advisor-zhang/) | 运营体系 | 判断生命周期运营体系 |
-| [private-domain-operations-advisor-qu](../private-domain-operations/private-domain-operations-advisor-qu/) | 增长实验 | 设计留存与复购实验 |
-| [private-domain-operations-method-small-group](../private-domain-operations/private-domain-operations-method-small-group/) | 小群效应 | 用小群效应设计社群 |
-| [private-domain-operations-method-membership](../private-domain-operations/private-domain-operations-method-membership/) | 会员经济 | 用会员经济设计关系升级 |
-| [private-domain-operations-method-private-domain](../private-domain-operations/private-domain-operations-method-private-domain/) | 私域方法论 | 搭建私域链路、标签与 SCRM 方法 |
+| [private-domain-operations-advisory-board](../private-domain-operations/private-domain-operations-advisory-board/) | 顾问团 | 组织私域方案专家评审 |
+| [private-domain-operations-advisor-xu](../private-domain-operations/private-domain-operations-advisor-xu/) | 徐志斌 | 判断社群运营方向 |
+| [private-domain-operations-advisor-zhang](../private-domain-operations/private-domain-operations-advisor-zhang/) | 张亮 | 判断生命周期运营体系 |
+| [private-domain-operations-advisor-qu](../private-domain-operations/private-domain-operations-advisor-qu/) | 曲卉 | 设计留存与复购实验 |
+| [private-domain-operations-method-small-group](../private-domain-operations/private-domain-operations-method-small-group/) | 《小群效应》 | 用小群效应设计社群 |
+| [private-domain-operations-method-membership](../private-domain-operations/private-domain-operations-method-membership/) | 《会员经济》 | 用会员经济设计关系升级 |
+| [private-domain-operations-method-private-domain](../private-domain-operations/private-domain-operations-method-private-domain/) | 私域运营公开方法 | 搭建私域链路、标签与 SCRM 方法 |
 
 <a id="community-operations"></a>
 ### 🧑‍🤝‍🧑 社区运营
@@ -303,13 +303,13 @@
 | [community-operations-monetization](../community-operations-skills/community-operations-monetization/) | 需要社区变现设计时 | 变现方案 + 收入测算 |
 | [community-operations-review](../community-operations-skills/community-operations-review/) | 需要社区复盘、归因、迭代时 | 复盘报告 + 行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [community-operations-advisory-board](../community-operations-skills/community-operations-advisory-board/) | 多角色专项评审 | 组织多专家社区评审 |
-| [community-operations-advisor-spinks](../community-operations-skills/community-operations-advisor-spinks/) | 社区价值 | 判断社区建设与价值交付 |
-| [community-operations-advisor-millington](../community-operations-skills/community-operations-advisor-millington/) | 社区增长 | 判断社区增长与留存策略 |
-| [community-operations-advisor-luyan](../community-operations-skills/community-operations-advisor-luyan/) | 社群运营 | 判断社群运营与变现方法 |
-| [community-operations-method-buzzing](../community-operations-skills/community-operations-method-buzzing/) | Buzzing Communities | 用社区建设框架设计社区 |
-| [community-operations-method-belonging](../community-operations-skills/community-operations-method-belonging/) | 归属感生意 | 用归属感驱动社区增长 |
-| [community-operations-method-shequnsiwei](../community-operations-skills/community-operations-method-shequnsiwei/) | 社群思维 | 用社群思维运营与变现 |
+| [community-operations-advisory-board](../community-operations-skills/community-operations-advisory-board/) | 顾问团 | 组织多专家社区评审 |
+| [community-operations-advisor-spinks](../community-operations-skills/community-operations-advisor-spinks/) | 大卫·斯宾克斯 | 判断社区建设与价值交付 |
+| [community-operations-advisor-millington](../community-operations-skills/community-operations-advisor-millington/) | 理查德·米灵顿 | 判断社区增长与留存策略 |
+| [community-operations-advisor-luyan](../community-operations-skills/community-operations-advisor-luyan/) | 卢彦 | 判断社群运营与变现方法 |
+| [community-operations-method-buzzing](../community-operations-skills/community-operations-method-buzzing/) | 《Buzzing Communities》 | 用社区建设框架设计社区 |
+| [community-operations-method-belonging](../community-operations-skills/community-operations-method-belonging/) | 《The Business of Belonging》 | 用归属感驱动社区增长 |
+| [community-operations-method-shequnsiwei](../community-operations-skills/community-operations-method-shequnsiwei/) | 《社群思维》 | 用社群思维运营与变现 |
 
 <a id="game-operations"></a>
 ### 🎮 游戏运营
@@ -326,13 +326,13 @@
 | [game-analytics](../game-operations-skills/game-analytics/) | 分析留存/活跃/付费/流失数据时 | 数据分析报告 |
 | [game-community](../game-operations-skills/game-community/) | 运营玩家社区、UGC 与口碑时 | 社区运营方案 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [game-advisory-board](../game-operations-skills/game-advisory-board/) | 多角色游戏运营评审 | 组织专家评审与分歧地图 |
-| [game-advisor-ops](../game-operations-skills/game-advisor-ops/) | 游戏运营实战 | 生命周期诊断、首日说服链、商业化四问 |
-| [game-advisor-chou](../game-operations-skills/game-advisor-chou/) | 游戏化设计 | Octalysis 八角动机、白帽/黑帽机制 |
-| [game-advisor-qu](../game-operations-skills/game-advisor-qu/) | 增长实验 | 设计留存与付费实验 |
-| [game-method-ops](../game-operations-skills/game-method-ops/) | 游戏运营方法论 | 生命周期法、数据指标体检表 |
-| [game-method-chou](../game-operations-skills/game-method-chou/) | 游戏化实战 | 八角行为分析、玩家旅程四阶段 |
-| [game-method-hooked](../game-operations-skills/game-method-hooked/) | Hook 模型 | 习惯养成与多变奖励 |
+| [game-advisory-board](../game-operations-skills/game-advisory-board/) | 顾问团 | 组织专家评审与分歧地图 |
+| [game-advisor-ops](../game-operations-skills/game-advisor-ops/) | 游戏运营行业研究 | 生命周期诊断、首日说服链、商业化四问 |
+| [game-advisor-chou](../game-operations-skills/game-advisor-chou/) | 周郁凯 | Octalysis 八角动机、白帽/黑帽机制 |
+| [game-advisor-qu](../game-operations-skills/game-advisor-qu/) | 曲卉 | 设计留存与付费实验 |
+| [game-method-ops](../game-operations-skills/game-method-ops/) | 游戏运营行业框架 | 生命周期法、数据指标体检表 |
+| [game-method-chou](../game-operations-skills/game-method-chou/) | 《游戏化实战》 | 八角行为分析、玩家旅程四阶段 |
+| [game-method-hooked](../game-operations-skills/game-method-hooked/) | 《上瘾》 | 习惯养成与多变奖励 |
 
 <a id="shortvideo-operations"></a>
 ### 🎬 短视频编导
@@ -349,13 +349,13 @@
 | [shortvideo-editing](../shortvideo-operations-skills/shortvideo-editing/) | 剪辑、字幕、BGM、节奏把控时 | 剪辑方案（节奏/精剪/包装/导出） |
 | [shortvideo-operations](../shortvideo-operations-skills/shortvideo-operations/) | 发布、数据复盘、迭代时 | 发布运营复盘（数据归因/迭代计划） |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [shortvideo-advisory-board](../shortvideo-operations-skills/shortvideo-advisory-board/) | 多角色专项评审 | 组织多专家短视频评审 |
-| [shortvideo-advisor-zhangqi](../shortvideo-operations-skills/shortvideo-advisor-zhangqi/) | 口播爆款 | 判断口播怎么爆、观点怎么提炼 |
-| [shortvideo-advisor-fangqi](../shortvideo-operations-skills/shortvideo-advisor-fangqi/) | 内容表达 | 判断文案怎么打动人、表达质感 |
-| [shortvideo-advisor-he](../shortvideo-operations-skills/shortvideo-advisor-he/) | 制作创意 | 判断创意设计、制作质感 |
-| [shortvideo-method-sticky](../shortvideo-operations-skills/shortvideo-method-sticky/) | 让创意更有黏性 | 用 SUCCES 设计传播内容 |
-| [shortvideo-method-copywriting](../shortvideo-operations-skills/shortvideo-method-copywriting/) | 文案的基本修养 | 用洞察写口播/旁白 |
-| [shortvideo-method-supersymbol](../shortvideo-operations-skills/shortvideo-method-supersymbol/) | 超级符号 | 用文化母体建记忆点 |
+| [shortvideo-advisory-board](../shortvideo-operations-skills/shortvideo-advisory-board/) | 顾问团 | 组织多专家短视频评审 |
+| [shortvideo-advisor-zhangqi](../shortvideo-operations-skills/shortvideo-advisor-zhangqi/) | 张琦 | 判断口播怎么爆、观点怎么提炼 |
+| [shortvideo-advisor-fangqi](../shortvideo-operations-skills/shortvideo-advisor-fangqi/) | 房琪 | 判断文案怎么打动人、表达质感 |
+| [shortvideo-advisor-he](../shortvideo-operations-skills/shortvideo-advisor-he/) | 何同学 | 判断创意设计、制作质感 |
+| [shortvideo-method-sticky](../shortvideo-operations-skills/shortvideo-method-sticky/) | 《让创意更有黏性》 | 用 SUCCES 设计传播内容 |
+| [shortvideo-method-copywriting](../shortvideo-operations-skills/shortvideo-method-copywriting/) | 《文案的基本修养》 | 用洞察写口播/旁白 |
+| [shortvideo-method-supersymbol](../shortvideo-operations-skills/shortvideo-method-supersymbol/) | 《超级符号就是超级创意》 | 用文化母体建记忆点 |
 
 <a id="xiaohongshu-operations"></a>
 ### 🧣 小红书运营
@@ -372,13 +372,13 @@
 | [xhs-growth](../xiaohongshu-operations-skills/xhs-growth/) | 涨粉慢、数据复盘、爆款拆解时 | 增长复盘（爆款要素/归因） |
 | [xhs-monetization](../xiaohongshu-operations-skills/xhs-monetization/) | 接广、带货、引流变现时 | 变现方案（路径/测算/风险） |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [xhs-advisory-board](../xiaohongshu-operations-skills/xhs-advisory-board/) | 多角色专项评审 | 组织多专家小红书评审 |
-| [xhs-advisor-maowenchao](../xiaohongshu-operations-skills/xhs-advisor-maowenchao/) | 运营实战 | 判断账号打法、流量逻辑 |
-| [xhs-advisor-qufan](../xiaohongshu-operations-skills/xhs-advisor-qufan/) | 生活方式内容 | 判断内容气质、种草设计 |
-| [xhs-advisor-fangqi](../xiaohongshu-operations-skills/xhs-advisor-fangqi/) | 视频与直播 | 判断视频/直播内容打法 |
-| [xhs-method-weakcommunication](../xiaohongshu-operations-skills/xhs-method-weakcommunication/) | 弱传播 | 用弱传播设计共鸣内容 |
-| [xhs-method-copywriting-manual](../xiaohongshu-operations-skills/xhs-method-copywriting-manual/) | 文案创作完全手册 | 用 4U/AIDA 写文案标题 |
-| [xhs-method-superip](../xiaohongshu-operations-skills/xhs-method-superip/) | 超级IP | 用人格化建人设资产 |
+| [xhs-advisory-board](../xiaohongshu-operations-skills/xhs-advisory-board/) | 顾问团 | 组织多专家小红书评审 |
+| [xhs-advisor-maowenchao](../xiaohongshu-operations-skills/xhs-advisor-maowenchao/) | 猫文超 | 判断账号打法、流量逻辑 |
+| [xhs-advisor-qufan](../xiaohongshu-operations-skills/xhs-advisor-qufan/) | 曲凡 | 判断内容气质、种草设计 |
+| [xhs-advisor-fangqi](../xiaohongshu-operations-skills/xhs-advisor-fangqi/) | 方琦 | 判断视频/直播内容打法 |
+| [xhs-method-weakcommunication](../xiaohongshu-operations-skills/xhs-method-weakcommunication/) | 《弱传播》 | 用弱传播设计共鸣内容 |
+| [xhs-method-copywriting-manual](../xiaohongshu-operations-skills/xhs-method-copywriting-manual/) | 《文案创作完全手册》 | 用 4U/AIDA 写文案标题 |
+| [xhs-method-superip](../xiaohongshu-operations-skills/xhs-method-superip/) | 《超级IP》 | 用人格化建人设资产 |
 
 <a id="crossborder-operations"></a>
 ### 🌐 跨境电商运营
@@ -395,13 +395,13 @@
 | [crossborder-service](../crossborder-operations-skills/crossborder-service/) | 物流、履约、客服、退货时 | 履约方案 + 客服 SOP |
 | [crossborder-data](../crossborder-operations-skills/crossborder-data/) | 销量下滑、复盘、库存积压时 | 诊断报告 + 行动建议 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [crossborder-advisory-board](../crossborder-operations-skills/crossborder-advisory-board/) | 多角色专项评审 | 组织多专家跨境评审 |
-| [crossborder-advisor-chenxianting](../crossborder-operations-skills/crossborder-advisor-chenxianting/) | 行业趋势 | 判断行业前景、平台选择 |
-| [crossborder-advisor-lipengbo](../crossborder-operations-skills/crossborder-advisor-lipengbo/) | 模式方法论 | 判断模式、诊断业务 |
-| [crossborder-advisor-wangshutong](../crossborder-operations-skills/crossborder-advisor-wangshutong/) | 平台生态 | 判断中小卖家机会、平台关系 |
-| [crossborder-method-30](../crossborder-operations-skills/crossborder-method-30/) | 跨境电商3.0时代 | 用版本论设计升级路径 |
-| [crossborder-method-amazon](../crossborder-operations-skills/crossborder-method-amazon/) | 亚马逊运营 | 用 Listing/广告/FBA 实操方法 |
-| [crossborder-method-dtc](../crossborder-operations-skills/crossborder-method-dtc/) | DTC品牌出海 | 用独立站漏斗做品牌路线 |
+| [crossborder-advisory-board](../crossborder-operations-skills/crossborder-advisory-board/) | 顾问团 | 组织多专家跨境评审 |
+| [crossborder-advisor-chenxianting](../crossborder-operations-skills/crossborder-advisor-chenxianting/) | 陈贤亭 | 判断行业前景、平台选择 |
+| [crossborder-advisor-lipengbo](../crossborder-operations-skills/crossborder-advisor-lipengbo/) | 李鹏博 | 判断模式、诊断业务 |
+| [crossborder-advisor-wangshutong](../crossborder-operations-skills/crossborder-advisor-wangshutong/) | 王树彤 | 判断中小卖家机会、平台关系 |
+| [crossborder-method-30](../crossborder-operations-skills/crossborder-method-30/) | 《跨境电商3.0时代》 | 用版本论设计升级路径 |
+| [crossborder-method-amazon](../crossborder-operations-skills/crossborder-method-amazon/) | 《亚马逊运营从入门到精通》 | 用 Listing/广告/FBA 实操方法 |
+| [crossborder-method-dtc](../crossborder-operations-skills/crossborder-method-dtc/) | DTC 品牌出海方法 | 用独立站漏斗做品牌路线 |
 
 <a id="ai-product-operations"></a>
 ### 🧠 AI 产品运营
@@ -419,13 +419,13 @@
 | [ai-operations-monetization](../ai-operations-skills/ai-operations-monetization/) | 设计收费、定价、成本与增值路径时 | 商业化方案 + 成本核算 |
 | [ai-operations-review](../ai-operations-skills/ai-operations-review/) | 需要同时复盘质量、留存与 Token 成本时 | 三角复盘报告 + 行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [ai-operations-advisory-board](../ai-operations-skills/ai-operations-advisory-board/) | 多角色 AI 产品评审 | 组织专家评审与分歧地图 |
-| [ai-operations-advisor-ng](../ai-operations-skills/ai-operations-advisor-ng/) | 数据飞轮与 AI 转型 | 判断数据策略、数据闭环与转型路径 |
-| [ai-operations-advisor-rachitsky](../ai-operations-skills/ai-operations-advisor-rachitsky/) | 增长、激活与 PMF | 判断增长循环、激活与产品市场匹配 |
-| [ai-operations-advisor-lijiariu](../ai-operations-skills/ai-operations-advisor-lijiariu/) | AI+私域与对话式营销 | 判断场景选择、对话体验与转化路径 |
-| [ai-operations-method-prediction](../ai-operations-skills/ai-operations-method-prediction/) | AI 商业与人机分工 | 用预测机器框架判断 AI 价值与分工 |
-| [ai-operations-method-ageofai](../ai-operations-skills/ai-operations-method-ageofai/) | 数据网络效应 | 用 AI 工厂框架判断竞争优势 |
-| [ai-operations-method-humanmachine](../ai-operations-skills/ai-operations-method-humanmachine/) | 人机协作 | 判断人在回路、协作边界与组织设计 |
+| [ai-operations-advisory-board](../ai-operations-skills/ai-operations-advisory-board/) | 顾问团 | 组织专家评审与分歧地图 |
+| [ai-operations-advisor-ng](../ai-operations-skills/ai-operations-advisor-ng/) | 吴恩达 | 判断数据策略、数据闭环与转型路径 |
+| [ai-operations-advisor-rachitsky](../ai-operations-skills/ai-operations-advisor-rachitsky/) | 莱尼·拉奇茨基 | 判断增长循环、激活与产品市场匹配 |
+| [ai-operations-advisor-lijiariu](../ai-operations-skills/ai-operations-advisor-lijiariu/) | 李佳芮 | 判断场景选择、对话体验与转化路径 |
+| [ai-operations-method-prediction](../ai-operations-skills/ai-operations-method-prediction/) | 《Prediction Machines》 | 用预测机器框架判断 AI 价值与分工 |
+| [ai-operations-method-ageofai](../ai-operations-skills/ai-operations-method-ageofai/) | 《Competing in the Age of AI》 | 用 AI 工厂框架判断竞争优势 |
+| [ai-operations-method-humanmachine](../ai-operations-skills/ai-operations-method-humanmachine/) | 《Human + Machine》 | 判断人在回路、协作边界与组织设计 |
 
 <a id="aigc-operations"></a>
 ### 🤖 AIGC 运营
@@ -443,13 +443,13 @@
 | [aigc-operations-evaluation](../aigc-operations-skills/aigc-operations-evaluation/) | 检查产出质量、幻觉与合规边界时 | 评估与合规检查清单 |
 | [aigc-operations-review](../aigc-operations-skills/aigc-operations-review/) | 衡量 AI 提效值不值得、下一步如何迭代时 | 提效复盘报告 + 行动项 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [aigc-operations-advisory-board](../aigc-operations-skills/aigc-operations-advisory-board/) | 多角色 AIGC 落地评审 | 组织专家评审与分歧地图 |
-| [aigc-operations-advisor-mollick](../aigc-operations-skills/aigc-operations-advisor-mollick/) | AI 协作与人在回路 | 判断协作边界与锯齿状能力 |
-| [aigc-operations-advisor-renxin](../aigc-operations-skills/aigc-operations-advisor-renxin/) | 工作流嵌入 | 判断场景、工具与流程如何结合 |
-| [aigc-operations-advisor-fanbing](../aigc-operations-skills/aigc-operations-advisor-fanbing/) | 工具选型与效果验证 | 判断工具组合、数据验证与实验 |
-| [aigc-operations-method-cointelligence](../aigc-operations-skills/aigc-operations-method-cointelligence/) | AI 协作方法论 | 用 Co-Intelligence 设计协作方式 |
-| [aigc-operations-method-ai2041](../aigc-operations-skills/aigc-operations-method-ai2041/) | AI 场景判断 | 用 AI 2041 识别真实可行场景 |
-| [aigc-operations-method-comingwave](../aigc-operations-skills/aigc-operations-method-comingwave/) | AI 治理 | 用 The Coming Wave 判断治理与风险 |
+| [aigc-operations-advisory-board](../aigc-operations-skills/aigc-operations-advisory-board/) | 顾问团 | 组织专家评审与分歧地图 |
+| [aigc-operations-advisor-mollick](../aigc-operations-skills/aigc-operations-advisor-mollick/) | 伊桑·莫利克 | 判断协作边界与锯齿状能力 |
+| [aigc-operations-advisor-renxin](../aigc-operations-skills/aigc-operations-advisor-renxin/) | 任鑫 | 判断场景、工具与流程如何结合 |
+| [aigc-operations-advisor-fanbing](../aigc-operations-skills/aigc-operations-advisor-fanbing/) | 范冰 | 判断工具组合、数据验证与实验 |
+| [aigc-operations-method-cointelligence](../aigc-operations-skills/aigc-operations-method-cointelligence/) | 《Co-Intelligence》 | 用 Co-Intelligence 设计协作方式 |
+| [aigc-operations-method-ai2041](../aigc-operations-skills/aigc-operations-method-ai2041/) | 《AI 2041》 | 用 AI 2041 识别真实可行场景 |
+| [aigc-operations-method-comingwave](../aigc-operations-skills/aigc-operations-method-comingwave/) | 《The Coming Wave》 | 用 The Coming Wave 判断治理与风险 |
 
 <a id="overseas-marketing"></a>
 ### 🌍 海外市场营销
@@ -466,13 +466,13 @@
 | [overseas-marketing-email](../overseas-marketing-skills/overseas-marketing-email/) | 需要设计欢迎、弃购等邮件自动化流时 | 邮件流程 + 文案 |
 | [overseas-marketing-analytics](../overseas-marketing-skills/overseas-marketing-analytics/) | 需要做归因、ROAS 与营销数据诊断时 | 营销诊断报告 + 复投建议 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [overseas-marketing-advisory-board](../overseas-marketing-skills/overseas-marketing-advisory-board/) | 多角色专项评审 | 组织海外营销专家评审 |
-| [overseas-marketing-advisor-godin](../overseas-marketing-skills/overseas-marketing-advisor-godin/) | 品牌与受众 | 判断品牌、受众与内容方向 |
-| [overseas-marketing-advisor-patel](../overseas-marketing-skills/overseas-marketing-advisor-patel/) | SEO 与渠道 ROI | 判断 SEO、渠道 ROI 与内容执行 |
-| [overseas-marketing-advisor-cialdini](../overseas-marketing-skills/overseas-marketing-advisor-cialdini/) | 说服心理 | 用说服心理优化转化与文案 |
-| [overseas-marketing-method-this-is-marketing](../overseas-marketing-skills/overseas-marketing-method-this-is-marketing/) | MVA 与五步法 | 用 MVA 和五步法校准营销 |
-| [overseas-marketing-method-influence](../overseas-marketing-skills/overseas-marketing-method-influence/) | 影响力原则 | 用影响力原则改善转化 |
-| [overseas-marketing-method-storybrand](../overseas-marketing-skills/overseas-marketing-method-storybrand/) | SB7 品牌叙事 | 用 SB7 写定位与官网文案 |
+| [overseas-marketing-advisory-board](../overseas-marketing-skills/overseas-marketing-advisory-board/) | 顾问团 | 组织海外营销专家评审 |
+| [overseas-marketing-advisor-godin](../overseas-marketing-skills/overseas-marketing-advisor-godin/) | 赛斯·高汀 | 判断品牌、受众与内容方向 |
+| [overseas-marketing-advisor-patel](../overseas-marketing-skills/overseas-marketing-advisor-patel/) | 尼尔·帕特尔 | 判断 SEO、渠道 ROI 与内容执行 |
+| [overseas-marketing-advisor-cialdini](../overseas-marketing-skills/overseas-marketing-advisor-cialdini/) | 罗伯特·西奥迪尼 | 用说服心理优化转化与文案 |
+| [overseas-marketing-method-this-is-marketing](../overseas-marketing-skills/overseas-marketing-method-this-is-marketing/) | 《This Is Marketing》 | 用 MVA 和五步法校准营销 |
+| [overseas-marketing-method-influence](../overseas-marketing-skills/overseas-marketing-method-influence/) | 《影响力》 | 用影响力原则改善转化 |
+| [overseas-marketing-method-storybrand](../overseas-marketing-skills/overseas-marketing-method-storybrand/) | 《Building a StoryBrand》 | 用 SB7 写定位与官网文案 |
 
 <a id="kol-operations"></a>
 ### 🌟 海外 KOL 运营
@@ -489,13 +489,13 @@
 | [kol-operations-campaign](../kol-operations-skills/kol-operations-campaign/) | 需要安排投放节奏并建立追踪表时 | 执行计划 + 追踪表 |
 | [kol-operations-analytics](../kol-operations-skills/kol-operations-analytics/) | 需要分析投放效果并判断是否复投时 | 效果报告 + 复投建议 |
 | <div align="center"><strong>判断技能</strong></div> | <div align="center"><strong>视角</strong></div> | <div align="center"><strong>擅长</strong></div> |
-| [kol-operations-advisory-board](../kol-operations-skills/kol-operations-advisory-board/) | 多角色专项评审 | 组织 KOL 方案专家评审 |
-| [kol-operations-advisor-garyvee](../kol-operations-skills/kol-operations-advisor-garyvee/) | 内容与账号增长 | 判断达人内容方向与账号增长 |
-| [kol-operations-advisor-schaffer](../kol-operations-skills/kol-operations-advisor-schaffer/) | KOL 策略 | 设计 KOL 策略与长期关系 |
-| [kol-operations-advisor-hennessy](../kol-operations-skills/kol-operations-advisor-hennessy/) | 报价与谈判 | 评估报价、谈判与合同 |
-| [kol-operations-method-influencer](../kol-operations-skills/kol-operations-method-influencer/) | 达人分层金字塔 | 用达人分层金字塔设计预算 |
-| [kol-operations-method-contagious](../kol-operations-skills/kol-operations-method-contagious/) | STEPPS 传播 | 用 STEPPS 设计可传播内容 |
-| [kol-operations-method-leverage](../kol-operations-skills/kol-operations-method-leverage/) | 低成本杠杆 | 用低成本杠杆设计传播 |
+| [kol-operations-advisory-board](../kol-operations-skills/kol-operations-advisory-board/) | 顾问团 | 组织 KOL 方案专家评审 |
+| [kol-operations-advisor-garyvee](../kol-operations-skills/kol-operations-advisor-garyvee/) | 加里·韦纳查克 | 判断达人内容方向与账号增长 |
+| [kol-operations-advisor-schaffer](../kol-operations-skills/kol-operations-advisor-schaffer/) | 尼尔·谢弗 | 设计 KOL 策略与长期关系 |
+| [kol-operations-advisor-hennessy](../kol-operations-skills/kol-operations-advisor-hennessy/) | 布列塔尼·亨尼西 | 评估报价、谈判与合同 |
+| [kol-operations-method-influencer](../kol-operations-skills/kol-operations-method-influencer/) | 《Influencer》 | 用达人分层金字塔设计预算 |
+| [kol-operations-method-contagious](../kol-operations-skills/kol-operations-method-contagious/) | 《疯传》 | 用 STEPPS 设计可传播内容 |
+| [kol-operations-method-leverage](../kol-operations-skills/kol-operations-method-leverage/) | 《疯传》 | 用低成本杠杆设计传播 |
 
 ## 使用原则
 
