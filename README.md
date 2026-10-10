@@ -31,7 +31,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 
 | 分类 | 这一类解决什么 | 已收录 |
 |---|---|---|
-| [**💼&nbsp;求&#8288;职&#8288;面&#8288;试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 12 个求职 Skill |
+| [**💼&nbsp;求&#8288;职&#8288;面&#8288;试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 13 个求职 Skill |
 | [**🧩&nbsp;岗&#8288;位&#8288;技&#8288;能&#8288;库**](#career-skills) | 按真实工作场景进入岗位能力系统：既能直接交付，也能在关键取舍时辅助判断 | 21 个岗位方向 · 304 个 Skill |
 | [**🧠&nbsp;思&#8288;维&#8288;视&#8288;角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | [**✍️&nbsp;内&#8288;容&#8288;创&#8288;作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
@@ -50,6 +50,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [interview-prep-brief](./interview-prep-brief/) | 根据岗位 JD、候选人背景和题库/面经，生成岗位面试备书：高概率题目、带数据的可直接用答案、追问链路和备面计划；本地材料不足时可参考外部项目机制优化拆解，支持飞书文档或本地 Markdown |
 | [interview-resume-deep-dive](./interview-resume-deep-dive/) | 把简历经历拆成“表层问题 + 追问问题”两层题库；每一题都给出基于真实材料的可直接开口答案、量化口径和下一层追问，提前练掉最容易被击穿的简历细节 |
 | [interview-round-prep](./interview-round-prep/) | 在面试备书基础上继续拆一面、二面、三面/终面、HR 面，按轮次生成高概率题、回答思路、可直接开口答案和追问预判；适合面试前按轮次集中练习，支持飞书文档或本地 Markdown |
+| [interview-first-draft-review](./interview-first-draft-review/) | 面试逐字稿初稿审阅：学生第一次交稿时，直接定位经历结构、数据证据、个人贡献与追问风险；逐段给出重构路线、代表经历示范和脱稿练习清单，而不只做润色 |
 | [interview-script-naturalizer](./interview-script-naturalizer/) | 面试逐字稿去 AI 味：把 AI 生成或过度书面化的项目回答，改成真实、自然、能直接开口且接得住追问的表达；保留本人事实，不虚构数据 |
 | [interview-learning-loop](./interview-learning-loop/) | 面试训练循环：把每天的练习、模拟与真实面试反馈沉淀进同一份训练档案；始终更新今日最该做的一步，并按卡点联动备书、表达、复盘、岗位核验或谈薪 Skill |
 | [interview-transcript-replay](./interview-transcript-replay/) | 根据面试录音转写、PDF、飞书文档或纯文本记录，提炼真实面试问题，诊断原回答失分点，并生成核心问题复盘、其他问题复盘、可直接开口答案和下次练习计划 |

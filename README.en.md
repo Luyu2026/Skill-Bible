@@ -31,7 +31,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 
 | Category | What it helps with | Included now |
 |---|---|---|
-| 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 12 job-search Skills |
+| 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 13 job-search Skills |
 | 🧩 [**Career Skills**](./career-skills/) | Enter through real work: deliver a concrete output or use a decision framework when trade-offs matter | 21 role systems · 304 Skills |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
 | ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative |
@@ -60,6 +60,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | [interview-prep-brief](./interview-prep-brief/) | Turn a JD, candidate background, and question bank into a focused interview brief |
 | [interview-resume-deep-dive](./interview-resume-deep-dive/) | Turn resume bullets into a two-layer interview bank of surface questions and follow-ups, each grounded in real evidence with a speakable answer and the next likely challenge |
 | [interview-round-prep](./interview-round-prep/) | Prepare the same project differently for each interview round |
+| [interview-first-draft-review](./interview-first-draft-review/) | Review a student's first interview-script draft: identify structural, evidence, ownership, and follow-up gaps; provide a revision map, one representative rebuild, and a speak-from-memory practice plan |
 | [interview-script-naturalizer](./interview-script-naturalizer/) | Turn AI-generated or overly formal interview scripts into natural, speakable answers that retain the user's facts and hold up under follow-up questions |
 | [interview-learning-loop](./interview-learning-loop/) | Maintain one evolving interview-training record, update today's task, and route each new practice or interview signal to the right next action |
 | [interview-transcript-replay](./interview-transcript-replay/) | Turn an interview transcript into the key misses, revised answers, and a practice plan |
