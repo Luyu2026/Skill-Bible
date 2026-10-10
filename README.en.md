@@ -60,7 +60,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | [interview-prep-brief](./interview-prep-brief/) | Turn a JD, candidate background, and question bank into a focused interview brief |
 | [interview-resume-deep-dive](./interview-resume-deep-dive/) | Turn resume bullets into a two-layer interview bank of surface questions and follow-ups, each grounded in real evidence with a speakable answer and the next likely challenge |
 | [interview-round-prep](./interview-round-prep/) | Prepare the same project differently for each interview round |
-| [interview-first-draft-review](./interview-first-draft-review/) | Review a student's first interview-script draft: identify structural, evidence, ownership, and follow-up gaps; provide a revision map, one representative rebuild, and a speak-from-memory practice plan |
+| [interview-first-draft-review](./interview-first-draft-review/) | Grade a student's first interview-script draft by identifying the only preparation layer they should complete next, then produce a teacher-ready assignment with explicit scope, submission format, and advancement criteria |
 | [interview-script-naturalizer](./interview-script-naturalizer/) | Turn AI-generated or overly formal interview scripts into natural, speakable answers that retain the user's facts and hold up under follow-up questions |
 | [interview-learning-loop](./interview-learning-loop/) | Maintain one evolving interview-training record, update today's task, and route each new practice or interview signal to the right next action |
 | [interview-transcript-replay](./interview-transcript-replay/) | Turn an interview transcript into the key misses, revised answers, and a practice plan |

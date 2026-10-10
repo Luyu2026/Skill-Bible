@@ -50,7 +50,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [interview-prep-brief](./interview-prep-brief/) | 根据岗位 JD、候选人背景和题库/面经，生成岗位面试备书：高概率题目、带数据的可直接用答案、追问链路和备面计划；本地材料不足时可参考外部项目机制优化拆解，支持飞书文档或本地 Markdown |
 | [interview-resume-deep-dive](./interview-resume-deep-dive/) | 把简历经历拆成“表层问题 + 追问问题”两层题库；每一题都给出基于真实材料的可直接开口答案、量化口径和下一层追问，提前练掉最容易被击穿的简历细节 |
 | [interview-round-prep](./interview-round-prep/) | 在面试备书基础上继续拆一面、二面、三面/终面、HR 面，按轮次生成高概率题、回答思路、可直接开口答案和追问预判；适合面试前按轮次集中练习，支持飞书文档或本地 Markdown |
-| [interview-first-draft-review](./interview-first-draft-review/) | 面试逐字稿初稿审阅：学生第一次交稿时，直接定位经历结构、数据证据、个人贡献与追问风险；逐段给出重构路线、代表经历示范和脱稿练习清单，而不只做润色 |
+| [interview-first-draft-review](./interview-first-draft-review/) | 面试逐字稿作业批改：学生第一次交稿时，先判断其该完成的备面层级，直接生成可转发的作业单；明确这轮只写什么、暂停什么、怎样通过后再进入下一层 |
 | [interview-script-naturalizer](./interview-script-naturalizer/) | 面试逐字稿去 AI 味：把 AI 生成或过度书面化的项目回答，改成真实、自然、能直接开口且接得住追问的表达；保留本人事实，不虚构数据 |
 | [interview-learning-loop](./interview-learning-loop/) | 面试训练循环：把每天的练习、模拟与真实面试反馈沉淀进同一份训练档案；始终更新今日最该做的一步，并按卡点联动备书、表达、复盘、岗位核验或谈薪 Skill |
 | [interview-transcript-replay](./interview-transcript-replay/) | 根据面试录音转写、PDF、飞书文档或纯文本记录，提炼真实面试问题，诊断原回答失分点，并生成核心问题复盘、其他问题复盘、可直接开口答案和下次练习计划 |
