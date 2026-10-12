@@ -62,6 +62,7 @@ description: 面试训练循环总控。当用户希望持续记录面试准备�
 
 | 当前主阻塞点 | 优先联动 | 今日产出 |
 |---|---|---|
+| 目标方向过宽、还没有研究同类岗位真正需要什么 | `job-market-map` | JD 采样作业、岗位需求地图和主投方向 |
 | 缺岗位理解、备书或项目事实 | `interview-prep-brief`、`interview-resume-deep-dive`、`interview-round-prep` | 待补事实、关键项目骨架或目标轮次的准备材料 |
 | 刚完成第一版逐字稿，但结构、数据或追问还不稳 | `interview-first-draft-review` | 逐段重构路线、待补证据和优先口述练习 |
 | 表达有 AI 味、不像本人 | `interview-script-naturalizer`（如已安装） | 一段可开口的自然表达与必须保留的事实锚点 |
