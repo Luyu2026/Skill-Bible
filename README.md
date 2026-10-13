@@ -106,6 +106,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | 把碎片想法扩写成视频文案——结构化口播稿、剪辑版、金句、标题一键输出 |
 | [wechat-visual-narrative](./wechat-visual-narrative/) | 根据已定稿的飞书公众号文章，先识别流程型、命题论证型或案例复盘型，再规划、生成并按位置插入真正帮助理解的配图 |
+| [product-promo-video](./product-promo-video/) | 为真实产品制作可发布的宣传视频：从发布目标、核心承诺、真实界面与证据出发，生成镜头脚本、静帧预览和带动效/配音/字幕的 MP4 |
 
 <a id="investment-research"></a>
 ## 📈 投资研究

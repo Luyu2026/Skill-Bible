@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品宣传视频"
+  short_description: "用真实产品界面和证据制作可发布的宣传片"
+  default_prompt: "使用 $product-promo-video 为我的产品制作宣传视频。请先完成发布 brief 和镜头脚本，确认真实素材、证据与 CTA 后，再先出静帧预览并渲染成片。"

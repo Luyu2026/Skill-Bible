@@ -1,0 +1,9 @@
+{
+  "name": "product-promo-video-scripts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "lucide-static": "^0.468.0",
+    "puppeteer-core": "^23.11.1"
+  }
+}

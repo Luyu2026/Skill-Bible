@@ -1,0 +1,71 @@
+{
+  "name": "myapp",
+  "campaign": {
+    "goal": "让目标用户开始试用",
+    "audience": "谁在什么任务中遇到什么阻碍",
+    "placement": "官网发布页",
+    "primary_promise": "产品如何以真实能力帮助用户完成一个具体结果",
+    "cta": "立即试用",
+    "success_metric": "落地页点击率与试用注册转化"
+  },
+  "product": {
+    "name": "产品名",
+    "slogan": "一句话 slogan",
+    "url": "https://example.com/",
+    "logo": "brand/logo.svg",
+    "logoMono": true,
+    "colors": { "accent": "#FF5A1F", "accent2": "#1F6BFF" }
+  },
+  "style": "flat-mg",
+  "format": "16:9",
+  "captions": true,
+  "voice": { "engine": "auto", "voice": "", "rate": "" },
+  "bgm": "auto",
+  "bgmVolume": -16,
+  "fontFile": "",
+  "tokens": {},
+  "css": "",
+  "scenes": [
+    { "type": "logo", "tagline": "一句话 slogan",
+      "say": "产品名。一句话 slogan。" },
+
+    { "type": "slogan", "kicker": "ENGLISH NAME", "title": "一句话说清\n这是**什么**", "sub": "补充一句具体的描述",
+      "say": "用一两句话说清楚这个产品是做什么的。" },
+
+    { "type": "feature", "kicker": "功能名", "title": "功能标题\n**重点词**", "sub": "具体能做什么",
+      "image": "brand/shot-desktop.png", "frame": "browser", "focus": [0.5, 0.4, 1.3],
+      "bullets": ["可选的要点一", "可选的要点二"],
+      "evidence": "真实产品截图：brand/shot-desktop.png，证明此功能已存在",
+      "say": "这个功能解决什么问题。" },
+
+    { "type": "cards", "title": "**几种**使用场景",
+      "items": [
+        { "icon": "house", "label": "场景一", "desc": "一句说明" },
+        { "icon": "train-front", "label": "场景二", "desc": "一句说明" },
+        { "icon": "briefcase", "label": "场景三", "desc": "一句说明" }
+      ],
+      "say": "在家、在路上、在公司，都能用。" },
+
+    { "type": "feature", "side": "right", "kicker": "移动端", "title": "随时随地\n**都能用**", "sub": "一句说明",
+      "image": "brand/shot-mobile.png", "frame": "phone",
+      "evidence": "真实产品截图：brand/shot-mobile.png，证明移动端使用流程",
+      "say": "手机上也一样。" },
+
+    { "type": "stats", "kicker": "数据时间和出处", "title": "**数字**说明一切",
+      "evidence": "官方数据页或应用商店评分页面",
+      "items": [ { "value": "100万", "label": "用户", "source": "官方公告 / 财报链接" }, { "value": "4.9分", "label": "评分", "source": "应用商店页面链接" } ],
+      "say": "已经有一百万人在用。" },
+
+    { "type": "tags", "mode": "cloud", "title": "用户**怎么说**",
+      "items": ["好用", "省时间", "界面好看", "离不开了"],
+      "evidence": "经授权的真实用户反馈或公开评论链接",
+      "say": "用过的人都这么说。" },
+
+    { "type": "gallery", "title": "**更多**可能", "images": ["brand/shot-desktop.png", "brand/shot-desktop-2.png", "brand/shot-desktop-3.png"],
+      "evidence": "真实产品截图：brand/shot-desktop*.png",
+      "say": "还有更多功能等你发现。" },
+
+    { "type": "end", "title": "一句话 slogan", "sub": "", "cta": "example.com",
+      "say": "产品名，现在就试试。" }
+  ]
+}

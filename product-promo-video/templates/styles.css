@@ -1,0 +1,112 @@
+/* 各风格的皮肤补丁（骨架在 base.css） */
+
+/* apple-keynote */
+.st-apple-keynote .title { background: linear-gradient(180deg, #fff, #b8b8bd); -webkit-background-clip: text; color: transparent; }
+.st-apple-keynote .title em { background: linear-gradient(90deg, var(--accent), var(--accent2)); -webkit-background-clip: text; color: transparent; }
+.st-apple-keynote .ch-em { color: var(--accent); }
+.st-apple-keynote .kicker { letter-spacing: .3em; font-weight: 500; }
+.st-apple-keynote .card { border: 1px solid rgba(255,255,255,.08); }
+.st-apple-keynote .logo { --logoColor: #fff; }
+.st-apple-keynote .tag { background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.12); }
+
+/* saas-glow */
+.st-saas-glow .title em { background: linear-gradient(90deg, var(--accent), var(--accent2)); -webkit-background-clip: text; color: transparent; }
+.st-saas-glow .ch-em { background: linear-gradient(90deg, var(--accent), var(--accent2)); -webkit-background-clip: text; color: transparent; }
+.st-saas-glow .kicker { display: inline-block; padding: 8px 20px; border-radius: 999px; border: 1px solid rgba(255,255,255,.18); background: rgba(255,255,255,.05); font-size: 24px; color: var(--fg); }
+.st-saas-glow .card, .st-saas-glow .tag { border: 1px solid rgba(255,255,255,.12); backdrop-filter: blur(20px); }
+.st-saas-glow .frame-browser { border: 1px solid rgba(255,255,255,.18); box-shadow: 0 0 0 1px rgba(255,255,255,.05), 0 50px 140px color-mix(in srgb, var(--accent) 45%, transparent); }
+.st-saas-glow .stat-v { background: linear-gradient(180deg, #fff, var(--accent2)); -webkit-background-clip: text; color: transparent; }
+.st-saas-glow .logo { --logoColor: #fff; filter: drop-shadow(0 0 40px color-mix(in srgb, var(--accent) 70%, transparent)); }
+.st-saas-glow .cta { background: linear-gradient(90deg, var(--accent), var(--accent2)); }
+
+/* kinetic */
+.st-kinetic .scene { padding: 100px 110px; }
+.st-kinetic .title { line-height: 1.02; }
+.st-kinetic .kicker { display: inline-block; border: 4px solid currentColor; padding: 4px 18px; color: inherit; }
+.st-kinetic .card { background: rgba(0,0,0,.18); color: inherit; border-radius: 0; }
+.st-kinetic .card-desc { color: inherit; opacity: .8; }
+.st-kinetic .t-logo, .st-kinetic .t-end { background: var(--accent); }
+.st-kinetic .logo { --logoColor: #fff; }
+.st-kinetic .tagline, .st-kinetic .t-end .title, .st-kinetic .t-end .sub { color: #fff; }
+.st-kinetic .cta { background: #111; }
+.st-kinetic .tag { font-size: 64px; font-weight: 900; border-radius: 0; background: none; color: inherit; padding: 0; }
+.st-kinetic .tag-a { color: #fff; -webkit-text-stroke: 0; }
+.st-kinetic .tag-b { color: transparent; -webkit-text-stroke: 2px currentColor; }
+.st-kinetic .t-tags .copy.mid { background: #111; color: #fff; border-radius: 0; --hl: var(--accent2); }
+.st-kinetic .stat-v { color: inherit; font-size: 200px; }
+.st-kinetic .frame-browser { border-radius: 0; box-shadow: 30px 30px 0 rgba(0,0,0,.25); }
+
+/* flat-mg */
+.st-flat-mg .card { border: 4px solid var(--fg); }
+.st-flat-mg .kicker { display: inline-block; padding: 8px 22px; border-radius: 999px; background: var(--accent2); color: #fff; letter-spacing: .05em; }
+.st-flat-mg .frame-browser, .st-flat-mg .frame-phone { border: 5px solid var(--fg); }
+.st-flat-mg .frame-browser .bar { border-bottom: 4px solid var(--fg); background: #ffd166; }
+.st-flat-mg .tag { border: 4px solid var(--fg); background: #fff; color: var(--fg); }
+.st-flat-mg .tag-a { background: var(--accent); color: #fff; } .st-flat-mg .tag-b { background: var(--accent2); color: #fff; }
+.st-flat-mg .t-tags .copy.mid { border: 5px solid var(--fg); }
+.st-flat-mg .cta { border: 4px solid var(--fg); box-shadow: 0 10px 0 var(--fg); }
+.st-flat-mg .mg-circle { width: 70px; height: 70px; border-radius: 50%; background: var(--c); opacity: .9; }
+.st-flat-mg .mg-ring { width: 90px; height: 90px; border-radius: 50%; border: 12px solid var(--c); }
+.st-flat-mg .mg-tri { width: 0; height: 0; border-left: 40px solid transparent; border-right: 40px solid transparent; border-bottom: 70px solid var(--c); }
+.st-flat-mg .mg-plus { width: 70px; height: 70px; background: linear-gradient(var(--c) 0 0) center / 100% 18px no-repeat, linear-gradient(var(--c) 0 0) center / 18px 100% no-repeat; }
+.st-flat-mg .mg-squiggle { width: 140px; height: 30px; background: radial-gradient(circle at 15px 0, transparent 12px, var(--c) 13px 19px, transparent 20px) 0 0 / 30px 30px repeat-x; }
+.st-flat-mg .mg-dot { width: 26px; height: 26px; border-radius: 50%; background: var(--c); }
+
+/* editorial */
+.st-editorial .kicker { font-family: var(--font); font-weight: 600; color: var(--accent); letter-spacing: .4em; border-top: 2px solid var(--fg); padding-top: 18px; display: inline-block; }
+.st-editorial .title { letter-spacing: .01em; }
+.st-editorial .sub { font-family: "PingFang SC", sans-serif; }
+.st-editorial .card { border-top: 6px solid var(--fg); }
+.st-editorial .card-label { font-family: var(--display); }
+.st-editorial .tag { background: none; border: 1.5px solid var(--fg); border-radius: 0; color: var(--fg); font-family: var(--display); }
+.st-editorial .tag-a { background: var(--fg); color: var(--bg); } .st-editorial .tag-b { color: var(--accent); border-color: var(--accent); background: none; }
+.st-editorial .frame-browser { border-radius: 2px; }
+.st-editorial .cta { border-radius: 0; background: var(--fg); color: var(--bg); }
+.st-editorial .t-tags .copy.mid, .st-editorial .copy.over { border-radius: 0; }
+.st-editorial .logo { --logoColor: var(--fg); }
+
+/* neo-brutal */
+.st-neo-brutal .card, .st-neo-brutal .frame-browser, .st-neo-brutal .frame-phone, .st-neo-brutal .tag, .st-neo-brutal .cta, .st-neo-brutal .stat { border: 5px solid #111; }
+.st-neo-brutal .frame-browser .bar { border-bottom: 5px solid #111; }
+.st-neo-brutal .kicker { display: inline-block; background: #111; color: #fff; padding: 8px 20px; transform: rotate(-2deg); }
+.st-neo-brutal .title em { background: var(--accent2); color: #fff; padding: 0 .15em; font-style: normal; }
+.st-neo-brutal .ch-em { color: var(--accent); }
+.st-neo-brutal .tag { box-shadow: 8px 8px 0 #111; border-radius: 12px; background: #fff; color: #111; }
+.st-neo-brutal .tag-a { background: var(--accent); color: #111; } .st-neo-brutal .tag-b { background: var(--accent2); color: #fff; }
+.st-neo-brutal .stat { background: #fff; box-shadow: 10px 10px 0 #111; border-radius: 18px; padding: 40px 20px; }
+.st-neo-brutal .stat-v { color: #111; }
+.st-neo-brutal .cta { box-shadow: 8px 8px 0 #111; color: #111; border-radius: 14px; }
+.st-neo-brutal .t-tags .copy.mid, .st-neo-brutal .copy.over { border: 5px solid #111; box-shadow: 10px 10px 0 #111; }
+.st-neo-brutal .logo { --logoColor: #111; }
+
+/* cyber-glitch */
+.st-cyber-glitch .kicker { font-family: Menlo, monospace; letter-spacing: .1em; }
+.st-cyber-glitch .kicker::before { content: "> "; }
+.st-cyber-glitch .title { text-shadow: 0 0 30px color-mix(in srgb, var(--accent) 50%, transparent); }
+.st-cyber-glitch .sub { font-family: Menlo, "PingFang SC", monospace; font-size: 32px; }
+.st-cyber-glitch .card { border: 1px solid var(--accent); box-shadow: inset 0 0 40px color-mix(in srgb, var(--accent) 20%, transparent); clip-path: polygon(0 0, calc(100% - 30px) 0, 100% 30px, 100% 100%, 30px 100%, 0 calc(100% - 30px)); }
+.st-cyber-glitch .stat-v { text-shadow: 4px 0 var(--accent2), -4px 0 var(--accent); color: #fff; }
+.st-cyber-glitch .logo { --logoColor: var(--accent); filter: drop-shadow(0 0 30px var(--accent)); }
+.st-cyber-glitch .cta { background: none; border: 2px solid var(--accent); color: var(--accent); border-radius: 4px; font-family: Menlo, monospace; }
+.st-cyber-glitch .t-tags .copy.mid, .st-cyber-glitch .copy.over { border: 1px solid var(--accent); border-radius: 0; }
+.st-cyber-glitch .mode-danmaku .tag { text-shadow: 0 0 12px currentColor; }
+
+/* bento */
+.st-bento .grid { gap: 26px; }
+.st-bento .grid.n3 { grid-template-columns: 1.3fr 1fr; grid-template-rows: 1fr 1fr; }
+.st-bento .grid.n3 .card:first-child, .st-bento .grid.n5 .card:first-child { grid-row: span 2; }
+.st-bento .card-label { font-weight: 700; }
+.st-bento .kicker { font-weight: 600; letter-spacing: 0; }
+.st-bento .tag { background: #fff; color: var(--fg); box-shadow: 0 10px 30px rgba(0,0,0,.06); }
+.st-bento .tag-a { background: var(--accent); color: #fff; } .st-bento .tag-b { background: var(--fg); color: #fff; }
+.st-bento .stat { background: #fff; border-radius: 36px; padding: 50px 20px; box-shadow: 0 20px 50px rgba(0,0,0,.06); }
+
+/* 卡片图标的风格差异 */
+.st-kinetic .card-icon { --iconColor: currentColor; --iconBg: rgba(255,255,255,.18); border-radius: 0; }
+.st-kinetic .card-num { color: inherit; }
+.st-flat-mg .card-icon { border: 4px solid var(--fg); --iconBg: color-mix(in srgb, var(--accent) 18%, #fff); }
+.st-editorial .card-icon { --iconBg: transparent; padding: 0; width: 88px; height: 88px; --iconColor: var(--fg); --iconStroke: 1.25; }
+.st-neo-brutal .card-icon { border: 4px solid #111; box-shadow: 5px 5px 0 #111; --iconBg: var(--accent); --iconColor: #111; --iconRadius: 12px; --iconStroke: 2.25; }
+.st-cyber-glitch .card-icon { --iconBg: transparent; border: 1px solid var(--accent); --iconRadius: 0; filter: drop-shadow(0 0 10px var(--accent)); }
+.st-apple-keynote .card-icon { --iconBg: rgba(255,255,255,.06); --iconStroke: 1.5; }
+.st-saas-glow .card-icon { --iconBg: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.12); --iconColor: var(--accent2); }

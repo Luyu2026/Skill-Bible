@@ -1,0 +1,6 @@
+scripts/node_modules/
+scripts/.cache/
+**/.tts-cache/
+**/out/
+*.mp4
+*.wav
