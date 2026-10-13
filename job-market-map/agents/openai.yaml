@@ -1,4 +1,4 @@
 interface:
   display_name: "岗位需求地图"
-  short_description: "从一批 JD 找到真实岗位要求，再决定简历怎么写"
-  default_prompt: "使用 $job-market-map，根据我收集的 JD 帮我建立岗位需求地图，判断主投方向和我需要补的真实证据。"
+  short_description: "从公司招聘页、JD 或岗位名读懂业务与人才信号"
+  default_prompt: "使用 $job-market-map 分析我提供的公司招聘页、岗位或 JD。请先完成招聘情报分析；只有我给出个人经历时，再追加定向匹配和提升建议。"
