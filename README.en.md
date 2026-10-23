@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-333-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-338-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -36,6 +36,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
 | ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative |
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
+| [**Project practice**](#project-practice) | Take existing projects into suitable competitions and complete the submission workflow | Competition discovery and entry |
 | 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
 
 ---
@@ -110,6 +111,13 @@ Career Skills are role-based workflows that move from diagnosis to delivery and 
 | **Global growth** | Market entry, branding, SEO, paid ads, email, and creator partnerships | [🌍 Overseas marketing](./career-skills/#overseas-marketing) · [🌟 KOL operations](./career-skills/#kol-operations) |
 
 **No need to guess which Skill to use the first time.** Open [Career Skills](./career-skills/), start with the relevant `*-master` controller, and describe your goal, available material, and blocker. When the task is already clear, call the specialist Skill directly.
+
+<a id="project-practice"></a>
+### Project practice
+
+| Skill | What it helps with |
+|---|---|
+| [competition-entry-agent](./competition-entry-agent/) | Find current competitions for Skill-Bible or another existing project, verify eligibility and rules, prepare and test materials, and proceed through registration, team setup, and final submission; preserve receipts and resumable progress rather than stopping at a shortlist |
 
 <a id="development-tools"></a>
 ### 🧰 Development

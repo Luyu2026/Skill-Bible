@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-333-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-338-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -36,6 +36,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [**🧠&nbsp;思&#8288;维&#8288;视&#8288;角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
 | [**✍️&nbsp;内&#8288;容&#8288;创&#8288;作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
 | [**📈&nbsp;投&#8288;资&#8288;研&#8288;究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
+| [**项目实践**](#project-practice) | 把已有项目带到真实赛事中，完成报名、验证与正式提交 | 项目找赛与参赛执行 |
 | [**🧰&nbsp;编&#8288;程&#8288;辅&#8288;助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
 
 ---
@@ -115,6 +116,13 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | Skill | 用途 |
 |---|---|
 | [chanlun-framework](./chanlun-framework/) | 缠论框架：将行情拆成走势类型、中枢、背驰与买卖点，以大级别定方向、小级别找位置；用于研究、复盘和风险检查，不提供确定的买卖结论 |
+
+<a id="project-practice"></a>
+## 项目实践
+
+| Skill | 用途 |
+|---|---|
+| [competition-entry-agent](./competition-entry-agent/) | 项目找赛与参赛执行：为 Skill-Bible 或其他已有项目搜索当前合适的比赛，核验资格和规则，准备并验证作品材料，推进报名、组队和正式提交；保存回执与断点，支持换 Agent 续办，不止返回比赛名单 |
 
 <a id="development-tools"></a>
 ## 🧰 编程辅助

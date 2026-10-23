@@ -1,0 +1,3 @@
+interface:
+  display_name: "项目找赛与参赛执行"
+  short_description: "为已有项目匹配赛事，完成报名、材料验证与正式提交，并保存续办进度和回执"
