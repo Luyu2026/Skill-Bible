@@ -29,8 +29,10 @@
 1. 先打开视频内容里的精确 URL；提取 owner/repo/path，避免漏掉 monorepo 子目录。记录来源时间点。
 2. GitHub 仓库检索 `"skill-name"`、`user:handle skill-name`；代码检索 `filename:SKILL.md "唯一短语"`、`repo:owner/repo path:skills`；工具不能代码检索时用公开网页 `site:github.com "SKILL.md" "skill-name"`。仓库搜索并不搜索文件内容。无 token 的代码 API 失败不得写成“无匹配”。
 3. 核验最强候选：视频内容锚点、真实文件和独立身份支持齐全且无冲突时立即停止。独特名称/明确作者已出现时，不再泛搜能力词；只查看缺失锚点附近的画面，不继续均匀抽帧。
-4. 主路径精确及有根据的扩展均未定位，或原作不可用而需要替代，或用户明确要求时，才查 SkillHub `GET https://api.skillhub.cn/api/skills?keyword=<URL编码词>`，记录触发原因。只选最有区分度的一至两个词，不逐项遍历所有同义词；keyword 是已知参数，不猜未证实的筛选参数。保留响应形状与原始条目，未知结构报错，不能当空结果。检查 upstream URL、作者、slug、名称，回到真实上游文件核验，缺 URL 不合成下载地址。显式调用 `scripts/search_skills.py '关键词' --sources skillhub`；默认搜索不查 SkillHub。
-5. 原作仍不能确认或不可用，且预算允许，再用输入格式+动作+输出格式+Agent 组合寻找替代，比较同能力与部分替代。无需凑齐两来源；结果去重以规范 upstream repo/path 为准，保留来源链。
+4. 首轮未确认原作或原作不可获取时，先告知情况，询问是否找同类并给出额外 1–3 分钟的预计耗时，结束本轮等待回复。只有用户同意（含最初明确要求找不到就找同类）才能启动替代检索，不能因预算还有剩余就自动切换。
+5. 获得同意后重新计时，用输入格式+动作+输出格式+Agent 查 GitHub，再按缺口查 SkillHub `GET https://api.skillhub.cn/api/skills?keyword=<URL编码词>`。只选最有区分度的一至两个词，不遍历同义词；keyword 是已知参数，不猜筛选参数。保留响应形状与原始条目，未知结构报错，不能当空结果。检查 upstream URL、作者、slug、名称，回到真实上游文件核验，缺 URL 不合成下载地址。显式调用 `scripts/search_skills.py '关键词' --sources skillhub`；默认不查 SkillHub。无需凑齐两来源；按 upstream repo/path 去重，保留来源链，只交付 1–3 个可靠替代及主要差别。
+
+替代检索的目标可以来自已读视频正文，也可以来自用户明确需求或分享文案中的具体功能描述。原片不可读不阻断后一种方式，但必须说明依据，不能声称已看原片。结构化结果须有 `alternative_search_authorized: true`；无原片正文时还须有 `target_requirement.source`（user_request/share_text）和非空 description。这不是原作身份证据，不能提升原作等级。脚本只能检查输入，不能证明用户真的同意或功能真的匹配，Agent 仍需实际核验。以下 alternative_only 判定均以获得用户同意为前提。
 
 每个请求保留 URL、UTC 时间、成功/失败、错误；可限制一轮精确、一轮扩展，按用户时间预算停止。限流、404、网络失败区分记录。失败不代表不存在；不无限重试。搜索命中后读取的上游文件需另记录 URL 和 commit，搜索摘要不能代替原文。
 

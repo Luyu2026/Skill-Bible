@@ -109,6 +109,7 @@ class Fixtures(unittest.TestCase):
 
     def test_alternative_and_reference(self):
         data = original_case()
+        data['alternative_search_authorized'] = True
         c = data['candidates'][0]
         c.update(classification='same_capability', identity_score=0, identity_evidence=[], capability_verified=True)
         result = compose(data)
@@ -117,6 +118,41 @@ class Fixtures(unittest.TestCase):
         self.assertEqual(result['alternatives'][0]['label'], '替代')
         c['classification'] = 'reference_only'
         self.assertEqual(compose(data)['status'], 'needs_more_evidence')
+
+    def test_no_alternatives_without_user_consent(self):
+        data = original_case()
+        data['candidates'][0].update(classification='same_capability', capability_verified=True)
+        for consent in (None, False, 'true'):
+            data['alternative_search_authorized'] = consent
+            result = compose(data)
+            self.assertEqual(result['alternatives'], [])
+            self.assertIn('要不要', result['next_action'])
+            self.assertIn('1–3', result['next_action'])
+
+    def test_alternative_from_supplied_description_not_video_identity(self):
+        data = original_case()
+        data['video']['content_reviewed'] = False
+        data['alternative_search_authorized'] = True
+        data['target_requirement'] = {'source': 'share_text', 'description': '照片转旅行视频'}
+        data['candidates'][0].update(classification='partial_substitute', capability_verified=True)
+        result = compose(data)
+        self.assertEqual(result['status'], 'alternative_only')
+        self.assertFalse(result['video']['content_reviewed'])
+        data['candidates'][0]['classification'] = 'confirmed_original'
+        self.assertEqual(compose(data)['original'], [])
+
+    def test_consent_does_not_replace_target_or_upstream(self):
+        data = original_case()
+        data['alternative_search_authorized'] = True
+        data['video']['content_reviewed'] = False
+        data['candidates'][0].update(classification='same_capability', capability_verified=True)
+        for requirement in ({}, {'source': 'model_guess', 'description': 'Make video'},
+                            {'source': 'user_request', 'description': ' '}):
+            data['target_requirement'] = requirement
+            self.assertEqual(compose(data)['alternatives'], [])
+        data['target_requirement'] = {'source': 'user_request', 'description': '照片转旅行视频'}
+        data['evidence'][1]['verified'] = False
+        self.assertEqual(compose(data)['alternatives'], [])
 
     def test_limited_scope_not_found_and_gates(self):
         data = {'video': {'content_reviewed': True}, 'search_complete': True, 'sources_checked': ['github']}
@@ -438,6 +474,7 @@ class Fixtures(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp:
             for expected, data in [('original_found', original_case()), ('alternative_only', original_case())]:
                 if expected == 'alternative_only':
+                    data['alternative_search_authorized'] = True
                     data['candidates'][0].update(classification='partial_substitute', capability_verified=True)
                 path = Path(tmp)/'input.json'
                 path.write_text(json.dumps(data))

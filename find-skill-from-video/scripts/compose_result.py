@@ -44,6 +44,12 @@ def compose(data):
     originals, alternatives, leads = [], [], []
     limitations = list(data.get('limitations', []))
     video = data.get('video', {})
+    alternative_authorized = data.get('alternative_search_authorized') is True
+    requirement = data.get('target_requirement') or {}
+    described_target = (isinstance(requirement, dict) and
+                        requirement.get('source') in ('user_request', 'share_text') and
+                        isinstance(requirement.get('description'), str) and
+                        bool(requirement['description'].strip()))
     search_complete = data.get('search_complete') is True
     sources_checked = list(data.get('sources_checked', []))
     for candidate in data.get('candidates', []):
@@ -76,11 +82,12 @@ def compose(data):
             cap_refs = [ids[i] for i in c.get('capability_evidence', []) if i in ids]
             usable_file = any(e.get('kind') == 'upstream_skill' and e.get('verified') is True
                               and e.get('source') == c.get('skill_file_url') and e.get('excerpt') for e in cap_refs)
-            if video.get('content_reviewed') and c.get('availability') == 'available' and usable_file and c.get('capability_verified') is True:
+            if (alternative_authorized and (video.get('content_reviewed') or described_target) and
+                    c.get('availability') == 'available' and usable_file and c.get('capability_verified') is True):
                 c['label'] = '替代'
                 alternatives.append(c)
             else:
-                limitations.append(f"{c.get('name')}: substitute not verified usable")
+                limitations.append(f"{c.get('name')}: substitute requires user consent, a clear target, and verified usable upstream")
         if (classification in ('confirmed_original', 'probable_original') and
                 c not in originals and upstream and not c.get('conflicts')):
             c['classification'] = 'unverified_lead'
@@ -118,11 +125,17 @@ def compose(data):
                         if c['classification'] == 'confirmed_original'})
         coverage = {'expected_count': expected, 'confirmed_file_count': verified,
                     'complete': verified == expected}
+    if not originals and not alternative_authorized:
+        next_action = '暂时还没确认到视频里的原版。要不要我再找能实现类似功能的 Skill？预计再用 1–3 分钟，会说明覆盖范围和差别。'
+    else:
+        next_action = data.get('next_action') or '交付已核验结果和差异；如仍无结果，说明缺口，不自动延长搜索。'
     return dict(status=status, fixture=bool(data.get('fixture')), video=video, original=originals,
                 leads=leads, coverage=coverage,
                 alternatives=alternatives, evidence=evidence, limitations=limitations,
+                alternative_search_authorized=alternative_authorized,
+                target_requirement=requirement,
                 search_scope=search_scope,
-                next_action=data.get('next_action') or '补充带时间点的视频内容、身份锚点或未覆盖来源，然后重新核验。')
+                next_action=next_action)
 
 
 def main():
