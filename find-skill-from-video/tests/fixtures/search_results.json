@@ -1,0 +1,4 @@
+{
+  "github": {"items": [{"name": "demo-skill", "full_name": "example/demo-skill", "html_url": "https://github.com/example/demo-skill", "owner": {"login": "example"}, "description": "Synthetic demo skill", "license": {"spdx_id": "MIT"}}]},
+  "skillhub": {"data": {"skills": [{"name": "demo-skill", "author": "example", "url": "https://example.invalid/skills/demo", "upstream_url": "https://github.com/example/demo-skill", "description": "Synthetic demo skill"}]}}
+}

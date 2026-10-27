@@ -1,0 +1,16 @@
+{
+  "fixture": true,
+  "notice": "SYNTHETIC OFFLINE EXAMPLE, NOT A REAL VIDEO",
+  "metadata": {
+    "title": "Synthetic demonstration",
+    "uploader": "example",
+    "description": "Offline fixture only",
+    "duration": 180,
+    "upload_date": "20260101",
+    "extractor_key": "Synthetic",
+    "chapters": [{"start_time": 0, "end_time": 180, "title": "Demo"}],
+    "subtitles": {},
+    "automatic_captions": {}
+  },
+  "transcript": []
+}

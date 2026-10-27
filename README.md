@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-338-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-339-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -34,10 +34,10 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [**💼&nbsp;求&#8288;职&#8288;面&#8288;试**](#job-search-and-interviews) | 从选岗、简历到面试与 Offer，解决一整段求职过程 | 15 个求职 Skill |
 | [**🧩&nbsp;岗&#8288;位&#8288;技&#8288;能&#8288;库**](#career-skills) | 按真实工作场景进入岗位能力系统：既能直接交付，也能在关键取舍时辅助判断 | 21 个岗位方向 · 304 个 Skill |
 | [**🧠&nbsp;思&#8288;维&#8288;视&#8288;角**](#perspectives) | 用不同的人物框架补齐一个人看问题的盲区 | 13 位思维视角 |
-| [**✍️&nbsp;内&#8288;容&#8288;创&#8288;作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事 |
+| [**✍️&nbsp;内&#8288;容&#8288;创&#8288;作**](#content-creation) | 把想法、素材和判断变成可以发出去的内容 | 想法扩写、公众号视觉叙事、产品宣传视频 |
 | [**📈&nbsp;投&#8288;资&#8288;研&#8288;究**](#investment-research) | 用不同框架研究市场、公司与交易纪律 | 缠论框架 |
-| [**项目实践**](#project-practice) | 把已有项目带到真实赛事中，完成报名、验证与正式提交 | 项目找赛与参赛执行 |
-| [**🧰&nbsp;编&#8288;程&#8288;辅&#8288;助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | Codex 宠物等 |
+| [**🏆&nbsp;项&#8288;目&#8288;实&#8288;践**](#project-practice) | 把已有项目带到真实赛事中，完成报名、验证与正式提交 | 项目找赛与参赛执行 |
+| [**🧰&nbsp;编&#8288;程&#8288;辅&#8288;助**](#development-tools) | 给 Agent 的工作过程补上实用的小能力 | 从视频找 Skill、Codex 宠物 |
 
 ---
 
@@ -118,7 +118,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | [chanlun-framework](./chanlun-framework/) | 缠论框架：将行情拆成走势类型、中枢、背驰与买卖点，以大级别定方向、小级别找位置；用于研究、复盘和风险检查，不提供确定的买卖结论 |
 
 <a id="project-practice"></a>
-## 项目实践
+## 🏆 项目实践
 
 | Skill | 用途 |
 |---|---|
@@ -130,6 +130,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | Skill | 用途 |
 |---|---|
 | [codex-pet-maker](./codex-pet-maker/) | 创建/修复/安装 Codex 桌面编程宠物动画，内含 10 个成品 pet |
+| [find-skill-from-video](./find-skill-from-video/) | 从视频演示中找到原 Skill：优先用现有视频理解能力，沿名称、作者和直接链接核验真实文件；找不到或原作不可用时，再从 GitHub、SkillHub 查找并核验同类推荐 |
 
 ## 📦 使用方式
 

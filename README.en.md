@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-338-2563EB?style=for-the-badge)](#-skills)
+[![Skills](https://img.shields.io/badge/Skills-339-2563EB?style=for-the-badge)](#-skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -31,13 +31,13 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 
 | Category | What it helps with | Included now |
 |---|---|---|
-| 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 13 job-search Skills |
+| 💼 [**Job search and interviews**](#job-search-and-interviews) | Move from role selection to resume, interviews, and offers | 15 job-search Skills |
 | 🧩 [**Career Skills**](./career-skills/) | Enter through real work: deliver a concrete output or use a decision framework when trade-offs matter | 21 role systems · 304 Skills |
 | 🧠 [**Perspectives**](#perspectives) | Use distinct thinking frameworks to cover decision blind spots | 13 perspective Skills |
-| ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative |
+| ✍️ [**Content creation**](#content-creation) | Turn ideas, materials, and judgments into publishable work | Idea expansion, visual narrative, product videos |
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and trading discipline with different frameworks | Chan theory framework |
-| [**Project practice**](#project-practice) | Take existing projects into suitable competitions and complete the submission workflow | Competition discovery and entry |
-| 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets and more |
+| 🏆 [**Project practice**](#project-practice) | Take existing projects into suitable competitions and complete the submission workflow | Competition discovery and entry |
+| 🧰 [**Development**](#development-tools) | Add practical capabilities to an agent-driven workflow | Codex pets, finding Skills from videos |
 
 ---
 
@@ -50,6 +50,7 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 |---|---|
 | [daily-idea-expander](./daily-idea-expander/) | Turn a rough idea into a structured short-video script, edit version, quotes, and titles |
 | [wechat-visual-narrative](./wechat-visual-narrative/) | Read a finished WeChat article, identify its visual mode, and plan, generate, and place images that improve comprehension rather than decorate the page |
+| [product-promo-video](./product-promo-video/) | Turn a real product and its interface evidence into a publishable promo video, including a shot plan, still previews, motion, voice-over, and subtitles |
 
 <a id="job-search-and-interviews"></a>
 ### 💼 Job search and interviews
@@ -57,7 +58,9 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | Skill | What it helps with |
 |---|---|
 | [job-search-pilot](./job-search-pilot/) | A job-search controller for changing events: role decisions, resumes, interviews, follow-ups, and no-response situations |
+| [job-market-map](./job-market-map/) | Analyze a company's careers page, a JD, a role title, or a broad field to identify business priorities, role branches, responsibilities, and talent signals; add personal matching when experience is provided |
 | [job-application-match](./job-application-match/) | Separate aspirational roles from roles your current evidence can support, then choose what to apply for and what to improve first |
+| [job-hello-optimizer](./job-hello-optimizer/) | Tailor application greetings to the target JD and real experience: lead with a readable first-line hook, then provide matching evidence and a clear next step without inventing facts |
 | [interview-prep-brief](./interview-prep-brief/) | Turn a JD, candidate background, and question bank into a focused interview brief |
 | [interview-resume-deep-dive](./interview-resume-deep-dive/) | Turn resume bullets into a two-layer interview bank of surface questions and follow-ups, each grounded in real evidence with a speakable answer and the next likely challenge |
 | [interview-round-prep](./interview-round-prep/) | Prepare the same project differently for each interview round |
@@ -113,7 +116,7 @@ Career Skills are role-based workflows that move from diagnosis to delivery and 
 **No need to guess which Skill to use the first time.** Open [Career Skills](./career-skills/), start with the relevant `*-master` controller, and describe your goal, available material, and blocker. When the task is already clear, call the specialist Skill directly.
 
 <a id="project-practice"></a>
-### Project practice
+### 🏆 Project practice
 
 | Skill | What it helps with |
 |---|---|
@@ -125,6 +128,7 @@ Career Skills are role-based workflows that move from diagnosis to delivery and 
 | Skill | What it helps with |
 |---|---|
 | [codex-pet-maker](./codex-pet-maker/) | Create, repair, package, and install animated Codex desktop pets |
+| [find-skill-from-video](./find-skill-from-video/) | Use the agent's existing video-understanding tools and author clues to verify the original Skill; only search GitHub and SkillHub for clearly labeled substitutes when the original cannot be found or obtained |
 
 ## 📦 Install one Skill
 
