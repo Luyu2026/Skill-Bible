@@ -34,7 +34,7 @@ def original_case():
     return {'fixture': True, 'video': {'url': 'https://example.invalid/video', 'content_reviewed': True},
             'evidence': [
                 {'id': 'v1', 'kind': 'video_frame', 'source': 'https://example.invalid/video', 'timestamp_seconds': 130,
-                 'excerpt': 'Synthetic frame shows example/demo-skill SKILL.md'},
+                 'excerpt': 'Synthetic frame shows example/demo-skill SKILL.md', 'verified': True},
                 {'id': 'u1', 'kind': 'upstream_skill', 'source': url, 'timestamp_seconds': None,
                  'excerpt': 'Synthetic name: demo-skill; demo workflow', 'verified': True},
                 {'id': 'a1', 'kind': 'identity_corroboration', 'source': 'https://example.invalid/author',
@@ -47,6 +47,39 @@ def original_case():
 
 
 class Fixtures(unittest.TestCase):
+    def test_other_video_is_not_identity_anchor(self):
+        data = original_case()
+        data['evidence'][0]['source'] = 'https://example.invalid/another-video'
+        result = compose(data)
+        self.assertEqual(result['status'], 'needs_more_evidence')
+        self.assertEqual(result['original'], [])
+        self.assertEqual(result['leads'][0]['classification'], 'unverified_lead')
+
+    def test_resolved_video_url_and_unverified_frame(self):
+        data = original_case()
+        data['video']['resolved_url'] = 'https://example.invalid/resolved?id=one'
+        data['evidence'][0]['source'] = 'https://example.invalid/resolved?id=one'
+        self.assertEqual(compose(data)['status'], 'original_found')
+        data['evidence'][0]['source'] = 'https://example.invalid/resolved?id=other'
+        self.assertEqual(compose(data)['status'], 'needs_more_evidence')
+        data['evidence'][0]['source'] = 'https://example.invalid/resolved?id=one'
+        data['evidence'][0]['verified'] = False
+        self.assertEqual(compose(data)['status'], 'needs_more_evidence')
+
+    def test_collection_not_complete_from_one_or_duplicate_file(self):
+        data = original_case()
+        data['video']['expected_count'] = 6
+        data['candidates'].append(copy.deepcopy(data['candidates'][0]))
+        result = compose(data)
+        self.assertEqual(result['coverage'], {'expected_count': 6, 'confirmed_file_count': 1, 'complete': False})
+
+    def test_conflicting_candidate_cannot_be_kept_as_lead(self):
+        data = original_case()
+        data['candidates'][0]['conflicts'] = ['Different creator; no migration evidence']
+        result = compose(data)
+        self.assertEqual(result['original'], [])
+        self.assertEqual(result['leads'], [])
+
     def test_native_video_body_without_timestamp(self):
         data = original_case()
         data['evidence'][0].update(kind='video_extract', timestamp_seconds=None,

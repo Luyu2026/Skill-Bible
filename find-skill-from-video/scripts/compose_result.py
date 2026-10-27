@@ -12,6 +12,7 @@ see exactly what was covered.
 """
 import argparse
 import json
+from urllib.parse import urlsplit
 
 # Only actually-successful main discovery paths can support a limited not_found.
 # Failed sources and un-searched sources must never be listed here.
@@ -25,10 +26,22 @@ def _main_path_success(sources_checked):
     return any(s in MAIN_SOURCES for s in (sources_checked or []))
 
 
+def _same_video(source, video):
+    """Only accept the original URL or its explicitly recorded resolved URL."""
+    def normalized(url):
+        if not isinstance(url, str) or not url:
+            return None
+        parsed = urlsplit(url)
+        return (parsed.hostname, parsed.path.rstrip('/'), parsed.query)
+    target = normalized(source)
+    return target is not None and target in {
+        normalized(video.get('url')), normalized(video.get('resolved_url'))}
+
+
 def compose(data):
     evidence = data.get('evidence', [])
     ids = {e['id']: e for e in evidence}
-    originals, alternatives = [], []
+    originals, alternatives, leads = [], [], []
     limitations = list(data.get('limitations', []))
     video = data.get('video', {})
     search_complete = data.get('search_complete') is True
@@ -38,9 +51,10 @@ def compose(data):
         classification = c.get('classification')
         refs = [ids[i] for i in c.get('identity_evidence', []) if i in ids]
         timed_anchor = any(e.get('kind') in ('video_frame', 'video_subtitle') and
+                           e.get('verified') is True and _same_video(e.get('source'), video) and
                            isinstance(e.get('timestamp_seconds'), (int, float)) and e.get('source') and
                            e.get('excerpt') for e in refs)
-        extracted_body = any(e.get('kind') == 'video_extract' and e.get('source') == video.get('url')
+        extracted_body = any(e.get('kind') == 'video_extract' and _same_video(e.get('source'), video)
                              and e.get('excerpt') and e.get('method') and e.get('verified') is True
                              and e.get('content_level') == 'body' for e in refs)
         video_anchor = timed_anchor or extracted_body
@@ -67,6 +81,11 @@ def compose(data):
                 alternatives.append(c)
             else:
                 limitations.append(f"{c.get('name')}: substitute not verified usable")
+        if (classification in ('confirmed_original', 'probable_original') and
+                c not in originals and upstream and not c.get('conflicts')):
+            c['classification'] = 'unverified_lead'
+            c['label'] = '待核验线索，非已确认原作'
+            leads.append(c)
     if any(c['classification'] == 'confirmed_original' for c in originals):
         status = 'original_found'
     elif originals:
@@ -92,7 +111,15 @@ def compose(data):
         for key, value in supplied_scope.items():
             if key not in search_scope:
                 search_scope[key] = value
+    expected = video.get('expected_count')
+    coverage = None
+    if isinstance(expected, int) and not isinstance(expected, bool) and expected > 1:
+        verified = len({c.get('skill_file_url') for c in originals
+                        if c['classification'] == 'confirmed_original'})
+        coverage = {'expected_count': expected, 'confirmed_file_count': verified,
+                    'complete': verified == expected}
     return dict(status=status, fixture=bool(data.get('fixture')), video=video, original=originals,
+                leads=leads, coverage=coverage,
                 alternatives=alternatives, evidence=evidence, limitations=limitations,
                 search_scope=search_scope,
                 next_action=data.get('next_action') or '补充带时间点的视频内容、身份锚点或未覆盖来源，然后重新核验。')

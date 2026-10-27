@@ -1,0 +1,15 @@
+{
+  "fixture": true,
+  "video": {"url": "https://example.invalid/video", "resolved_url": "https://example.invalid/video", "content_reviewed": false, "expected_count": 6},
+  "evidence": [
+    {"id": "u1", "kind": "upstream_skill", "source": "https://example.invalid/demo/SKILL.md", "verified": true, "excerpt": "Synthetic file: name demo; HTML to video"}
+  ],
+  "candidates": [
+    {"name": "demo", "url": "https://example.invalid/demo", "skill_file_url": "https://example.invalid/demo/SKILL.md", "classification": "probable_original", "availability": "available", "identity_evidence": ["u1"], "gaps": ["Original video content unavailable"], "conflicts": []}
+  ],
+  "sources_checked": ["direct_upstream"],
+  "search_complete": false,
+  "queries": ["synthetic demo"],
+  "limitations": ["Synthetic example only. Real runs must replace sources and excerpts and set fixture=false."],
+  "next_action": "Obtain original video evidence; this file only yields an unverified lead."
+}
