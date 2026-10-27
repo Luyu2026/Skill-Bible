@@ -1,4 +1,4 @@
 interface:
   display_name: "从视频找 Skill"
-  short_description: "根据视频内容核验原始 Skill，证据不足时明确标注替代与缺失线索"
-  default_prompt: "使用 $find-skill-from-video 帮我找到这个视频的 Skill。优先用现有视频理解能力和作者线索，找到就给链接；找不到时，再从 GitHub、SkillHub 核验同类推荐。"
+  short_description: "快速找视频原 Skill；未确认时先询问，再按需找同类"
+  default_prompt: "使用 $find-skill-from-video 帮我快速找到这个视频的原 Skill，找到就给链接。未确认时请先说明情况、询问是否找同类并给预计耗时，等我同意后再查 GitHub、SkillHub。"
