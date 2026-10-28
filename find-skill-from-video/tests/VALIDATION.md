@@ -1,5 +1,24 @@
 # 验证记录
 
+## WorkBuddy 首次配置引导（2026-10-28）
+
+采用理由：用户提供的实测表明，未开启浏览器操控、未安装扩展时短链只返回 JS 空壳，开启后可用 DOM + 截图读取正文。本轮仅在 SKILL.md 的浏览器规则旁集中补充一次性客户端授权引导，不改搜索、原作证据标准、替代搜索授权或脚本；设置路径依据用户提供的实测，并提示以当前版本实际名称为准。
+
+文档场景审查（非宿主行为测试）：
+
+- 明确为 WorkBuddy、正文不可读且会话无浏览器工具：首次给配置路径，说明 Skill 不能自动开启权限、安装组件或修改设置，不绕过限制；同一会话只提示一次。
+- 已提示、用户拒绝或配置失败：不重复提示，继续交付已有线索及截图、字幕/逐字稿、分享文案 + 作者主页补证选项。
+- 宿主未知或非 WorkBuddy：不展示专属步骤；已有浏览器工具：走原有授权规则。
+- 用户配置完成后重新发起同一任务：先检查当前工具，再调用已授权浏览器读取同一页面；不能仅凭用户称已配置就声称工具可用。
+
+本轮实际检查（项目根目录）：
+
+- `PYTHONPYCACHEPREFIX=/private/tmp/find-skill-pycache python3 -m py_compile find-skill-from-video/scripts/*.py find-skill-from-video/tests/*.py`：退出码 0，无输出。
+- `python3 find-skill-from-video/tests/test_fixtures.py`：退出码 0；32 项测试通过，`Ran 32 tests in 1.791s`，`OK`。
+- `python3 "$HOME/.codex-official/skills/.system/skill-creator/scripts/quick_validate.py" find-skill-from-video`：退出码 0，`Skill is valid!`。
+
+本轮未在 WorkBuddy 实机验证。UI 名称、组件/扩展安装和授权、重发任务后工具是否可用、真实页面 DOM 与截图读取，以及提示是否只出现一次，均待主控单独验证。离线脚本检查不能证明这些行为。
+
 ## 能力发现与补证修订（2026-10-28）
 
 审查结论：Skill 的“浏览器能力不可用”混合了宿主工具、浏览器安装与授权控制状态，正文不可读时也未强制交付补证选项；宿主将无会话工具表述成本机无浏览器同样不准确。仅修订这些执行歧义，保留现有身份与替代授权门禁，不改脚本。
