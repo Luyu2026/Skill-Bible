@@ -1,5 +1,28 @@
 # 验证记录
 
+## 能力发现与补证修订（2026-10-28）
+
+审查结论：Skill 的“浏览器能力不可用”混合了宿主工具、浏览器安装与授权控制状态，正文不可读时也未强制交付补证选项；宿主将无会话工具表述成本机无浏览器同样不准确。仅修订这些执行歧义，保留现有身份与替代授权门禁，不改脚本。
+
+人工规则审查：无宿主工具但本机有浏览器时只能报告会话工具缺失；未检查安装状态写未知；启动真实浏览器/启用官方控制先获明确同意；JS 空壳须记录具体阻断并立即交付截图、字幕/逐字稿、分享文案 + 作者主页三选一；不默认 headless、改 UA 或重复 HTTP 探测绕过限制；补证建议不授权同类搜索。这是文档审查，未执行宿主行为测试。
+
+新增合成回归：作者仓库、主题、发布时间均吻合但无原视频正文锚点，分别输入 probable_original/confirmed_original，均只保留待核验 leads，状态 needs_more_evidence，无原作确认、无替代授权。它验证现有打包器门禁，不验证 Agent 会主动提出补证。
+
+本轮实际命令（项目根目录）：
+
+- `PYTHONPYCACHEPREFIX=/private/tmp/find-skill-pycache python3 -m py_compile find-skill-from-video/scripts/*.py find-skill-from-video/tests/*.py`：退出码 0，无输出。
+- `python3 find-skill-from-video/tests/test_fixtures.py`：退出码 0；32 项逐项 `ok`，尾部实际输出如下。
+
+```text
+Ran 32 tests in 1.761s
+
+OK
+{"fixture": true, "status": "original_found", "original_count": 1, "alternative_count": 0}
+{"fixture": true, "status": "alternative_only", "original_count": 0, "alternative_count": 1}
+```
+
+未在 WorkBuddy 重跑，未验证官方 Browser control 的可用性/设置入口、真实浏览器控制、平台正文可读性或真实视频身份。未下载或上传视频，离线通过不代表 WorkBuddy 真实验证通过。
+
 ## 两阶段交互（2026-10-28）
 
 按最新交互要求，默认先快速找原作（预计 1–2 分钟），未确认则询问是否找同类并给额外耗时预期；只有用户同意才开启 GitHub/SkillHub 替代检索（预计另用 1–3 分钟）。两阶段分别计时，等待回复不计入检索。已有明确兜底授权则不重复询问。

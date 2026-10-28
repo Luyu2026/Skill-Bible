@@ -107,6 +107,24 @@ class Fixtures(unittest.TestCase):
         data['candidates'][0]['gaps'] = ['Creator identity missing']
         self.assertEqual(compose(data)['status'], 'probable_original')
 
+    def test_author_topic_date_match_without_body_stays_lead(self):
+        # Synthetic counterpart of an unreadable landing page with a strong author lead.
+        data = original_case()
+        data['video']['content_reviewed'] = False
+        data['evidence'] = data['evidence'][1:]
+        data['evidence'][1]['excerpt'] = 'Synthetic author repository, topic and publication date agree'
+        data['candidates'][0]['identity_evidence'] = ['u1', 'a1']
+        data['candidates'][0]['gaps'] = ['Original video body anchor missing']
+        for classification in ('probable_original', 'confirmed_original'):
+            with self.subTest(classification=classification):
+                data['candidates'][0]['classification'] = classification
+                result = compose(data)
+                self.assertEqual(result['status'], 'needs_more_evidence')
+                self.assertEqual(result['original'], [])
+                self.assertEqual(result['leads'][0]['classification'], 'unverified_lead')
+                self.assertEqual(result['alternatives'], [])
+                self.assertFalse(result['alternative_search_authorized'])
+
     def test_alternative_and_reference(self):
         data = original_case()
         data['alternative_search_authorized'] = True
