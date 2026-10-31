@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1400" viewBox="0 0 1080 1400" role="img" aria-labelledby="title desc">
+<title id="title">让AI回答更可用</title><desc id="desc">给足任务条件、核对关键事实、保留人工复核。</desc>
+<rect width="1080" height="1400" fill="#ffffff"/>
+<g font-family="PingFang SC,Microsoft YaHei,sans-serif" fill="#172033">
+<text x="72" y="140" font-size="72" font-weight="700">让AI回答更可用</text>
+<text x="72" y="230" font-size="42">从提问到复核，保留三个关键动作</text>
+<rect x="72" y="300" width="936" height="270" rx="24" fill="#eff4fa"/>
+<text x="108" y="390" font-size="58" font-weight="700">01 给足任务条件</text>
+<text x="108" y="480" font-size="54">说清目标、背景和约束</text>
+<rect x="72" y="610" width="936" height="270" rx="24" fill="#eff4fa"/>
+<text x="108" y="700" font-size="58" font-weight="700">02 核对关键事实</text>
+<text x="108" y="790" font-size="54">检查数字、日期与来源</text>
+<rect x="72" y="920" width="936" height="270" rx="24" fill="#eff4fa"/>
+<text x="108" y="1010" font-size="58" font-weight="700">03 保留人工复核</text>
+<text x="108" y="1100" font-size="54">重要结论由人确认</text>
+<text x="72" y="1300" font-size="36">模拟文案 · 可编辑源稿</text></g></svg>
