@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1440" viewBox="0 0 1080 1440" role="img" aria-labelledby="title desc">
+<title id="title">模拟：小禾书店读书会</title>
+<desc id="desc">2026年11月8日14点至16点，免费20席，青禾路8号，提前到店报名。</desc>
+<rect width="1080" height="1440" fill="#f6efe0"/>
+<rect x="64" y="64" width="952" height="1312" rx="32" fill="#fffcf4" stroke="#365347" stroke-width="3"/>
+<g fill="#234438" font-family="sans-serif">
+<text x="110" y="175" font-size="36">模拟活动 · 编辑源稿</text>
+<text x="110" y="340" font-size="84" font-weight="bold">一起读本书</text>
+<text x="110" y="440" font-size="52">小禾书店读书会</text>
+<path d="M240 560 Q390 510 540 570 Q690 510 840 560 L840 790 Q690 740 540 800 Q390 740 240 790 Z" fill="#d8e1c9" stroke="#365347" stroke-width="5"/>
+<path d="M540 570 L540 800" stroke="#365347" stroke-width="5"/>
+<text x="110" y="940" font-size="46">2026年11月8日</text>
+<text x="110" y="1015" font-size="46">14:00—16:00</text>
+<text x="110" y="1100" font-size="44" font-weight="bold">免费参加 · 限20席</text>
+<text x="110" y="1175" font-size="44">青禾路8号</text>
+<text x="110" y="1290" font-size="48" font-weight="bold">请提前到店报名</text>
+</g>
+</svg>
