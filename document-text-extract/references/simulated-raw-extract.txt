@@ -1,0 +1,25 @@
+SIMULATED - Quarterly note
+
+Left A: received 40 tickets.
+
+Right A: pending files 8.
+
+Left B: previous period 32.
+
+Right B: closed count unknown.
+
+SIMULATED - Expenses
+
+Item
+
+Training
+
+Transport
+
+Amount CNY
+
+1200.00
+
+-80.50
+
+
