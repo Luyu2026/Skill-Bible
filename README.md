@@ -47,15 +47,17 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 <a id="recent-updates"></a>
 ## 🆕 最近更新
 
-2026-10 新增 56 个 Skill，按分类直达：
+2026-10 新增 56 个 Skill，点分类查看全部。
 
-- 💼 **求职面试**：[resume-proofread-layout](./resume-proofread-layout/) · [resume-screening-audit](./resume-screening-audit/)
-- 🧠 **思维视角**：[life-decision-lab](./life-decision-lab/) · [yangming-action-coach](./yangming-action-coach/)
-- ✍️ **内容创作**：[short-video-script](./short-video-script/) · [douyin-transcript-extract](./douyin-transcript-extract/) · [moments-memoir-builder](./moments-memoir-builder/) · [moments-caption-studio](./moments-caption-studio/) · [moments-natural-rewrite](./moments-natural-rewrite/) · [social-event-poster](./social-event-poster/) · [natural-chinese-edit](./natural-chinese-edit/) · [fiction-scene-starter](./fiction-scene-starter/) · [serial-chapter-draft](./serial-chapter-draft/) · [moments-caption-writer](./moments-caption-writer/) · [video-creation-planner](./video-creation-planner/) · [natural-text-rewrite](./natural-text-rewrite/) · [private-feed-copy](./private-feed-copy/) · [parallel-life-story](./parallel-life-story/) · [voiceover-production-kit](./voiceover-production-kit/) · [playlist-life-story](./playlist-life-story/) · [social-longform-design](./social-longform-design/)
-- 📈 **投资研究**：[limit-up-screen](./limit-up-screen/) · [stock-cost-distribution](./stock-cost-distribution/) · [stock-master-panel](./stock-master-panel/)
-- 🏠 **生活与关系**：[life-choice-simulator](./life-choice-simulator/) · [couple-needs-dialogue](./couple-needs-dialogue/) · [one-day-reset-plan](./one-day-reset-plan/) · [conflict-first-response](./conflict-first-response/) · [adhd-daily-start](./adhd-daily-start/) · [bazi-chart-reading](./bazi-chart-reading/) · [double-color-picker](./double-color-picker/) · [bazi-partner-match](./bazi-partner-match/) · [fortune-play-session](./fortune-play-session/) · [attraction-ticket-compare](./attraction-ticket-compare/) · [bazi-ziwei-chart](./bazi-ziwei-chart/) · [relationship-repair-plan](./relationship-repair-plan/) · [bazi-year-reflection](./bazi-year-reflection/) · [odyssey-life-options](./odyssey-life-options/) · [life-design-prototype](./life-design-prototype/) · [relationship-boundary-coach](./relationship-boundary-coach/) · [relationship-message-guide](./relationship-message-guide/) · [xiaomi-emotional-companion](./xiaomi-emotional-companion/)
-- 📚 **学习与解题**：[math-solution-coach](./math-solution-coach/) · [physics-problem-coach](./physics-problem-coach/) · [high-school-math-breakthrough](./high-school-math-breakthrough/) · [problem-solving-guide](./problem-solving-guide/) · [stepwise-problem-tutor](./stepwise-problem-tutor/) · [geometry-proof-builder](./geometry-proof-builder/)
-- 🛠️ **办公效率**：[presentation-deck-builder](./presentation-deck-builder/) · [formal-chinese-writing](./formal-chinese-writing/) · [document-text-extract](./document-text-extract/) · [source-grounded-summary](./source-grounded-summary/) · [xlsx-clean-summary](./xlsx-clean-summary/) · [docx-layout-repair](./docx-layout-repair/) · [pdf-page-extract](./pdf-page-extract/) · [portrait-html-slides](./portrait-html-slides/)
+| 分类 | 新增 | 代表 Skill | 全部 |
+|---|---|---|---|
+| 💼 求职面试 | 2 | [resume-proofread-layout](./resume-proofread-layout/) · [resume-screening-audit](./resume-screening-audit/) | [查看全部 →](#job-search-and-interviews) |
+| 🧠 思维视角 | 2 | [life-decision-lab](./life-decision-lab/) · [yangming-action-coach](./yangming-action-coach/) | [查看全部 →](#perspectives) |
+| ✍️ 内容创作 | 17 | [short-video-script](./short-video-script/) · [douyin-transcript-extract](./douyin-transcript-extract/) · [moments-memoir-builder](./moments-memoir-builder/) | [查看全部 →](#content-creation) |
+| 📈 投资研究 | 3 | [limit-up-screen](./limit-up-screen/) · [stock-cost-distribution](./stock-cost-distribution/) · [stock-master-panel](./stock-master-panel/) | [查看全部 →](#investment-research) |
+| 🏠 生活与关系 | 18 | [life-choice-simulator](./life-choice-simulator/) · [couple-needs-dialogue](./couple-needs-dialogue/) · [one-day-reset-plan](./one-day-reset-plan/) | [查看全部 →](#life-and-relationships) |
+| 📚 学习与解题 | 6 | [math-solution-coach](./math-solution-coach/) · [physics-problem-coach](./physics-problem-coach/) · [high-school-math-breakthrough](./high-school-math-breakthrough/) | [查看全部 →](#learning-and-problems) |
+| 🛠️ 办公效率 | 8 | [presentation-deck-builder](./presentation-deck-builder/) · [formal-chinese-writing](./formal-chinese-writing/) · [document-text-extract](./document-text-extract/) | [查看全部 →](#office-efficiency) |
 
 ---
 

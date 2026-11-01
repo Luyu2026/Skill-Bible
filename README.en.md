@@ -47,15 +47,17 @@ Counting: the repository contains 395 SKILL.md files. Career Skills are grouped 
 <a id="recent-updates"></a>
 ## 🆕 Recent updates
 
-56 Skills added in October 2026, grouped for quick access:
+56 Skills added in October 2026. Browse each category to see them all.
 
-- 💼 **Job search and interviews**：[resume-proofread-layout](./resume-proofread-layout/) · [resume-screening-audit](./resume-screening-audit/)
-- 🧠 **Perspectives**：[life-decision-lab](./life-decision-lab/) · [yangming-action-coach](./yangming-action-coach/)
-- ✍️ **Content creation**：[short-video-script](./short-video-script/) · [douyin-transcript-extract](./douyin-transcript-extract/) · [moments-memoir-builder](./moments-memoir-builder/) · [moments-caption-studio](./moments-caption-studio/) · [moments-natural-rewrite](./moments-natural-rewrite/) · [social-event-poster](./social-event-poster/) · [natural-chinese-edit](./natural-chinese-edit/) · [fiction-scene-starter](./fiction-scene-starter/) · [serial-chapter-draft](./serial-chapter-draft/) · [moments-caption-writer](./moments-caption-writer/) · [video-creation-planner](./video-creation-planner/) · [natural-text-rewrite](./natural-text-rewrite/) · [private-feed-copy](./private-feed-copy/) · [parallel-life-story](./parallel-life-story/) · [voiceover-production-kit](./voiceover-production-kit/) · [playlist-life-story](./playlist-life-story/) · [social-longform-design](./social-longform-design/)
-- 📈 **Investment research**：[limit-up-screen](./limit-up-screen/) · [stock-cost-distribution](./stock-cost-distribution/) · [stock-master-panel](./stock-master-panel/)
-- 🏠 **Life and relationships**：[life-choice-simulator](./life-choice-simulator/) · [couple-needs-dialogue](./couple-needs-dialogue/) · [one-day-reset-plan](./one-day-reset-plan/) · [conflict-first-response](./conflict-first-response/) · [adhd-daily-start](./adhd-daily-start/) · [bazi-chart-reading](./bazi-chart-reading/) · [double-color-picker](./double-color-picker/) · [bazi-partner-match](./bazi-partner-match/) · [fortune-play-session](./fortune-play-session/) · [attraction-ticket-compare](./attraction-ticket-compare/) · [bazi-ziwei-chart](./bazi-ziwei-chart/) · [relationship-repair-plan](./relationship-repair-plan/) · [bazi-year-reflection](./bazi-year-reflection/) · [odyssey-life-options](./odyssey-life-options/) · [life-design-prototype](./life-design-prototype/) · [relationship-boundary-coach](./relationship-boundary-coach/) · [relationship-message-guide](./relationship-message-guide/) · [xiaomi-emotional-companion](./xiaomi-emotional-companion/)
-- 📚 **Learning and problem solving**：[math-solution-coach](./math-solution-coach/) · [physics-problem-coach](./physics-problem-coach/) · [high-school-math-breakthrough](./high-school-math-breakthrough/) · [problem-solving-guide](./problem-solving-guide/) · [stepwise-problem-tutor](./stepwise-problem-tutor/) · [geometry-proof-builder](./geometry-proof-builder/)
-- 🛠️ **Office productivity**：[presentation-deck-builder](./presentation-deck-builder/) · [formal-chinese-writing](./formal-chinese-writing/) · [document-text-extract](./document-text-extract/) · [source-grounded-summary](./source-grounded-summary/) · [xlsx-clean-summary](./xlsx-clean-summary/) · [docx-layout-repair](./docx-layout-repair/) · [pdf-page-extract](./pdf-page-extract/) · [portrait-html-slides](./portrait-html-slides/)
+| Category | Added | Representative Skills | All |
+|---|---|---|---|
+| 💼 Job search and interviews | 2 | [resume-proofread-layout](./resume-proofread-layout/) · [resume-screening-audit](./resume-screening-audit/) | [View all →](#job-search-and-interviews) |
+| 🧠 Perspectives | 2 | [life-decision-lab](./life-decision-lab/) · [yangming-action-coach](./yangming-action-coach/) | [View all →](#perspectives) |
+| ✍️ Content creation | 17 | [short-video-script](./short-video-script/) · [douyin-transcript-extract](./douyin-transcript-extract/) · [moments-memoir-builder](./moments-memoir-builder/) | [View all →](#content-creation) |
+| 📈 Investment research | 3 | [limit-up-screen](./limit-up-screen/) · [stock-cost-distribution](./stock-cost-distribution/) · [stock-master-panel](./stock-master-panel/) | [View all →](#investment-research) |
+| 🏠 Life and relationships | 18 | [life-choice-simulator](./life-choice-simulator/) · [couple-needs-dialogue](./couple-needs-dialogue/) · [one-day-reset-plan](./one-day-reset-plan/) | [View all →](#life-and-relationships) |
+| 📚 Learning and problem solving | 6 | [math-solution-coach](./math-solution-coach/) · [physics-problem-coach](./physics-problem-coach/) · [high-school-math-breakthrough](./high-school-math-breakthrough/) | [View all →](#learning-and-problems) |
+| 🛠️ Office productivity | 8 | [presentation-deck-builder](./presentation-deck-builder/) · [formal-chinese-writing](./formal-chinese-writing/) · [document-text-extract](./document-text-extract/) | [View all →](#office-efficiency) |
 
 ---
 
