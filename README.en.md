@@ -101,9 +101,7 @@ Career Skills are role-based workflows that move from diagnosis to delivery and 
 
 **No need to guess which Skill to use the first time.** Open [Career Skills](./career-skills/), start with the relevant `*-master` controller, and describe your goal, available material, and blocker. When the task is already clear, call the specialist Skill directly.
 
-| Skill | Purpose |
-|---|---|
-| [career-skills](./career-skills/) | Find controllers and specialist workflows across 21 roles and 304 Skills. |
+`career-skills/` is a directory index, not a single Skill. See [career-skills](./career-skills/) for the main index and [岗位技能库](./岗位技能库/) for the Chinese role directory.
 
 <a id="perspectives"></a>
 ## 🧠 Perspectives
