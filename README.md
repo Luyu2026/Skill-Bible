@@ -102,7 +102,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | **出海与跨境** | 市场进入、跨境平台、选品、Listing、履约、SEO、投放与达人合作 | [🌐 跨境电商运营 · 14](./岗位技能库/README.md#crossborder-operations) · [🌍 海外市场营销 · 14](./岗位技能库/README.md#overseas-marketing) · [🌟 海外 KOL 运营 · 14](./岗位技能库/README.md#kol-operations) |
 | **AI 产品与 AI 赋能** | 运营 AI 应用的定位、体验、增长与商业化；或用 AI 优化既有工作流 | [🧠 AI 产品运营 · 15](./岗位技能库/README.md#ai-product-operations) · [🤖 AIGC 运营 · 15](./岗位技能库/README.md#aigc-operations) |
 
-总入口见 [career-skills](./career-skills/)；中文岗位目录见 [岗位技能库](./岗位技能库/)。这俩是目录索引，不是单个 Skill。
+📚 **入口说明**：岗位总目录在 [career-skills](./career-skills/)，中文岗位内容在 [岗位技能库](./岗位技能库/)。两者都是目录索引，不是单个 Skill。
 
 <a id="perspectives"></a>
 ## 🧠 思维视角
