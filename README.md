@@ -6,7 +6,7 @@
 
 #### 把真实卡住的场景，做成大家都能用的 Skill
 
-[![Skills](https://img.shields.io/badge/Skills-395-2563EB?style=for-the-badge)](#-目录)
+[![Skills](https://img.shields.io/badge/Skills-396-2563EB?style=for-the-badge)](#-目录)
 ![Language](https://img.shields.io/badge/Language-中文-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-真实场景-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-开源共建-7C3AED?style=for-the-badge)
@@ -37,12 +37,12 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | ✍️ [**内容创作**](#content-creation) | 把想法、素材和判断变成可以发布的内容 | 20 个 Skill |
 | 📈 [**投资研究**](#investment-research) | 研究行情、公司与投资流派，核验数据和风险 | 4 个 Skill |
 | 🏆 [**项目实践**](#project-practice) | 把已有项目带到真实赛事，推进报名与提交 | 1 个 Skill |
-| 🧰 [**编程辅助**](#development-tools) | 为 Agent 的编程与 Skill 发现流程补上实用能力 | 2 个 Skill |
+| 🧰 [**编程辅助**](#development-tools) | 支持 Agent 编程、Skill 发现与个人档案迁移 | 3 个 Skill |
 | 🏠 [**生活与关系**](#life-and-relationships) | 整理生活选择、日常计划、关系沟通与文化体验 | 18 个 Skill |
 | 📚 [**学习与解题**](#learning-and-problems) | 从题目与草稿定位卡点，用分步提示理解解法 | 6 个 Skill |
 | 🛠️ [**办公效率**](#office-efficiency) | 把文档、表格和零散材料整理成可交付成果 | 8 个 Skill |
 
-数量口径：全仓库共 395 个 SKILL.md；岗位技能库按 21 个方向聚合展示，组合目录作为一个入口，不逐项展开。最近更新是下方条目的快捷入口，不重复计数。
+数量口径：全仓库共 396 个 SKILL.md；岗位技能库按 21 个方向聚合展示，组合目录作为一个入口，不逐项展开。最近更新是下方条目的快捷入口，不重复计数。
 
 <a id="recent-updates"></a>
 ## 🆕 最近更新
@@ -174,6 +174,7 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 | Skill | 用途 |
 |---|---|
 | [codex-pet-maker](./codex-pet-maker/) | 创建、修复与安装 Codex 编程宠物动画，含十个成品 |
+| [portable-personal-profile](./portable-personal-profile/) | 把个人事实、偏好和项目整理成带出处的档案，换 AI 或电脑时继续使用 |
 | [find-skill-from-video](./find-skill-from-video/) | 从视频线索核验原 Skill，必要时查找并核验同类替代 |
 
 <a id="life-and-relationships"></a>

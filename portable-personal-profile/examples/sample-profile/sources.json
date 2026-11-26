@@ -1,0 +1,16 @@
+[
+  {
+    "id": "s-retro",
+    "type": "document",
+    "path": "sources/retro.md",
+    "collected_at": "2026-11-25",
+    "title": "模拟项目复盘"
+  },
+  {
+    "id": "s-writing",
+    "type": "document",
+    "path": "sources/writing.md",
+    "collected_at": "2026-11-25",
+    "title": "模拟写作偏好"
+  }
+]

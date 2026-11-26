@@ -6,7 +6,7 @@
 
 #### Turn recurring real-world blockers into Skills that agents can run reliably and people can reuse.
 
-[![Skills](https://img.shields.io/badge/Skills-395-2563EB?style=for-the-badge)](#skills)
+[![Skills](https://img.shields.io/badge/Skills-396-2563EB?style=for-the-badge)](#skills)
 ![Language](https://img.shields.io/badge/Language-English-16A34A?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Real--World-F59E0B?style=for-the-badge)
 ![Community](https://img.shields.io/badge/Community-Open-7C3AED?style=for-the-badge)
@@ -37,12 +37,12 @@ One immediate task can use one Skill. A longer process can let several Skills sh
 | ✍️ [**Content creation**](#content-creation) | Turn ideas and source material into publishable content. | 20 Skills |
 | 📈 [**Investment research**](#investment-research) | Research markets, companies, and investing approaches with risk checks. | 4 Skills |
 | 🏆 [**Project practice**](#project-practice) | Take existing projects through competition entry and submission. | 1 Skill |
-| 🧰 [**Development**](#development-tools) | Support agent coding workflows and Skill discovery. | 2 Skills |
+| 🧰 [**Development**](#development-tools) | Support agent coding, Skill discovery, and personal profile migration. | 3 Skills |
 | 🏠 [**Life and relationships**](#life-and-relationships) | Work through life choices, daily plans, relationships, and cultural experiences. | 18 Skills |
 | 📚 [**Learning and problem solving**](#learning-and-problems) | Understand problems through targeted hints and checked reasoning. | 6 Skills |
 | 🛠️ [**Office productivity**](#office-efficiency) | Turn documents, spreadsheets, and scattered material into usable deliverables. | 8 Skills |
 
-Counting: the repository contains 395 SKILL.md files. Career Skills are grouped into 21 roles; bundled directories have one entry rather than listing every nested Skill. Recent updates repeat links for convenience and are not counted twice.
+Counting: the repository contains 396 SKILL.md files. Career Skills are grouped into 21 roles; bundled directories have one entry rather than listing every nested Skill. Recent updates repeat links for convenience and are not counted twice.
 
 <a id="recent-updates"></a>
 ## 🆕 Recent updates
@@ -173,6 +173,7 @@ Career Skills are role-based workflows that move from diagnosis to delivery and 
 | Skill | Purpose |
 |---|---|
 | [codex-pet-maker](./codex-pet-maker/) | Create, repair, package, and install animated Codex desktop pets |
+| [portable-personal-profile](./portable-personal-profile/) | Organize personal facts, preferences, and projects into a sourced profile you can carry to another AI or computer |
 | [find-skill-from-video](./find-skill-from-video/) | Use the agent's existing video-understanding tools and author clues to verify the original Skill; only search GitHub and SkillHub for clearly labeled substitutes when the original cannot be found or obtained |
 
 <a id="life-and-relationships"></a>
