@@ -47,6 +47,8 @@ Skill 使用分享视频可在 **抖音 / 小红书 / 公众号** 搜索 **陆�
 <a id="recent-updates"></a>
 ## 🆕 最近更新
 
+**2026-11 新增** · [可移植个人档案](./portable-personal-profile/)（`portable-personal-profile`）。把对话里的偏好、决定和项目进度整理成可续写的档案，换 AI 或电脑也能接着用。
+
 2026-10 新增 56 个 Skill，点分类查看全部。
 
 | 分类 | 新增 | 代表 Skill | 全部 |

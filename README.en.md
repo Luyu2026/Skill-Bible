@@ -47,6 +47,8 @@ Counting: the repository contains 396 SKILL.md files. Career Skills are grouped 
 <a id="recent-updates"></a>
 ## 🆕 Recent updates
 
+**Added in November 2026** · [Portable personal profile](./portable-personal-profile/) (`portable-personal-profile`). Keep a profile of your preferences, decisions, and project progress that you can update and carry to a new AI or computer.
+
 56 Skills added in October 2026. Browse each category to see them all.
 
 | Category | Added | Representative Skills | All |
