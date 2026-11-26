@@ -33,6 +33,8 @@ python3 portable-personal-profile/scripts/render_profile.py my-profile --public
 
 想先看成品，可以打开[模拟示例与复跑步骤](examples/README.md)。
 
+对话里有新决定时，可以说「把这条对话新增的决定和项目进度续写到上次的档案」。档案会沿用原记录 ID。打开私有 `PROFILE.md` 后，点记录下的来源即可打开包内摘录。
+
 ## 6. 可直接复制的调用模板
 
 ```text

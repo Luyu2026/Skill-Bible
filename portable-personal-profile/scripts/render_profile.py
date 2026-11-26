@@ -4,6 +4,7 @@ import argparse
 import string
 import unicodedata
 from pathlib import Path
+from urllib.parse import quote
 from validate_profile import validate, FILES
 
 def safe(text):
@@ -13,6 +14,19 @@ def safe(text):
         ' ' if c.isspace() or unicodedata.category(c).startswith('C') else c
         for c in str(text)
     )
+
+def format_sources(refs, source_paths):
+    labels = []
+    for ref in refs:
+        label = safe(ref)
+        source_id, _, anchor = ref.partition('#')
+        if source_id in source_paths:
+            path = './' + quote(Path(source_paths[source_id]).as_posix())
+            if anchor and Path(source_paths[source_id]).suffix.lower() == '.md':
+                path += '#' + quote(anchor)
+            label = f'[{label}]({path})'
+        labels.append(label)
+    return ', '.join(labels)
 
 def main():
     p = argparse.ArgumentParser(description=__doc__)
@@ -30,6 +44,7 @@ def main():
              '版本：' + safe(data['manifest']['version']), '']
     if data['manifest'].get('simulation') is True:
         lines.extend(['**模拟示例。** 人物与材料均为虚构。', ''])
+    source_paths = {} if a.public else {source['id']: source['path'] for source in data['sources']}
     for key in FILES:
         lines += ['## ' + key, '']
         for r in data[key]:
@@ -39,11 +54,11 @@ def main():
                 lines += [prefix + '[敏感记录：内容、来源与复核信息已隐藏]']
                 continue
             lines += [prefix + safe(r['content']),
-                      '  来源：' + ', '.join(safe(ref) for ref in r['source_refs']),
+                      '  来源：' + format_sources(r['source_refs'], source_paths),
                       '  复核：' + safe(r['review_trigger'])]
             if r['status'] == 'conflict':
                 for v in r['variants']:
-                    lines += ['  - 待裁决值：' + safe(v['content']) + '；来源：' + ', '.join(safe(ref) for ref in v['source_refs'])]
+                    lines += ['  - 待裁决值：' + safe(v['content']) + '；来源：' + format_sources(v['source_refs'], source_paths)]
     try: target.write_text('\n'.join(lines).rstrip() + '\n', encoding='utf-8')
     except OSError as e: p.error('Cannot write view: ' + str(e))
     print('Rendered ' + target.name)

@@ -119,6 +119,7 @@ def validate(directory):
                 if r.get('resolution') != 'pending_user': err(where, 'conflict resolution must be pending_user')
             elif variants is not None: err(where, 'variants require status=conflict; do not silently choose a value')
     data['manifest'] = manifest
+    data['sources'] = sources
     return errors, data
 
 def main():
